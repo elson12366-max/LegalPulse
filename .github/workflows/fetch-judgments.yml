@@ -1,0 +1,46 @@
+name: Fetch latest judgments
+
+on:
+  schedule:
+    # 23:30 UTC daily = 07:30 Malaysia time (UTC+8)
+    - cron: '30 23 * * *'
+  workflow_dispatch: {}   # allow manual "Run workflow" from the GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install fetcher dependencies
+        working-directory: fetcher
+        run: npm install
+
+      - name: Install Chromium for Playwright
+        working-directory: fetcher
+        run: npx playwright install --with-deps chromium
+
+      - name: Fetch judgments
+        working-directory: fetcher
+        run: node fetch-judgments.mjs
+
+      - name: Commit updated list
+        run: |
+          git config user.name "legalpulse-bot"
+          git config user.email "actions@github.com"
+          git add src/data/judgments.json fetcher/judgments.json
+          if git diff --staged --quiet; then
+            echo "No changes to judgments list."
+          else
+            git commit -m "Update judgments list ($(date -u +%Y-%m-%d))"
+            git push
+          fi

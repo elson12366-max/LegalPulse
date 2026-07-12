@@ -3,8 +3,15 @@
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
+    "@react-native-async-storage/async-storage": "2.2.0",
     "expo": "~57.0.4",
+    "expo-document-picker": "~57.0.0",
+    "expo-file-system": "~57.0.0",
+    "expo-sharing": "~57.0.3",
     "expo-status-bar": "~57.0.0",
+    "expo-web-browser": "~57.0.0",
+    "fast-xml-parser": "^5.10.0",
+    "qrcode": "^1.5.4",
     "react": "19.2.3",
     "react-native": "0.86.0"
   },
