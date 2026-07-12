@@ -1,6 +1,6 @@
 {
   "source": "Malaysia E-Judgment Portal (ejudgment.kehakiman.gov.my)",
-  "updatedAt": "2026-07-12T08:12:56.574Z",
+  "updatedAt": "2026-07-12T10:59:14.404Z",
   "count": 60,
   "judgments": [
     {
@@ -411,41 +411,6 @@
       ]
     },
     {
-      "id": "a3b27c3a-b32d-4f52-a890-6fefe63f94c4",
-      "caseNo": "WA-25-134-05/2025",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "KOH MING KWANG v SRI WAHYU BINTI TAHER",
-      "parties": [
-        {
-          "label": "PEMOHON",
-          "names": [
-            "KOH MING KWANG"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "SRI WAHYU BINTI TAHER"
-          ]
-        }
-      ],
-      "catchwords": "Rayuan daripada Tribunal Pengguna -hak didengar dinafikan – Penuntut tidak hadir – wakil beri keterangan bagi penuntut – sama ada bertentangan dengan peruntukan- hak – menyoal-balas penuntut telah diketepikan.",
-      "judge": "YA Dato' Azizan bin Md. Arshad",
-      "coram": [],
-      "dateOfResult": "2026-06-24",
-      "dateOfFiling": "2026-07-10",
-      "docs": [
-        {
-          "documentId": "c22fce6f-7d59-4be3-aa5f-8b5387da8c5d",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=c22fce6f-7d59-4be3-aa5f-8b5387da8c5d&Inline=true"
-        }
-      ]
-    },
-    {
       "id": "d14daf39-4c79-4533-bdb6-f89afc280c2e",
       "caseNo": "WA-25-134-05/2025",
       "jurisdiction": "HC",
@@ -477,6 +442,41 @@
           "preparedBy": "",
           "category": "",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=f1785758-f846-4534-be92-55655298a305&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "a3b27c3a-b32d-4f52-a890-6fefe63f94c4",
+      "caseNo": "WA-25-134-05/2025",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "KOH MING KWANG v SRI WAHYU BINTI TAHER",
+      "parties": [
+        {
+          "label": "PEMOHON",
+          "names": [
+            "KOH MING KWANG"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "SRI WAHYU BINTI TAHER"
+          ]
+        }
+      ],
+      "catchwords": "Rayuan daripada Tribunal Pengguna -hak didengar dinafikan – Penuntut tidak hadir – wakil beri keterangan bagi penuntut – sama ada bertentangan dengan peruntukan- hak – menyoal-balas penuntut telah diketepikan.",
+      "judge": "YA Dato' Azizan bin Md. Arshad",
+      "coram": [],
+      "dateOfResult": "2026-06-24",
+      "dateOfFiling": "2026-07-10",
+      "docs": [
+        {
+          "documentId": "c22fce6f-7d59-4be3-aa5f-8b5387da8c5d",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=c22fce6f-7d59-4be3-aa5f-8b5387da8c5d&Inline=true"
         }
       ]
     },
@@ -1989,43 +1989,6 @@
       ]
     },
     {
-      "id": "5cdc11b9-c39a-4831-b19b-5fd53d6c30c9",
-      "caseNo": "BA-24NCC-103-09/2025",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "GAN HENG WAN v YONG KENG FONG & ors",
-      "parties": [
-        {
-          "label": "PEMOHON",
-          "names": [
-            "GAN HENG WAN"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "YONG KENG FONG",
-            "YONG BOON CHUAN",
-            "FONNIE PROPERTY SDN. BHD."
-          ]
-        }
-      ],
-      "catchwords": "The Plaintiff commenced an Originating Summons under section 346 of the Companies Act 2016, alleging that the 1st and 2nd Defendants had conducted the affairs of the 3rd Defendant oppressively, unfairly prejudicially, or in disregard of his interests as a shareholder. The Plaintiff sought declarations of oppression, an order requiring the Defendants to purchase his shares at fair value, or alternatively, the winding up of the company, together with ancillary injunctions, damages and costs. The Court heard the application alongside the Plaintiff’s application to convert the proceedings into a writ action, which was also dismissed. After considering the affidavit evidence, documentary exhibits, submissions and authorities, the Court found that the Plaintiff failed to establish the requirements for relief under section 346. The evidence demonstrated only commercial disagreements and a breakdown in the parties’ business relationship, rather than oppression. Accordingly, the Originating Summons was dismissed, all reliefs were refused, and costs of RM5,000 were awarded to the Defendants.",
-      "judge": "YA Dato' Anita binti Harun",
-      "coram": [],
-      "dateOfResult": "2026-03-12",
-      "dateOfFiling": "2026-07-10",
-      "docs": [
-        {
-          "documentId": "58e7488c-1907-4a24-bc12-64c1591eb988",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=58e7488c-1907-4a24-bc12-64c1591eb988&Inline=true"
-        }
-      ]
-    },
-    {
       "id": "08382b65-6e48-4e3d-9a6f-6cf0ffa373d4",
       "caseNo": "BA-24NCC-103-09/2025",
       "jurisdiction": "HC",
@@ -2059,6 +2022,43 @@
           "preparedBy": "",
           "category": "",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=cb28c2f7-9fb7-4d68-b08f-58f3f7c5ae48&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "5cdc11b9-c39a-4831-b19b-5fd53d6c30c9",
+      "caseNo": "BA-24NCC-103-09/2025",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "GAN HENG WAN v YONG KENG FONG & ors",
+      "parties": [
+        {
+          "label": "PEMOHON",
+          "names": [
+            "GAN HENG WAN"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "YONG KENG FONG",
+            "YONG BOON CHUAN",
+            "FONNIE PROPERTY SDN. BHD."
+          ]
+        }
+      ],
+      "catchwords": "The Plaintiff commenced an Originating Summons under section 346 of the Companies Act 2016, alleging that the 1st and 2nd Defendants had conducted the affairs of the 3rd Defendant oppressively, unfairly prejudicially, or in disregard of his interests as a shareholder. The Plaintiff sought declarations of oppression, an order requiring the Defendants to purchase his shares at fair value, or alternatively, the winding up of the company, together with ancillary injunctions, damages and costs. The Court heard the application alongside the Plaintiff’s application to convert the proceedings into a writ action, which was also dismissed. After considering the affidavit evidence, documentary exhibits, submissions and authorities, the Court found that the Plaintiff failed to establish the requirements for relief under section 346. The evidence demonstrated only commercial disagreements and a breakdown in the parties’ business relationship, rather than oppression. Accordingly, the Originating Summons was dismissed, all reliefs were refused, and costs of RM5,000 were awarded to the Defendants.",
+      "judge": "YA Dato' Anita binti Harun",
+      "coram": [],
+      "dateOfResult": "2026-03-12",
+      "dateOfFiling": "2026-07-10",
+      "docs": [
+        {
+          "documentId": "58e7488c-1907-4a24-bc12-64c1591eb988",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=58e7488c-1907-4a24-bc12-64c1591eb988&Inline=true"
         }
       ]
     },
