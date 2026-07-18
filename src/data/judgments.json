@@ -1,6 +1,6 @@
 {
   "source": "Malaysia E-Judgment Portal (ejudgment.kehakiman.gov.my)",
-  "updatedAt": "2026-07-17T07:33:27.886Z",
+  "updatedAt": "2026-07-18T06:33:18.886Z",
   "count": 60,
   "judgments": [
     {
@@ -560,6 +560,42 @@
       ]
     },
     {
+      "id": "41798b4e-7c14-4365-bf2c-b8780a8be583",
+      "caseNo": "WA-23NCvC-58-08/2022",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "WAYTHAMOORTHY A/L PONNUSAMY v PENERBITAN SAHABAT (M) SDN BHD & ors",
+      "parties": [
+        {
+          "label": "PLAINTIF",
+          "names": [
+            "WAYTHAMOORTHY A/L PONNUSAMY"
+          ]
+        },
+        {
+          "label": "DEFENDAN",
+          "names": [
+            "PENERBITAN SAHABAT (M) SDN BHD",
+            "DATO' M.RAJENTHERAN"
+          ]
+        }
+      ],
+      "catchwords": "TORT: Defamation — Libel — Newspaper article — Tamil daily — Article portraying Plaintiff as a &quot;saboteur&quot; attempting to stop the Thaipusam festival — Whether words in their natural and ordinary meaning defamatory — Whether words referred to Plaintiff — Whether words published to third parties — Translation dispute — Meaning of Tamil word &quot;Vettu&quot; — Whether interpretations of &quot;sabotage&quot;, &quot;obstruct&quot;, or &quot;incite&quot; defamatory per se — &quot;Defamatory half-truth&quot; — Selective editing of Plaintiff&#039;s open letter to suppress material context of public health concerns — Whether Article constituted an attack on Plaintiff&#039;s moral character. TORT: Defamation — Defences — Fair Comment — Requirements — Whether comment based on facts — Editorial invention of &quot;saboteur&quot; narrative — Whether characterisation of motives as political had factual foundation — Whether defeated by express malice — Reckless indifference to truth. TORT: Defamation — Defences — Qualified Privilege — Common and corresponding interest — Whether defeated by express malice — Particulars of malice — Rules of Court 2012, Order 78 Rule 3(3) — Creation of derogatory pseudonym &quot;Vettu Vaikkum Waytha Moorthy&quot; — Use of large red fonts to signal targeted campaign — Failure to retract or apologise despite Letter of Demand. TORT: Defamation — Defences — Reynolds Privilege — Responsible journalism — Factors to consider — Seriousness of allegation — Nature of information — Source of information — Steps taken to verify — Urgency — Whether comment sought from Plaintiff — Whether article contained &quot;gist&quot; of Plaintiff’s side of story — Failure to include public health context of open letter — Lack of verifiable evidence of alleged &quot;nationwide condemnation&quot;. CIVIL PROCEDURE: Pleadings — Defamation — Adequacy of Statement of Claim — Failure to identify precise words complained of — Verbatim reproduction of entire article — Whether Defendants caught off-guard or prejudiced — Whether technical objections sustainable at close of trial. EVIDENCE: Adverse inference — Evidence Act 1950, s. 114(g) — Failure to call temple administrators or produce reporter notes to substantiate claim of public anger — Whether adverse inference drawn against Defendants. DAMAGES: Assessment — Public figure — Former Federal Minister and Senator — Position and standing — Gravity of &quot;sting&quot; — Allegations of being a traitor to the Hindu community — Mode and extent of publication — Conduct of Defendants — Lack of remorse — General damages — Aggravated damages. REMEDIES: Injunction — Restraining publication already in public domain — Whether exercise in futility. REMEDIES: Mandatory apology — Whether Court has jurisdiction to compel a defendant to publish an apology — Absence of statutory or common law foundation — Apology as a voluntary act — Compelled speech — Whether Mandatory Order for Rectification and Factual Withdrawal available under inherent jurisdiction.",
+      "judge": "YA Tuan Avinder Singh Gill a/l Ranjit Singh",
+      "coram": [],
+      "dateOfResult": "2026-06-29",
+      "dateOfFiling": "2026-07-17",
+      "docs": [
+        {
+          "documentId": "344f64f4-1905-4813-b55a-3fffde1c9bf9",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=344f64f4-1905-4813-b55a-3fffde1c9bf9&Inline=true"
+        }
+      ]
+    },
+    {
       "id": "c6d13ab6-3523-47a0-9223-afdadd8e5851",
       "caseNo": "01(f)-31-10/2024(W)",
       "jurisdiction": "FC",
@@ -1033,46 +1069,6 @@
       ]
     },
     {
-      "id": "f88758ff-7376-4573-aa2d-25d6698fe284",
-      "caseNo": "WA-25-303-08/2024",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "AZIME BIN ABAS v ACP NG SIEW HIANG & ors",
-      "parties": [
-        {
-          "label": "PEMOHON",
-          "names": [
-            "AZIME BIN ABAS"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "ACP NG SIEW HIANG",
-            "ACP SHAHRULNIZAM BIN JA'AFAR @ ISMAIL",
-            "Pendakwa Raya",
-            "[LEMBAGA TATATERTIB POLIS DIRAJA MALAYSIA BUKIT AMAN]",
-            "Pendakwa Raya",
-            "[Kerajaan Malaysia]"
-          ]
-        }
-      ],
-      "catchwords": "PROSEDUR SIVIL – PERMOHONAN SEMAKAN KEHAKIMAN – ATURAN 53 KAEDAH 3(7) KAEDAH-KAEDAH MAHKAMAH 2012 – PERMOHONAN KEBENARAN UNTUK PELANJUTAN MASA BAGI MEMBUAT PERMOHONAN SEMAKAN KEHAKIMAN – SAMA ADA PEMOHON MEMPUNYAI ALASAN YANG BAIK DAN MUNASABAH DALAM KELEWATAN YANG BERLAKU",
-      "judge": "YA Puan Norliza Binti Othman",
-      "coram": [],
-      "dateOfResult": "2026-06-15",
-      "dateOfFiling": "2026-07-16",
-      "docs": [
-        {
-          "documentId": "5df24499-e68d-4cc3-892b-e7cd396a82db",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=5df24499-e68d-4cc3-892b-e7cd396a82db&Inline=true"
-        }
-      ]
-    },
-    {
       "id": "bb1c04e6-4f6b-42b2-914e-3308b69b8245",
       "caseNo": "J-02(IM)(NCC)-465-03/2025",
       "jurisdiction": "COA",
@@ -1222,58 +1218,6 @@
       ]
     },
     {
-      "id": "44c6c2e3-efbb-4f6d-86f1-b52315bd8bd5",
-      "caseNo": "WA-22NCC-669-10/2025",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "AGESON DEVELOPMENT SDN BHD (DALAM PENGGULUNGAN SECARA SUKARELA OLEH PEMIUTANG) v RADIANT PHOENIX SDN BHD & ors",
-      "parties": [
-        {
-          "label": "PLAINTIF",
-          "names": [
-            "AGESON DEVELOPMENT SDN BHD (DALAM PENGGULUNGAN SECARA SUKARELA OLEH PEMIUTANG)"
-          ]
-        },
-        {
-          "label": "DEFENDAN",
-          "names": [
-            "RADIANT PHOENIX SDN BHD",
-            "ANDREW LUI MENG SAN",
-            "MUHAMMAD BADRUN AL-MUHAIMIN BIN BAHARON",
-            "LEE JING YNG",
-            "DAVID WONG YOU KING",
-            "YEOH LIP KHOON",
-            "JOHN WONG CHIEW BOO",
-            "CHIN KOK FOONG",
-            "DATO LIEW KOK LEONG",
-            "LEE PING WEI",
-            "IGNATION A/L BENEDICT DORAISINGAM",
-            "RAJA KAMARUDIN BIN RAJA ADNAN",
-            "MESSRS K H WONG, CHIN & CHEAH",
-            "DATO WONG KOK HOONG",
-            "CHIA WILSON",
-            "CHEAH SAU VOON",
-            "CHIN HEIN CHOONG",
-            "GAN HWEE THENG"
-          ]
-        }
-      ],
-      "catchwords": "Civil Procedure &amp; Striking Out – Order 18 Rule 19(1) / Inherent Jurisdiction – Threshold for striking out pleadings summarily – Obviously Unsustainable – The strict legal test required to strike out a civil claim – Mini-Trial on Affidavits – The prohibition against evaluating heavily contested facts without a full trial – Procedural Irregularity – Curing a lack of prior liquidator sanction under court rules – Corporate Insolvency &amp; Statutory Wrongs – Section 540 Companies Act 2016 – Liquidator or creditor claims for fraudulent trading – Section 456 Companies Act 2016 – The requirement of prior sanction/approval to initiate legal proceedings – Creditors&#039; Voluntary Liquidation – The legal standing and operational status of the plaintiff company – Company Law &amp; Standing – Proper Plaintiff Rule (Foss v Harbottle) – Determining whether a company or its shareholder is the correct party to sue for a wrong – Direct Injury vs. Reflective Loss – Distinguishing personal corporate losses from secondary losses felt by share dilution – Section 213 Companies Act 2016 – Breach of fiduciary and statutory duties by directors – Brevity of Tenure: Whether a short directorship duration limits or exempts a director&#039;s legal liabilities – Common Law Torts &amp; Equity – Conspiracy by Unlawful Means – Multi-party collaboration to intentionally inflict economic harm – Equitable principle used to set aside or look past existing court orders – Issue Estoppel – Barring a party from re-litigating an issue settled by a previous consent judgment – Collateral Attack – Unlawfully using a new lawsuit to challenge or undermine an earlier judgment – Stakeholder Monies – Law firms holding disputed sale proceeds pending litigation outcomes – Preservation Orders – Court directions to protect the underlying subject matter of a lawsuit.",
-      "judge": "YA Tuan Mohamad Redzuan bin Idrus",
-      "coram": [],
-      "dateOfResult": "2026-06-09",
-      "dateOfFiling": "2026-07-16",
-      "docs": [
-        {
-          "documentId": "a87daa9d-7745-4c57-87ac-3184bce1387d",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=a87daa9d-7745-4c57-87ac-3184bce1387d&Inline=true"
-        }
-      ]
-    },
-    {
       "id": "72e67514-9b4f-4e27-81cd-2831e13fb504",
       "caseNo": "WA-22NCC-669-10/2025",
       "jurisdiction": "HC",
@@ -1326,38 +1270,54 @@
       ]
     },
     {
-      "id": "597a2508-ca18-46e1-9df2-60640ec2f1f0",
-      "caseNo": "WA-25-321-08/2024",
+      "id": "44c6c2e3-efbb-4f6d-86f1-b52315bd8bd5",
+      "caseNo": "WA-22NCC-669-10/2025",
       "jurisdiction": "HC",
       "court": "High Court",
-      "title": "VISHAAK A/L RAMESH v RAVINNA A/P RAMAN & ors",
+      "title": "AGESON DEVELOPMENT SDN BHD (DALAM PENGGULUNGAN SECARA SUKARELA OLEH PEMIUTANG) v RADIANT PHOENIX SDN BHD & ors",
       "parties": [
         {
-          "label": "PEMOHON",
+          "label": "PLAINTIF",
           "names": [
-            "VISHAAK A/L RAMESH"
+            "AGESON DEVELOPMENT SDN BHD (DALAM PENGGULUNGAN SECARA SUKARELA OLEH PEMIUTANG)"
           ]
         },
         {
-          "label": "RESPONDEN",
+          "label": "DEFENDAN",
           "names": [
-            "RAVINNA A/P RAMAN",
-            "Kementerian Pembangunan Wanita, Keluarga dan Masyarakat"
+            "RADIANT PHOENIX SDN BHD",
+            "ANDREW LUI MENG SAN",
+            "MUHAMMAD BADRUN AL-MUHAIMIN BIN BAHARON",
+            "LEE JING YNG",
+            "DAVID WONG YOU KING",
+            "YEOH LIP KHOON",
+            "JOHN WONG CHIEW BOO",
+            "CHIN KOK FOONG",
+            "DATO LIEW KOK LEONG",
+            "LEE PING WEI",
+            "IGNATION A/L BENEDICT DORAISINGAM",
+            "RAJA KAMARUDIN BIN RAJA ADNAN",
+            "MESSRS K H WONG, CHIN & CHEAH",
+            "DATO WONG KOK HOONG",
+            "CHIA WILSON",
+            "CHEAH SAU VOON",
+            "CHIN HEIN CHOONG",
+            "GAN HWEE THENG"
           ]
         }
       ],
-      "catchwords": "Judicial Review – Order 53 Rules of Court 2012 - against decision by Tribunal for Anti-Sexual Harassment – Section 9 of the Sexual Harassment Act 2022 [Act 840]- Section 22 &amp; 2 of the Sexual Harassment Act 2022 [Act 840] - Anti-Sexual Harassment (Tribunal for Anti-Sexual Harassment) Regulations 2024 [P.U.(A) 80/2024] - whether the award tainted with illegality, irrationality, procedural impropriety and disproportionality - whether award awarded by the Tribunal justified and fair.",
-      "judge": "YA Puan Norliza Binti Othman",
+      "catchwords": "Civil Procedure &amp; Striking Out – Order 18 Rule 19(1) / Inherent Jurisdiction – Threshold for striking out pleadings summarily – Obviously Unsustainable – The strict legal test required to strike out a civil claim – Mini-Trial on Affidavits – The prohibition against evaluating heavily contested facts without a full trial – Procedural Irregularity – Curing a lack of prior liquidator sanction under court rules – Corporate Insolvency &amp; Statutory Wrongs – Section 540 Companies Act 2016 – Liquidator or creditor claims for fraudulent trading – Section 456 Companies Act 2016 – The requirement of prior sanction/approval to initiate legal proceedings – Creditors&#039; Voluntary Liquidation – The legal standing and operational status of the plaintiff company – Company Law &amp; Standing – Proper Plaintiff Rule (Foss v Harbottle) – Determining whether a company or its shareholder is the correct party to sue for a wrong – Direct Injury vs. Reflective Loss – Distinguishing personal corporate losses from secondary losses felt by share dilution – Section 213 Companies Act 2016 – Breach of fiduciary and statutory duties by directors – Brevity of Tenure: Whether a short directorship duration limits or exempts a director&#039;s legal liabilities – Common Law Torts &amp; Equity – Conspiracy by Unlawful Means – Multi-party collaboration to intentionally inflict economic harm – Equitable principle used to set aside or look past existing court orders – Issue Estoppel – Barring a party from re-litigating an issue settled by a previous consent judgment – Collateral Attack – Unlawfully using a new lawsuit to challenge or undermine an earlier judgment – Stakeholder Monies – Law firms holding disputed sale proceeds pending litigation outcomes – Preservation Orders – Court directions to protect the underlying subject matter of a lawsuit.",
+      "judge": "YA Tuan Mohamad Redzuan bin Idrus",
       "coram": [],
       "dateOfResult": "2026-06-09",
       "dateOfFiling": "2026-07-16",
       "docs": [
         {
-          "documentId": "698896d6-0220-41f0-8bb2-810eaf168e73",
+          "documentId": "a87daa9d-7745-4c57-87ac-3184bce1387d",
           "name": "Alasan Penghakiman",
           "preparedBy": "",
           "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=698896d6-0220-41f0-8bb2-810eaf168e73&Inline=true"
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=a87daa9d-7745-4c57-87ac-3184bce1387d&Inline=true"
         }
       ]
     },
@@ -1622,6 +1582,42 @@
           "preparedBy": "YAA Tun Wan Ahmad Farid Bin Wan Salleh",
           "category": "Sebulat Suara (Unanimous)",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=ec7c7c33-00ff-40b3-80cf-f284423176f8&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "b42a6ee0-6abd-4a44-9a18-e4197d3c07b0",
+      "caseNo": "WA-23CY-6-02/2022",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "P. THIAGARAJAN A/L PAVADAI v PASUPATHY A/L GOPALSAMY (BERDAGANG SEBAGAI THISAIGAL TV) & ors",
+      "parties": [
+        {
+          "label": "PLAINTIF",
+          "names": [
+            "P. THIAGARAJAN A/L PAVADAI"
+          ]
+        },
+        {
+          "label": "DEFENDAN",
+          "names": [
+            "PASUPATHY A/L GOPALSAMY (BERDAGANG SEBAGAI THISAIGAL TV)",
+            "SENGGUTUAN A/L VEERAN"
+          ]
+        }
+      ],
+      "catchwords": "Prosedur kes sivil – Bicara Penuh – Tuntutan fitnah – Penerbitan dalam bahasa Tamil – Kegagalan mengemukakan terjemahan Bahasa Kebangsaan dalam Pernyataan Tuntutan – Pematuhan mandatori Aturan 92 Kaedah 1 Kaedah-Kaedah Mahkamah 2012 – Sama ada ketidakpatuhan merupakan kecacatan fatal yang menjejaskan asas tindakan – Doktrin stare decisis – Mahkamah terikat dengan keputusan Mahkamah Rayuan – Beban pembuktian terletak pada plaintif untuk membuktikan elemen-elemen asas tindakan fitnah – Elemen pembuktian identiti – Sama ada penerbitan boleh dikenal pasti oleh seorang pembaca atau penonton yang munasabah sebagai merujuk kepada plaintif – Sama ada penerbitan yang dipertikaikan membawa maksud fitnah terhadap plaintif – Penilaian berdasarkan makna biasa dan semulajadi perkataan yang digunakan dengan membaca penerbitan secara keseluruhan dan bukan secara terpisah –sama ada perkataan fitnah merendahkan reputasi Plaintif di mata awam – memberi kesan buruk – sama ada kesemua elemen dibukti atas imbangan kebarangkalian",
+      "judge": "YA Puan Rihaida Binti Rafie",
+      "coram": [],
+      "dateOfResult": "2026-04-29",
+      "dateOfFiling": "2026-07-17",
+      "docs": [
+        {
+          "documentId": "ba6d5bec-ee97-4bff-a120-5e86edd252f4",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=ba6d5bec-ee97-4bff-a120-5e86edd252f4&Inline=true"
         }
       ]
     },
