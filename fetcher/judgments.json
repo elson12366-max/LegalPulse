@@ -1,6 +1,6 @@
 {
   "source": "Malaysia E-Judgment Portal (ejudgment.kehakiman.gov.my)",
-  "updatedAt": "2026-07-18T06:33:18.886Z",
+  "updatedAt": "2026-07-19T07:43:03.435Z",
   "count": 60,
   "judgments": [
     {
@@ -1034,41 +1034,6 @@
       ]
     },
     {
-      "id": "e120d9fc-b202-42ca-9218-b56fdbfd88ff",
-      "caseNo": "WA-22NCvC-403-07/2025",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "CCW GROUP SDN. BHD. v UNIVERSITI MALAYA",
-      "parties": [
-        {
-          "label": "PLAINTIF",
-          "names": [
-            "CCW GROUP SDN. BHD."
-          ]
-        },
-        {
-          "label": "DEFENDAN",
-          "names": [
-            "UNIVERSITI MALAYA"
-          ]
-        }
-      ],
-      "catchwords": "Permohonan untuk pindaan writ dan pliding meminda Plaintif daripada pemilik kepada penyewa - menukarkan bentuk tuntutan - ia tidak dibuat secara bona fide dan boleh menjejaskan pembelaan Defendan yang telah difailkan. Penelitian kepada permohonan pindaan perlu dibuat dengan teliti dengan menitikberatkan keadilan kepada pihak-pihak.",
-      "judge": "YA Tuan Roslan bin Mat Nor",
-      "coram": [],
-      "dateOfResult": "2026-06-15",
-      "dateOfFiling": "2026-07-15",
-      "docs": [
-        {
-          "documentId": "6377e63c-8622-43d7-afce-7aefb997f441",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=6377e63c-8622-43d7-afce-7aefb997f441&Inline=true"
-        }
-      ]
-    },
-    {
       "id": "bb1c04e6-4f6b-42b2-914e-3308b69b8245",
       "caseNo": "J-02(IM)(NCC)-465-03/2025",
       "jurisdiction": "COA",
@@ -1147,6 +1112,50 @@
       ]
     },
     {
+      "id": "9f4381b4-73bb-464e-8ba2-1fd607ae9311",
+      "caseNo": "TA-21NCvC-16-10/2025",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "NORAINI BINTI YUSOF v MAJLIS PERBANDARAN DUNGUN TERENGGANU & ors",
+      "parties": [
+        {
+          "label": "PLAINTIF",
+          "names": [
+            "NORAINI BINTI YUSOF"
+          ]
+        },
+        {
+          "label": "DEFENDAN",
+          "names": [
+            "MAJLIS PERBANDARAN DUNGUN TERENGGANU",
+            "YANG DIPERTUA MAJLIS PERBANDARAN DUNGUN",
+            "PENGARAH JABATAN PENGUATKUASAAN MAJLIS PERBANDARAN DUNGUN",
+            "Perbadanan Memajukan Iktisad Negeri Terengganu (PMINT)",
+            "PENOLONG PENGURUS BAHAGIAN PERUMAHAN RAKR, PMINT (SHEIKHUL INSAN BIN ISMAIL @ ALI)",
+            "PENGURUS BAHAGIAN PERUMAHAN RAKR, PMINT (CHE NORHASLIDA BINTI DERAMAN)",
+            "KETUA PEGAWAI EKSEKUTIF KUMPULAN ,PMINT",
+            "Kerajaan Negeri Terengganu",
+            "Mohd Radhie Bin Mohd Yusoff",
+            "ROSQISTINA WARDINA BINTI ROSLI@ MAHMUD"
+          ]
+        }
+      ],
+      "catchwords": "Prosedur Sivil — Pembatalan pliding — Permohonan di bawah Aturan 18 Kaedah 19(1)(a), (b) dan (d) Kaedah-Kaedah Mahkamah 2012 — Sama ada Pernyataan Tuntutan mendedahkan kausa tindakan yang munasabah — Sama ada tuntutan merupakan penyalahgunaan proses Mahkamah — Sama ada Defendan Kelapan bertanggungan secara vikarius terhadap Defendan-Defendan lain — Sama ada hubungan majikan-pekerja antara Kerajaan Negeri dengan pihak berkuasa tempatan dan badan berkanun negeri — Sama ada pegawai pihak berkuasa tempatan dan badan berkanun adalah pegawai awam di bawah Seksyen 5 dan 6 Akta Prosiding Kerajaan 1956 — Tiada fakta diplidkan mengenai hubungan majikan-pekerja — Pihak berkuasa tempatan dan badan berkanun adalah entiti undang-undang berasingan yang boleh disaman atas nama sendiri — Kegagalan memplidkan elemen asas liabiliti vikarius — Tuntutan dibatalkan.",
+      "judge": "YA Tuan Yusrin Faidz bin Yusoff",
+      "coram": [],
+      "dateOfResult": "2026-06-14",
+      "dateOfFiling": "2026-07-19",
+      "docs": [
+        {
+          "documentId": "a2a070d0-3ab9-45ea-901e-32100ab26ca8",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=a2a070d0-3ab9-45ea-901e-32100ab26ca8&Inline=true"
+        }
+      ]
+    },
+    {
       "id": "0f48e1e3-faab-4289-a13b-7607a412aebe",
       "caseNo": "DA-12B-19-07/2025",
       "jurisdiction": "HC",
@@ -1218,106 +1227,37 @@
       ]
     },
     {
-      "id": "72e67514-9b4f-4e27-81cd-2831e13fb504",
-      "caseNo": "WA-22NCC-669-10/2025",
+      "id": "78b204cd-1cdc-40ea-9afd-d077692f59b4",
+      "caseNo": "JA-24NCvC-662-05/2024",
       "jurisdiction": "HC",
       "court": "High Court",
-      "title": "AGESON DEVELOPMENT SDN BHD (DALAM PENGGULUNGAN SECARA SUKARELA OLEH PEMIUTANG) v RADIANT PHOENIX SDN BHD & ors",
+      "title": "SYARIKAT PERUMAHAN NEGARA BERHAD v COSMIC MASTER DEVELOPMENT SDN. BHD.",
       "parties": [
         {
-          "label": "PLAINTIF",
+          "label": "PEMOHON",
           "names": [
-            "AGESON DEVELOPMENT SDN BHD (DALAM PENGGULUNGAN SECARA SUKARELA OLEH PEMIUTANG)"
+            "SYARIKAT PERUMAHAN NEGARA BERHAD"
           ]
         },
         {
-          "label": "DEFENDAN",
+          "label": "RESPONDEN",
           "names": [
-            "RADIANT PHOENIX SDN BHD",
-            "ANDREW LUI MENG SAN",
-            "MUHAMMAD BADRUN AL-MUHAIMIN BIN BAHARON",
-            "LEE JING YNG",
-            "DAVID WONG YOU KING",
-            "YEOH LIP KHOON",
-            "JOHN WONG CHIEW BOO",
-            "CHIN KOK FOONG",
-            "DATO LIEW KOK LEONG",
-            "LEE PING WEI",
-            "IGNATION A/L BENEDICT DORAISINGAM",
-            "RAJA KAMARUDIN BIN RAJA ADNAN",
-            "MESSRS K H WONG, CHIN & CHEAH",
-            "DATO WONG KOK HOONG",
-            "CHIA WILSON",
-            "CHEAH SAU VOON",
-            "CHIN HEIN CHOONG",
-            "GAN HWEE THENG"
+            "COSMIC MASTER DEVELOPMENT SDN. BHD."
           ]
         }
       ],
-      "catchwords": "Civil Procedure &amp; Striking Out – Order 18 Rule 19(1) / Inherent Jurisdiction – Threshold for striking out pleadings summarily – Obviously Unsustainable – The strict legal test required to strike out a civil claim – Mini-Trial on Affidavits – The prohibition against evaluating heavily contested facts without a full trial – Procedural Irregularity – Curing a lack of prior liquidator sanction under court rules – Corporate Insolvency &amp; Statutory Wrongs – Section 540 Companies Act 2016 – Liquidator or creditor claims for fraudulent trading – Section 456 Companies Act 2016 – The requirement of prior sanction/approval to initiate legal proceedings – Creditors&#039; Voluntary Liquidation – The legal standing and operational status of the plaintiff company – Company Law &amp; Standing – Proper Plaintiff Rule (Foss v Harbottle) – Determining whether a company or its shareholder is the correct party to sue for a wrong – Direct Injury vs. Reflective Loss – Distinguishing personal corporate losses from secondary losses felt by share dilution – Section 213 Companies Act 2016 – Breach of fiduciary and statutory duties by directors – Brevity of Tenure: Whether a short directorship duration limits or exempts a director&#039;s legal liabilities – Common Law Torts &amp; Equity – Conspiracy by Unlawful Means – Multi-party collaboration to intentionally inflict economic harm – Equitable principle used to set aside or look past existing court orders – Issue Estoppel – Barring a party from re-litigating an issue settled by a previous consent judgment – Collateral Attack – Unlawfully using a new lawsuit to challenge or undermine an earlier judgment – Stakeholder Monies – Law firms holding disputed sale proceeds pending litigation outcomes – Preservation Orders – Court directions to protect the underlying subject matter of a lawsuit.",
-      "judge": "YA Tuan Mohamad Redzuan bin Idrus",
+      "catchwords": "Contempt Of Court – Leave to commence committal proceedings – Order 52 rule 3 Rules of Court 2012 – Order 45 rule 7 Rules of Court 2012 – Mandatory personal service – Service after expiry of compliance period – Wilful disobedience – Prima facie case – Directors of company – Winding up of company – Strict procedural compliance – Leave refused",
+      "judge": "YA Dr Noradura Binti Hamzah",
       "coram": [],
       "dateOfResult": "2026-06-09",
-      "dateOfFiling": "2026-07-16",
+      "dateOfFiling": "2026-07-18",
       "docs": [
         {
-          "documentId": "16c7141e-e880-446f-95be-c7571fe17b57",
+          "documentId": "060e8832-8780-4379-99a9-6bf146bf5617",
           "name": "Alasan Penghakiman",
           "preparedBy": "",
           "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=16c7141e-e880-446f-95be-c7571fe17b57&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "44c6c2e3-efbb-4f6d-86f1-b52315bd8bd5",
-      "caseNo": "WA-22NCC-669-10/2025",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "AGESON DEVELOPMENT SDN BHD (DALAM PENGGULUNGAN SECARA SUKARELA OLEH PEMIUTANG) v RADIANT PHOENIX SDN BHD & ors",
-      "parties": [
-        {
-          "label": "PLAINTIF",
-          "names": [
-            "AGESON DEVELOPMENT SDN BHD (DALAM PENGGULUNGAN SECARA SUKARELA OLEH PEMIUTANG)"
-          ]
-        },
-        {
-          "label": "DEFENDAN",
-          "names": [
-            "RADIANT PHOENIX SDN BHD",
-            "ANDREW LUI MENG SAN",
-            "MUHAMMAD BADRUN AL-MUHAIMIN BIN BAHARON",
-            "LEE JING YNG",
-            "DAVID WONG YOU KING",
-            "YEOH LIP KHOON",
-            "JOHN WONG CHIEW BOO",
-            "CHIN KOK FOONG",
-            "DATO LIEW KOK LEONG",
-            "LEE PING WEI",
-            "IGNATION A/L BENEDICT DORAISINGAM",
-            "RAJA KAMARUDIN BIN RAJA ADNAN",
-            "MESSRS K H WONG, CHIN & CHEAH",
-            "DATO WONG KOK HOONG",
-            "CHIA WILSON",
-            "CHEAH SAU VOON",
-            "CHIN HEIN CHOONG",
-            "GAN HWEE THENG"
-          ]
-        }
-      ],
-      "catchwords": "Civil Procedure &amp; Striking Out – Order 18 Rule 19(1) / Inherent Jurisdiction – Threshold for striking out pleadings summarily – Obviously Unsustainable – The strict legal test required to strike out a civil claim – Mini-Trial on Affidavits – The prohibition against evaluating heavily contested facts without a full trial – Procedural Irregularity – Curing a lack of prior liquidator sanction under court rules – Corporate Insolvency &amp; Statutory Wrongs – Section 540 Companies Act 2016 – Liquidator or creditor claims for fraudulent trading – Section 456 Companies Act 2016 – The requirement of prior sanction/approval to initiate legal proceedings – Creditors&#039; Voluntary Liquidation – The legal standing and operational status of the plaintiff company – Company Law &amp; Standing – Proper Plaintiff Rule (Foss v Harbottle) – Determining whether a company or its shareholder is the correct party to sue for a wrong – Direct Injury vs. Reflective Loss – Distinguishing personal corporate losses from secondary losses felt by share dilution – Section 213 Companies Act 2016 – Breach of fiduciary and statutory duties by directors – Brevity of Tenure: Whether a short directorship duration limits or exempts a director&#039;s legal liabilities – Common Law Torts &amp; Equity – Conspiracy by Unlawful Means – Multi-party collaboration to intentionally inflict economic harm – Equitable principle used to set aside or look past existing court orders – Issue Estoppel – Barring a party from re-litigating an issue settled by a previous consent judgment – Collateral Attack – Unlawfully using a new lawsuit to challenge or undermine an earlier judgment – Stakeholder Monies – Law firms holding disputed sale proceeds pending litigation outcomes – Preservation Orders – Court directions to protect the underlying subject matter of a lawsuit.",
-      "judge": "YA Tuan Mohamad Redzuan bin Idrus",
-      "coram": [],
-      "dateOfResult": "2026-06-09",
-      "dateOfFiling": "2026-07-16",
-      "docs": [
-        {
-          "documentId": "a87daa9d-7745-4c57-87ac-3184bce1387d",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=a87daa9d-7745-4c57-87ac-3184bce1387d&Inline=true"
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=060e8832-8780-4379-99a9-6bf146bf5617&Inline=true"
         }
       ]
     },
@@ -1582,6 +1522,41 @@
           "preparedBy": "YAA Tun Wan Ahmad Farid Bin Wan Salleh",
           "category": "Sebulat Suara (Unanimous)",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=ec7c7c33-00ff-40b3-80cf-f284423176f8&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "34b33e57-ddf4-4e19-9772-683f46c0f2fc",
+      "caseNo": "KA-33JP-107-09/2021",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "TANG WOANREN v ANARA YESSETOVA",
+      "parties": [
+        {
+          "label": "PEMPETISYEN",
+          "names": [
+            "TANG WOANREN"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "ANARA YESSETOVA"
+          ]
+        }
+      ],
+      "catchwords": "FAMILY LAW: Children — Maintenance — Consent order — Application for variation — Downward variation and capping of educational and medical expenses — Power of court to vary consent orders — Threshold for disturbing a mutually recorded consent order — Whether exceptional circumstances existed — Meaning of &quot;material change of circumstances&quot; — Burden of proof on applicant — Section 96 of the Law Reform (Marriage and Divorce) Act 1976. FAMILY LAW: Children — Maintenance — Special educational needs — Child diagnosed with autism — Enrolment in specialised international school — Consensus of parents — Whether expenses were reasonable and necessary — Mitigation of costs by custodial parent — Distinguishing bare assertions of learning difficulties from verified clinical diagnoses — Section 96 of the Law Reform (Marriage and Divorce) Act 1976. FAMILY LAW: Maintenance — Retrospective variation — Accrued arrears — Whether child maintenance can be varied retrospectively and accumulated arrears written off — Accrued maintenance arrears as vested debt — Equitable jurisdiction to backdate reduction — Necessity of clean hands, genuine involuntary insolvency, and full financial disclosure — Sections 83 and 96 of the Law Reform (Marriage and Divorce) Act 1976. CIVIL PROCEDURE: Matrimonial proceedings — Variation of maintenance — Mandatory disclosure — Rule 63 of the Divorce and Matrimonial Proceedings Rules 1980 — Absolute duty of applicant to make full, frank, and clear disclosure of all property, capital assets, and income streams — Non-disclosure of commercial titles and investments — Active concealment of wealth — Legal consequence of non-disclosure — Whether non-disclosure was fatal warranting immediate dismissal in limine. CIVIL PROCEDURE: Matrimonial proceedings — Variation of ancillary relief — Registrar&#039;s investigation — Rule 65 of the Divorce and Matrimonial Proceedings Rules 1980 — Failure to schedule application for formal investigation before the Registrar — Whether bypassing the mandatory investigatory stage was fatal to the application. EVIDENCE: Burden of proof — Affidavit evidence — Applications decided on affidavit — Universal rules of civil procedure — Facts to be established strictly through the sworn depositions of the parties under oath — Inadmissibility of bare denials — Impermissibility of introducing or supplementing unpled facts via subsequent written or oral submissions — &quot;Submissions from the Bar&quot;.",
+      "judge": "YA Dr John Lee Kien How @ Mohammad Johan Lee",
+      "coram": [],
+      "dateOfResult": "2026-04-29",
+      "dateOfFiling": "2026-07-18",
+      "docs": [
+        {
+          "documentId": "fd57ff1c-7ec3-4c1d-a311-fd6547674bfc",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=fd57ff1c-7ec3-4c1d-a311-fd6547674bfc&Inline=true"
         }
       ]
     },
