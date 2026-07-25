@@ -1,8 +1,43 @@
 {
   "source": "Malaysia E-Judgment Portal (ejudgment.kehakiman.gov.my)",
-  "updatedAt": "2026-07-24T07:59:33.168Z",
+  "updatedAt": "2026-07-25T07:31:34.635Z",
   "count": 60,
   "judgments": [
+    {
+      "id": "8efd1c99-dd75-41f9-b661-3098795a4549",
+      "caseNo": "MA-33-31-06/2026",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "TEE GENG CHAAN v NGUYEN THI TRUC LINH",
+      "parties": [
+        {
+          "label": "PEMPETISYEN",
+          "names": [
+            "TEE GENG CHAAN"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "NGUYEN THI TRUC LINH"
+          ]
+        }
+      ],
+      "catchwords": "Family Law — Divorce — Jurisdiction — Domicile of parties when petition presented — Law Reform (Marriage and Divorce) Act 1976, s 48(1)(c) — Whether domicile of both spouses required Conflict of Laws — Domicile — Domicile of choice — Residence coupled with intention to remain indefinitely — Abandonment of intention — Revival of domicile of origin Family Law — Married woman — Dependent domicile — Whether wife’s domicile follows husband’s domicile — Common law doctrine not part of Malaysian law Constitutional Law — Equality before the law — Gender discrimination — Common law rule denying married woman capacity to possess independent domicile — Federal Constitution, art 8 Statutory Interpretation — Jurisdictional limitation — Provision expressed in prohibitory terms — Court not to enlarge its jurisdiction by generous construction Family Law — Divorce — Foreign spouse — Vietnamese wife absent from Malaysia for more than fifteen years — Social visit pass expired — Respondent domiciled in Vietnam when petition presented Family Law — Divorce — Wife’s special jurisdictional relief — Law Reform (Marriage and Divorce) Act 1976, s 49 — Provision available only to wife — Husband unable to rely upon provision directly or indirectly Evidence — Jurisdiction — Jurisdiction to be established affirmatively — Domicile a question of fact — Bare assertion in petition insufficient — Opportunity given to adduce further affidavit evidence Civil Procedure — Jurisdiction — Point raised by court — Petitioner not previously notified — Petition to stand dismissed for want of jurisdiction if further evidence not filed within prescribed period Family Law — Foreign divorce — Divorce obtainable in courts of foreign spouse’s domicile — Recognition and registration of foreign decree in Malaysia — Law Reform (Marriage and Divorce) Act 1976, s 107(3)",
+      "judge": "YA Dato' Sri Raja Segaran A/L S.Krishnan",
+      "coram": [],
+      "dateOfResult": "2026-07-23",
+      "dateOfFiling": "2026-07-24",
+      "docs": [
+        {
+          "documentId": "5ace770f-d8ac-4d99-8307-dedd9e9af193",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=5ace770f-d8ac-4d99-8307-dedd9e9af193&Inline=true"
+        }
+      ]
+    },
     {
       "id": "c8005321-ae23-4c5d-b439-40dd32400c64",
       "caseNo": "MA-21NCvC-7-10/2025",
@@ -675,78 +710,6 @@
       ]
     },
     {
-      "id": "4ca425b7-2d6c-4c79-a4a3-c25ceb44b9e3",
-      "caseNo": "WA-22NCvC-483-08/2023",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "CHEAH TING FENG v LUMAYAN INDAH SDN BHD & ors",
-      "parties": [
-        {
-          "label": "PLAINTIF",
-          "names": [
-            "CHEAH TING FENG"
-          ]
-        },
-        {
-          "label": "DEFENDAN",
-          "names": [
-            "LUMAYAN INDAH SDN BHD",
-            "1 PAVILION PROPERTY CONSULTANCY SDN BHD"
-          ]
-        }
-      ],
-      "catchwords": "Full trial - Plaintiff purchased 51 residential units for RM 110 million; Pleads fraudulent misrepresentation that he could use for short term rental; claims units constructed in material deviation from approved building plans and alleges breach of contract. - Plaintiff claims for recission, repayment of purchase price and damages; - Issues are whether there was any misrepresentation, any illegality arising out of non compliance with the building plans and breach of contract. - Court finds : a. no misrepresentation; b. the SPA&#039;s not rendered void by any alleged regulatory non compliance and that in any event, such non compliance has since been cured by the latest approved plans; c. there has been no material breach of contract as the Plaintiff received exactly what he inspected and bargained for; and d. the plaintiffs conduct estops him form pursuing recission. - Plaintiffs claim dismissed with costs.",
-      "judge": "YA Dato' Anand Ponnudurai",
-      "coram": [],
-      "dateOfResult": "2026-07-09",
-      "dateOfFiling": "2026-07-23",
-      "docs": [
-        {
-          "documentId": "be0f2d30-f19d-4aba-8cf5-4c828bc13ffb",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=be0f2d30-f19d-4aba-8cf5-4c828bc13ffb&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "3f1f86b2-4b02-41e5-81b6-efa706364818",
-      "caseNo": "PA-45A-5-04/2025",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "Pendakwa Raya v Shaik Abdul Faisal Bin Mohamed Sidique (Bd) & ors",
-      "parties": [
-        {
-          "label": "PENDAKWA RAYA",
-          "names": [
-            "Pendakwa Raya"
-          ]
-        },
-        {
-          "label": "TERTUDUH",
-          "names": [
-            "Shaik Abdul Faisal Bin Mohamed Sidique (Bd)",
-            "Fazlinda Binti Ibrahim (Bd)"
-          ]
-        }
-      ],
-      "catchwords": "Rayuan terhadap hukuman - s.39A(2) Akta Dadah Berbahaya 1952 (ADB 1952) – pengakuan salah terhadap pertuduhan tanpa sebarang syarat – prinsip-prinsip am penghukuman - faktor-faktor untuk pertimbangan sebelum hukuman diberikan – kuasa hukuman atas budibicara hakim bicara dan hendaklah dilaksanakan menurut prinsip-prinsip hukuman - hukuman yang dijatuhkan hendaklah mengimbangi kepentingan awam dan kepentingan tertuduh - tren hukuman bagi pemilikan dadah berbahaya",
-      "judge": "YA Dr Wendy Ooi Su Ghee",
-      "coram": [],
-      "dateOfResult": "2026-07-08",
-      "dateOfFiling": "2026-07-23",
-      "docs": [
-        {
-          "documentId": "f8d04d0c-0e5b-492a-a560-9aa7273ffa79",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=f8d04d0c-0e5b-492a-a560-9aa7273ffa79&Inline=true"
-        }
-      ]
-    },
-    {
       "id": "62c027c5-9bd5-4ff8-84ef-7f1e91251e9f",
       "caseNo": "AA-22NCvC-90-10/2025",
       "jurisdiction": "HC",
@@ -814,6 +777,55 @@
           "preparedBy": "",
           "category": "",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=65176803-4556-45a5-af6c-022a3eb73826&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "8027469a-31b6-45f5-9c1f-826f663e29ae",
+      "caseNo": "JA-27NCC-1-03/2023",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "MAERSK MALAYSIA SDN BHD v CONCEPTLINE INDUSTRY SDN BHD",
+      "parties": [
+        {
+          "label": "PLAINTIF",
+          "names": [
+            "MAERSK MALAYSIA SDN BHD"
+          ]
+        },
+        {
+          "label": "DEFENDAN",
+          "names": [
+            "CONCEPTLINE INDUSTRY SDN BHD"
+          ]
+        },
+        {
+          "label": "PIHAK KETIGA",
+          "names": [
+            "GAIN COBBER PLASTIC HARDWARE SDN BHD",
+            "Xin Zhou Sdn Bhd",
+            "VS Total Logistics Sdn Bhd",
+            "Chin Chi Ming",
+            "Wong Lee Chen",
+            "Oh Sin Yee",
+            "Teo Mun Yee",
+            "Tok Lee Peng",
+            "Chua Ming Terk"
+          ]
+        }
+      ],
+      "catchwords": "Civil Procedure — Amendment of pleadings — Defendant&#039;s application to amend Third Party Statement of Claim — Order 20 rule 5 Rules of Court 2012 — Scope of permissible amendment — Whether proposed amendments merely particularised existing pleadings or fundamentally reconstructed the pleaded case — Introduction of new material facts — New tortious causes of action including passing off, fraudulent impersonation, conspiracy by unlawful means and fraudulent trading — New declaratory and exemplary reliefs — Whether proposed amendments altered the nature and character of the Third Party Proceedings — Exercise of judicial discretion — Prejudice incapable of being adequately compensated by costs — Application dismissed — Rules of Court 2012, O.20 r.5.",
+      "judge": "YA Puan Manira Binti Mohd Nor",
+      "coram": [],
+      "dateOfResult": "2026-07-02",
+      "dateOfFiling": "2026-07-24",
+      "docs": [
+        {
+          "documentId": "b4caeac0-6dbd-4140-97b4-81a03d7cd450",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=b4caeac0-6dbd-4140-97b4-81a03d7cd450&Inline=true"
         }
       ]
     },
@@ -939,39 +951,39 @@
       ]
     },
     {
-      "id": "18bb649c-c0b0-4aad-b9af-f6e122a5fc3c",
-      "caseNo": "WA-24-93-12/2023",
+      "id": "fb536a74-642d-41e1-a71d-84e7293ec095",
+      "caseNo": "JA-23NCvC-5-05/2021",
       "jurisdiction": "HC",
       "court": "High Court",
-      "title": "ELPISOLINA BINTI YAHYA v KETUA PENGARAH JABATAN PENDAFTARAN NEGARA & ors",
+      "title": "MOKHTAR BIN ABDUL WAHAB & ors v COUNTRY GARDEN PASIFICVIEW SDN BHD",
       "parties": [
         {
-          "label": "PEMOHON",
+          "label": "PLAINTIF",
           "names": [
-            "ELPISOLINA BINTI YAHYA"
+            "MOKHTAR BIN ABDUL WAHAB",
+            "JAFALI BIN ABDUL WAHAB",
+            "MOHD NAJIB BIN ABDUL WAHAB"
           ]
         },
         {
-          "label": "RESPONDEN",
+          "label": "DEFENDAN",
           "names": [
-            "KETUA PENGARAH JABATAN PENDAFTARAN NEGARA",
-            "MENTERI DALAM NEGERI MALAYSIA",
-            "Kerajaan Malaysia"
+            "COUNTRY GARDEN PASIFICVIEW SDN BHD"
           ]
         }
       ],
-      "catchwords": "CIVIL PROCEDURE – APPLICATION FOR A DECLARATION OF MALAYSIAN CITIZENSHIP – ARTICLE 14 OF THE FEDERAL CONSTITUTION – WHETHER THE PLAINTIFF HAS FULFILLED THE REQUISITES TO BE A CITIZEN OF MALAYSIA BY OPERATION OF LAW – WHETHER THERE IS A LEGALLY RECOGNIZED RECORD OF MARRIAGE BETWEEN THE PLAINTIFF’S BIOLOGICAL PARENTS AT THE TIME OF BIRTH",
-      "judge": "YA Puan Norliza Binti Othman",
+      "catchwords": "Tort – Negligence – Duty of care – Agricultural land – Highway drainage – Alleged overflow of rainwater from adjacent highway – Whether defendant owed and breached duty of care – Approved drainage plan not produced – Causation – Whether flooding and ponding caused death of crops – Expert evidence insufficient – Burden of proof – Special damages – Strict proof – Inconsistent evidence – Parties bound by pleadings – Trespass not pleaded – Plaintiffs failed to establish negligence on balance of probabilities – Action dismissed with costs",
+      "judge": "YA Dr Noradura Binti Hamzah",
       "coram": [],
       "dateOfResult": "2026-06-23",
-      "dateOfFiling": "2026-07-23",
+      "dateOfFiling": "2026-07-24",
       "docs": [
         {
-          "documentId": "8cdb1874-1d93-4185-9fb1-5eaf2a9b827d",
+          "documentId": "1db51f19-4298-441d-b8a1-50e01f3975b5",
           "name": "Alasan Penghakiman",
           "preparedBy": "",
           "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=8cdb1874-1d93-4185-9fb1-5eaf2a9b827d&Inline=true"
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=1db51f19-4298-441d-b8a1-50e01f3975b5&Inline=true"
         }
       ]
     },
@@ -1134,6 +1146,41 @@
           "preparedBy": "",
           "category": "",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=0b56903d-1288-4963-b2d7-23f3349b733d&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "8b9ed1d3-89f0-4848-b635-f4b93d5d165c",
+      "caseNo": "JA-22NCvC-146-10/2020",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "YAP WANG KIAN v YEOW KAH LOO",
+      "parties": [
+        {
+          "label": "PLAINTIF",
+          "names": [
+            "YAP WANG KIAN"
+          ]
+        },
+        {
+          "label": "DEFENDAN",
+          "names": [
+            "YEOW KAH LOO"
+          ]
+        }
+      ],
+      "catchwords": "GSA land-restriction of interest-competing interest-if all obtained state consent paramount consideration resulting in Court order pronouncing right of alleged interested party",
+      "judge": "YA Puan Nurulhuda Nur'aini Binti Mohamad Nor",
+      "coram": [],
+      "dateOfResult": "2026-06-21",
+      "dateOfFiling": "2026-07-23",
+      "docs": [
+        {
+          "documentId": "a8dfc7a5-a56f-49c1-91b2-b7d22d7bfa9d",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=a8dfc7a5-a56f-49c1-91b2-b7d22d7bfa9d&Inline=true"
         }
       ]
     },
@@ -1407,44 +1454,6 @@
           "preparedBy": "",
           "category": "",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=bc3e552f-97da-47df-9686-a060bfc2a8db&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "7f36a8c7-b23c-4e45-87f9-00be30601caa",
-      "caseNo": "WA-22NCvC-541-09/2025",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "STAR FORTRESS SDN BHD v TICKETSEARCH SDN BHD & ors",
-      "parties": [
-        {
-          "label": "PLAINTIF",
-          "names": [
-            "STAR FORTRESS SDN BHD"
-          ]
-        },
-        {
-          "label": "DEFENDAN",
-          "names": [
-            "TICKETSEARCH SDN BHD",
-            "PRIMUSE TICKETSEARCH SDN BHD",
-            "DIRK EMIL SASS",
-            "MARCO ANDRES RIOS PUEBLA"
-          ]
-        }
-      ],
-      "catchwords": "Civil Procedure – Summary judgment – Order 14 Rules of Court 2012 – Application for summary judgment – Letter of Undertaking– Whether enforceable - Contractual obligation –Agreement to withhold legal proceedings– Terms of the Letter of Undertaking - No challenge on validity of the Letter of Undertaking - Whether Defendant had disclosed any bona fide triable issue sufficient to resist the Plaintiff&#039;s application for summary judgment – Live Performance Contract – Cancellation of concerts – Refund arrangements – Surrounding commercial dealings –Matters relied upon did not impeach the validity or enforceability of the Letter of Undertaking – No genuine defence deserving of a full trial – Failed to disclose any bona fide defence or triable issue",
-      "judge": "YA Puan Rihaida Binti Rafie",
-      "coram": [],
-      "dateOfResult": "2026-05-06",
-      "dateOfFiling": "2026-07-23",
-      "docs": [
-        {
-          "documentId": "4f21e7fa-99e7-4100-97ea-f46196745892",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=4f21e7fa-99e7-4100-97ea-f46196745892&Inline=true"
         }
       ]
     },
