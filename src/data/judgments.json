@@ -1,6 +1,6 @@
 {
   "source": "Malaysia E-Judgment Portal (ejudgment.kehakiman.gov.my)",
-  "updatedAt": "2026-07-25T07:31:34.635Z",
+  "updatedAt": "2026-07-26T07:58:12.264Z",
   "count": 60,
   "judgments": [
     {
@@ -745,42 +745,6 @@
       ]
     },
     {
-      "id": "dac43aa1-2991-4eec-a84f-93c3f34041b3",
-      "caseNo": "PA-22NCvC-158-11/2022",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "PENANG HAN CHIANG ASSOCIATED CHINESE SCHOOLS ASSOCIATION & ors v LIM BOON LIN",
-      "parties": [
-        {
-          "label": "PLAINTIF",
-          "names": [
-            "PENANG HAN CHIANG ASSOCIATED CHINESE SCHOOLS ASSOCIATION",
-            "TAN SRI DATO' SERI TAN KOK PING"
-          ]
-        },
-        {
-          "label": "DEFENDAN",
-          "names": [
-            "LIM BOON LIN"
-          ]
-        }
-      ],
-      "catchwords": "Writ action - s.9(1) of the Government Proceedings Act 1956 (“GPA 1956”) – whether applicable - whether Plaintiffs required to obtain the prior consent of the Attorney General to file this suit – intitulement of the suit states Defendant is sued in his personal capacity, not as a trustee of the trust land, as the claim is directed against the Defendant personally rather than the trust land itself – Plaintiffs commenced private action to vindicate their personal rights, not a public action brought to protect the interests of the community or the state – distinction between personally pledged to contribute and pledged to personally contribute – legal principle in Salomon v A Salomon &amp; Co Ltd [1897] AC 22 now codified under s. 20 of the Companies Act 2016 .",
-      "judge": "YA Dr Wendy Ooi Su Ghee",
-      "coram": [],
-      "dateOfResult": "2026-07-05",
-      "dateOfFiling": "2026-07-23",
-      "docs": [
-        {
-          "documentId": "65176803-4556-45a5-af6c-022a3eb73826",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=65176803-4556-45a5-af6c-022a3eb73826&Inline=true"
-        }
-      ]
-    },
-    {
       "id": "8027469a-31b6-45f5-9c1f-826f663e29ae",
       "caseNo": "JA-27NCC-1-03/2023",
       "jurisdiction": "HC",
@@ -830,6 +794,42 @@
       ]
     },
     {
+      "id": "bde5c8ea-e9b4-4808-ae50-7686a4317986",
+      "caseNo": "JA-12BNCvC-4-02/2026",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "SOH CHIN KIAT & ors v BUANA TUNGGAL SDN. BHD.",
+      "parties": [
+        {
+          "label": "PERAYU",
+          "names": [
+            "SOH CHIN KIAT",
+            "CHIN ZIA ZONG"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "BUANA TUNGGAL SDN. BHD."
+          ]
+        }
+      ],
+      "catchwords": "Contract – Sale and Purchase Agreement – Commercial property – Liquidated Ascertained Damages (LAD) – Computation of LAD – Commencement date – Booking fee vis-à-vis SPA – Completion date – Certificate of Practical Completion (CPC) vis-à-vis Certificate of Completion and Compliance (CCC) – Extension of time (EOT) – COVID-19 force majeure – Validity of architect&#039;s certification – Construction of commercial contract – Accountant&#039;s certificate – Pre-judgment interest – Appeal allowed in part",
+      "judge": "YA Dr Noradura Binti Hamzah",
+      "coram": [],
+      "dateOfResult": "2026-06-30",
+      "dateOfFiling": "2026-07-26",
+      "docs": [
+        {
+          "documentId": "760efbb5-72eb-4ae5-9982-4314ff826c3b",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=760efbb5-72eb-4ae5-9982-4314ff826c3b&Inline=true"
+        }
+      ]
+    },
+    {
       "id": "c6d13ab6-3523-47a0-9223-afdadd8e5851",
       "caseNo": "01(f)-31-10/2024(W)",
       "jurisdiction": "FC",
@@ -867,6 +867,44 @@
           "preparedBy": "YA Dato' Seri Vazeer Alam bin Mydin Meera",
           "category": "Majoriti",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=8cf037a4-25c1-4653-a4e9-3b2039fae1f5&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "88b3cb08-6d6f-45d8-bcc1-2cc48ae8c608",
+      "caseNo": "JA-24NCC-16-03/2026",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "PANG CHENG CHAW v GOH TECK SIN & ors",
+      "parties": [
+        {
+          "label": "PEMOHON",
+          "names": [
+            "PANG CHENG CHAW"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "GOH TECK SIN",
+            "CTS SOLUTIONS MARKETING SDN BHD",
+            "CHOO JIE SHENG",
+            "ISOMETRIC PRECAST SDN BHD"
+          ]
+        }
+      ],
+      "catchwords": "Company Law – Minority Oppression – Section 346 Companies Act 2016 – Originating Summons – Affidavit Evidence – Quasi-Partnership – Burden of Proof – Material Dispute of Facts – Fraud – Conspiracy – Reflective Loss – Derivative Action – Director&#039;s Duties – Separate Corporate Personality – Corporate Veil – Constructive Trust – Industrial Court Proceedings – Dismissal of Originating Summons with Costs",
+      "judge": "YA Dr Noradura Binti Hamzah",
+      "coram": [],
+      "dateOfResult": "2026-06-24",
+      "dateOfFiling": "2026-07-25",
+      "docs": [
+        {
+          "documentId": "2e398218-f034-4ef9-8310-9ea5a7e681dd",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=2e398218-f034-4ef9-8310-9ea5a7e681dd&Inline=true"
         }
       ]
     },
@@ -1267,6 +1305,41 @@
       ]
     },
     {
+      "id": "62685782-0832-4d15-a741-426f1110a884",
+      "caseNo": "WA-42H-19-07/2025",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "NIK KHAIRA HAFIZI BIN MAT ZAID v Pendakwa Raya",
+      "parties": [
+        {
+          "label": "PERAYU",
+          "names": [
+            "NIK KHAIRA HAFIZI BIN MAT ZAID"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "Pendakwa Raya"
+          ]
+        }
+      ],
+      "catchwords": "Criminal procedure - S.375B Penal Code - Offence of gang rape - Appeal against sentence - Appellant was one of 4 accused persons charged at the Sessions Court - Trial commenced and mid-way all the accused persons all pleaded guilty - Positive identification of perpetrators by the victim and confirmed by the presence of DNA evidence gathered from the victim and at the crime scene - Whether the Appellant was entitled to a larger discount upon the plea of guilt as he was a first offender - Whether the Sessions Court had not applied the facts propertly when considering the sentencing trend in gang rape cases - Very detailed analysis by the SCJ of the mitigation - No appealable error by the SCJ - Appeal dismissed and sentence of 17 years imprisonment affirmed",
+      "judge": "YA Puan Noor Ruwena binti Md Nurdin",
+      "coram": [],
+      "dateOfResult": "2026-06-08",
+      "dateOfFiling": "2026-07-25",
+      "docs": [
+        {
+          "documentId": "70973628-ef37-4b76-b166-948b4e2b765c",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=70973628-ef37-4b76-b166-948b4e2b765c&Inline=true"
+        }
+      ]
+    },
+    {
       "id": "d8acab9c-b5df-44c7-b821-957e3de32ca9",
       "caseNo": "JA-45A-19-02/2022",
       "jurisdiction": "HC",
@@ -1298,42 +1371,6 @@
           "preparedBy": "",
           "category": "",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=81cdf3c5-0d42-4316-b701-2c31660e55b5&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "145cc9fe-00a3-4424-9633-5f253a93dfc7",
-      "caseNo": "JA-22NCvC-55-04/2025",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "AHMAD FARID BIN MOHD FADZULI & ors v AQRS THE BUILDING COMPANY SDN. BHD.",
-      "parties": [
-        {
-          "label": "PLAINTIF",
-          "names": [
-            "AHMAD FARID BIN MOHD FADZULI",
-            "RAUZANAH BINTE AFANDI"
-          ]
-        },
-        {
-          "label": "DEFENDAN",
-          "names": [
-            "AQRS THE BUILDING COMPANY SDN. BHD."
-          ]
-        }
-      ],
-      "catchwords": "Housing Development – Sale and Purchase Agreement – Delay in delivery of vacant possession – Extension of time under reg. 11(3), Housing Development (Control and Licensing) Regulations 1989 – Ultra vires – Ang Ming Lee – Restitution – Section 66 Contracts Act 1950 – Locus standi – Section 22C Housing Development (Control and Licensing) Act 1966 – Limitation – Rescission – Refund of purchase price – Early Bird Rebate – Legal fees – Assessment of damages",
-      "judge": "YA Dr Noradura Binti Hamzah",
-      "coram": [],
-      "dateOfResult": "2026-06-08",
-      "dateOfFiling": "2026-07-23",
-      "docs": [
-        {
-          "documentId": "47d4ace3-4413-491d-a604-d320b984fe53",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=47d4ace3-4413-491d-a604-d320b984fe53&Inline=true"
         }
       ]
     },
@@ -1454,45 +1491,6 @@
           "preparedBy": "",
           "category": "",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=bc3e552f-97da-47df-9686-a060bfc2a8db&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "5f67db96-bd0d-478e-9604-ed7febe292d7",
-      "caseNo": "JA-23NCvC-9-09/2019",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "GOLDFIRE SDN BHD v Yap Teak Fah & ors",
-      "parties": [
-        {
-          "label": "PLAINTIF",
-          "names": [
-            "GOLDFIRE SDN BHD"
-          ]
-        },
-        {
-          "label": "DEFENDAN",
-          "names": [
-            "Yap Teak Fah",
-            "MIKE LIM SIAW FHUNG",
-            "GREENLAND MALAYSIA REAL ESTATE OPERATOR SDN BHD",
-            "JYM MARKETING SDN BHD",
-            "PARCO KIDS EDUTAINMENT SDN BHD"
-          ]
-        }
-      ],
-      "catchwords": "Full trial – Contract – Negligent Misrepresentation – Damages – Whether the Defendants made actionable misrepresentations that induced the Plaintiff to enter the tenancy agreement – Whether the Third and Fifth Defendants are liable for representations made by Third party – Whether the Plaintiff has proven the quantum of damages – Whether Fifth Defendant is entitled to its counter claim for arrears.",
-      "judge": "YA Puan Wong Mee Ling",
-      "coram": [],
-      "dateOfResult": "2026-05-05",
-      "dateOfFiling": "2026-07-23",
-      "docs": [
-        {
-          "documentId": "f5398d1e-2ace-48b6-af77-b5c4e8823eb4",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=f5398d1e-2ace-48b6-af77-b5c4e8823eb4&Inline=true"
         }
       ]
     },
