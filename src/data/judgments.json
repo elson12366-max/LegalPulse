@@ -1,6 +1,6 @@
 {
   "source": "Malaysia E-Judgment Portal (ejudgment.kehakiman.gov.my)",
-  "updatedAt": "2026-08-07T05:26:48.929Z",
+  "updatedAt": "2026-08-08T03:58:29.904Z",
   "count": 60,
   "judgments": [
     {
@@ -262,41 +262,6 @@
       ]
     },
     {
-      "id": "88c54acd-5c06-47ce-b4ce-6f6ffa41ad84",
-      "caseNo": "WA-42H-13-10/2024",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "Pendakwa Raya v KHANESEN A/L THIYAGARAJAN",
-      "parties": [
-        {
-          "label": "PERAYU",
-          "names": [
-            "Pendakwa Raya"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "KHANESEN A/L THIYAGARAJAN"
-          ]
-        }
-      ],
-      "catchwords": "rape by valet-any aggravating factor-familiar with cctv that able to avoid blind spot-case proven beyond reasonable doubt",
-      "judge": "YA Puan Nurulhuda Nur'aini Binti Mohamad Nor",
-      "coram": [],
-      "dateOfResult": "2026-07-27",
-      "dateOfFiling": "2026-08-05",
-      "docs": [
-        {
-          "documentId": "f15fbc1c-399c-4dec-940f-e57df94a27df",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=f15fbc1c-399c-4dec-940f-e57df94a27df&Inline=true"
-        }
-      ]
-    },
-    {
       "id": "e47516d4-ddf8-48a8-9e07-02597e83575c",
       "caseNo": "WA-42H-13-10/2024",
       "jurisdiction": "HC",
@@ -317,6 +282,41 @@
         }
       ],
       "catchwords": "Rape committed by valet- club where the young ones gather- cctv advantage as familiar with blind spot- aggravating factor",
+      "judge": "YA Puan Nurulhuda Nur'aini Binti Mohamad Nor",
+      "coram": [],
+      "dateOfResult": "2026-07-27",
+      "dateOfFiling": "2026-08-05",
+      "docs": [
+        {
+          "documentId": "f15fbc1c-399c-4dec-940f-e57df94a27df",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=f15fbc1c-399c-4dec-940f-e57df94a27df&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "88c54acd-5c06-47ce-b4ce-6f6ffa41ad84",
+      "caseNo": "WA-42H-13-10/2024",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "Pendakwa Raya v KHANESEN A/L THIYAGARAJAN",
+      "parties": [
+        {
+          "label": "PERAYU",
+          "names": [
+            "Pendakwa Raya"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "KHANESEN A/L THIYAGARAJAN"
+          ]
+        }
+      ],
+      "catchwords": "rape by valet-any aggravating factor-familiar with cctv that able to avoid blind spot-case proven beyond reasonable doubt",
       "judge": "YA Puan Nurulhuda Nur'aini Binti Mohamad Nor",
       "coram": [],
       "dateOfResult": "2026-07-27",
@@ -521,46 +521,6 @@
           "preparedBy": "YA Datuk Hayatul Akmal binti Abdul Aziz",
           "category": "Sebulat Suara (Unanimous)",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=cd40951d-979e-4213-a451-472d8fafd058&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "7a028025-7c3b-4c59-8586-d3e072327f8b",
-      "caseNo": "W-04B(NCVC)(W)-349-10/2025",
-      "jurisdiction": "COA",
-      "court": "Court of Appeal",
-      "title": "EKOVEST CAPITAL SDN BHD v TAN TIONG HWA & ors",
-      "parties": [
-        {
-          "label": "PERAYU",
-          "names": [
-            "EKOVEST CAPITAL SDN BHD"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "TAN TIONG HWA",
-            "LIM SWEE PEI"
-          ]
-        }
-      ],
-      "catchwords": "extension of time to deliver vacant possession – Schedule H of the Housing Development (Control and Licensing) Regulations 1989 - Vacant Possession - (a) whether, and to what extent, the decision of the Federal Court in Obata-Ambak applies to this appeal; - (b) whether the respondents’ claims are time-barred under section 6(1) of the Limitation Act 1953; - (c) whether the Settlement Letters are a binding accord and satisfaction which precludes the claims for balance LAD, and in particular whether the statutory character of the SPAs under the HDA and the HDR renders the Settlement Letters ineffective, on the ground that statutory protection cannot be waived and that there can be no estoppel against a statute; - (d) whether allowing the respondents’ claims would result in unjust enrichment; - (e) whether the principles in PJD Regency avail the respondents; - (f) whether the delivery of vacant possession supported by the Partial CCC (Borang F1) was valid, including the preliminary objection founded on Ikumi Terada v Jemix Co Ltd &amp; 2 Others [2019] 1 LNS 881; and - (g) whether the computation of LAD ought to take the appellant’s rebate into account.",
-      "judge": "YA Dato' Ong Chee Kwan",
-      "coram": [
-        "YA Dato' Azizul Azmi Bin Adnan",
-        "YA Dato' Ong Chee Kwan",
-        "YA Dato' Nadzarin Bin Wok Nordin"
-      ],
-      "dateOfResult": "2026-07-14",
-      "dateOfFiling": "2026-07-29",
-      "docs": [
-        {
-          "documentId": "7701f4a9-2842-4e09-bbed-8524fd047293",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "YA Dato' Ong Chee Kwan",
-          "category": "Sebulat Suara (Unanimous)",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=7701f4a9-2842-4e09-bbed-8524fd047293&Inline=true"
         }
       ]
     },
@@ -986,41 +946,6 @@
       ]
     },
     {
-      "id": "91668583-3c29-4865-92f9-be799e64792d",
-      "caseNo": "JA-24MFC-161-02/2024",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "BANK KERJASAMA RAKYAT MALAYSIA BERHAD v KONG SUN ENTERPRISE SDN BHD",
-      "parties": [
-        {
-          "label": "PEMOHON",
-          "names": [
-            "BANK KERJASAMA RAKYAT MALAYSIA BERHAD"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "KONG SUN ENTERPRISE SDN BHD"
-          ]
-        }
-      ],
-      "catchwords": "Land Law : National Land Code 1965, ss. 256 &amp; 257 – Foreclosure – Order for sale – Cause to the contrary – Validity of Form 16D – Fresh statutory notice – Dispute as to indebtedness and Ta&#039;widh computation – Whether dispute on quantum constitutes cause to the contrary – Stay of proceedings pending appeal – Special circumstances – Conversion of originating summons into writ – Discovery – Relevance of documents – Order for sale allowed – Defendant&#039;s applications dismissed",
-      "judge": "YA Dr Noradura Binti Hamzah",
-      "coram": [],
-      "dateOfResult": "2026-06-29",
-      "dateOfFiling": "2026-08-05",
-      "docs": [
-        {
-          "documentId": "1a0d0739-e5f7-448e-a2d2-7e019980ab56",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=1a0d0739-e5f7-448e-a2d2-7e019980ab56&Inline=true"
-        }
-      ]
-    },
-    {
       "id": "c6d13ab6-3523-47a0-9223-afdadd8e5851",
       "caseNo": "01(f)-31-10/2024(W)",
       "jurisdiction": "FC",
@@ -1395,6 +1320,41 @@
       ]
     },
     {
+      "id": "98e23fc3-5bff-47ee-9712-40b69747bbc5",
+      "caseNo": "WA-25-169-06/2023",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "SHELL MALAYSIA LIMITED v Ketua Pengarah Hasil Dalam Negeri",
+      "parties": [
+        {
+          "label": "PEMOHON",
+          "names": [
+            "SHELL MALAYSIA LIMITED"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "Ketua Pengarah Hasil Dalam Negeri"
+          ]
+        }
+      ],
+      "catchwords": "Judicial review-challenge to Notice of Additional Assessments-Applicant carries out treasury and cost contribution services among its related entities-surcharge imposed under s. 140A(3C) of Income Tax Act 1967-DGIR re-characterised cost contribution activities-to intragroup services-interest income from treasury activities subject to tax under section 4(c) and not treated as business income under section 4(a)-whether judicial review should be resorted to without appealing to the Special Commissioner for Income Tax",
+      "judge": "YA Puan Alice Loke Yee Ching",
+      "coram": [],
+      "dateOfResult": "2026-05-21",
+      "dateOfFiling": "2026-08-07",
+      "docs": [
+        {
+          "documentId": "5fb72626-0302-4ee0-bb18-ae7807c0808f",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=5fb72626-0302-4ee0-bb18-ae7807c0808f&Inline=true"
+        }
+      ]
+    },
+    {
       "id": "9b7b142c-036a-4fe1-9ff5-2f93fa485753",
       "caseNo": "W-05(SH)-437-10/2023",
       "jurisdiction": "COA",
@@ -1601,6 +1561,41 @@
           "preparedBy": "YA Datuk Noorin binti Badaruddin",
           "category": "Sebulat Suara (Unanimous)",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=cbc2f9d3-0c56-4561-b0df-5c970f119aa4&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "86557f25-52a4-4e0a-8033-a0a76b5da605",
+      "caseNo": "BA-43-13-05/2026",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "KELUARGA MENDIANG SHINTUMATHI A/P MUTUSAMY v Pendakwa Raya",
+      "parties": [
+        {
+          "label": "PEMOHON",
+          "names": [
+            "KELUARGA MENDIANG SHINTUMATHI A/P MUTUSAMY"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "Pendakwa Raya"
+          ]
+        }
+      ],
+      "catchwords": "Criminal Procedure — Inquest — Revision — Disclosure of documents — Applicability of s.51 Criminal Procedure Code — Interested person — Coroner&#039;s discretion — Practice Direction No. 2 of 2019 — Procedural irregularity — Removal of counsel from proceedings — Inherent jurisdiction of court — Whether coroner erred in failing to exercise discretion and in ordering counsel to leave proceedings.",
+      "judge": "YA Tuan Noor Hisham bin Ismail",
+      "coram": [],
+      "dateOfResult": "2026-05-14",
+      "dateOfFiling": "2026-08-07",
+      "docs": [
+        {
+          "documentId": "c2a5dd87-0655-4259-8c25-0e8d17da42d1",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=c2a5dd87-0655-4259-8c25-0e8d17da42d1&Inline=true"
         }
       ]
     },
@@ -1864,46 +1859,6 @@
       ]
     },
     {
-      "id": "563345d5-baaf-4015-ac14-d2098a458092",
-      "caseNo": "S-05(SH)-383-08/2024",
-      "jurisdiction": "COA",
-      "court": "Court of Appeal",
-      "title": "Antonio Faiz Tho Zhi Guang v Pendakwa Raya & ors",
-      "parties": [
-        {
-          "label": "PERAYU",
-          "names": [
-            "Antonio Faiz Tho Zhi Guang"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "Pendakwa Raya",
-            "[Pendakwa Raya]"
-          ]
-        }
-      ],
-      "catchwords": "Appeal against conviction under section 39B of the Dangerous Drugs Act 1952; whether mens rea of possession made out; caution under section 37B(1)(b); whether statement uttered by the accused admissible under section 27 of the Evidence Act 1950.",
-      "judge": "YA Dato' Azizul Azmi Bin Adnan",
-      "coram": [
-        "YA Dato' Azizul Azmi Bin Adnan",
-        "YA Datuk Ismail Bin Brahim",
-        "YA Dato' Ahmad Fairuz bin Zainol Abidin"
-      ],
-      "dateOfResult": "2026-04-20",
-      "dateOfFiling": "2026-07-29",
-      "docs": [
-        {
-          "documentId": "b8f10957-bbab-47f6-9978-491821c92210",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "YA Dato' Azizul Azmi Bin Adnan",
-          "category": "Sebulat Suara (Unanimous)",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=b8f10957-bbab-47f6-9978-491821c92210&Inline=true"
-        }
-      ]
-    },
-    {
       "id": "a2c569f3-ac52-4b4b-b78d-8755d01b27b4",
       "caseNo": "BKA-1-01/2026(W)",
       "jurisdiction": "FC",
@@ -1979,43 +1934,6 @@
       ]
     },
     {
-      "id": "844ca2ea-7e5a-4388-9905-77eb6e05a27f",
-      "caseNo": "JA-12B-36-06/2025",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "Gan Seng Giap & ors v Mohd Fazely Bin Md Taha & ors",
-      "parties": [
-        {
-          "label": "PERAYU",
-          "names": [
-            "Gan Seng Giap",
-            "Yeong Siew Ching"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "Mohd Fazely Bin Md Taha",
-            "Nur Hidayah Hamizah Bte Mohd Ruba'i"
-          ]
-        }
-      ],
-      "catchwords": "Personal Injury – Road traffic accident – Quantum of damages – Spinal cord injury – Tetraplegia – General damages – Award within Compendium range – Overlapping injuries – Deduction 10% applied – Global award adjusted – Loss of earnings – Deduction of living expenses mandatory under s 28A Civil Law Act 1956 – Multiplier – Multiplicand – Future care costs – Home care vs institutional care – Life expectancy – Statistical evidence – Ambulance costs – Future expenses recalculated – Interim payment deduction – Pre-judgment interest not applicable to future damages – Appeals allowed in part – No order as to costs",
-      "judge": "YA Dr Noradura Binti Hamzah",
-      "coram": [],
-      "dateOfResult": "2026-03-12",
-      "dateOfFiling": "2026-08-05",
-      "docs": [
-        {
-          "documentId": "5ea5906d-0f52-4575-b9b0-8384470bf85d",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=5ea5906d-0f52-4575-b9b0-8384470bf85d&Inline=true"
-        }
-      ]
-    },
-    {
       "id": "317fca57-7d5c-4ba7-8b6b-fefb7b86b815",
       "caseNo": "W-02(NCC)(W)-1459-09/2023",
       "jurisdiction": "COA",
@@ -2052,6 +1970,86 @@
           "preparedBy": "YA Datuk Ravinthran a/l Paramaguru",
           "category": "Sebulat Suara (Unanimous)",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=86fc56bf-baf5-4785-960e-4a46b8e57a8e&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "51ddbed8-0a6d-4804-ab5d-c71ce8150cab",
+      "caseNo": "S-05(H)-115-03/2024",
+      "jurisdiction": "COA",
+      "court": "Court of Appeal",
+      "title": "Edric Ng Tze Khin v Pendakwa Raya & ors",
+      "parties": [
+        {
+          "label": "PERAYU",
+          "names": [
+            "Edric Ng Tze Khin"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "Pendakwa Raya",
+            "[Pendakwa Raya]"
+          ]
+        }
+      ],
+      "catchwords": "Drug trafficking - Section 39B(1)(a) Dangerous Drugs Act - Appeal by the Accused against conviction and sentence - Appeal by the Prosecution on the regularity of the sentence of 35 years imprisonment imposed by the High Court - Drugs found in envelopes in a car with the Accused as the driver and a female passenger in the front passenger seat - The female passenger was charged together with the Accused but was acquitted and discharged at the end of prosecution case - Issue on the credibility of PW4’s testimony on the matter of the Accused pointing towards the bag and envelopes containing the drugs - Whether there was a failure by the Prosecution to call DW2 as the owner of the Vehicle as a witness for the Prosecution - Whether the Accused ought to be acquitted on the basis of the co-accused’s acquittal - Whether there was an error committed by the HCJ in passing an imprisonment sentence of 35 years.",
+      "judge": "YA Datuk Dr Lim Hock Leng",
+      "coram": [
+        "Dato' Dr. Choo Kah Sing",
+        "YA Datuk Dr Lim Hock Leng",
+        "YA Datuk Mohd Radzi Bin Abdul Hamid"
+      ],
+      "dateOfResult": "2026-02-08",
+      "dateOfFiling": "2026-08-07",
+      "docs": [
+        {
+          "documentId": "8ced4a17-3f2c-4586-929b-048f16433b76",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "YA Datuk Mohd Radzi Bin Abdul Hamid",
+          "category": "Sebulat Suara (Unanimous)",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=8ced4a17-3f2c-4586-929b-048f16433b76&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "de0ed236-56b0-4f1d-bb25-2bbef3031093",
+      "caseNo": "S-05(H)-58-02/2024",
+      "jurisdiction": "COA",
+      "court": "Court of Appeal",
+      "title": "Pendakwa Raya & ors v Edric Ng Tze Khin",
+      "parties": [
+        {
+          "label": "PERAYU",
+          "names": [
+            "Pendakwa Raya",
+            "[Pendakwa Raya]"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "Edric Ng Tze Khin"
+          ]
+        }
+      ],
+      "catchwords": "Drug trafficking - Section 39B(1)(a) Dangerous Drugs Act - Appeal by the Accused against conviction and sentence - Appeal by the Prosecution on the regularity of the sentence of 35 years imprisonment imposed by the High Court - Drugs found in envelopes in a car with the Accused as the driver and a female passenger in the front passenger seat - The female passenger was charged together with the Accused but was acquitted and discharged at the end of prosecution case - Issue on the credibility of PW4’s testimony on the matter of the Accused pointing towards the bag and envelopes containing the drugs - Whether there was a failure by the Prosecution to call DW2 as the owner of the Vehicle as a witness for the Prosecution - Whether the Accused ought to be acquitted on the basis of the co-accused’s acquittal - Whether there was an error committed by the HCJ in passing an imprisonment sentence of 35 years.",
+      "judge": "Dato' Dr. Choo Kah Sing",
+      "coram": [
+        "Dato' Dr. Choo Kah Sing",
+        "YA Datuk Dr Lim Hock Leng",
+        "YA Datuk Mohd Radzi Bin Abdul Hamid"
+      ],
+      "dateOfResult": "2026-02-08",
+      "dateOfFiling": "2026-08-07",
+      "docs": [
+        {
+          "documentId": "19908a89-8e0a-4f45-8d63-7376289f37cc",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "YA Datuk Mohd Radzi Bin Abdul Hamid",
+          "category": "Sebulat Suara (Unanimous)",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=19908a89-8e0a-4f45-8d63-7376289f37cc&Inline=true"
         }
       ]
     },
