@@ -1,6 +1,6 @@
 {
   "source": "Malaysia E-Judgment Portal (ejudgment.kehakiman.gov.my)",
-  "updatedAt": "2026-08-08T03:58:29.904Z",
+  "updatedAt": "2026-08-09T04:06:14.877Z",
   "count": 60,
   "judgments": [
     {
@@ -262,41 +262,6 @@
       ]
     },
     {
-      "id": "e47516d4-ddf8-48a8-9e07-02597e83575c",
-      "caseNo": "WA-42H-13-10/2024",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "Pendakwa Raya v KHANESEN A/L THIYAGARAJAN",
-      "parties": [
-        {
-          "label": "PERAYU",
-          "names": [
-            "Pendakwa Raya"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "KHANESEN A/L THIYAGARAJAN"
-          ]
-        }
-      ],
-      "catchwords": "Rape committed by valet- club where the young ones gather- cctv advantage as familiar with blind spot- aggravating factor",
-      "judge": "YA Puan Nurulhuda Nur'aini Binti Mohamad Nor",
-      "coram": [],
-      "dateOfResult": "2026-07-27",
-      "dateOfFiling": "2026-08-05",
-      "docs": [
-        {
-          "documentId": "f15fbc1c-399c-4dec-940f-e57df94a27df",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=f15fbc1c-399c-4dec-940f-e57df94a27df&Inline=true"
-        }
-      ]
-    },
-    {
       "id": "88c54acd-5c06-47ce-b4ce-6f6ffa41ad84",
       "caseNo": "WA-42H-13-10/2024",
       "jurisdiction": "HC",
@@ -328,41 +293,6 @@
           "preparedBy": "",
           "category": "",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=f15fbc1c-399c-4dec-940f-e57df94a27df&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "5ca61efd-e778-4e8a-9121-b613e1fbd31e",
-      "caseNo": "WA-42S-11-09/2024",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "KHANESEN A/L THIYAGARAJAN v Pendakwa Raya",
-      "parties": [
-        {
-          "label": "PERAYU",
-          "names": [
-            "KHANESEN A/L THIYAGARAJAN"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "Pendakwa Raya"
-          ]
-        }
-      ],
-      "catchwords": "rape by valet-intoxicated victim- state of mind of victim-evidence to corroborate-if defence reasonable",
-      "judge": "YA Puan Nurulhuda Nur'aini Binti Mohamad Nor",
-      "coram": [],
-      "dateOfResult": "2026-07-27",
-      "dateOfFiling": "2026-08-05",
-      "docs": [
-        {
-          "documentId": "2dc5f38d-c6de-4195-9cde-975205d72416",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=2dc5f38d-c6de-4195-9cde-975205d72416&Inline=true"
         }
       ]
     },
@@ -1187,6 +1117,84 @@
       ]
     },
     {
+      "id": "1df5650a-369b-49df-a882-84fce547e06f",
+      "caseNo": "WA-22NCvC-412-07/2025",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "CMC I-CARE SDN BHD & ors v THEVAN REALTY & ors",
+      "parties": [
+        {
+          "label": "PLAINTIF",
+          "names": [
+            "CMC I-CARE SDN BHD",
+            "RAVINDER SNGH A/L SHAHGARA SINGH"
+          ]
+        },
+        {
+          "label": "DEFENDAN",
+          "names": [
+            "THEVAN REALTY",
+            "THEVANDRAN A/L K. RAGAVAN",
+            "TETUAN ADHA SELVI & ASSOCIATES",
+            "SELVI A/P KANAGASABAI"
+          ]
+        }
+      ],
+      "catchwords": "There are two applications before the Court. In Enclosure 45, the first and second defendants seek to strike out the plaintiff&#039;s action under Order 18 rule 19(1) (a), (b) and/or (d) of the Rules of Court 2012 (&quot;ROC&quot;), while Enclosure 48 is the same type of application filed by the third and fourth defendants. In the present suit, the first plaintiff seeks to set aside the judgment granted by the Kuala Lumpur Sessions Court in Suit 691 in favour of the first defendant for the sum of RM225,000.00, together with costs and interest. Meanwhile, the second plaintiff also seeks to set aside the judgment granted by the Kuala Lumpur Sessions Court in Suit 429 in which his claim against the first and second defendants for RM150,000.00 was dismissed with costs. The court finds that the current allegations are based entirely on documents that were already before the Sessions Court. To further compound the matter, there were no allegations of forgery in the Sessions Court despite the fact that the relevant documents were included in the Common Bundle of Documents. In fact, these documents were placed in part B at the proceedings in the Sessions Court, indicating their authenticity. Moreover, all the issues raised by the plaintiffs now could and should have been raised in the Sessions Court. Essentially, the plaintiffs are rehashing issues that have already been tried and decided by the Sessions Courts and the High Courts that have heard the appeals. In light of the above, the court allows both Enclosures 45 and 48 with costs of RM6,000.00 to each set of the defendants, subject to allocatur.",
+      "judge": "YA Dato' Raja Ahmad Mohzanuddin Shah bin Raja Mohzan",
+      "coram": [],
+      "dateOfResult": "2026-06-03",
+      "dateOfFiling": "2026-08-08",
+      "docs": [
+        {
+          "documentId": "73a7650d-90bc-45c9-b0a5-d30159bb86be",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=73a7650d-90bc-45c9-b0a5-d30159bb86be&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "6bd8d884-4bd8-45ed-837e-3feae50fd37b",
+      "caseNo": "WA-22NCvC-412-07/2025",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "CMC I-CARE SDN BHD & ors v THEVAN REALTY & ors",
+      "parties": [
+        {
+          "label": "PLAINTIF",
+          "names": [
+            "CMC I-CARE SDN BHD",
+            "RAVINDER SNGH A/L SHAHGARA SINGH"
+          ]
+        },
+        {
+          "label": "DEFENDAN",
+          "names": [
+            "THEVAN REALTY",
+            "THEVANDRAN A/L K. RAGAVAN",
+            "TETUAN ADHA SELVI & ASSOCIATES",
+            "SELVI A/P KANAGASABAI"
+          ]
+        }
+      ],
+      "catchwords": "There are two applications before the Court. In Enclosure 45, the first and second defendants seek to strike out the plaintiff&#039;s action under Order 18 rule 19(1) (a), (b) and/or (d) of the Rules of Court 2012 (&quot;ROC&quot;), while Enclosure 48 is the same type of application filed by the third and fourth defendants. In the present suit, the first plaintiff seeks to set aside the judgment granted by the Kuala Lumpur Sessions Court in Suit 691 in favour of the first defendant for the sum of RM225,000.00, together with costs and interest. Meanwhile, the second plaintiff also seeks to set aside the judgment granted by the Kuala Lumpur Sessions Court in Suit 429 in which his claim against the first and second defendants for RM150,000.00 was dismissed with costs. The court finds that the current allegations are based entirely on documents that were already before the Sessions Court. To further compound the matter, there were no allegations of forgery in the Sessions Court despite the fact that the relevant documents were included in the Common Bundle of Documents. In fact, these documents were placed in part B at the proceedings in the Sessions Court, indicating their authenticity. Moreover, all the issues raised by the plaintiffs now could and should have been raised in the Sessions Court. Essentially, the plaintiffs are rehashing issues that have already been tried and decided by the Sessions Courts and the High Courts that have heard the appeals. In light of the above, the court allows both Enclosures 45 and 48 with costs of RM6,000.00 to each set of the defendants, subject to allocatur.",
+      "judge": "YA Dato' Raja Ahmad Mohzanuddin Shah bin Raja Mohzan",
+      "coram": [],
+      "dateOfResult": "2026-06-03",
+      "dateOfFiling": "2026-08-08",
+      "docs": [
+        {
+          "documentId": "62e748d6-0eba-4fbe-81b6-b736961ddaee",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=62e748d6-0eba-4fbe-81b6-b736961ddaee&Inline=true"
+        }
+      ]
+    },
+    {
       "id": "d38fce32-e420-4eab-8762-8d1c9f1647f1",
       "caseNo": "MA-28NCC-12-04/2025",
       "jurisdiction": "HC",
@@ -1218,41 +1226,6 @@
           "preparedBy": "",
           "category": "",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=d4a1b9e1-9696-485e-927c-380857b58714&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "d3f22478-b06d-4b0d-a3f2-db99a5c0e5a9",
-      "caseNo": "BA-22NCvC-47-02/2024",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "LH EDUCARE SDN BHD v CAMBRIDGE ENGLISH FOR LIFE SDN BHD",
-      "parties": [
-        {
-          "label": "PLAINTIF",
-          "names": [
-            "LH EDUCARE SDN BHD"
-          ]
-        },
-        {
-          "label": "DEFENDAN",
-          "names": [
-            "CAMBRIDGE ENGLISH FOR LIFE SDN BHD"
-          ]
-        }
-      ],
-      "catchwords": "Franchise Agreement – expiry – renewal notice – conditional extension – statutory obligation Conditions Precedent – breach – EMS non compliance – arrears in royalties – disqualification from renewal Franchise Act 1998 – ss.18(1), 30, 32, 34 – statutory duties – supremacy – estoppel Estoppel – post expiry conduct – continued operation under franchisor’s brand – liability for royalties Evidence Act 1950 – ss.34, 90A – statement of account – prima facie proof – burden of disproof Damages – special damages – lost profits – proof – estimates insufficient – dismissal of claim Injunction – intellectual property – confidential information – competing business – delivery up of materials",
-      "judge": "YA Puan Shoba Rajah a/p Dorai Rajah",
-      "coram": [],
-      "dateOfResult": "2026-05-27",
-      "dateOfFiling": "2026-08-05",
-      "docs": [
-        {
-          "documentId": "242ca5cf-295b-4e50-a29a-87ecca1ac067",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=242ca5cf-295b-4e50-a29a-87ecca1ac067&Inline=true"
         }
       ]
     },
@@ -1435,7 +1408,7 @@
       ]
     },
     {
-      "id": "1519248d-103b-42ad-a276-ade5126360a7",
+      "id": "c441663e-479a-4059-a62e-663df86ae51a",
       "caseNo": "BA-22NCvC-471-10/2025",
       "jurisdiction": "HC",
       "court": "High Court",
@@ -1480,7 +1453,7 @@
       ]
     },
     {
-      "id": "c441663e-479a-4059-a62e-663df86ae51a",
+      "id": "1519248d-103b-42ad-a276-ade5126360a7",
       "caseNo": "BA-22NCvC-471-10/2025",
       "jurisdiction": "HC",
       "court": "High Court",
@@ -1596,41 +1569,6 @@
           "preparedBy": "",
           "category": "",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=c2a5dd87-0655-4259-8c25-0e8d17da42d1&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "eed90d8d-3a97-433e-8df1-e9223def1ced",
-      "caseNo": "WA-43-26-05/2026",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "Zhou Ting v Pendakwa Raya",
-      "parties": [
-        {
-          "label": "PEMOHON",
-          "names": [
-            "Zhou Ting"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "Pendakwa Raya"
-          ]
-        }
-      ],
-      "catchwords": "The applicant filed a fresh application for bail in this court which was heard on 21 July 2026. After hearing counsel and the DPP, I allowed bail in the sum of RM 3000.00 with two Malaysian citizens as sureties who know the applicant, one of whom is a medical doctor. I imposed some additional conditions inter alia that the passport of the applicant to be surrendered to the court and the applicant to report to the nearest police station every two weeks beginning from 5 August 2026 until her case is concluded.",
-      "judge": "YA Datuk Aslam Bin Zainuddin",
-      "coram": [],
-      "dateOfResult": "2026-05-13",
-      "dateOfFiling": "2026-08-06",
-      "docs": [
-        {
-          "documentId": "37ec5096-6e2e-4180-8b27-694ab7c89f13",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=37ec5096-6e2e-4180-8b27-694ab7c89f13&Inline=true"
         }
       ]
     },
@@ -1893,43 +1831,6 @@
           "preparedBy": "YAA Datuk Seri Hashim Bin Hamzah",
           "category": "Sebulat Suara (Unanimous)",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=283e77d7-d3f6-446e-8134-d5f4edd8ec76&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "b01482d1-f84b-4d96-9d63-9529e0499751",
-      "caseNo": "JA-12B-35-06/2025",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "Mohd Fazely Bin Md Taha & ors v Gan Seng Giap & ors",
-      "parties": [
-        {
-          "label": "PERAYU",
-          "names": [
-            "Mohd Fazely Bin Md Taha",
-            "Nur Hidayah Hamizah Bte Mohd Ruba'i"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "Gan Seng Giap",
-            "Yeong Siew Ching"
-          ]
-        }
-      ],
-      "catchwords": "Personal Injury – Road traffic accident – Quantum of damages – Spinal cord injury – Tetraplegia – General damages – Award within Compendium range – Overlapping injuries – Deduction 10% applied – Global award adjusted – Loss of earnings – Deduction of living expenses mandatory under s 28A Civil Law Act 1956 – Multiplier – Multiplicand – Future care costs – Home care vs institutional care – Life expectancy – Statistical evidence – Ambulance costs – Future expenses recalculated – Interim payment deduction – Pre-judgment interest not applicable to future damages – Appeals allowed in part – No order as to costs",
-      "judge": "YA Dr Noradura Binti Hamzah",
-      "coram": [],
-      "dateOfResult": "2026-03-12",
-      "dateOfFiling": "2026-08-05",
-      "docs": [
-        {
-          "documentId": "21b3c4cd-59c7-4fa6-9d55-e0bbe9563a74",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=21b3c4cd-59c7-4fa6-9d55-e0bbe9563a74&Inline=true"
         }
       ]
     },
@@ -2208,6 +2109,117 @@
           "preparedBy": "YA Datuk Meor Hashimi bin Abdul Hamid",
           "category": "Sebulat Suara (Unanimous)",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=5ecc839c-ecca-4935-9186-8fcd4897d812&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "dfa5f2cd-8fbf-4cf3-9530-82afa19c38d1",
+      "caseNo": "WA-12BNCvC-55-06/2025",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "FRANCIS HO SEE SIN v TOH OOI PENG & ors",
+      "parties": [
+        {
+          "label": "PERAYU",
+          "names": [
+            "FRANCIS HO SEE SIN"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "TOH OOI PENG",
+            "HO SZE KEEN",
+            "HO WYE LUN"
+          ]
+        }
+      ],
+      "catchwords": "Appeal against Sessions Court judgment – Judgment ordered for Appellant to pay Respondents for two separate claims – First judgment to indemnify the Respondent – Appellant director of company which requested loan – Second judgment was based on alleged promise by Appellant to pay rentals received by his son in Australia for properties belonging to the Respondents in Australia – Appeal against judgment for first claim dismissed – Appeal against judgment for second claim allowed – Respondents could not prove any claim against the Appellant’s son – No consideration given by the Respondents – Sessions Court judge erred as it is an unsustainable claim against the Appellant that should have been filed in Australia",
+      "judge": "YA Tuan Gan Techiong",
+      "coram": [],
+      "dateOfResult": "2025-11-18",
+      "dateOfFiling": "2026-08-08",
+      "docs": [
+        {
+          "documentId": "aa5d26d5-1229-4ad8-97eb-3fb0e1503380",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=aa5d26d5-1229-4ad8-97eb-3fb0e1503380&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "4f3edad5-7640-4cfc-b8d7-17efb50cc5ae",
+      "caseNo": "WA-12BNCvC-55-06/2025",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "FRANCIS HO SEE SIN v TOH OOI PENG & ors",
+      "parties": [
+        {
+          "label": "PERAYU",
+          "names": [
+            "FRANCIS HO SEE SIN"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "TOH OOI PENG",
+            "HO SZE KEEN",
+            "HO WYE LUN"
+          ]
+        }
+      ],
+      "catchwords": "Appeal against Sessions Court judgment – Judgment ordered for Appellant to pay Respondents for two separate claims – First judgment to indemnify the Respondent – Appellant director of company which requested loan – Second judgment was based on alleged promise by Appellant to pay rentals received by his son in Australia for properties belonging to the Respondents in Australia – Appeal against judgment for first claim dismissed – Appeal against judgment for second claim allowed – Respondents could not prove any claim against the Appellant’s son – No consideration given by the Respondents – Sessions Court judge erred as it is an unsustainable claim against the Appellant that should have been filed in Australia",
+      "judge": "YA Tuan Gan Techiong",
+      "coram": [],
+      "dateOfResult": "2025-11-18",
+      "dateOfFiling": "2026-08-08",
+      "docs": [
+        {
+          "documentId": "aa5d26d5-1229-4ad8-97eb-3fb0e1503380",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=aa5d26d5-1229-4ad8-97eb-3fb0e1503380&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "4607f408-7be8-4ae4-80ce-a8077185055e",
+      "caseNo": "WA-12BNCvC-55-06/2025",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "FRANCIS HO SEE SIN v TOH OOI PENG & ors",
+      "parties": [
+        {
+          "label": "PERAYU",
+          "names": [
+            "FRANCIS HO SEE SIN"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "TOH OOI PENG",
+            "HO SZE KEEN",
+            "HO WYE LUN"
+          ]
+        }
+      ],
+      "catchwords": "Appeal against Sessions Court judgment – Judgment ordered for Appellant to pay Respondents for two separate claims – First judgment to indemnify the Respondent – Appellant director of company which requested loan – Second judgment was based on alleged promise by Appellant to pay rentals received by his son in Australia for properties belonging to the Respondents in Australia – Appeal against judgment for first claim dismissed – Appeal against judgment for second claim allowed – Respondents could not prove any claim against the Appellant’s son – No consideration given by the Respondents – Sessions Court judge erred as it is an unsustainable claim against the Appellant that should have been filed in Australia",
+      "judge": "YA Tuan Gan Techiong",
+      "coram": [],
+      "dateOfResult": "2025-11-18",
+      "dateOfFiling": "2026-08-08",
+      "docs": [
+        {
+          "documentId": "aa5d26d5-1229-4ad8-97eb-3fb0e1503380",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=aa5d26d5-1229-4ad8-97eb-3fb0e1503380&Inline=true"
         }
       ]
     },
