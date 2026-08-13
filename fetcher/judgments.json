@@ -1,85 +1,113 @@
 {
   "source": "Malaysia E-Judgment Portal (ejudgment.kehakiman.gov.my)",
-  "updatedAt": "2026-08-12T05:20:06.789Z",
+  "updatedAt": "2026-08-13T00:07:50.552Z",
   "count": 60,
   "judgments": [
     {
-      "id": "d74cd6c6-aa55-425d-a2ec-5921e8927023",
-      "caseNo": "PA-22NCvC-146-08/2021",
+      "id": "76065f82-0583-456a-8086-db1fd0c60200",
+      "caseNo": "MA-16-19-12/2025",
       "jurisdiction": "HC",
       "court": "High Court",
-      "title": "TAN YIH YANG & ors v ASIANA HOME HOLDINGS BERHAD & ors",
+      "title": "KOH JON HORNG v AXIATOP SDN. BHD.",
       "parties": [
         {
-          "label": "PLAINTIF",
+          "label": "PERAYU",
           "names": [
-            "TAN YIH YANG",
-            "CHENG MIN YEE",
-            "TAN CHAI SHI",
-            "TAN YIH JYE",
-            "WONG WAI HONG",
-            "ONG AH BAA",
-            "ONG KAAN SEANG",
-            "NG CHONG YAM"
-          ]
-        },
-        {
-          "label": "DEFENDAN",
-          "names": [
-            "ASIANA HOME HOLDINGS BERHAD",
-            "CHENG MOH SIONG",
-            "CHENG MOH TING",
-            "OOI KEAN YONG"
-          ]
-        }
-      ],
-      "catchwords": "Amendment of defence - Whether delay is mala fides - Whether compensable by costs - Whether 3rd principle of Yamaha Motor requires turning the suit into another and different character",
-      "judge": "YA Tuan Chan Kheng Hoe",
-      "coram": [],
-      "dateOfResult": "2026-08-10",
-      "dateOfFiling": "2026-08-11",
-      "docs": [
-        {
-          "documentId": "f052388d-89d2-421d-913d-94837c7e2646",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=f052388d-89d2-421d-913d-94837c7e2646&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "fde5cfd3-6ae5-4461-8e09-6c684215d20c",
-      "caseNo": "MA-24NCvC-273-07/2026",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "YEOW WAN ZI v YAP KOK KHENG",
-      "parties": [
-        {
-          "label": "PEMOHON",
-          "names": [
-            "YEOW WAN ZI"
+            "KOH JON HORNG"
           ]
         },
         {
           "label": "RESPONDEN",
           "names": [
-            "YAP KOK KHENG"
+            "AXIATOP SDN. BHD."
           ]
         }
       ],
-      "catchwords": "Land Law — Private caveat — Notice of intended removal — Application to extend two-month statutory period following service of Form 19C — National Land Code, s 326(2) Land Law — Private caveat — Extension — Application required to be made before expiry of running statutory period Land Law — Private caveat — Extension — Burden resting upon caveator — Principles analogous to interlocutory injunction Land Law — Private caveat — Extension — Caveator required to establish caveatable interest, serious question to be tried and balance of convenience favouring preservation of caveat Land Law — Private caveat — Caveatable interest — Claim to title, registrable interest, right to such title or interest, or beneficial entitlement under trust — National Land Code, s 323(1) Land Law — Private caveat — Matrimonial home registered solely in husband’s name — Wife claiming present beneficial share arising from contributions during marriage Land Law — Private caveat — Beneficial interest — Claim under resulting or constructive trust arising from contributions capable of supporting caveat — National Land Code, s 323(1)(b) Family Law — Matrimonial assets — Property purchased by one spouse before marriage — Alleged substantial improvement during marriage through other spouse’s or parties’ joint efforts — Law Reform (Marriage and Divorce) Act 1976, s 76(5) Family Law — Matrimonial assets — Contributions — Contribution towards matrimonial property need not be purely financial Family Law — Matrimonial assets — Sole registration — Registration of matrimonial home in one spouse’s name not precluding beneficial share being awarded to other spouse Land Law — Private caveat — Bare expectation — Possible future exercise of matrimonial jurisdiction being personal claim insufficient, without more, to support caveat Land Law — Private caveat — Present beneficial interest — Wife relying upon maintenance of property, household expenditure and substantial improvements through joint efforts Land Law — Private caveat — Serious question to be tried — Whether improvements were substantial and what share they might produce being matters for trial Land Law — Private caveat — Pre-marital acquisition — Acquisition before marriage not by itself placing property beyond divorce court’s jurisdiction Land Law — Private caveat — Registered proprietor disputing claim — Denial not depriving beneficial claim of arguable character Land Law — Private caveat — Caveator having left matrimonial home — Departure allegedly following expulsion — Departure not negating beneficial interest allegedly accrued during preceding years Land Law — Private caveat — Interlocutory determination — Caveat determining no proprietary rights and expressing no conclusion upon ownership or quantum Civil Procedure — Ex parte application — Court expressly empowered to intervene ex parte where circumstances required — National Land Code, s 326(2) Civil Procedure — Ex parte application — Caveat due to lapse before inter partes originating summons could realistically be heard — Statutory recourse otherwise rendered illusory Civil Procedure — Ex parte application — Interim extension confined to disposal of originating summons — Substantive continuance reserved for inter partes determination Civil Procedure — Ex parte application — Full and frank disclosure — Applicant disclosing pre-marital purchase, sole registration and proprietor’s rejection of claim — Duty discharged Civil Procedure — Ex parte order — Registered proprietor retaining liberty to apply to set aside or vary order Land Law — Private caveat — Balance of convenience — Pending matrimonial proceedings — Court slow to disturb status quo of land register Land Law — Private caveat — Caveat due to lapse three days before divorce trial concerning division of property Land Law — Private caveat — Risk of transfer or charge to third party",
+      "catchwords": "Employment Law — Labour Court — Appeal to High Court — Statutory right of appeal — Employment Act 1955, s 77 Employment Law — Labour Court — Appellate procedure — Section 77(2) expressly adopting procedure applicable to civil appeals from Sessions Court with necessary modifications Civil Procedure — Appeal — Labour Court decision — Whether Order 55 or Order 55A of Rules of Court 2012 applicable Statutory Interpretation — Specific provision prevailing over general provision — Section 77(2) prescribing Order 55 procedure despite administrative character of Labour Office — Order 55A inapplicable Civil Procedure — Appeal — Alternative application of Order 55A — No originating summons stating grounds of appeal and supported by affidavit filed or served within prescribed month — Appeal defective on either procedural footing Civil Procedure — Appeal — Right of appeal creature of statute — Right required to be exercised in accordance with provisions conferring it Civil Procedure — Appeal — Institution of appeal — Filing and timeous service constituting separate and necessary acts Civil Procedure — Appeal — Notice of appeal filed within fourteen days but served 115 days out of time — Filing alone insufficient to bring appeal Civil Procedure — Appeal — Late service of notice — Service within appeal period being constitutive act rather than procedural step in existing proceedings Civil Procedure — Appeal — Competence — Appeal not competently constituted where notice not served within prescribed period — Order 55 rr 2 and 3(4) Civil Procedure — Irregularity — Order 2 r 1 presupposing validly constituted proceedings — Provision incapable of supplying competence to appeal never completely brought within time Civil Procedure — Appeal — Late service — Respondent unaware of appeal for nearly four months and deprived of finality of order made in its favour Civil Procedure — Appeal — Record of appeal — Record required to be filed and served within one month after notice of appeal — Order 55 rr 4(1) and 4(8) Civil Procedure — Appeal — Record of appeal never filed or served — Continuing and material non-compliance Civil Procedure — Appeal — Grounds and notes of evidence unavailable — Record nevertheless required to be filed within time — Missing documents capable of subsequent inclusion by supplementary record without leave Civil Procedure — Appeal — Written request for notes and grounds — No evidence of request having been made within appeal period — Order 55 r 3(5) Civil Procedure — Appeal — Memorandum of appeal — No memorandum filed — Alleged errors not formulated and Court unable to assess prospects of success Civil Procedure — Extension of time — Order 3 r 5 — Relief required to be sought by formal application supported by affidavit explaining entire delay Civil Procedure — Extension of time — No application filed despite defect being raised and Registrar expressly directing appellant to apply — Extension unavailable through submissions or oral prayer Evidence — Submissions — Submissions not constituting evidence capable of explaining procedural default Civil Procedure — Extension of time — Alleged default of former solicitors — No affidavit from either firm and no complete explanation of successive periods of delay Civil Procedure — Extension of time — Litigant legally represented throughout — Solicitor’s mistake not, without more, sufficient ground for indulgence — Litigant required to exercise reasonable diligence Civil Procedure — Extension of time — Lay status and limited means — General and second-hand assertions insufficient to justify prolonged procedural default Civil Procedure — Overriding interest of justice — Order 1A — Justice operating in favour of both parties — Respondent entitled to timely notice, participation and finality Civil Procedure — Preliminary objection — Order 2 r 3 — Late service distinguishable",
       "judge": "YA Dato' Sri Raja Segaran A/L S.Krishnan",
       "coram": [],
-      "dateOfResult": "2026-08-09",
-      "dateOfFiling": "2026-08-11",
+      "dateOfResult": "2026-08-10",
+      "dateOfFiling": "2026-08-12",
       "docs": [
         {
-          "documentId": "d3882860-20c3-45dd-bc0c-2d2393e5e027",
+          "documentId": "6303e459-ca0b-4eea-aa17-4cd36336da7f",
           "name": "Alasan Penghakiman",
           "preparedBy": "",
           "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=d3882860-20c3-45dd-bc0c-2d2393e5e027&Inline=true"
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=6303e459-ca0b-4eea-aa17-4cd36336da7f&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "8b05464e-393e-4dd9-949b-f36a87c9c3c0",
+      "caseNo": "MA-22NCvC-43-10/2022",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "Ee Chong Pang v Ee Joo Guat & ors",
+      "parties": [
+        {
+          "label": "PLAINTIF",
+          "names": [
+            "Ee Chong Pang"
+          ]
+        },
+        {
+          "label": "DEFENDAN",
+          "names": [
+            "Ee Joo Guat",
+            "Southern Sierra Sdn Bhd",
+            "Pendaftar Hakmilik Tanah Negeri Melaka",
+            "Pentadbir Tanah Daerah Alor Gajah"
+          ]
+        }
+      ],
+      "catchwords": "Legal profession — Advocate and solicitor — Disqualification — Partner of solicitors’ firm intended to testify at trial — Another partner appearing as lead counsel for same litigant Legal profession — Advocate and solicitor — Disqualification — Seriousness of application — Litigant’s choice of solicitors and professional position of members of Bar affected — Detailed consideration required Legal profession — Advocate and solicitor — Advocate-witness rule — Witness giving evidence on material and disputed questions of fact — Legal Profession (Practice and Etiquette) Rules 1978, r 28(a) Legal profession — Advocate and solicitor — Advocate-witness rule — Whether restriction extended to entire firm — Retainer belonging to firm rather than individual solicitor Legal profession — Advocate and solicitor — Conflict of interest — Counsel required to examine own partner and make submissions upon partner’s credibility Legal profession — Advocate and solicitor — Conflict of interest — Adequacy of firm’s own conveyancing work forming subject matter of trial Legal profession — Advocate and solicitor — Professional independence — Counsel unable to maintain complete professional independence and objectivity while defending conduct of own firm Legal profession — Advocate and solicitor — Professional independence — Loyalty to partner and firm incompatible with duties to court and client — Legal Profession (Practice and Etiquette) Rules 1978, r 5(a) Legal profession — Advocate and solicitor — Professional conduct likely to be impugned — Conveyancing undertaken by partner of appearing counsel — Rule 4 engaged through firm Legal profession — Advocate and solicitor — Disqualification not punishment for misconduct — Order serving best interests of justice Legal profession — Advocate and solicitor — Disqualification exercised with restraint — Strong case and cogent evidence required — Conjecture or speculation insufficient Legal profession — Advocate and solicitor — Potential witness — Objective test — Whether reasonable person armed with facts would anticipate solicitor being called as witness Legal profession — Advocate and solicitor — Witness expressly named and statement filed — Conflict neither conjectural nor speculative Legal profession — Advocate and solicitor — Witness called by own client rather than opposing party — Identity of party calling witness immaterial under r 28(a) Legal profession — Advocate and solicitor — Formal or undisputed evidence — Exception under r 28(c) — Evidence concerning searches, representations, inquiries and due diligence not merely formal Evidence — Documentary evidence — Part B documents — Agreement as to authenticity not constituting agreement as to truth, adequacy or legal sufficiency of contents Land law — Transfer of land — Bona fide purchaser for value without notice — Due diligence undertaken by purchaser’s conveyancing solicitor — Materiality of solicitor’s evidence Land law — Indefeasibility of title — Purchaser’s knowledge and inquiries — Historical facts underlying sufficiency of due diligence disputed Legal profession — Advocate and solicitor — Counsel of choice — Fundamental right not absolute — Right yielding to administration of justice and avoidance of professional embarrassment Administration of justice — Public confidence — Objective appearance of conflict — Justice required to be done and seen to be done Legal profession — Advocate and solicitor — Confidential information — No former solicitor-and-client relationship alleged — Confidential-information principles inapplicable Legal profession — Advocate and solicitor — Rules and Rulings of Bar Council, ruling 6.07 — Firm not shown to have acted for both parties or witnessed disputed signature — Decision resting upon Etiquette Rules Legal profession — Advocate and solicitor — Withdrawal without jeopardising client’s interests — Proviso re",
+      "judge": "YA Dato' Sri Raja Segaran A/L S.Krishnan",
+      "coram": [],
+      "dateOfResult": "2026-08-10",
+      "dateOfFiling": "2026-08-12",
+      "docs": [
+        {
+          "documentId": "33ee63a7-d580-47e9-86a0-831c807d25a1",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=33ee63a7-d580-47e9-86a0-831c807d25a1&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "2f3655a4-d1a7-49a9-a13d-b3d2efd2e45a",
+      "caseNo": "MA-33-25-05/2026",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "VELANGKANI A/P A. JOSEPH v PARTHIBAN A/L MANIAM",
+      "parties": [
+        {
+          "label": "PEMPETISYEN",
+          "names": [
+            "VELANGKANI A/P A. JOSEPH"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "PARTHIBAN A/L MANIAM"
+          ]
+        }
+      ],
+      "catchwords": "Family law — Divorce — Irretrievable breakdown of marriage — Respondent’s behaviour — Whether petitioner could reasonably be expected to continue living with respondent — Law Reform (Marriage and Divorce) Act 1976, ss 53 and 54(1)(b) Family law — Divorce — Unreasonable behaviour — Objective assessment informed by history, character, conduct and circumstances of particular marriage — Effect of conduct upon petitioner Family law — Divorce — Domestic violence — Habitual intoxication and dangerous-drug consumption in matrimonial home — Violence against wife and child — Public harassment following separation — Marriage irretrievably broken down Family law — Divorce — Domestic violence — Single sufficiently grave act capable of satisfying section 54(1)(b) — Repeated conduct considered cumulatively Family law — Divorce — Conduct towards children — Violence against child and drug consumption in children’s presence constituting behaviour towards petitioner — Conduct undermining security of matrimonial household Family law — Divorce — Domestic Violence Act 1994 — Statutory conception of domestic violence informing interpretation of behaviour under section 54(1)(b) and molestation under section 103 — Physical, psychological and emotional abuse Family law — Divorce — Separation from matrimonial home — Wife leaving with children in reasonable apprehension of further violence — Protective withdrawal and not abandonment Family law — Divorce — Adultery — Allegation not particularised or independently proved — Petition succeeding on unreasonable behaviour — No finding made under section 54(1)(a) Family law — Divorce — Undefended petition — Absence of answer not relieving Court of statutory duty — Evidence not accepted mechanically — Internal coherence and contemporaneous support required — Balance of probabilities Family law — Divorce — Just and reasonable to dissolve marriage — Interests of children not served by formal continuation of marriage exposing them to violence, intoxication and disorder Family law — Children — Custody, care and control — Welfare of child paramount — Continuity, stability and safety — Sole custody, care and control awarded to mother — Law Reform (Marriage and Divorce) Act 1976, s 88 Family law — Children — Child below seven years — Rebuttable presumption that it is for child’s good to be with mother — Presumption reinforced by evidence — Law Reform (Marriage and Divorce) Act 1976, s 88(3) Family law — Children — Access — Father’s continued relationship with children — Proven risk of violence and disturbance — Monthly access at police-station compound upon prior notice — Neutral location as least restrictive condition adequate to risk — Law Reform (Marriage and Divorce) Act 1976, s 89 Family law — Maintenance — Children — Right to maintenance belonging to children and not mother — Mother unable to renounce children’s future entitlement — No present order with liberty to apply Family law — Maintenance — Enforceability — Proposed order for expenses during access specifying neither amount nor standard — Order required to be sufficiently precise to be obeyed and enforced Family law — Injunction — Harassment and molestation — Meaning of “molestation” — Physical violence not essential — Conduct encompassing harassment, pestering, alarming, public abuse and denigration — Law Reform (Marriage and Divorce) Act 1976, s 103 Family law — Injunction — Risk of further molestation real and not speculative — Respondent restrained from approaching, following, harassing or disturbing petitioner at residence, workplace or public places Family law — Injunction — Temporal operation — Protective injunction continuing after decree made absolute — Section 103 extending to former spouse — Enforcement by committal proceedings Family law — Matrimonial assets — Transfer of motor vehicle registered in wife’s name to husband at wife’s request — No other divis",
+      "judge": "YA Dato' Sri Raja Segaran A/L S.Krishnan",
+      "coram": [],
+      "dateOfResult": "2026-08-10",
+      "dateOfFiling": "2026-08-12",
+      "docs": [
+        {
+          "documentId": "5e7e5af5-ce28-4685-ba2e-a074ef68b791",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=5e7e5af5-ce28-4685-ba2e-a074ef68b791&Inline=true"
         }
       ]
     },
@@ -120,42 +148,107 @@
       ]
     },
     {
-      "id": "f644c407-123b-4d3f-bbd0-014ab7cd229c",
-      "caseNo": "WA-22NCvC-83-02/2026",
+      "id": "b1494231-c70c-4c38-bc24-88c57ff17851",
+      "caseNo": "CA-42JSKH-1-01/2025",
       "jurisdiction": "HC",
       "court": "High Court",
-      "title": "DR. FUZIAH BINTI SALLEH v BARU BIAN & ors",
+      "title": "Pendakwa Raya v KHAIRIL ISMAIL BIN TAJU ARIFFIN",
       "parties": [
         {
-          "label": "PLAINTIF",
+          "label": "PERAYU",
           "names": [
-            "DR. FUZIAH BINTI SALLEH"
+            "Pendakwa Raya"
           ]
         },
         {
-          "label": "DEFENDAN",
+          "label": "RESPONDEN",
           "names": [
-            "BARU BIAN",
-            "KAMARUDIN BIN JAFFAR",
-            "MANSOR BIN OTHMAN",
-            "MOHD RASHID BIN HASNON",
-            "SAIFUDDIN BIN ABDULLAH",
-            "SANTHARA KUMAR A/L RAMANAIDU"
+            "KHAIRIL ISMAIL BIN TAJU ARIFFIN"
           ]
         }
       ],
-      "catchwords": "Permohonan untuk penyatuan prosiding oleh Plaintif. Asas permohonan adalah disebabkan isu undang-undang dan fakta adalah sama untuk kedua-dua kes. Permohonan ditolak dengan kos.",
-      "judge": "YA Tuan Roslan bin Mat Nor",
+      "catchwords": "Rayuan oleh TPR terhadap hukuman 8 tahun penjara dan 3 sebatan yang dijatuhkan ke atas OKT oleh Hakim Mahkamah Sesyen - kesalahan di bawah seksyen 14(a) Akta Kesalahan-kesalahan Seksual Terhadap Kanak-kanak 2017 - samada hukuman yang dikenakan adalah manifestly inadequate - keperluan untuk mahkamah tinggi selaku mahkamah rayuan mengganggu dapatan hakim mahkamah sesyen - prinsip campurtangan mahkamah rayuan terhadap hukuman - samada bon berkelakuan baik di bawah seksyen 173A, 293 dan 294 kanun tatacara jenayah wajar diberikan.",
+      "judge": "YA Tuan Kumar a/l Thangaraju",
       "coram": [],
-      "dateOfResult": "2026-08-05",
-      "dateOfFiling": "2026-08-11",
+      "dateOfResult": "2026-08-06",
+      "dateOfFiling": "2026-08-12",
       "docs": [
         {
-          "documentId": "85046570-006f-40d0-a985-f1644815ff64",
+          "documentId": "d81c34e7-ddaf-4e61-b528-9218b29b68c1",
           "name": "Alasan Penghakiman",
           "preparedBy": "",
           "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=85046570-006f-40d0-a985-f1644815ff64&Inline=true"
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=d81c34e7-ddaf-4e61-b528-9218b29b68c1&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "391370c3-ae41-4ff8-9f87-558943302df0",
+      "caseNo": "CA-42JSKS-12-12/2024",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "KHAIRIL ISMAIL BIN TAJU ARIFFIN v Pendakwa Raya",
+      "parties": [
+        {
+          "label": "PERAYU",
+          "names": [
+            "KHAIRIL ISMAIL BIN TAJU ARIFFIN"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "Pendakwa Raya"
+          ]
+        }
+      ],
+      "catchwords": "Rayuan atas sabitan dan hukuman oleh OKT yang diputuskan oleh Hakim Mahkamah Sesyen- Seksyen 14(a) Akta Kesalahan-kesalahan Seksual Terhadap kanak-kanak 2017 - samada keterangan mangsa boleh diterima - kompetensi mangsa dalam memberi keterangan - keperluan untuk keterangan sokongan daripada mangsa kanak-kanak - samada perbezaan tarikh kejadian adalah material - samada percanggahan keterangan dan tarikh laporan polis material - kes prima facie- pembelaan yang merupakan fikiran terkemudian - tiada keperluan untuk mahkamah tinggi selaku hakim yang mendengar rayuan untuk mengganggu dapatan hakim mahkamah sesyen - samada bon berkelakuan baik sesuai - hukuman 8 tahun dan 3 sebatan adalah setimpal.",
+      "judge": "YA Tuan Kumar a/l Thangaraju",
+      "coram": [],
+      "dateOfResult": "2026-08-06",
+      "dateOfFiling": "2026-08-12",
+      "docs": [
+        {
+          "documentId": "6ef52d39-b4d7-417e-83af-15e4601a8673",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=6ef52d39-b4d7-417e-83af-15e4601a8673&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "c291946e-11c7-40e1-b3f6-2eae18073d49",
+      "caseNo": "CA-42JSKS-1-01/2025",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "MUHAMMAD ISYARIZAL IZMAN BIN MOHD ISYAK v Pendakwa Raya",
+      "parties": [
+        {
+          "label": "PERAYU",
+          "names": [
+            "MUHAMMAD ISYARIZAL IZMAN BIN MOHD ISYAK"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "Pendakwa Raya"
+          ]
+        }
+      ],
+      "catchwords": "Criminal law — Statutory rape under ss 375(g) and 376(1) Penal Code — Sexual intercourse arising from a pre-existing consensual and close-in-age relationship with 15-year-old complainant — Factual consent no defence to statutory rape — “Sweetheart defence” or “Romeo and Juliet” principle relevant only as a mitigating factor — Youthful offender and absence of grooming, exploitation or abuse of position — Convictions affirmed — Sentences reduced — Public Prosecutor’s appeal against sentence dismissed.",
+      "judge": "YA Tuan Samry bin Masri",
+      "coram": [],
+      "dateOfResult": "2026-08-05",
+      "dateOfFiling": "2026-08-12",
+      "docs": [
+        {
+          "documentId": "d61a6cf8-3fdf-4b02-8460-4e78d30bae89",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=d61a6cf8-3fdf-4b02-8460-4e78d30bae89&Inline=true"
         }
       ]
     },
@@ -350,6 +443,70 @@
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=1b296caa-6300-46b9-9730-3477b3b05831&Inline=true"
         }
       ]
+    },
+    {
+      "id": "9351882c-97f5-44ac-8757-98b92288e924",
+      "caseNo": "05(L)-77-05/2025(S)",
+      "jurisdiction": "FC",
+      "court": "Federal Court",
+      "title": "Pendakwa Raya & ors v Julasiri Bin Akilmara",
+      "parties": [
+        {
+          "label": "PERAYU",
+          "names": [
+            "Pendakwa Raya",
+            "[Pendakwa Raya]"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "Julasiri Bin Akilmara"
+          ]
+        }
+      ],
+      "catchwords": "Offence under section 39B(1)(a) of the Dangerous Drugs Act 1952 read together with section 34 of the Penal Code - Whether the trial judge should have informed at the close of the prosecution&#039;s case, that the defence was being called upon to answer a case of actual trafficking or presumed trafficking? - Overwhelming evidence proved the elements of custody, control, and knowledge - Actual possession of the impugned drugs was established - Section 180 (1) and (4) of the Criminal Procedure Code - Procedure after conclusion of case for prosecution - No statutory or legal requirement to state the presumption when calling for the defence - Formal verbal label for an evidentiary rule at the close of the prosecution&#039;s case is unnecessary - Statutory presumption of trafficking under section 37(da)(xvi) of the Dangerous Drugs Act 1952 - Section 422 of the Criminal Procedure Code - Not vitiate the conviction - No miscarriage of justice - Failure either to make or to record such a finding does not ipso facto - The law does not require a mini-judgment or detailed legal reasons at the close of the prosecution’s case",
+      "judge": "YA Dato' Azmi Bin Ariffin",
+      "coram": [
+        "YA Dato Rhodzariah binti Bujang",
+        "YA Dato' Nordin Bin Hassan",
+        "YA Dato' Azmi Bin Ariffin"
+      ],
+      "dateOfResult": "2026-07-23",
+      "dateOfFiling": "2026-08-12",
+      "docs": []
+    },
+    {
+      "id": "a598026f-fb02-48e3-bb13-b9ba815b8b3e",
+      "caseNo": "05(L)-77-05/2025(S)",
+      "jurisdiction": "FC",
+      "court": "Federal Court",
+      "title": "Pendakwa Raya & ors v Julasiri Bin Akilmara",
+      "parties": [
+        {
+          "label": "PERAYU",
+          "names": [
+            "Pendakwa Raya",
+            "[Pendakwa Raya]"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "Julasiri Bin Akilmara"
+          ]
+        }
+      ],
+      "catchwords": "Offence under section 39B(1)(a) of the Dangerous Drugs Act 1952 read together with section 34 of the Penal Code - Whether the trial judge should have informed at the close of the prosecution&#039;s case, that the defence was being called upon to answer a case of actual trafficking or presumed trafficking? - Overwhelming evidence proved the elements of custody, control, and knowledge - Actual possession of the impugned drugs was established - Section 180 (1) and (4) of the Criminal Procedure Code - Procedure after conclusion of case for prosecution - No statutory or legal requirement to state the presumption when calling for the defence - Formal verbal label for an evidentiary rule at the close of the prosecution&#039;s case is unnecessary - Statutory presumption of trafficking under section 37(da)(xvi) of the Dangerous Drugs Act 1952 - Section 422 of the Criminal Procedure Code - Not vitiate the conviction - No miscarriage of justice - Failure either to make or to record such a finding does not ipso facto - The law does not require a mini-judgment or detailed legal reasons at the close of the prosecution’s case",
+      "judge": "YA Dato Rhodzariah binti Bujang",
+      "coram": [
+        "YA Dato Rhodzariah binti Bujang",
+        "YA Dato' Nordin Bin Hassan",
+        "YA Dato' Azmi Bin Ariffin"
+      ],
+      "dateOfResult": "2026-07-23",
+      "dateOfFiling": "2026-08-12",
+      "docs": []
     },
     {
       "id": "ed03838b-9917-4476-808a-a2e6ea8bb81c",
@@ -890,41 +1047,6 @@
       ]
     },
     {
-      "id": "43a149a1-1565-4912-a559-7011052eb0c1",
-      "caseNo": "BA-22NCvC-222-06/2023",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "PERUNDING IRZI SDN BHD v MOHAMMAD KHAIRUL AIDI BIN JAMALUDIN",
-      "parties": [
-        {
-          "label": "PLAINTIF",
-          "names": [
-            "PERUNDING IRZI SDN BHD"
-          ]
-        },
-        {
-          "label": "DEFENDAN",
-          "names": [
-            "MOHAMMAD KHAIRUL AIDI BIN JAMALUDIN"
-          ]
-        }
-      ],
-      "catchwords": "Kontrak — Pinjaman persahabatan — Dakwaan bayaran yuran pengajian sebagai pinjaman — Ketiadaan perjanjian bertulis — Ketiadaan terma pembayaran balik yang jelas — Ketiadaan tarikh pembayaran balik — Ketiadaan komunikasi kontemporari menunjukkan persetujuan Defendan untuk membayar balik — Sama ada bayaran yuran pengajian UTM berjumlah RM28,028.00 merupakan pinjaman — Beban pembuktian ke atas Plaintif — Tuntutan ditolak. Keterangan — Penilaian dokumen pembayaran — Resit dan rekod bayaran membuktikan pembayaran dibuat — Sama ada dokumen pembayaran dengan sendirinya membuktikan sifat transaksi sebagai pinjaman — Hubungan peribadi, akademik dan kerja antara pihak-pihak — Pembayaran turut dibuat bagi manfaat individu lain tanpa tuntutan bayaran balik — Keraguan terhadap dakwaan pinjaman lisan. Restitusi — Pengayaan tidak adil — Projek Chuping — Pembayaran RM150,000.00 kepada atau untuk manfaat Defendan — Defendan mendakwa telah melakukan kerja-kerja projek — Penglibatan tertentu tidak semestinya membuktikan hak untuk mengekalkan keseluruhan bayaran — Tiada pelantikan rasmi sebagai perunding atau sub-perunding — Tiada kadar bayaran dipersetujui — Tiada peratusan dimuktamadkan — Tiada invois — Tiada penilaian bebas atau bukti nilai pasaran kerja — Pemegangan wang tanpa asas kontrak atau undang-undang yang sah — Tuntutan Plaintif dibenarkan. Quantum meruit — Seksyen 71 Akta Kontrak 1950 — Pampasan munasabah — Kerja dilakukan untuk pihak lain — Manfaat diterima — Keperluan membuktikan kerja, manfaat dan nilai munasabah — Seksyen 71 bukan lesen untuk mengekalkan bayaran tanpa pembuktian nilai kerja dan asas pengiraan yang boleh dipercayai. Tuntutan balas — Bayaran kerja-kerja Projek Chuping, Projek Pasir Raja, Projek Dendong dan Projek Sarawak-Sabah Link Road — Tiada pelantikan rasmi — Tiada letter of award — Tiada kontrak sub-perunding — Tiada surat arahan kerja rasmi — Tiada kadar bayaran dipersetujui — Tiada invois — Asas pengiraan tidak memuaskan — Tuntutan berjuta-juta ringgit tidak dibuktikan — Tuntutan balas ditolak. Profesion kejuruteraan — Skala Yuran Board of Engineers Malaysia — Defendan bukan Jurutera Profesional dengan Sijil Amalan — Defendan bukan firma perunding kejuruteraan berdaftar — Graduate Engineer boleh melakukan kerja teknikal tertentu di bawah penyeliaan tetapi tidak boleh menyamakan kedudukan dengan perunding rasmi projek — Tuntutan yuran perunding profesional tidak dibuktikan. Gantirugi — Gantirugi am dan gantirugi teladan — Tidak dibuktikan secara berasingan — Tuntutan utama yang berjaya hanya tuntutan wang tertentu bagi Projek Chuping — Gantirugi am dan teladan ditolak. Kos — Plaintif berjaya sebahagian — Tuntutan yuran pengajian ditolak — Tuntutan Projek Chuping dibenarkan — Tuntutan balas Defendan ditolak — Kos RM10,000.00 kepada Plaintif.",
-      "judge": "YA Datin Asmah binti Musa",
-      "coram": [],
-      "dateOfResult": "2026-06-25",
-      "dateOfFiling": "2026-08-10",
-      "docs": [
-        {
-          "documentId": "2f0d4c15-737b-423a-9245-a48fc2aeaf25",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=2f0d4c15-737b-423a-9245-a48fc2aeaf25&Inline=true"
-        }
-      ]
-    },
-    {
       "id": "17bb6c45-c09b-4f77-b312-d3811aadd650",
       "caseNo": "01(f)-8-03/2025(W)",
       "jurisdiction": "FC",
@@ -1160,16 +1282,16 @@
       ]
     },
     {
-      "id": "1334478c-e551-4d3a-927b-b8c325ca43a1",
-      "caseNo": "BA-44-28-03/2026",
+      "id": "6f60511b-f025-4ab9-8010-f4e0e6a95faf",
+      "caseNo": "BA-42JSKS-10-08/2025",
       "jurisdiction": "HC",
       "court": "High Court",
-      "title": "AZMAN BIN NASRUDIN v Pendakwa Raya",
+      "title": "AMIRUL HAZWAN BIN ABDUL RAHMAN v Pendakwa Raya",
       "parties": [
         {
-          "label": "PEMOHON",
+          "label": "PERAYU",
           "names": [
-            "AZMAN BIN NASRUDIN"
+            "AMIRUL HAZWAN BIN ABDUL RAHMAN"
           ]
         },
         {
@@ -1179,59 +1301,53 @@
           ]
         }
       ],
-      "catchwords": "Criminal Procedure-Charge-applicant charged under section 28(1)(c) read together with section 16(a)(A) of the Malaysia Anti-Corruption Commission Act before the commencement of the trial in the Sessions Court-applicant filed a notice of motion in the High Court to strike out the charge and prayed that the applicant is acquitted and discharged from the charge-whether the charge against the applicant discloses any offence known to law-whether the charge was clear and unambiguous-whether particulars must be stated in the charge-whether mens rea was an ingredient of the offence for the charge under the MACC Act- whether section 156 or 422 of the Criminal Procedure Code applies to the case",
-      "judge": "YA Dr Hazlina binti Hussain",
+      "catchwords": "Child sexual offences; section 14(a) Sexual Offences Against Children Act 2017; child witness; credibility; delayed complaint; corroboration; appellate intervention; sentencing discretion; manifestly inadequate sentence; change of trial judge; section 261 Criminal Procedure Code.",
+      "judge": "YA Tuan Noor Hisham bin Ismail",
       "coram": [],
-      "dateOfResult": "2026-06-08",
-      "dateOfFiling": "2026-08-10",
+      "dateOfResult": "2026-06-14",
+      "dateOfFiling": "2026-08-11",
       "docs": [
         {
-          "documentId": "026fab71-1275-4b19-ab14-35fbd09bdbdc",
+          "documentId": "933eb192-5b99-423d-9a07-136f63eee5ac",
           "name": "Alasan Penghakiman",
           "preparedBy": "",
           "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=026fab71-1275-4b19-ab14-35fbd09bdbdc&Inline=true"
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=933eb192-5b99-423d-9a07-136f63eee5ac&Inline=true"
         }
       ]
     },
     {
-      "id": "832accf5-57e7-452d-91a7-68bdf24519ea",
-      "caseNo": "WA-17D-29-11/2025",
+      "id": "b88e0c05-e9a4-4850-981d-f5b8035e346a",
+      "caseNo": "WA-22NCvC-567-09/2025",
       "jurisdiction": "HC",
       "court": "High Court",
-      "title": "LOO CHAY MENG v GRANSEA (M) SDN BHD",
+      "title": "CONCEPTWAY SOLUTIONS (M) SDN BHD v IRIS INFORMATION TECHNOLOGY SYSTEMS SDN BHD",
       "parties": [
         {
-          "label": "PERAYU",
+          "label": "PLAINTIF",
           "names": [
-            "LOO CHAY MENG"
+            "CONCEPTWAY SOLUTIONS (M) SDN BHD"
           ]
         },
         {
-          "label": "RESPONDEN",
+          "label": "DEFENDAN",
           "names": [
-            "GRANSEA (M) SDN BHD"
-          ]
-        },
-        {
-          "label": "PENCELAH",
-          "names": [
-            "MAJILIS PEGUAM MALAYSIA"
+            "IRIS INFORMATION TECHNOLOGY SYSTEMS SDN BHD"
           ]
         }
       ],
-      "catchwords": "Appeal by advocate and solicitor under s. 103D of Legal Profession Act 1976-DB imposed fine of RM 50,000, ordered Appellant to be struck off the Roll and ordered to make restitution- appellant acted for Complainant in a suit-judgement by consent entered-monies ordered to be paid to the Complainant-shortfall in amount paid to the Complainant-complaint that Appellant failed to account for the monies-Appellant refused to give an explanation-said monies paid to third parties instrumental in negotiating the settlement-claimed privilege under section 126 of the Evidence Act-DB found serious misconduct on additional grounds-client’s money held in trust-whether serious misconduct proved-whether findings of DB went beyond original complaint-whether punishment disproportionate to the misconduct",
-      "judge": "YA Puan Alice Loke Yee Ching",
+      "catchwords": "Prosedur sivil – Timbang tara – Seksyen 10 (1) Akta Timbang Tara 2005 – Permohonan Defendan untuk menggantung prosiding – Pertikaian dirujuk kepada timbang tara – Fasal 15 Perjanjian – Plaintif bantah berasaskan tuntutan Plaintif tidak mengandungi klausa timbang tara – Perjanjian Utama yang mewujudkan hubungan kontraktual asas antara pihak-pihak – Sama ada pertikaian semasa tertakluk kepada Fasal 15 Perjanjian – Purchase Order tidak boleh dilihat secara terasing – Isu utama hubungan kontraktual pihak-pihak – Beberapa instrumen berasingan tidak menjadikan instrumen-instrumen tersebut terpisah – Ketiadaan klausa timbang tara dalam Purchase Order bukan faktor konklusif – Sama ada pertikaian mempunyai kaitan yang nyata, langsung dengan Perjanjian tersebut – Tuntutan pembayaran bagi perkhidmatan yang diberikan mempunyai kaitan yang tidak dapat dipisahkan daripada hubungan kontraktual yang diwujudkan melalui Perjanjian Utama – Pertikaian timbul susulan hubungan Perjanjian tersebut – Purchase Order tidak boleh dipisahkan semata-mata bagi mengelakkan pemakaian Fasal 15 – Peruntukan terpakai bila mana pertikaian berada dalam ruang lingkup Perjanjian - Mahkamah patut memberi kesan kepada Perjanjian tersebut",
+      "judge": "YA Puan Rihaida Binti Rafie",
       "coram": [],
-      "dateOfResult": "2026-06-02",
-      "dateOfFiling": "2026-08-11",
+      "dateOfResult": "2026-05-28",
+      "dateOfFiling": "2026-08-12",
       "docs": [
         {
-          "documentId": "0bd19f41-0122-46cc-8866-822b80727767",
+          "documentId": "e84858a1-5546-4844-a444-0c0eac2c9d6a",
           "name": "Alasan Penghakiman",
           "preparedBy": "",
           "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=0bd19f41-0122-46cc-8866-822b80727767&Inline=true"
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=e84858a1-5546-4844-a444-0c0eac2c9d6a&Inline=true"
         }
       ]
     },
@@ -1276,46 +1392,6 @@
       ]
     },
     {
-      "id": "7f961b06-6fcd-43b1-9ca9-aed027dfc8e3",
-      "caseNo": "W-05(SH)-439-10/2023",
-      "jurisdiction": "COA",
-      "court": "Court of Appeal",
-      "title": "MOHD JAFRI BIN HUSSAIN v Pendakwa Raya & ors",
-      "parties": [
-        {
-          "label": "PERAYU",
-          "names": [
-            "MOHD JAFRI BIN HUSSAIN"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "Pendakwa Raya",
-            "[Timbalan Pendakwa Raya (TPR), Jabatan Peguam Negara]"
-          ]
-        }
-      ],
-      "catchwords": "Appeal against conviction and sentence – Trafficking – Section 39B(1)(a) of the Dangerous Drugs Act 1952 – Whether the prosecution had established that the Appellant had possession and knowledge of the dangerous drugs – Whether the Appellant had custody, control and knowledge of the drugs – Whether the prosecution successfully established not merely physical custody but also the requisite mens rea - Adverse inference under section 114(g) of the Evidence Act 1950 – Whether the Appellant&#039;s conduct constitutes relevant conduct within the meaning of section 8 of the Evidence Act 1950.",
-      "judge": "YA Datuk Noorin binti Badaruddin",
-      "coram": [
-        "YA Datuk Noorin binti Badaruddin",
-        "YA Datuk Mohd Radzi Bin Abdul Hamid",
-        "YA Tuan Dean Wayne Daly"
-      ],
-      "dateOfResult": "2026-05-18",
-      "dateOfFiling": "2026-08-03",
-      "docs": [
-        {
-          "documentId": "a373c145-987d-4901-bdf4-77320accdb65",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "YA Datuk Noorin binti Badaruddin",
-          "category": "Sebulat Suara (Unanimous)",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=a373c145-987d-4901-bdf4-77320accdb65&Inline=true"
-        }
-      ]
-    },
-    {
       "id": "a3c27fd1-fa14-4006-baf2-7a360cf5e8a2",
       "caseNo": "WA-24FC-1723-12/2025",
       "jurisdiction": "HC",
@@ -1347,111 +1423,6 @@
           "preparedBy": "",
           "category": "",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=4e3157a1-6298-4e33-a825-d8f8aa5bc3e8&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "19e9df3b-0e26-4a5a-955e-5430553f9ea5",
-      "caseNo": "BL-12BNCC-1-01/2025",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "Vinothmani A/L Ramani v Everise Shield Sdn. Bhd.",
-      "parties": [
-        {
-          "label": "PERAYU",
-          "names": [
-            "Vinothmani A/L Ramani"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "Everise Shield Sdn. Bhd."
-          ]
-        }
-      ],
-      "catchwords": "Civil appeal - filed by the Appellant/Defendant against the decision of the Sessions Court Judge which allowed the Respondent/Plaintiff&#039;s claim with costs. Contract in business - in actions for goods sold and delivered, the delivery orders and invoices issued in the ordinary course of business collectively constitute a binding contract between the parties Part B documents - classifying the delivery order, invoice and statutory declaration under Part B of the Bundle of Documents carries a definitive legal effect i.e. the authenticity and physical existence of these documents are deemed admitted and remain undeniable - while their underlying truth or contents may still be subject to dispute, the Appellant is effectively precluded from challenging the genuineness, execution, or origination of the documents themselves - the issue of the authenticity of the signatures on the delivery order, invoice and statutory declaration raised by the Appellant is entirely a non-starter - by consenting to the inclusion of these documents within Part B, the Appellant has waived any right to contest their execution, rendering any subsequent challenge to the signatures procedurally incompetent. Burden of proof - the statutory onus rests upon the Appellant to prove the positive assertion that the transaction was an illegal sham - as the Appellant seeks to invalidate the contract by invoking the protections of the Moneylenders Act 1951, he must independently discharge the evidentiary burden to prove the existence of that illicit relationship.",
-      "judge": "YA Dato' Sri Shamsulbahri bin Haji Ibrahim",
-      "coram": [],
-      "dateOfResult": "2026-05-18",
-      "dateOfFiling": "2026-08-11",
-      "docs": [
-        {
-          "documentId": "a96d1e9c-f8a0-4361-9a09-c278b3172158",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=a96d1e9c-f8a0-4361-9a09-c278b3172158&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "899fc9bf-c20d-4906-a0ae-a41965fd919f",
-      "caseNo": "RA-45A-1-03/2021",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "Pendakwa Raya v MOHD HAZRUL NIZAM BIN SOHIME",
-      "parties": [
-        {
-          "label": "PENDAKWA RAYA",
-          "names": [
-            "Pendakwa Raya"
-          ]
-        },
-        {
-          "label": "TERTUDUH",
-          "names": [
-            "MOHD HAZRUL NIZAM BIN SOHIME"
-          ]
-        }
-      ],
-      "catchwords": "Perayu telah disabitkan dan dijatuhkan hukuman pemenjaraan 30 tahun yang bermula dari tarikh tangkap beserta 12 sebatan rotan.",
-      "judge": "YA Dato' Dr Arik Sanusi Bin Yeop Johari",
-      "coram": [],
-      "dateOfResult": "2026-05-18",
-      "dateOfFiling": "2026-08-11",
-      "docs": [
-        {
-          "documentId": "562d3200-995c-42c9-9a5e-3838fb96e823",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=562d3200-995c-42c9-9a5e-3838fb96e823&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "cc796150-001c-4f64-8204-a45d5b68cd67",
-      "caseNo": "RA-45A-2-03/2021",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "Pendakwa Raya v MOHD HAZRUL NIZAM BIN SOHIME",
-      "parties": [
-        {
-          "label": "PENDAKWA RAYA",
-          "names": [
-            "Pendakwa Raya"
-          ]
-        },
-        {
-          "label": "TERTUDUH",
-          "names": [
-            "MOHD HAZRUL NIZAM BIN SOHIME"
-          ]
-        }
-      ],
-      "catchwords": "Keseluruhan sabitan dan hukuman, Yang Arif Hakim Mahkamah Tinggi Kangar mensabitkan Perayu dan menjatuhkan hukuman 30 tahun penjara bermula dari tarikh tangkap serta 15 sebatan rotan.",
-      "judge": "YA Dato' Dr Arik Sanusi Bin Yeop Johari",
-      "coram": [],
-      "dateOfResult": "2026-05-18",
-      "dateOfFiling": "2026-08-11",
-      "docs": [
-        {
-          "documentId": "5fb12834-6d31-4aed-b971-7f6abbae6171",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=5fb12834-6d31-4aed-b971-7f6abbae6171&Inline=true"
         }
       ]
     },
@@ -1536,47 +1507,6 @@
       ]
     },
     {
-      "id": "988a49b2-73e2-4cf9-8ac6-38299756bdb1",
-      "caseNo": "RA-28PW-4-05/2023",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "OOI LEE WEI (A contributory of the Respondent) v HUP HUAT CONSTRUCTION AND ENGINEERING SDN. BHD. (IN LIQUIDATION)",
-      "parties": [
-        {
-          "label": "PEMOHON",
-          "names": [
-            "OOI LEE WEI (A contributory of the Respondent)"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "HUP HUAT CONSTRUCTION AND ENGINEERING SDN. BHD. (IN LIQUIDATION)"
-          ]
-        },
-        {
-          "label": "PENCELAH",
-          "names": [
-            "PECCA LEATHER SDN BHD"
-          ]
-        }
-      ],
-      "catchwords": "&quot;O59 r12 ROC 2012 - Notice of Taxation - whether Notice of Taxation must comply with Act 166 as it involved solicitor/client - generalia specialibus non derogant&quot;",
-      "judge": "YA Datuk Mohamad Abazafree bin Mohd Abbas",
-      "coram": [],
-      "dateOfResult": "2026-05-05",
-      "dateOfFiling": "2026-08-11",
-      "docs": [
-        {
-          "documentId": "ea660478-0c60-47bf-9df9-264b0b3c8aef",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=ea660478-0c60-47bf-9df9-264b0b3c8aef&Inline=true"
-        }
-      ]
-    },
-    {
       "id": "e6ee010d-d28c-4802-89ed-7fe405cbbec6",
       "caseNo": "05(L)-26-03/2025(P)",
       "jurisdiction": "FC",
@@ -1657,150 +1587,113 @@
       ]
     },
     {
-      "id": "86637f1d-edad-4807-8e64-8958b743b7bb",
-      "caseNo": "AA-22NCvC-60-07/2023",
+      "id": "5a39034e-153c-478f-aaff-1bf0e6832d55",
+      "caseNo": "WA-22NCvC-411-07/2022",
       "jurisdiction": "HC",
       "court": "High Court",
-      "title": "Tan Hoo Eng & ors v Inspektor Muhammad Noorarif Shah bin Zainudin & ors",
+      "title": "ADNAN BIN AZIZON & ors v FAME MODULATION SDN BHD (Dalam Penggulungan) & ors",
       "parties": [
         {
           "label": "PLAINTIF",
           "names": [
-            "Tan Hoo Eng",
-            "Dyera-Tim Sdn Bhd"
+            "ADNAN BIN AZIZON",
+            "AZIAH BINTI AHMAD"
           ]
         },
         {
           "label": "DEFENDAN",
           "names": [
-            "Inspektor Muhammad Noorarif Shah bin Zainudin",
-            "Inspektor Sopawan A/P Kin",
-            "ACP Latt Mazura Mansor",
-            "Timbalan Pendakwa Raya",
-            "Pendakwa Raya",
-            "[Ketua Polis Negara]",
-            "Kerajaan Malaysia",
-            "Lim Keck Eng",
-            "Tetuan Jacob Goldie S.S. Chew"
+            "FAME MODULATION SDN BHD (Dalam Penggulungan)",
+            "DATUK BANDAR KUALA LUMPUR"
           ]
         }
       ],
-      "catchwords": "Application by seventh Defendant - pursuant to Order 57 rule 1 Rules of Court 2012 - section 23 of the Courts of Judicature Act - proceedings to transferred from Ipoh High Court to Kuala Lumpur High Court - the cause of action and the underlying facts arose in Ipoh - interest of justice are best served by having the matter heard in the forum most closely connected to those events - application is dismissed with cost subject to allocator.",
-      "judge": "YA Dato' Norsharidah Binti Awang",
+      "catchwords": "Dewan Bandaraya Kuala Lumpur – Local authority responsible for approving and controlling construction of buildings – Piling and excavation works performed by the 1st Defendant caused structural damage to the Plaintiffs house – Plaintiffs compelled to vacate their house for safety reasons – Admission of liability by 1st Defendant developer – Undertaking to repair Plaintiffs’ house not fulfilled – Whether Plaintiffs may sue both the 1st Defendant developer and 2nd Defendant DBKL for negligence – Whether Plaintiffs’ action is barred by s.2(a) of the Public Authorities Protection Act 1960 and/or s.95(2) of the Street, Drainage and Building Act 1974 – Whether the Plaintiffs’ claim against the 2nd Defendant should be by judicial review – Whether the 2nd Defendant should be held jointly and severally liable – Whether joint and several liability will lead to the Plaintiffs being overpaid",
+      "judge": "YA Tuan Gan Techiong",
       "coram": [],
       "dateOfResult": "2026-04-23",
-      "dateOfFiling": "2026-08-10",
+      "dateOfFiling": "2026-08-12",
       "docs": [
         {
-          "documentId": "490093aa-0982-4fae-8bcd-47f210ccef0a",
+          "documentId": "25bcf920-1e63-4843-9d3d-48d1993e7e3e",
           "name": "Alasan Penghakiman",
           "preparedBy": "",
           "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=490093aa-0982-4fae-8bcd-47f210ccef0a&Inline=true"
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=25bcf920-1e63-4843-9d3d-48d1993e7e3e&Inline=true"
         }
       ]
     },
     {
-      "id": "f8b846db-8f5f-4c96-a99a-b92847835048",
-      "caseNo": "05(RJ)-6-11/2024(C)",
-      "jurisdiction": "FC",
-      "court": "Federal Court",
-      "title": "SIVACHANDRAN A/L S JAYARAJAH v Pendakwa Raya",
+      "id": "f7cb21f0-f923-4848-a970-8e6cd77722e8",
+      "caseNo": "WA-22NCvC-411-07/2022",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "ADNAN BIN AZIZON & ors v FAME MODULATION SDN BHD (Dalam Penggulungan) & ors",
       "parties": [
         {
-          "label": "PERAYU",
+          "label": "PLAINTIF",
           "names": [
-            "SIVACHANDRAN A/L S JAYARAJAH"
+            "ADNAN BIN AZIZON",
+            "AZIAH BINTI AHMAD"
           ]
         },
         {
-          "label": "RESPONDEN",
+          "label": "DEFENDAN",
           "names": [
-            "Pendakwa Raya"
+            "FAME MODULATION SDN BHD (Dalam Penggulungan)",
+            "DATUK BANDAR KUALA LUMPUR"
           ]
         }
       ],
-      "catchwords": "Review jurisdiction - Rule 137 of the Rules of the Federal Court 1995 -Inherent powers of Federal Court – All sentences passed to be in accordance with the law – Avoiding miscarriage of justice - Exceptional circumstances - Fresh evidence of prisoner’s death following whipping. Constitutional Law - Federal Constitution - Articles 5(1), 8(1) and 8(2) Fundamental liberties - Life and personal liberty - Human dignity - Equal protection of the law - Whether it is in violation of medical ethics for medical officer to be participate in the execution of whipping. Judicial whipping - Corporal punishment - Whether judicial whipping amounts to cruel, inhuman and degrading treatment (“CIDT”) - Whether punishment of whipping is inconsistent with constitutional protection of life, dignity and bodily integrity. Whether whipping is disproportionate and therefore contrary to Article 8(1) - Whether exemption of women from whipping constitutes prohibited discrimination on ground only of gender is contrary to Art 8(2) - Intelligible differentia. Whether whipping is against Art. 5 of the Universal Declaration of Human Rights (“UDHR”) and the ASEAN Human Rights Declaration in its prohibitions against CIDT - Whether whipping is against customary international law.",
-      "judge": "YAA Tun Wan Ahmad Farid Bin Wan Salleh",
-      "coram": [
-        "YAA Tun Wan Ahmad Farid Bin Wan Salleh",
-        "YAA Datuk Hajah Azizah binti Haji Nawawi",
-        "YA Dato' Lee Swee Seng"
-      ],
-      "dateOfResult": "2026-04-21",
-      "dateOfFiling": "2026-05-03",
+      "catchwords": "Dewan Bandaraya Kuala Lumpur – Local authority responsible for approving and controlling construction of buildings – Piling and excavation works performed by the 1st Defendant caused structural damage to the Plaintiffs house – Plaintiffs compelled to vacate their house for safety reasons – Admission of liability by 1st Defendant developer – Undertaking to repair Plaintiffs’ house not fulfilled – Whether Plaintiffs may sue both the 1st Defendant developer and 2nd Defendant DBKL for negligence – Whether Plaintiffs’ action is barred by s.2(a) of the Public Authorities Protection Act 1960 and/or s.95(2) of the Street, Drainage and Building Act 1974 – Whether the Plaintiffs’ claim against the 2nd Defendant should be by judicial review – Whether the 2nd Defendant should be held jointly and severally liable – Whether joint and several liability will lead to the Plaintiffs being overpaid",
+      "judge": "YA Tuan Gan Techiong",
+      "coram": [],
+      "dateOfResult": "2026-04-23",
+      "dateOfFiling": "2026-08-12",
       "docs": [
         {
-          "documentId": "d7c05adb-36b5-4e7c-b5f4-36222375b475",
+          "documentId": "25bcf920-1e63-4843-9d3d-48d1993e7e3e",
           "name": "Alasan Penghakiman",
-          "preparedBy": "YAA Tun Wan Ahmad Farid Bin Wan Salleh",
-          "category": "Majoriti",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=d7c05adb-36b5-4e7c-b5f4-36222375b475&Inline=true"
-        },
-        {
-          "documentId": "2f889663-a709-49d7-89e2-e010bf81f90a",
-          "name": "dissenting - mohd helmi anuar bin mohd kassim v public prosecutor & 2 other review applications.pdf",
-          "preparedBy": "YA Dato' Lee Swee Seng",
-          "category": "Minoriti/Dissenting",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=2f889663-a709-49d7-89e2-e010bf81f90a&Inline=true"
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=25bcf920-1e63-4843-9d3d-48d1993e7e3e&Inline=true"
         }
       ]
     },
     {
-      "id": "9d5646f1-5297-460c-8781-e0ec5b807ba5",
-      "caseNo": "07-23-11/2024(W)",
-      "jurisdiction": "FC",
-      "court": "Federal Court",
-      "title": "MOHD HELMI ANUAR BIN MOHD KASSIM v Pendakwa Raya",
+      "id": "466d36dd-5211-4891-9054-220604f02fdc",
+      "caseNo": "WA-22NCvC-411-07/2022",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "ADNAN BIN AZIZON & ors v FAME MODULATION SDN BHD (Dalam Penggulungan) & ors",
       "parties": [
         {
-          "label": "PEMOHON",
+          "label": "PLAINTIF",
           "names": [
-            "MOHD HELMI ANUAR BIN MOHD KASSIM"
+            "ADNAN BIN AZIZON",
+            "AZIAH BINTI AHMAD"
           ]
         },
         {
-          "label": "RESPONDEN",
+          "label": "DEFENDAN",
           "names": [
-            "Pendakwa Raya"
-          ]
-        },
-        {
-          "label": "PEGUAM PEMERHATI",
-          "names": [
-            "Suruhanjaya Hak Asasi Manusia Malaysia (SUHAKAM)"
-          ]
-        },
-        {
-          "label": "AMICUS CURIAE",
-          "names": [
-            "Collin Arvind Andrew"
+            "FAME MODULATION SDN BHD (Dalam Penggulungan)",
+            "DATUK BANDAR KUALA LUMPUR"
           ]
         }
       ],
-      "catchwords": "Review jurisdiction - Rule 137 of the Rules of the Federal Court 1995 -Inherent powers of Federal Court – All sentences passed to be in accordance with the law – Avoiding miscarriage of justice - Exceptional circumstances - Fresh evidence of prisoner’s death following whipping. Constitutional Law - Federal Constitution - Articles 5(1), 8(1) and 8(2) Fundamental liberties - Life and personal liberty - Human dignity - Equal protection of the law - Whether it is in violation of medical ethics for medical officer to be participate in the execution of whipping. Judicial whipping - Corporal punishment - Whether judicial whipping amounts to cruel, inhuman and degrading treatment (“CIDT”) - Whether punishment of whipping is inconsistent with constitutional protection of life, dignity and bodily integrity. Whether whipping is disproportionate and therefore contrary to Article 8(1) - Whether exemption of women from whipping constitutes prohibited discrimination on ground only of gender is contrary to Art 8(2) - Intelligible differentia. Whether whipping is against Art. 5 of the Universal Declaration of Human Rights (“UDHR”) and the ASEAN Human Rights Declaration in its prohibitions against CIDT - Whether whipping is against customary international law.",
-      "judge": "YAA Tun Wan Ahmad Farid Bin Wan Salleh",
-      "coram": [
-        "YAA Tun Wan Ahmad Farid Bin Wan Salleh",
-        "YAA Datuk Hajah Azizah binti Haji Nawawi",
-        "YA Dato' Lee Swee Seng"
-      ],
-      "dateOfResult": "2026-04-21",
-      "dateOfFiling": "2026-05-03",
+      "catchwords": "Dewan Bandaraya Kuala Lumpur – Local authority responsible for approving and controlling construction of buildings – Piling and excavation works performed by the 1st Defendant caused structural damage to the Plaintiffs house – Plaintiffs compelled to vacate their house for safety reasons – Admission of liability by 1st Defendant developer – Undertaking to repair Plaintiffs’ house not fulfilled – Whether Plaintiffs may sue both the 1st Defendant developer and 2nd Defendant DBKL for negligence – Whether Plaintiffs’ action is barred by s.2(a) of the Public Authorities Protection Act 1960 and/or s.95(2) of the Street, Drainage and Building Act 1974 – Whether the Plaintiffs’ claim against the 2nd Defendant should be by judicial review – Whether the 2nd Defendant should be held jointly and severally liable – Whether joint and several liability will lead to the Plaintiffs being overpaid",
+      "judge": "YA Tuan Gan Techiong",
+      "coram": [],
+      "dateOfResult": "2026-04-23",
+      "dateOfFiling": "2026-08-12",
       "docs": [
         {
-          "documentId": "77105e90-1e7c-4423-ab06-37a1171bd72b",
+          "documentId": "25bcf920-1e63-4843-9d3d-48d1993e7e3e",
           "name": "Alasan Penghakiman",
-          "preparedBy": "YAA Tun Wan Ahmad Farid Bin Wan Salleh",
-          "category": "Majoriti",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=77105e90-1e7c-4423-ab06-37a1171bd72b&Inline=true"
-        },
-        {
-          "documentId": "d1855098-054b-4e56-ae68-13fdcccaf5ab",
-          "name": "dissenting - mohd helmi anuar bin mohd kassim v public prosecutor & 2 other review applications.pdf",
-          "preparedBy": "YA Dato' Lee Swee Seng",
-          "category": "Minoriti/Dissenting",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=d1855098-054b-4e56-ae68-13fdcccaf5ab&Inline=true"
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=25bcf920-1e63-4843-9d3d-48d1993e7e3e&Inline=true"
         }
       ]
     },
@@ -2032,11 +1925,57 @@
       "dateOfFiling": "2026-08-12",
       "docs": [
         {
-          "documentId": "b97b5267-52a8-476b-90eb-5a4425fd2345",
+          "documentId": "f8d4b163-8433-4bd3-80e0-d0db2147eabb",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "Sebulat Suara (Unanimous)",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=f8d4b163-8433-4bd3-80e0-d0db2147eabb&Inline=true"
+        },
+        {
+          "documentId": "f8d4b163-8433-4bd3-80e0-d0db2147eabb",
           "name": "Alasan Penghakiman",
           "preparedBy": "YA Dato' Paduka Azman Bin Abdullah",
           "category": "Sebulat Suara (Unanimous)",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=b97b5267-52a8-476b-90eb-5a4425fd2345&Inline=true"
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=f8d4b163-8433-4bd3-80e0-d0db2147eabb&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "9a43646d-7ea0-499c-9b08-5015f0b7c4a6",
+      "caseNo": "K-05(H)-540-11/2024",
+      "jurisdiction": "COA",
+      "court": "Court of Appeal",
+      "title": "PHAN YOK KHOON v Pendakwa Raya",
+      "parties": [
+        {
+          "label": "PERAYU",
+          "names": [
+            "PHAN YOK KHOON"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "Pendakwa Raya"
+          ]
+        }
+      ],
+      "catchwords": "Seksyen 39B(1)(a) Akta Dadah Berbahaya 1952 – Seksyen 3(1)(a) Akta Dadah Berbahaya (Perlucuthakan Harta) 1988 - menggunakan kenderaan bermotor untuk aktiviti pengedaran dadah - agent provocateur – percanggahan keterangan antara saksi pendakwaan – percanggahan tidak material dan tidak menjejaskan kes pendakwaan - rantaian pergerakan barang kes tidak terputus - versi pembelaan bersifat penafian semata-mata (bare denial) dan fikiran kemudian (afterthought)",
+      "judge": "YA Dato' Paduka Azman Bin Abdullah",
+      "coram": [
+        "YA Dato' Paduka Azman Bin Abdullah",
+        "YA Datuk Noorin binti Badaruddin",
+        "YA Datuk Mohd Radzi Bin Abdul Hamid"
+      ],
+      "dateOfResult": "2026-03-02",
+      "dateOfFiling": "2026-08-12",
+      "docs": [
+        {
+          "documentId": "e1b42cda-7cd5-4e9b-9f0b-73814a863e1b",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "YA Dato' Paduka Azman Bin Abdullah",
+          "category": "Sebulat Suara (Unanimous)",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=e1b42cda-7cd5-4e9b-9f0b-73814a863e1b&Inline=true"
         }
       ]
     },
