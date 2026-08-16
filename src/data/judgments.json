@@ -1,6 +1,6 @@
 {
   "source": "Malaysia E-Judgment Portal (ejudgment.kehakiman.gov.my)",
-  "updatedAt": "2026-08-15T23:41:52.088Z",
+  "updatedAt": "2026-08-16T23:43:00.402Z",
   "count": 60,
   "judgments": [
     {
@@ -71,41 +71,6 @@
           "preparedBy": "",
           "category": "",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=d81c34e7-ddaf-4e61-b528-9218b29b68c1&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "391370c3-ae41-4ff8-9f87-558943302df0",
-      "caseNo": "CA-42JSKS-12-12/2024",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "KHAIRIL ISMAIL BIN TAJU ARIFFIN v Pendakwa Raya",
-      "parties": [
-        {
-          "label": "PERAYU",
-          "names": [
-            "KHAIRIL ISMAIL BIN TAJU ARIFFIN"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "Pendakwa Raya"
-          ]
-        }
-      ],
-      "catchwords": "Rayuan atas sabitan dan hukuman oleh OKT yang diputuskan oleh Hakim Mahkamah Sesyen- Seksyen 14(a) Akta Kesalahan-kesalahan Seksual Terhadap kanak-kanak 2017 - samada keterangan mangsa boleh diterima - kompetensi mangsa dalam memberi keterangan - keperluan untuk keterangan sokongan daripada mangsa kanak-kanak - samada perbezaan tarikh kejadian adalah material - samada percanggahan keterangan dan tarikh laporan polis material - kes prima facie- pembelaan yang merupakan fikiran terkemudian - tiada keperluan untuk mahkamah tinggi selaku hakim yang mendengar rayuan untuk mengganggu dapatan hakim mahkamah sesyen - samada bon berkelakuan baik sesuai - hukuman 8 tahun dan 3 sebatan adalah setimpal.",
-      "judge": "YA Tuan Kumar a/l Thangaraju",
-      "coram": [],
-      "dateOfResult": "2026-08-06",
-      "dateOfFiling": "2026-08-12",
-      "docs": [
-        {
-          "documentId": "6ef52d39-b4d7-417e-83af-15e4601a8673",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=6ef52d39-b4d7-417e-83af-15e4601a8673&Inline=true"
         }
       ]
     },
@@ -1418,6 +1383,42 @@
           "preparedBy": "",
           "category": "",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=d81db769-5c6b-4a7a-909c-76c3c92c4ea8&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "359db345-d057-40ab-af19-d32995d516a1",
+      "caseNo": "KA-12BNCvC-13-08/2025",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "CHONG CHOW LIM v Ooi Sze Sze & ors",
+      "parties": [
+        {
+          "label": "PERAYU",
+          "names": [
+            "CHONG CHOW LIM"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "Ooi Sze Sze",
+            "Shim Chun Chin"
+          ]
+        }
+      ],
+      "catchwords": "RAYUAN terhadap Keputusan Mahkamah Sesyen - Tuntutan Sivil. ISU i)Adakah Mahkamah Sesyen tersilap dalam menilai bukti sehingga hanya membenarkan tiga episod? ii)Adakah keseluruhan 12 episod merupakan satu skim penipuan bersiri? (iii) Adakah bukti WhatsApp mencukupi untuk membuktikan pinjaman wang? (iv) Adakah bukti mengenai dua kes lain melibatkan Responden relevan? (v) Adakah kredibiliti saksi Responden boleh dipercayai? (vi) Adakah dapatan Mahkamah Sesyen wajar diganggu?",
+      "judge": "YA Dato' Mohd Aimi Zaini bin Mohd Azhar",
+      "coram": [],
+      "dateOfResult": "2026-06-07",
+      "dateOfFiling": "2026-08-16",
+      "docs": [
+        {
+          "documentId": "9f6b36bd-a143-49d0-a47c-46a0b69f8bd0",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=9f6b36bd-a143-49d0-a47c-46a0b69f8bd0&Inline=true"
         }
       ]
     },
