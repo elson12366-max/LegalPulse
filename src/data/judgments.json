@@ -1,6 +1,6 @@
 {
   "source": "Malaysia E-Judgment Portal (ejudgment.kehakiman.gov.my)",
-  "updatedAt": "2026-08-21T23:47:12.052Z",
+  "updatedAt": "2026-08-22T23:43:14.267Z",
   "count": 60,
   "judgments": [
     {
@@ -391,6 +391,42 @@
       ]
     },
     {
+      "id": "1f1be3db-fea1-4919-8b18-ef58badd0260",
+      "caseNo": "JA-22NCvC-5-01/2022",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "Sim Cheng Siong v Sim Tiang Lim & ors",
+      "parties": [
+        {
+          "label": "PLAINTIF",
+          "names": [
+            "Sim Cheng Siong"
+          ]
+        },
+        {
+          "label": "DEFENDAN",
+          "names": [
+            "Sim Tiang Lim",
+            "Sim Ting Chin"
+          ]
+        }
+      ],
+      "catchwords": "TRUSTS — Resulting trust — Voluntary transfer of property and vehicle by father to sons — Transfer expressed as “love and affection” — Actual intention of transferor — Presumption of advancement — Whether outright gift or assets held on trust — Beneficial interest retained CONTRACT — Loan — RM10,000 advanced to son — Whether loan or gift — Burden and standard of proof EQUITY — Illegality — Ex turpi causa — Clean hands — Asset protection pending matrimonial proceedings — Illegality not pleaded — Patel v Mirza considerations — Proportionality — Recovery not barred",
+      "judge": "YA Dr Noradura Binti Hamzah",
+      "coram": [],
+      "dateOfResult": "2026-07-15",
+      "dateOfFiling": "2026-08-22",
+      "docs": [
+        {
+          "documentId": "3c1aec85-12e8-425b-90d2-46ce1e1dff2e",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=3c1aec85-12e8-425b-90d2-46ce1e1dff2e&Inline=true"
+        }
+      ]
+    },
+    {
       "id": "f60df750-b794-4271-a0e5-c9c1136f762c",
       "caseNo": "05(LB)-102-06/2025(W)",
       "jurisdiction": "FC",
@@ -738,41 +774,6 @@
           "preparedBy": "YAA Datuk Seri Abu Bakar Bin Jais",
           "category": "Minoriti/Dissenting",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=90bce96b-5b96-49f2-ad5b-d5ea3f8d8c96&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "9c055397-db27-4f05-817c-effd078be538",
-      "caseNo": "JA-24NCvC-826-05/2026",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "MAXI WONDER SDN. BHD. v DCS TRADING SDN. BHD.",
-      "parties": [
-        {
-          "label": "PEMOHON",
-          "names": [
-            "MAXI WONDER SDN. BHD."
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "DCS TRADING SDN. BHD."
-          ]
-        }
-      ],
-      "catchwords": "Land Law — Private caveat — Removal — Caveatable interest — National Land Code Civil Procedure — Transfer of proceedings — Forum conveniens — Situs of land — Appropriate forum — O.57 r.1(4)(a) Rules of Court 2012 Civil Procedure — Stay of proceedings — Related proceedings — Special circumstances — Rare and compelling circumstances — O.92 r.4 Rules of Court 2012 Judicial management — Moratorium — Leave to commence and continue caveat removal proceedings",
-      "judge": "YA Dr Noradura Binti Hamzah",
-      "coram": [],
-      "dateOfResult": "2026-07-09",
-      "dateOfFiling": "2026-08-20",
-      "docs": [
-        {
-          "documentId": "b9e1e083-5511-4ebc-b687-845c512a123b",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=b9e1e083-5511-4ebc-b687-845c512a123b&Inline=true"
         }
       ]
     },
@@ -1358,37 +1359,38 @@
       ]
     },
     {
-      "id": "a0dbf2f9-d4cd-4bf7-a1ff-5f1fffca14a0",
-      "caseNo": "JA-42JSKS-12-06/2025",
+      "id": "f5708cab-dd41-4dd5-81c0-6aa1201b8302",
+      "caseNo": "DA-42JSKS-2-02/2025",
       "jurisdiction": "HC",
       "court": "High Court",
-      "title": "MOHD SAIMI BIN MD YATIM v Pendakwa Raya",
+      "title": "SYAMSUL ZAMAN BIN SUKRI v Pendakwa Raya & ors",
       "parties": [
         {
           "label": "PERAYU",
           "names": [
-            "MOHD SAIMI BIN MD YATIM"
+            "SYAMSUL ZAMAN BIN SUKRI"
           ]
         },
         {
           "label": "RESPONDEN",
           "names": [
-            "Pendakwa Raya"
+            "Pendakwa Raya",
+            "[Pendakwa Raya]"
           ]
         }
       ],
-      "catchwords": "CRIMINAL LAW: Sexual offences against children – Physical sexual assault on a child – Section 14(a) Sexual Offences Against Children Act 2017 (Act 792) – Elements of offence – Child within meaning of section 2 of Act 792 – Touching of a part of the body for sexual purpose – Charge amended on multiple occasions during trial – Whether prosecution proved its case beyond reasonable doubt – Whether convictions unsafe – Acquittal and discharge CRIMINAL PROCEDURE: Appeal against conviction and sentence – Section 316 Criminal Procedure Code – Principles of appellate intervention – Distinction between whether decision wrong and whether conviction safe – Grounds warranting appellate intervention including wrong premise of fact or law, insufficient judicial appreciation of evidence, overlooking inherent probabilities, unwarranted deduction from established facts – Whether appellate court ought to disturb findings of fact of trial court absent substantial and compelling reasons – Trial part-heard before predecessor judge and concluded by successor judge – Whether successor judge could make demeanour-based credibility findings without having seen or heard witnesses testify – Weight to be given to documentary record as against credibility findings made by a judge who did not observe the witness EVIDENCE: Credibility of complainant – Contemporaneous first information report – Material omissions and inconsistencies between police report and evidence given at trial – Whether omission goes to the root of the charge so as to impeach complainant&#039;s credit – Whether first information report to be weighed with discrimination rather than treated as an encyclopaedia – Corroboration – Eyewitness evidence – Whether eyewitness account physically and visually possible having regard to sightlines and obstructions – Conflicting markings by witnesses of location of alleged incident on exhibits – Investigating officer&#039;s concession of loopholes and incompleteness of investigation – Failure to record statements from available and identifiable witnesses – Failure to verify documentary exhibits tendered by defence – Adverse inference under illustration (g) to section 114 Evidence Act 1950 for non-production of material witnesses – Interested witness – Whether spousal relationship alone sufficient to discount weight of witness&#039;s evidence – Whether witness&#039;s evidence given in official/institutional capacity distinct from domestic relationship to be assessed on its own merits – Documentary evidence of teaching schedule and training syllabus – Whether documentary timeline structurally undermines complainant&#039;s account of escalating conduct – Video-recorded simulation performed by complainant – Whether trial court&#039;s characterisation of demonstration borne out on independent viewing – Whether courtroom simulation evidence assessed by judge who did not view the recording",
-      "judge": "YA Tuan Atan Mustaffa Yussof Ahmad",
+      "catchwords": "Ini adalah rayuan tertuduh (perayu) terhadap sabitan dan hukuman yang telah dijatuhkan oleh Hakim Mahkamah Sesyen (“HMS”) di Mahkamah Sesyen Pasir Mas (MSPM) terhadap Perayu bagi satu pertuduhan di bawah seksyen 14(a) Akta Kesalahan Seksual Terhadap Kanak-Kanak 2017. Perayu telah membela diri dan memberi keterangan secara bersumpah. Di akhir kes pembelaan, HMS memutuskan pembelaan Perayu gagal menimbulkan keraguan munasabah kes pendakwaan. Dalam masa yang sama HMS memutuskan pihak pendakwaan telah berjaya membuktikan kes pendakwaan melampaui keraguan munasabah Samada HMS gagal mematuhi peruntukan seksyen 133A AK 1950 kerana tidak menjalankan inkuiri awal bagi menentukan mangsa adalah seorang saksi yang kompeten yang mempunyai kecerdikan untuk memahami tugas memberi keterangan yang benar di mahkamah samada pihak pendakwaan telah membuktikan mangsa ialah seorang kanak-kanak yang kredibel dan kompeten samada percanggahan yang dibangkitkan oleh perayu bukanlah percanggahan yang material dan tidak menjejaskan kredibiliti mangsa Di bawah Seksyen 18 Akta 792, sabitan boleh dibuat berdasarkan keterangan kanak-kanak tanpa sokongan sekiranya mahkamah berpuas hati dengan kebenarannya. s. 422 KTJ memperuntukkan bahawa suatu penemuan atau hukuman tidak boleh diakas atau diubah atas sebab kesilapan, peninggalan atau ketidakteraturan dalam prosiding, melainkan kesilapan, peninggalan atau ketidakteraturan tersebut telah menyebabkan suatu kegagalan keadilan. Mahkamah ini mendapati HMS telah membuat pertimbangan yang betul terhadap semua keterangan yang telah dikemukakan oleh pihak-pihak, baik pihak pendakwaan mahu pihak pembelaan selaras dengan peruntukan Seksyen 173(m)(i) dan selanjutnya memutuskan pihak pendakwaan telah berjaya membuktikan pertuduhan terhadap tertuduh (Perayu) pada tahap melampaui keraguan munasabah dan mensabitkan Perayu. rayuan Perayu ke atas sabitan dan hukuman adalah ditolak kerana tidak mempunyai merit. Hukuman oleh HMS di Mahkamah Sesyen Pasir Mas iaitu penjara selama enam (6) tahun dan dua (2) sebatan rotan serta Perintah Kaunseling dan Pengawasan Polis ke atas Perayu adalah dikekalkan",
+      "judge": "YA Tuan Haji Azhar Bin Mokhtar",
       "coram": [],
-      "dateOfResult": "2026-06-11",
+      "dateOfResult": "2026-06-09",
       "dateOfFiling": "2026-08-20",
       "docs": [
         {
-          "documentId": "97d51004-5fd6-47d8-acac-eb8ba826ddc1",
+          "documentId": "ddda4388-ab73-476b-bbe5-5f48ddb3c095",
           "name": "Alasan Penghakiman",
           "preparedBy": "",
           "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=97d51004-5fd6-47d8-acac-eb8ba826ddc1&Inline=true"
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=ddda4388-ab73-476b-bbe5-5f48ddb3c095&Inline=true"
         }
       ]
     },
@@ -1425,42 +1427,6 @@
           "preparedBy": "",
           "category": "",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=c1dca9f1-3847-48aa-8378-18673e310011&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "f5708cab-dd41-4dd5-81c0-6aa1201b8302",
-      "caseNo": "DA-42JSKS-2-02/2025",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "SYAMSUL ZAMAN BIN SUKRI v Pendakwa Raya & ors",
-      "parties": [
-        {
-          "label": "PERAYU",
-          "names": [
-            "SYAMSUL ZAMAN BIN SUKRI"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "Pendakwa Raya",
-            "[Pendakwa Raya]"
-          ]
-        }
-      ],
-      "catchwords": "Ini adalah rayuan tertuduh (perayu) terhadap sabitan dan hukuman yang telah dijatuhkan oleh Hakim Mahkamah Sesyen (“HMS”) di Mahkamah Sesyen Pasir Mas (MSPM) terhadap Perayu bagi satu pertuduhan di bawah seksyen 14(a) Akta Kesalahan Seksual Terhadap Kanak-Kanak 2017. Perayu telah membela diri dan memberi keterangan secara bersumpah. Di akhir kes pembelaan, HMS memutuskan pembelaan Perayu gagal menimbulkan keraguan munasabah kes pendakwaan. Dalam masa yang sama HMS memutuskan pihak pendakwaan telah berjaya membuktikan kes pendakwaan melampaui keraguan munasabah Samada HMS gagal mematuhi peruntukan seksyen 133A AK 1950 kerana tidak menjalankan inkuiri awal bagi menentukan mangsa adalah seorang saksi yang kompeten yang mempunyai kecerdikan untuk memahami tugas memberi keterangan yang benar di mahkamah samada pihak pendakwaan telah membuktikan mangsa ialah seorang kanak-kanak yang kredibel dan kompeten samada percanggahan yang dibangkitkan oleh perayu bukanlah percanggahan yang material dan tidak menjejaskan kredibiliti mangsa Di bawah Seksyen 18 Akta 792, sabitan boleh dibuat berdasarkan keterangan kanak-kanak tanpa sokongan sekiranya mahkamah berpuas hati dengan kebenarannya. s. 422 KTJ memperuntukkan bahawa suatu penemuan atau hukuman tidak boleh diakas atau diubah atas sebab kesilapan, peninggalan atau ketidakteraturan dalam prosiding, melainkan kesilapan, peninggalan atau ketidakteraturan tersebut telah menyebabkan suatu kegagalan keadilan. Mahkamah ini mendapati HMS telah membuat pertimbangan yang betul terhadap semua keterangan yang telah dikemukakan oleh pihak-pihak, baik pihak pendakwaan mahu pihak pembelaan selaras dengan peruntukan Seksyen 173(m)(i) dan selanjutnya memutuskan pihak pendakwaan telah berjaya membuktikan pertuduhan terhadap tertuduh (Perayu) pada tahap melampaui keraguan munasabah dan mensabitkan Perayu. rayuan Perayu ke atas sabitan dan hukuman adalah ditolak kerana tidak mempunyai merit. Hukuman oleh HMS di Mahkamah Sesyen Pasir Mas iaitu penjara selama enam (6) tahun dan dua (2) sebatan rotan serta Perintah Kaunseling dan Pengawasan Polis ke atas Perayu adalah dikekalkan",
-      "judge": "YA Tuan Haji Azhar Bin Mokhtar",
-      "coram": [],
-      "dateOfResult": "2026-06-09",
-      "dateOfFiling": "2026-08-20",
-      "docs": [
-        {
-          "documentId": "ddda4388-ab73-476b-bbe5-5f48ddb3c095",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=ddda4388-ab73-476b-bbe5-5f48ddb3c095&Inline=true"
         }
       ]
     },
@@ -1899,6 +1865,42 @@
       ]
     },
     {
+      "id": "4afe6b07-5f36-4061-96fa-8de150edbcd3",
+      "caseNo": "WA-45B-7-05/2023",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "Pendakwa Raya & ors v Eko Kaswadi",
+      "parties": [
+        {
+          "label": "PENDAKWA RAYA",
+          "names": [
+            "Pendakwa Raya",
+            "[Timbalan Pendakwa Raya (TPR), Jabatan Peguam Negara]"
+          ]
+        },
+        {
+          "label": "TERTUDUH",
+          "names": [
+            "Eko Kaswadi"
+          ]
+        }
+      ],
+      "catchwords": "Criminal Justice - Murder - Circumstantial Evidence - chain of circumstances critically broken - discrepancy between charge and pathologist&#039;s estimated time of death - leaving behind wide window for third-party intervention - exculpatory forensic findings on alleged murder weapon and sperm cell extract - third party DNA on driving controls and CCTV footage - tainted dock identification - adverse inference under section 114 (g) - evidence adduced raised mere suspicion and competing hypotheses of innocence - prima facie case not established - accused acquitted and discharged without defence being called.",
+      "judge": "YA Tuan Muniandy a/l Kannyappan",
+      "coram": [],
+      "dateOfResult": "2026-03-16",
+      "dateOfFiling": "2026-08-22",
+      "docs": [
+        {
+          "documentId": "33019670-d261-4e51-855e-404729b3ee7a",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=33019670-d261-4e51-855e-404729b3ee7a&Inline=true"
+        }
+      ]
+    },
+    {
       "id": "a2c569f3-ac52-4b4b-b78d-8755d01b27b4",
       "caseNo": "BKA-1-01/2026(W)",
       "jurisdiction": "FC",
@@ -2217,7 +2219,7 @@
       ]
     },
     {
-      "id": "268c778a-7809-40e3-be55-0ece09c67666",
+      "id": "3d008cf0-f4d1-4faa-bf85-d822e48bda11",
       "caseNo": "BA-22NCvC-53-02/2025",
       "jurisdiction": "HC",
       "court": "High Court",
@@ -2252,7 +2254,7 @@
       ]
     },
     {
-      "id": "3d008cf0-f4d1-4faa-bf85-d822e48bda11",
+      "id": "268c778a-7809-40e3-be55-0ece09c67666",
       "caseNo": "BA-22NCvC-53-02/2025",
       "jurisdiction": "HC",
       "court": "High Court",
