@@ -1,6 +1,6 @@
 {
   "source": "Malaysia E-Judgment Portal (ejudgment.kehakiman.gov.my)",
-  "updatedAt": "2026-08-22T23:43:14.267Z",
+  "updatedAt": "2026-08-23T23:43:05.372Z",
   "count": 60,
   "judgments": [
     {
@@ -39,6 +39,41 @@
           "preparedBy": "YA Dato' Faizah Binti Jamaludin",
           "category": "Sebulat Suara (Unanimous)",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=a794a912-ddaa-4817-aa4d-b0f8b97b1736&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "9c055397-db27-4f05-817c-effd078be538",
+      "caseNo": "JA-24NCvC-826-05/2026",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "MAXI WONDER SDN. BHD. v DCS TRADING SDN. BHD.",
+      "parties": [
+        {
+          "label": "PEMOHON",
+          "names": [
+            "MAXI WONDER SDN. BHD."
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "DCS TRADING SDN. BHD."
+          ]
+        }
+      ],
+      "catchwords": "Land Law — Private caveat — Application for removal — Sections 323, 327 and 329 National Land Code — Redeemable Preference Share Subscription Agreement — Negative covenant restricting disposal of land — Whether caveatable interest created — Contractual and monetary rights — Rights in personam — No registrable or present interest in land — Constructive trust — Separate legal personality — Shareholder having no proprietary interest in company’s assets — Serious question to be tried — Balance of convenience favouring removal — Compensation refused — Private caveat removed — Application allowed in part — Costs RM10,000",
+      "judge": "YA Dr Noradura Binti Hamzah",
+      "coram": [],
+      "dateOfResult": "2026-08-09",
+      "dateOfFiling": "2026-08-23",
+      "docs": [
+        {
+          "documentId": "0480444d-f0d3-47b5-a045-fb1235478f71",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=0480444d-f0d3-47b5-a045-fb1235478f71&Inline=true"
         }
       ]
     },
@@ -778,42 +813,6 @@
       ]
     },
     {
-      "id": "cd755c47-e6d3-42f9-90b7-31285c7f8594",
-      "caseNo": "DA-45A-16-04/2022",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "Pendakwa Raya & ors v Amran Bin Salleh",
-      "parties": [
-        {
-          "label": "PENDAKWA RAYA",
-          "names": [
-            "Pendakwa Raya",
-            "[Pendakwa Raya]"
-          ]
-        },
-        {
-          "label": "TERTUDUH",
-          "names": [
-            "Amran Bin Salleh"
-          ]
-        }
-      ],
-      "catchwords": "PERBICARAAN JENAYAH: Seksyen 39B(1)(a) Akta Dadah Berbahaya 1952 - pihak pendakwaan telah gagal menimbulkan satu kes prima facie terhadap OKT bagi kedua-dua pertuduhan yang dikemukakan terhadapnya.",
-      "judge": "YA Tuan Mohd Rosli bin Yusoff",
-      "coram": [],
-      "dateOfResult": "2026-06-30",
-      "dateOfFiling": "2026-08-20",
-      "docs": [
-        {
-          "documentId": "6cf51245-19a2-4d60-9150-83bc3161de92",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=6cf51245-19a2-4d60-9150-83bc3161de92&Inline=true"
-        }
-      ]
-    },
-    {
       "id": "c6d13ab6-3523-47a0-9223-afdadd8e5851",
       "caseNo": "01(f)-31-10/2024(W)",
       "jurisdiction": "FC",
@@ -1049,45 +1048,6 @@
       ]
     },
     {
-      "id": "7273fb6c-986b-409e-9624-8e402a61901a",
-      "caseNo": "DA-42S-2-06/2025",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "MOHD SHAMSUL IZWAN BIN MIDIN & ors v Pendakwa Raya & ors",
-      "parties": [
-        {
-          "label": "PERAYU",
-          "names": [
-            "MOHD SHAMSUL IZWAN BIN MIDIN",
-            "IDREES BIN ISHAK",
-            "MUHAMMAD FIRDAUS BIN MOHD ADNAN",
-            "MOHD ERIC BIN MOHD RAMLI"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "Pendakwa Raya",
-            "[Pendakwa Raya]"
-          ]
-        }
-      ],
-      "catchwords": "Terdapat dua rayuan di hadapan Mahkamah ini yang berbangkit daripada satu perbicaraan yang sama di Mahkamah Sesyen Kota Bharu (“MSKB”), iaitu Perbicaraan Jenayah No: DA-62-106-12/2021, dan yang telah didengar bersama. Rayuan Jenayah No: DA-42S-2-06/2025 ialah rayuan oleh keempat-empat Perayu terhadap keseluruhan sabitan dan hukuman. Rayuan Jenayah No: DA-42H-11-07/2025 ialah rayuan oleh Pendakwa Raya terhadap hukuman semata-mata, atas alasan hukuman yang dijatuhkan adalah tidak memadai. Samada HMS terkhilaf dari segi undang-undang apabila gagal membuat dapatan bahawa elemen Perayu-Perayu mendatangkan cedera parah pada hari kejadian gagal dibuktikan oleh Pendakwaan; Samada HMS terkhilaf apabila menerima keterangan saksi-saksi Pendakwaan yang tidak mempunyai keterangan sokongan, termasuk isu kebolehterimaan keterangan SP6 dan ekshibit P6 di bawah seksyen 399 KTJ; Samada HMS terkhilaf dari sudut fakta apabila gagal membuat dapatan bahawa ekshibit P6 dikeluarkan oleh sebuah hospital swasta dua belas hari selepas kejadian dan bukan pada waktu kejadian; dan HMS terkhilaf dari sudut fakta apabila gagal mempertimbangkan pembelaan Perayu-Perayu, termasuk pembelaan provokasi yang dibangkitkan oleh Perayu Keempat. Samada elemen pertuduhan dapat dibuktikan oleh Pendakwaan; iaitu pertama, mangsa mengalami cedera parah akibat perbuatan Perayu-Perayu; dan kedua, Perayu-Perayu melakukan perbuatan tersebut dengan sengaja, iaitu dengan niat atau mengetahui perbuatannya itu mungkin mendatangkan cedera parah. Samada kecederaan yang dialami mangsa mencapai maksud &quot;hilang selama-lamanya penglihatan salah satu mata&quot;. Mahkamah ini bersetuju dengan dapatan HMS di perenggan 5 dan 7 AP HMS bahawa kecederaan yang dialami mangsa merupakan cedera parah yang menepati seksyen 320(b) KK. Sebagaimana yang dihujahkan oleh Pendakwaan, yang mana Mahkamah ini bersetuju sepenuhnya; keterangan lisan pakar yang telah diperiksa balas adalah keterangan terbaik dan ia sah, kompeten serta boleh diterima (best evidence rules) HMS mempunyai kelebihan audio-visual untuk menilai “demeanour” saksi-saksi di kandang saksi. HMS telah mendapati saksi-saksi Pendakwaan memberikan keterangan yang meyakinkan, konsisten dan “credible”. Secara khusus, HMS mendapati mangsa konsisten mengenai tindakan kesemua Perayu yang telah mencederakannya Setelah menilai keseluruhan keterangan, Mahkamah ini berpuas hati bahawa Pendakwaan telah membuktikan kedua-dua elemen kesalahan di bawah seksyen 325 KK dibaca bersama seksyen 34 KK melampaui keraguan yang munasabah, dan bahawa pembelaan Perayu-Perayu gagal menimbulkan keraguan yang munasabah terhadap kes Pendakwaan. Tiada kekhilafan yang nyata dalam pendekatan HMS terhadap sabitan yang Mahkamah ini dapati ianya selamat Mahkamah ini berpendapat hukuman tiga (3) tahun penjara bagi kesalahan yang menyebabkan kehilangan penglihatan sebelah mata secara kekal yang dilakukan oleh empat (4) orang dengan dalam tempoh beberapa lama, penggunaan alat, dan selepas perbicaraan penuh tanpa pengakuan salah, sama sekali tidak boleh dikatakan keterlaluan. Mengambil kira faktor-faktor memberatkan tersebut, dan setelah memberikan pertimbangan yang sewajarnya kepada rekod bersih kesemua Perayu, Mahkamah ini berpendapat hukuman yang sesuai dan setimpal ialah penjara lima (5) tahun terhadap setiap Perayu. Hukuman itu masih jauh di bawah hukuman maksimum berkanun tujuh (7) tahun. Pada pendapat Mahkamah hukuman penjara lima tahun (5) tahun tersebut mencapai keseimbangan antara kepentingan awam, keseriusan kesalahan, dan faktor mitigasi yang dikemukakan oleh Perayu-Perayu.",
-      "judge": "YA Tuan Haji Azhar Bin Mokhtar",
-      "coram": [],
-      "dateOfResult": "2026-06-20",
-      "dateOfFiling": "2026-08-20",
-      "docs": [
-        {
-          "documentId": "c2ec8184-0658-429f-af89-552e22af9e8b",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=c2ec8184-0658-429f-af89-552e22af9e8b&Inline=true"
-        }
-      ]
-    },
-    {
       "id": "eca9c1c6-bcef-4bda-8c70-394d6325acc7",
       "caseNo": "C-05A(LB)-641-12/2025",
       "jurisdiction": "COA",
@@ -1168,6 +1128,41 @@
           "preparedBy": "YA Datuk Wong Kian Kheong",
           "category": "Sebulat Suara (Unanimous)",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=c2105202-8fe8-4b56-8341-caf1adbc87c1&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "6fe40e1b-2119-4854-bb3b-ef8620be7394",
+      "caseNo": "AB-42JSKS-7-07/2025",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "MOHAMAD KAMIL BIN ALI v Pendakwa Raya",
+      "parties": [
+        {
+          "label": "PERAYU",
+          "names": [
+            "MOHAMAD KAMIL BIN ALI"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "Pendakwa Raya"
+          ]
+        }
+      ],
+      "catchwords": "Seksyen 14(b) Akta Kesalahan-Kesalahan Seksual Terhadap Kanak-Kanak 2017 - samada terdapat percanggahan antara keterangan mangsa - samada hakim mahkamah sesyen gagal menimbang keseluruhan keterangan semasa membuat keputusan mensabitkan tertuduh",
+      "judge": "YA Tuan Syed Faisal bin Syed Amir",
+      "coram": [],
+      "dateOfResult": "2026-06-17",
+      "dateOfFiling": "2026-08-23",
+      "docs": [
+        {
+          "documentId": "65dadbfe-8421-426e-b391-160fd5abf078",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=65dadbfe-8421-426e-b391-160fd5abf078&Inline=true"
         }
       ]
     },
@@ -1324,41 +1319,6 @@
       ]
     },
     {
-      "id": "4eb0ced3-ebfc-46f7-83d4-6d7873f664c2",
-      "caseNo": "JA-12BNCC-2-01/2025",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "DYNAMECH ENGINEERING TECHNOLOGY (M) SDN BHD v THESSAL SDN BHD",
-      "parties": [
-        {
-          "label": "PERAYU",
-          "names": [
-            "DYNAMECH ENGINEERING TECHNOLOGY (M) SDN BHD"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "THESSAL SDN BHD"
-          ]
-        }
-      ],
-      "catchwords": "Civil procedure—Appeal—Appeal from Sessions Court after full trial—Judgment for RM400,000—Appellate court’s duty to review process of judicial appreciation—Whether findings plainly wrong or against weight of evidence Contract — Oral agreement — RM400,000 advanced into company bank account — Whether loan, investment or proposed purchase of shares — Absence of written agreement — Uncertainty — Whether s 30 Contracts Act 1950 defeated claim for repayment Agency — Actual and ostensible authority — Persons representing themselves as acting for company — Company director authorising them to operate internet and telephone banking facilities — Money paid directly into company account and retained — Whether company bound notwithstanding persons not registered directors or shareholders Restitution — Unjust enrichment — RM400,000 received into company account — Proposed acquisition of shares not completed — No corresponding benefit conferred upon payer — Company disputing contractual basis while retaining money — Whether liable to make restitution Evidence—Failure to call material witness—Section 114(g) Evidence Act 1950—Whether adverse inference displaced objective documentary and undisputed evidence Interest—Pre-judgment and post-judgment interest—Distinction—Civil Law Act 1956 s 11—Rules of Court 2012 O 42 r 12—Whether pre-judgment interest ought to run from final payment on 29 April 2019 or formal demand on 30 November 2020",
-      "judge": "YA Tuan Budiman Lutfi bin Mohamed",
-      "coram": [],
-      "dateOfResult": "2026-06-14",
-      "dateOfFiling": "2026-08-20",
-      "docs": [
-        {
-          "documentId": "370b96d0-4570-4d6c-b450-7b3e896c507b",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=370b96d0-4570-4d6c-b450-7b3e896c507b&Inline=true"
-        }
-      ]
-    },
-    {
       "id": "f5708cab-dd41-4dd5-81c0-6aa1201b8302",
       "caseNo": "DA-42JSKS-2-02/2025",
       "jurisdiction": "HC",
@@ -1391,42 +1351,6 @@
           "preparedBy": "",
           "category": "",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=ddda4388-ab73-476b-bbe5-5f48ddb3c095&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "b559ed4c-3687-4800-80e6-cb400626a8f6",
-      "caseNo": "DA-42JSKS-2-02/2025",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "SYAMSUL ZAMAN BIN SUKRI v Pendakwa Raya & ors",
-      "parties": [
-        {
-          "label": "PERAYU",
-          "names": [
-            "SYAMSUL ZAMAN BIN SUKRI"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "Pendakwa Raya",
-            "[Pendakwa Raya]"
-          ]
-        }
-      ],
-      "catchwords": "Ini adalah rayuan tertuduh (perayu) terhadap sabitan dan hukuman yang telah dijatuhkan oleh Hakim Mahkamah Sesyen (“HMS”) di Mahkamah Sesyen Pasir Mas (MSPM) terhadap Perayu bagi satu pertuduhan di bawah seksyen 14(a) Akta Kesalahan Seksual Terhadap Kanak-Kanak 2017. Perayu telah membela diri dan memberi keterangan secara bersumpah. Di akhir kes pembelaan, HMS memutuskan pembelaan Perayu gagal menimbulkan keraguan munasabah kes pendakwaan. Dalam masa yang sama HMS memutuskan pihak pendakwaan telah berjaya membuktikan kes pendakwaan melampaui keraguan munasabah Samada HMS gagal mematuhi peruntukan seksyen 133A AK 1950 kerana tidak menjalankan inkuiri awal bagi menentukan mangsa adalah seorang saksi yang kompeten yang mempunyai kecerdikan untuk memahami tugas memberi keterangan yang benar di mahkamah samada pihak pendakwaan telah membuktikan mangsa ialah seorang kanak-kanak yang kredibel dan kompeten samada percanggahan yang dibangkitkan oleh perayu bukanlah percanggahan yang material dan tidak menjejaskan kredibiliti mangsa Di bawah Seksyen 18 Akta 792, sabitan boleh dibuat berdasarkan keterangan kanak-kanak tanpa sokongan sekiranya mahkamah berpuas hati dengan kebenarannya. s. 422 KTJ memperuntukkan bahawa suatu penemuan atau hukuman tidak boleh diakas atau diubah atas sebab kesilapan, peninggalan atau ketidakteraturan dalam prosiding, melainkan kesilapan, peninggalan atau ketidakteraturan tersebut telah menyebabkan suatu kegagalan keadilan. Mahkamah ini mendapati HMS telah membuat pertimbangan yang betul terhadap semua keterangan yang telah dikemukakan oleh pihak-pihak, baik pihak pendakwaan mahu pihak pembelaan selaras dengan peruntukan Seksyen 173(m)(i) dan selanjutnya memutuskan pihak pendakwaan telah berjaya membuktikan pertuduhan terhadap tertuduh (Perayu) pada tahap melampaui keraguan munasabah dan mensabitkan Perayu. rayuan Perayu ke atas sabitan dan hukuman adalah ditolak kerana tidak mempunyai merit. Hukuman oleh HMS di Mahkamah Sesyen Pasir Mas iaitu penjara selama enam (6) tahun dan dua (2) sebatan rotan serta Perintah Kaunseling dan Pengawasan Polis ke atas Perayu adalah dikekalkan",
-      "judge": "YA Tuan Haji Azhar Bin Mokhtar",
-      "coram": [],
-      "dateOfResult": "2026-06-09",
-      "dateOfFiling": "2026-08-20",
-      "docs": [
-        {
-          "documentId": "c1dca9f1-3847-48aa-8378-18673e310011",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=c1dca9f1-3847-48aa-8378-18673e310011&Inline=true"
         }
       ]
     },
@@ -1538,6 +1462,42 @@
           "preparedBy": "YA Datuk Noorin binti Badaruddin",
           "category": "Sebulat Suara (Unanimous)",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=5fcf1a28-bed8-46f3-bba9-d6e6a7664d96&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "d1933b8d-7e74-42cc-ba83-1d6588ded5e6",
+      "caseNo": "WA-24NCvC-5045-10/2025",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "RAGUNATHAN A/L SUBRAMANIAM v GEETA A/P GNANARAJAH & ors",
+      "parties": [
+        {
+          "label": "PEMOHON",
+          "names": [
+            "RAGUNATHAN A/L SUBRAMANIAM"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "GEETA A/P GNANARAJAH",
+            "TETUAN A. GNANARAJAH & CO"
+          ]
+        }
+      ],
+      "catchwords": "i. Encl. 12 is allowed. The Plaintiff is granted leave to withdraw the OS (Encl. 1). ii. The withdrawal is without prejudice to the Plaintiff’s right, if so advised, to pursue any complaint against the Defendants before the Disciplinary Board under the Legal Profession Act 1976. iii. The Plaintiff shall pay the Defendants’ costs of RM3,500.00.",
+      "judge": "YA Tuan Nixon Anak Kennedy Kumbong",
+      "coram": [],
+      "dateOfResult": "2026-05-20",
+      "dateOfFiling": "2026-08-23",
+      "docs": [
+        {
+          "documentId": "63868690-d1f7-42cb-9bb7-534c3590bce1",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=63868690-d1f7-42cb-9bb7-534c3590bce1&Inline=true"
         }
       ]
     },
@@ -2179,6 +2139,44 @@
       ]
     },
     {
+      "id": "376bcbba-7cd4-4ee6-a88e-5ddbe3f3c274",
+      "caseNo": "WA-24NCvC-6342-12/2025",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "EUROCHEM NORTH WEST 2 LLC v MT RUSSIA LLC & ors",
+      "parties": [
+        {
+          "label": "PEMOHON",
+          "names": [
+            "EUROCHEM NORTH WEST 2 LLC"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "MT RUSSIA LLC",
+            "TECNIMONT S.P.A",
+            "TECNIMONTHQC SDN. BHD.",
+            "TECNIMONT E&I (M) SDN. BHD."
+          ]
+        }
+      ],
+      "catchwords": "Considering the foregoing, I allow the Plaintiff’s appeal against the learned Deputy Registrar’s decision dated 26.01.2026 insofar as it dismissed prayer (2) of the Plaintiff’s Notice of Application (Enclosure 8) and costs in the cause.",
+      "judge": "YA Tuan Nixon Anak Kennedy Kumbong",
+      "coram": [],
+      "dateOfResult": "2026-02-25",
+      "dateOfFiling": "2026-08-23",
+      "docs": [
+        {
+          "documentId": "5a4dcb81-ae51-4806-8079-7ffa0110604a",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=5a4dcb81-ae51-4806-8079-7ffa0110604a&Inline=true"
+        }
+      ]
+    },
+    {
       "id": "42f112d6-da07-4b35-96c9-2d426a237884",
       "caseNo": "A-01(NCvC)(W)-610-11/2023",
       "jurisdiction": "COA",
@@ -2219,7 +2217,7 @@
       ]
     },
     {
-      "id": "3d008cf0-f4d1-4faa-bf85-d822e48bda11",
+      "id": "268c778a-7809-40e3-be55-0ece09c67666",
       "caseNo": "BA-22NCvC-53-02/2025",
       "jurisdiction": "HC",
       "court": "High Court",
@@ -2254,7 +2252,7 @@
       ]
     },
     {
-      "id": "268c778a-7809-40e3-be55-0ece09c67666",
+      "id": "3d008cf0-f4d1-4faa-bf85-d822e48bda11",
       "caseNo": "BA-22NCvC-53-02/2025",
       "jurisdiction": "HC",
       "court": "High Court",
