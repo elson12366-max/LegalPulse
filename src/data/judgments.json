@@ -1,6 +1,6 @@
 {
   "source": "Malaysia E-Judgment Portal (ejudgment.kehakiman.gov.my)",
-  "updatedAt": "2026-08-24T23:44:15.649Z",
+  "updatedAt": "2026-08-25T23:47:10.799Z",
   "count": 60,
   "judgments": [
     {
@@ -373,6 +373,43 @@
           "preparedBy": "YA Dato Rhodzariah binti Bujang",
           "category": "Minoriti/Dissenting",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=62e48ad9-3b10-4a77-983b-d5818692e45d&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "e864199c-53b9-416f-b6cb-22bcd7b95bb0",
+      "caseNo": "JA-21NCvC-6-08/2024",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "MUHAMAD FAIZ BIN IBRAHIM v PENGURUS BESAR PERTUBUHAN PELADANG KAWASAN KOTA TINGGI TIMUR & ors",
+      "parties": [
+        {
+          "label": "PLAINTIF",
+          "names": [
+            "MUHAMAD FAIZ BIN IBRAHIM"
+          ]
+        },
+        {
+          "label": "DEFENDAN",
+          "names": [
+            "PENGURUS BESAR PERTUBUHAN PELADANG KAWASAN KOTA TINGGI TIMUR",
+            "PENGARAH LEMBAGA PERTUBUHAN PELADANG NEGERI JOHOR",
+            "KEMENTERIAN PERTANIAN DAN KETERJAMINAN MAKANAN MALAYSIA"
+          ]
+        }
+      ],
+      "catchwords": "Defamation – Statutory investigation – Show cause letter – Defamatory meaning – Publication to third party – No general dissemination proved Defamation – Internal statutory reporting chain – Qualified privilege – Corresponding duty and interest – Express malice not proved Defamation – Referral to MACC – Absolute privilege – Justification not established Declaratory relief – Pending criminal proceedings – Declaration of innocence refused – Sessions Court proper forum Damages – RM1 million claim unparticularised – No special damage proved Held – Plaintiff’s claim dismissed – Costs RM80,000 to defendants",
+      "judge": "YA Dr Noradura Binti Hamzah",
+      "coram": [],
+      "dateOfResult": "2026-07-22",
+      "dateOfFiling": "2026-08-25",
+      "docs": [
+        {
+          "documentId": "0c27c4b1-33f4-486c-b1ee-39cf5ffe7436",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=0c27c4b1-33f4-486c-b1ee-39cf5ffe7436&Inline=true"
         }
       ]
     },
@@ -1304,79 +1341,6 @@
       ]
     },
     {
-      "id": "e6ab0f7c-f184-4ff4-8245-a8e3df02dccd",
-      "caseNo": "WA-24NCvC-6180-12/2025",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "GOLDEN HARVEST AGROTECH (M) SDN. BHD. v KETUA PENGARAH KASTAM DIRAJA MALAYSIA & ors",
-      "parties": [
-        {
-          "label": "PEMOHON",
-          "names": [
-            "GOLDEN HARVEST AGROTECH (M) SDN. BHD."
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "KETUA PENGARAH KASTAM DIRAJA MALAYSIA",
-            "Jabatan Kastam Diraja Malaysia (KDRM)",
-            "JABATAN KASTAM DIRAJA MALAYSIA SELANGOR"
-          ]
-        }
-      ],
-      "catchwords": "Plaintiff has failed to satisfy the mandatory necessity requirement under Order 24 rule 8 of the Rules of Court 2012, the Plaintiff’s application for pre action discovery is hereby dismissed. I award costs to the Defendants, which I fix at RM4,000 subject to 4% allocatur.",
-      "judge": "YA Tuan Nixon Anak Kennedy Kumbong",
-      "coram": [],
-      "dateOfResult": "2026-05-25",
-      "dateOfFiling": "2026-08-23",
-      "docs": [
-        {
-          "documentId": "4d129ed8-6983-4824-91cc-04c7207d7089",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=4d129ed8-6983-4824-91cc-04c7207d7089&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "2d8bfaa7-cae5-446e-95bc-02b96365a929",
-      "caseNo": "WA-24NCvC-6181-12/2025",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "NG KOK CHEONG v KHOR HANN PIN & ors",
-      "parties": [
-        {
-          "label": "PEMOHON",
-          "names": [
-            "NG KOK CHEONG"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "KHOR HANN PIN",
-            "KHOR HANN PIN (Dalam kapasitinya sebagai seorang pemegang jawatan Persatuan Pemprosesan Kaca Keselamatan Malaysia)"
-          ]
-        }
-      ],
-      "catchwords": "Having considered the affidavits, exhibits, and submissions, and for the reasons set out above, the Court is satisfied that this is an appropriate case for clear, structured relief to restore certainty to the governance of SGPAM and to prevent further unlawful interference.",
-      "judge": "YA Tuan Nixon Anak Kennedy Kumbong",
-      "coram": [],
-      "dateOfResult": "2026-05-21",
-      "dateOfFiling": "2026-08-23",
-      "docs": [
-        {
-          "documentId": "5fd98308-39e9-40bc-bb64-93fc90ab38ce",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=5fd98308-39e9-40bc-bb64-93fc90ab38ce&Inline=true"
-        }
-      ]
-    },
-    {
       "id": "11c24427-ee92-4e35-b7e4-c959f16204ca",
       "caseNo": "B-05(SH)-25-01/2025",
       "jurisdiction": "COA",
@@ -1717,43 +1681,6 @@
           "preparedBy": "",
           "category": "",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=23be5d6a-1143-47e2-9762-d630905a5d24&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "f4326732-2a27-4278-be74-425dc554af5c",
-      "caseNo": "WA-24NCvC-5928-12/2025",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "Chung Soh Eng v Chung Yang Huang & ors",
-      "parties": [
-        {
-          "label": "PEMOHON",
-          "names": [
-            "Chung Soh Eng"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "Chung Yang Huang",
-            "Chung Yiaw Hong",
-            "Chung Git Eng"
-          ]
-        }
-      ],
-      "catchwords": "Court accordingly makes the following orders: i. Enclosures 12 and 16, being the Defendants’ striking‑out applications, are hereby dismissed with costs. ii. Costs of RM5,000.00 are awarded to the Plaintiff subject to 4% allocatur.",
-      "judge": "YA Tuan Nixon Anak Kennedy Kumbong",
-      "coram": [],
-      "dateOfResult": "2026-04-27",
-      "dateOfFiling": "2026-08-24",
-      "docs": [
-        {
-          "documentId": "0c1911dd-c825-40a6-9768-82680a4e34b5",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=0c1911dd-c825-40a6-9768-82680a4e34b5&Inline=true"
         }
       ]
     },
@@ -2228,6 +2155,78 @@
           "preparedBy": "YA Datuk Meor Hashimi bin Abdul Hamid",
           "category": "Sebulat Suara (Unanimous)",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=877d6506-b9f7-4126-ad1b-ed275c68da2b&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "631e58eb-64b0-4cc8-98ee-0ebee93f8ab1",
+      "caseNo": "WA-45-24-12/2021",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "Pendakwa Raya & ors v IBEKWE EMEKA AUGUSTINE",
+      "parties": [
+        {
+          "label": "PENDAKWA RAYA",
+          "names": [
+            "Pendakwa Raya",
+            "[Timbalan Pendakwa Raya (TPR), Jabatan Peguam Negara]"
+          ]
+        },
+        {
+          "label": "TERTUDUH",
+          "names": [
+            "IBEKWE EMEKA AUGUSTINE"
+          ]
+        }
+      ],
+      "catchwords": "Criminal Justice - offence of murder - defence of unsoundness of mind - medical v legal insanity - burden of proof on accused - section 105 of the Evidence Act 1950 - Legal insanity not established - capital punishment - judicial discretion - sentenced to death for the offence of murder - non-capital offences - multiple offences tried together - concurrent sentences of imprisonment - justified by the multiple victims whose life was at stake - gruesome act of accused to be sanctioned by law.",
+      "judge": "YA Tuan Muniandy a/l Kannyappan",
+      "coram": [],
+      "dateOfResult": "2026-01-08",
+      "dateOfFiling": "2026-08-25",
+      "docs": [
+        {
+          "documentId": "517f1377-57de-40a7-8cac-1ca338ab0da6",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=517f1377-57de-40a7-8cac-1ca338ab0da6&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "5e0e7e4f-3010-4254-914a-f47da0fa1f94",
+      "caseNo": "WA-45B-12-11/2021",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "Pendakwa Raya & ors v IBEKWE EMEKA AUGUSTINE",
+      "parties": [
+        {
+          "label": "PENDAKWA RAYA",
+          "names": [
+            "Pendakwa Raya",
+            "[Timbalan Pendakwa Raya (TPR), Jabatan Peguam Negara]"
+          ]
+        },
+        {
+          "label": "TERTUDUH",
+          "names": [
+            "IBEKWE EMEKA AUGUSTINE"
+          ]
+        }
+      ],
+      "catchwords": "Criminal Justice - offence of murder - defence of unsoundness of mind - medical v legal insanity - burden of proof on accused - section 105 of the Evidence Act 1950 - Legal insanity not established - capital punishment - judicial discretion - sentenced to death for the offence of murder - non-capital offences - multiple offences tried together - concurrent sentences of imprisonment - justified by the multiple victims whose life was at stake - gruesome act of accused to be sanctioned by law.",
+      "judge": "YA Tuan Muniandy a/l Kannyappan",
+      "coram": [],
+      "dateOfResult": "2026-01-08",
+      "dateOfFiling": "2026-08-25",
+      "docs": [
+        {
+          "documentId": "6ed4c872-3cd0-4fcd-b0af-21b1b7a341f9",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=6ed4c872-3cd0-4fcd-b0af-21b1b7a341f9&Inline=true"
         }
       ]
     },
