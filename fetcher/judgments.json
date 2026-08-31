@@ -1,8 +1,43 @@
 {
   "source": "Malaysia E-Judgment Portal (ejudgment.kehakiman.gov.my)",
-  "updatedAt": "2026-08-30T01:23:59.208Z",
+  "updatedAt": "2026-08-31T01:26:35.031Z",
   "count": 60,
   "judgments": [
+    {
+      "id": "322e9567-d11e-4a8f-abfe-a8f8b782227d",
+      "caseNo": "TA-42JSKS-3-09/2025",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "RAJA MOHAMED TAUFIK BIN RAJA MOHAMED NOOR v Pendakwa Raya",
+      "parties": [
+        {
+          "label": "PERAYU",
+          "names": [
+            "RAJA MOHAMED TAUFIK BIN RAJA MOHAMED NOOR"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "Pendakwa Raya"
+          ]
+        }
+      ],
+      "catchwords": "Criminal Law — Sexual Offences Against Children — Physical sexual assault — Sucking and licking genitalia of step-granddaughter — Whether prosecution proved case beyond reasonable doubt — Credibility of child victim&#039;s testimony — Whether inconsistencies in evidence gave rise to reasonable doubt — Whether accused&#039;s bare denial sufficient to rebut prosecution case — Section 14(d) Sexual Offences Against Children Act 2017 Criminal Law — Sexual Offences Against Children — Relationship of trust — Step-grandfather — Enhanced penalty — Whether sentence manifestly excessive — Section 16(1) Sexual Offences Against Children Act 2017 Criminal Procedure — Appeal — Appeal against conviction and sentence — Role of appellate court — Re-evaluation of evidence — Deference to trial judge&#039;s findings on demeanour of witnesses Criminal Procedure — Bail — Stay of execution pending appeal — Conditions — Whether existing bail should be maintained — Whether additional conditions should be imposed — Section 311 Criminal Procedure Code Evidence — Child witness — Victim of sexual abuse — Credibility — Inconsistencies and contradictions — Whether material — Whether testimony &quot;unusually convincing&quot; — Whether corroboration required — Section 134 Evidence Act 1950 Evidence — Credibility — Bare denial — Whether sufficient to raise reasonable doubt — Duty of accused to put defence to prosecution witnesses — Effect of failure to challenge evidence",
+      "judge": "YA Tuan Yusrin Faidz bin Yusoff",
+      "coram": [],
+      "dateOfResult": "2026-08-25",
+      "dateOfFiling": "2026-08-30",
+      "docs": [
+        {
+          "documentId": "8071ebac-93c9-411e-a023-fb93d0a980b0",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=8071ebac-93c9-411e-a023-fb93d0a980b0&Inline=true"
+        }
+      ]
+    },
     {
       "id": "c82583ad-4c12-442d-bf9c-dc8f94a725de",
       "caseNo": "W-01(NCvC)(W)-486-07/2024",
@@ -1113,6 +1148,42 @@
       ]
     },
     {
+      "id": "6bdbc825-b27d-40f7-bf07-988e24d2948c",
+      "caseNo": "MA-25-2-02/2026",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "EE HONG (Selaku Wakil Yang Sah Bagi Persatuan Penduduk Vista Kirana) & ors v Majlis Perbandaran Hang Tuah Jaya",
+      "parties": [
+        {
+          "label": "PEMOHON",
+          "names": [
+            "EE HONG (Selaku Wakil Yang Sah Bagi Persatuan Penduduk Vista Kirana)",
+            "AZIZAN BIN ISMAIL (Selaku Wakil Yang Sah Bagi Persatuan Penduduk Vista Kirana)"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "Majlis Perbandaran Hang Tuah Jaya"
+          ]
+        }
+      ],
+      "catchwords": "This is an application for a judicial review pursuant to Order 53 of the Rules of Court 2012. The Applicants were granted leave to apply for a judicial review vide Order dated 03.03.2026 of this Court. 2. The Applicants sought, inter alia, orders of certiorari and mandamus, to quash the Respondent’s decision dated 20.01.2026 refusing renewal of the Guarded Neighbourhood Scheme (“GN Scheme”) at Taman Vista Kirana, Malacca and to compel approval of their application.",
+      "judge": "YA Datuk Isa Aziz Ibrahim",
+      "coram": [],
+      "dateOfResult": "2026-07-02",
+      "dateOfFiling": "2026-08-30",
+      "docs": [
+        {
+          "documentId": "24177fe1-3e14-4f5b-b772-e952006dd920",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=24177fe1-3e14-4f5b-b772-e952006dd920&Inline=true"
+        }
+      ]
+    },
+    {
       "id": "c6d13ab6-3523-47a0-9223-afdadd8e5851",
       "caseNo": "01(f)-31-10/2024(W)",
       "jurisdiction": "FC",
@@ -1693,76 +1764,6 @@
           "preparedBy": "YA Datuk Hayatul Akmal binti Abdul Aziz",
           "category": "Sebulat Suara (Unanimous)",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=57f983d8-80bb-4324-a185-2b412038878e&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "74b5c858-009b-4258-98dc-be0b4149f00d",
-      "caseNo": "BA-12B-7-02/2025",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "YAP KOK KEONG v MUHAMMAD FADZLI BIN MOHD AMIN",
-      "parties": [
-        {
-          "label": "PERAYU",
-          "names": [
-            "YAP KOK KEONG"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "MUHAMMAD FADZLI BIN MOHD AMIN"
-          ]
-        }
-      ],
-      "catchwords": "Tort – Negligence – Motor vehicle accident – Emergency Lane – Lawful use – Rule 53 Road Traffic Rules 1959 – Section 48 Road Transport Act 1987 – Unlawful obstruction – Duty of care – Adequacy of warning signals – Hazard lights – Safety cones – Judicial notice – Motorcycle use of emergency lane – Investigating officer’s opinion – Apportionment of liability – Contributory negligence – 80/20 split. Damages – Quantum – General damages – Orthopedic injuries – Femur fractures – Permanent limb shortening – Varus deformity – Chronic knee stiffness – Risk of early onset osteoarthritis – Wrist fracture – Galeazzi type injury – Permanent restricted mobility – Compendium of Personal Injury Awards 2018 – Manifestly inadequate awards – Upward revision. Special damages – Orthosis costs – RM232,200 – Prosthetist/Orthotist recommendation – Medical necessity – Schrump v Koot – Substantial, non speculative risk – Future medical contingencies – Family nursing care – Gratuitous services – RM48,000 – Marappan v Siri Rahmah – Compensation for family care – Inflation and modern valuation – Monetary value of necessary care. Civil procedure – Appeals – Cross appeals – Defendant’s appeal on liability dismissed – Plaintiff’s appeal on quantum allowed in part – Appellate restraint – Findings of fact – No miscarriage of justice – Affirmation of Sessions Court’s apportionment – Enhancement of damages.",
-      "judge": "YA Puan Shoba Rajah a/p Dorai Rajah",
-      "coram": [],
-      "dateOfResult": "2026-06-15",
-      "dateOfFiling": "2026-08-27",
-      "docs": [
-        {
-          "documentId": "3816496a-1119-4054-9ea9-800b6586faa7",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=3816496a-1119-4054-9ea9-800b6586faa7&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "1cb08728-1278-433d-85d8-fa44b2a462ae",
-      "caseNo": "BA-12B-9-02/2025",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "MUHAMMAD FADZLI BIN MOHD AMIN v YAP KOK KEONG",
-      "parties": [
-        {
-          "label": "PERAYU",
-          "names": [
-            "MUHAMMAD FADZLI BIN MOHD AMIN"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "YAP KOK KEONG"
-          ]
-        }
-      ],
-      "catchwords": "Tort – Negligence – Motor vehicle accident – Emergency Lane – Lawful use – Rule 53 Road Traffic Rules 1959 – Section 48 Road Transport Act 1987 – Unlawful obstruction – Duty of care – Adequacy of warning signals – Hazard lights – Safety cones – Judicial notice – Motorcycle use of emergency lane – Investigating officer’s opinion – Apportionment of liability – Contributory negligence – 80/20 split. Damages – Quantum – General damages – Orthopedic injuries – Femur fractures – Permanent limb shortening – Varus deformity – Chronic knee stiffness – Risk of early onset osteoarthritis – Wrist fracture – Galeazzi type injury – Permanent restricted mobility – Compendium of Personal Injury Awards 2018 – Manifestly inadequate awards – Upward revision. Special damages – Orthosis costs – RM232,200 – Prosthetist/Orthotist recommendation – Medical necessity – Schrump v Koot – Substantial, non speculative risk – Future medical contingencies – Family nursing care – Gratuitous services – RM48,000 – Marappan v Siri Rahmah – Compensation for family care – Inflation and modern valuation – Monetary value of necessary care. Civil procedure – Appeals – Cross appeals – Defendant’s appeal on liability dismissed – Plaintiff’s appeal on quantum allowed in part – Appellate restraint – Findings of fact – No miscarriage of justice – Affirmation of Sessions Court’s apportionment – Enhancement of damages.",
-      "judge": "YA Puan Shoba Rajah a/p Dorai Rajah",
-      "coram": [],
-      "dateOfResult": "2026-06-15",
-      "dateOfFiling": "2026-08-27",
-      "docs": [
-        {
-          "documentId": "fd7a0541-9a33-49e7-8d2e-abcad03dfcc4",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=fd7a0541-9a33-49e7-8d2e-abcad03dfcc4&Inline=true"
         }
       ]
     },
