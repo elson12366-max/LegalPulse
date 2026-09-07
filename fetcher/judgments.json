@@ -1,6 +1,6 @@
 {
   "source": "Malaysia E-Judgment Portal (ejudgment.kehakiman.gov.my)",
-  "updatedAt": "2026-09-06T01:09:07.368Z",
+  "updatedAt": "2026-09-07T01:10:19.630Z",
   "count": 60,
   "judgments": [
     {
@@ -237,6 +237,44 @@
       ]
     },
     {
+      "id": "ae056be5-9617-41e7-96de-5c76c16afa0e",
+      "caseNo": "DA-25-4-08/2025",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "THE KAMPONG KUANTAN RUBBER COMPANY LIMITED v PENGARAH TANAH DAN GALIAN NEGERI KELANTAN & ors",
+      "parties": [
+        {
+          "label": "PEMOHON",
+          "names": [
+            "THE KAMPONG KUANTAN RUBBER COMPANY LIMITED"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "PENGARAH TANAH DAN GALIAN NEGERI KELANTAN",
+            "PENTADBIR TANAH KUALA KRAI",
+            "Kerajaan Negeri Kelantan",
+            "Majlis Daerah Kuala Krai"
+          ]
+        }
+      ],
+      "catchwords": "Land Law — Compulsory acquisition — Judicial review — Acquisition under s 3(1)(c) Land Acquisition Act 1960 — No development approval — Failure of UPEN properly to consider registered proprietor’s participation under s 3B — Misinterpretation of statutory duty — Material non-compliance — Form D quashed by certiorari — Federal Constitution, art 13(1).",
+      "judge": "YA Tuan Shamsul Bahrin bin Abdul Manaf",
+      "coram": [],
+      "dateOfResult": "2026-08-22",
+      "dateOfFiling": "2026-09-07",
+      "docs": [
+        {
+          "documentId": "bdc32dfe-7d51-4cf0-907d-867b8479d4cc",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=bdc32dfe-7d51-4cf0-907d-867b8479d4cc&Inline=true"
+        }
+      ]
+    },
+    {
       "id": "7a68ef55-59ac-42dc-bff2-83c702bfc068",
       "caseNo": "W-02(IM)(MUA)-2488-12/2025",
       "jurisdiction": "COA",
@@ -315,6 +353,41 @@
       ]
     },
     {
+      "id": "003bd198-b893-416d-a63b-da0277384c2f",
+      "caseNo": "WA-42JSKS-2-08/2024",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "MOHD HAMBALI BIN MD ISMAIL v Pendakwa Raya",
+      "parties": [
+        {
+          "label": "PERAYU",
+          "names": [
+            "MOHD HAMBALI BIN MD ISMAIL"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "Pendakwa Raya"
+          ]
+        }
+      ],
+      "catchwords": "autistic victim-corroboration of testimonies by mother-cross-examinations further adds to credibility of victim&#039;s evidence",
+      "judge": "YA Puan Nurulhuda Nur'aini Binti Mohamad Nor",
+      "coram": [],
+      "dateOfResult": "2026-08-20",
+      "dateOfFiling": "2026-09-06",
+      "docs": [
+        {
+          "documentId": "927f7612-cb7b-4930-9810-47fb2c57a2db",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=927f7612-cb7b-4930-9810-47fb2c57a2db&Inline=true"
+        }
+      ]
+    },
+    {
       "id": "7b5a06cd-ded7-4fe3-98fa-0ccf0cb41298",
       "caseNo": "JB-24NCvC-576-10/2025",
       "jurisdiction": "HC",
@@ -347,111 +420,6 @@
           "preparedBy": "",
           "category": "",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=1cefd29c-17c8-41a9-b185-c650772fea5a&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "0c169f95-5035-41c8-88f0-b0a947b4f2c7",
-      "caseNo": "BL-45-6-11/2024",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "Pendakwa Raya v TINESKUMARAN A/L MAHANDIRAN",
-      "parties": [
-        {
-          "label": "PENDAKWA RAYA",
-          "names": [
-            "Pendakwa Raya"
-          ]
-        },
-        {
-          "label": "TERTUDUH",
-          "names": [
-            "TINESKUMARAN A/L MAHANDIRAN"
-          ]
-        }
-      ],
-      "catchwords": "UNDANG-UNDANG JENAYAH: • Bunuh — pembunuhan — Seksyen 302 Kanun Keseksaan dibaca bersama Seksyen 34 Kanun Keseksaan — pembuktian kes prima facie di akhir kes pendakwaan • Pembunuhan — Seksyen 300(c) Kanun Keseksaan — niat menyebabkan bencana tubuh yang pada lazimnya cukup menyebabkan kematian — tidak perlu dibuktikan niat untuk menyebabkan jenis kecederaan tertentu yang membawa maut — yang perlu dibuktikan ialah kecederaan yang terbukti wujud itu dilakukan dengan sengaja dan bukan secara tidak sengaja serta cukup pada lazimnya menyebabkan kematian • Niat bersama — Seksyen 34 Kanun Keseksaan — mesti dibuktikan perbuatan jenayah itu dilakukan oleh salah seorang tertuduh dalam usaha mencapai niat bersama kesemua mereka — mesyuarat fikiran atau bertindak secara sepakat boleh terbentuk di tempat kejadian • Mendatangkan cedera parah — Seksyen 326 Kanun Keseksaan — menetak mangsa dengan parang sehingga menyebabkan luka pada tubuh badan TATACARA JENAYAH: • Kes prima facie — Seksyen 180 Kanun Prosedur Jenayah — penilaian maksimum atas keterangan saksi-saksi pendakwaan di akhir kes pendakwaan — ujian sama ada, andaian keterangan pendakwaan tepat, tertuduh boleh disabitkan dengan sewajarnya • Beban pembuktian — beban membuktikan kesalahan terletak pada pihak pendakwaan sepanjang perbicaraan — sabitan tidak boleh berasaskan kelemahan atau ketiadaan pembelaan tertuduh — keraguan munasabah wajar memberi manfaat kepada tertuduh • Pelepasan dan pembebasan — di akhir kes pendakwaan tanpa dipanggil membela diri KETERANGAN: • Saksi belot — keterangan saksi mata yang bercanggah secara total dengan rakaman percakapan di bawah Seksyen 112 Kanun Tatacara Jenayah — saksi menafikan percakapan yang ditandatanganinya — keseluruhan keterangan saksi belot tidak boleh diguna pakai • Mencabar kredibiliti saksi (impeachment) — Seksyen 155 Akta Keterangan 1950 — percanggahan keterangan saksi dengan keterangan terdahulu • Keterangan CCTV — rakaman kamera litar tertutup yang kabur dan tidak jelas — kegagalan mengemukakan decoder — tidak dapat mengenal pasti identiti penyerang • Bukti DNA — ketiadaan profil DNA tertuduh pada barang kes dan tubuh mangsa — kewujudan profil DNA pihak ketiga yang tidak berpadanan dengan tertuduh • Kawad cam (perbarisan pengenalan) — kawad cam cacat apabila saksi telah mengenali tertuduh sebelum kawad cam dijalankan • Penilaian kredibiliti saksi — peranan hakim bicara menilai kebolehpercayaan saksi berdasarkan keseluruhan keterangan dan sifat/kelakuan saksi semasa memberi keterangan",
-      "judge": "YA Puan Norliza Binti Othman",
-      "coram": [],
-      "dateOfResult": "2026-08-18",
-      "dateOfFiling": "2026-09-02",
-      "docs": [
-        {
-          "documentId": "d7799461-a4b2-4f7b-a2c8-9b8101f71eff",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=d7799461-a4b2-4f7b-a2c8-9b8101f71eff&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "f10850d6-6cfa-457c-89e4-91aa51ffe601",
-      "caseNo": "BL-45B-2-03/2024",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "Pendakwa Raya v DEENESKUMAR A/L GANESAN",
-      "parties": [
-        {
-          "label": "PENDAKWA RAYA",
-          "names": [
-            "Pendakwa Raya"
-          ]
-        },
-        {
-          "label": "TERTUDUH",
-          "names": [
-            "DEENESKUMAR A/L GANESAN"
-          ]
-        }
-      ],
-      "catchwords": "KES DI AKHIR KES PENDAKWAAN - PENDAKWAAN TELAH GAGAL MEMBUKTIKAN SATU KES PRIMA FACIE ATAS PERTUDUHAN YANG DIHADAPI OLEH OKT1 DAN OKT2 DIBAWAH SEKSYEN 302 KANUN KESEKSAAN YANG BOLEH DIHUKUM DI BAWAH SEKSYEN YANG SAMA DIBACA BERSAMA DENGAN SEKSYEN 34 DAN JUGA SEKSYEN 326 KANUN KESEKSAAN YANG DIHADAPI OLEH OKT3 - OKT-OKT DILEPAS DAN DIBEBASKAN TANPA PERLU DIPANGGIL MEMBELA DIRI ATAS PERTUDUHAN-PERTUDUHAN",
-      "judge": "YA Puan Norliza Binti Othman",
-      "coram": [],
-      "dateOfResult": "2026-08-18",
-      "dateOfFiling": "2026-09-02",
-      "docs": [
-        {
-          "documentId": "dd137c1b-22ed-41fa-8a9a-920145193e64",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=dd137c1b-22ed-41fa-8a9a-920145193e64&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "f16d02c3-6534-4d47-abc9-d82f86c37ed4",
-      "caseNo": "BL-45B-3-03/2024",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "Pendakwa Raya v KOGILAN A/L ARIVALAGAN",
-      "parties": [
-        {
-          "label": "PENDAKWA RAYA",
-          "names": [
-            "Pendakwa Raya"
-          ]
-        },
-        {
-          "label": "TERTUDUH",
-          "names": [
-            "KOGILAN A/L ARIVALAGAN"
-          ]
-        }
-      ],
-      "catchwords": "UNDANG-UNDANG JENAYAH: • Bunuh — pembunuhan — Seksyen 302 Kanun Keseksaan dibaca bersama Seksyen 34 Kanun Keseksaan — pembuktian kes prima facie di akhir kes pendakwaan • Pembunuhan — Seksyen 300(c) Kanun Keseksaan — niat menyebabkan bencana tubuh yang pada lazimnya cukup menyebabkan kematian — tidak perlu dibuktikan niat untuk menyebabkan jenis kecederaan tertentu yang membawa maut — yang perlu dibuktikan ialah kecederaan yang terbukti wujud itu dilakukan dengan sengaja dan bukan secara tidak sengaja serta cukup pada lazimnya menyebabkan kematian • Niat bersama — Seksyen 34 Kanun Keseksaan — mesti dibuktikan perbuatan jenayah itu dilakukan oleh salah seorang tertuduh dalam usaha mencapai niat bersama kesemua mereka — mesyuarat fikiran atau bertindak secara sepakat boleh terbentuk di tempat kejadian • Mendatangkan cedera parah — Seksyen 326 Kanun Keseksaan — menetak mangsa dengan parang sehingga menyebabkan luka pada tubuh badan TATACARA JENAYAH: • Kes prima facie — Seksyen 180 Kanun Prosedur Jenayah — penilaian maksimum atas keterangan saksi-saksi pendakwaan di akhir kes pendakwaan — ujian sama ada, andaian keterangan pendakwaan tepat, tertuduh boleh disabitkan dengan sewajarnya • Beban pembuktian — beban membuktikan kesalahan terletak pada pihak pendakwaan sepanjang perbicaraan — sabitan tidak boleh berasaskan kelemahan atau ketiadaan pembelaan tertuduh — keraguan munasabah wajar memberi manfaat kepada tertuduh • Pelepasan dan pembebasan — di akhir kes pendakwaan tanpa dipanggil membela diri KETERANGAN: • Saksi belot — keterangan saksi mata yang bercanggah secara total dengan rakaman percakapan di bawah Seksyen 112 Kanun Tatacara Jenayah — saksi menafikan percakapan yang ditandatanganinya — keseluruhan keterangan saksi belot tidak boleh diguna pakai • Mencabar kredibiliti saksi (impeachment) — Seksyen 155 Akta Keterangan 1950 — percanggahan keterangan saksi dengan keterangan terdahulu • Keterangan CCTV — rakaman kamera litar tertutup yang kabur dan tidak jelas — kegagalan mengemukakan decoder — tidak dapat mengenal pasti identiti penyerang • Bukti DNA — ketiadaan profil DNA tertuduh pada barang kes dan tubuh mangsa — kewujudan profil DNA pihak ketiga yang tidak berpadanan dengan tertuduh • Kawad cam (perbarisan pengenalan) — kawad cam cacat apabila saksi telah mengenali tertuduh sebelum kawad cam dijalankan • Penilaian kredibiliti saksi — peranan hakim bicara menilai kebolehpercayaan saksi berdasarkan keseluruhan keterangan dan sifat/kelakuan saksi semasa memberi keterangan",
-      "judge": "YA Puan Norliza Binti Othman",
-      "coram": [],
-      "dateOfResult": "2026-08-18",
-      "dateOfFiling": "2026-09-02",
-      "docs": [
-        {
-          "documentId": "4324d099-c601-4eba-b68c-d32385cff324",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=4324d099-c601-4eba-b68c-d32385cff324&Inline=true"
         }
       ]
     },
@@ -649,6 +617,41 @@
       ]
     },
     {
+      "id": "75aaf949-b1e0-4ba5-90c9-93f3c358609f",
+      "caseNo": "KA-45A-44-08/2022",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "Pendakwa Raya v YOU CHIN LOON",
+      "parties": [
+        {
+          "label": "PENDAKWA RAYA",
+          "names": [
+            "Pendakwa Raya"
+          ]
+        },
+        {
+          "label": "TERTUDUH",
+          "names": [
+            "YOU CHIN LOON"
+          ]
+        }
+      ],
+      "catchwords": "CRIMINAL LAW: Dangerous Drugs Act 1952 — Section 39B(1)(a) — Trafficking in dangerous drugs — 777.01 grams of Methamphetamine — Elements of offence — Physical custody and control — Whether prosecution proved actual possession and knowledge beyond reasonable doubt — Competing versions of recovery — Drugs found on sidewalk versus pre-planted in motorcar — Benefit of doubt. CRIMINAL PROCEDURE: Trial — Defence case — Standard of proof at conclusion of whole case — Criminal Procedure Code, s. 182A(1) — Maximum evaluation of evidence — Test in Mat v. Public Prosecutor and Public Prosecutor v. Mohd Radzi bin Abu Bakar — Two competing inferences arising from proven facts — Duty of court to draw inference favourable to accused. EVIDENCE: Investigation — Failure of investigating officer to investigate material line of defence — Seized motorcar parked in police station compound left unsearched and uninspected — Failure to forensically examine and extract digital communications from seized mobile phones — Accused alleging entrapment and debt settlement by third party — Deprivation of opportunity to present exculpatory real and digital evidence — Maria Elvira Pinto Exposto v. Public Prosecutor and Rahmani Ali Mohamad v. Public Prosecutor applied — Fatal investigative omissions. EVIDENCE: Witnesses — Credibility — Police witnesses — Presumption of reliability under Public Prosecutor v. Mohamed Ali — Whether presumption absolute — Azrol Nizam Mohd Zaid v. Public Prosecutor applied — Direct conflict between police version and defence testimony — Minor typographical discrepancies in witness statement (Exhibit PSSP3) distinguished from fatal investigative omissions — Evaluation under Amri Ibrahim &amp; Anor v. Public Prosecutor. EVIDENCE: Cross-examination — Rule of put-case — Ayoromi Helen v. Public Prosecutor — Accused’s narrative of third-party entrapment actively challenged by Deputy Public Prosecutor — Whether doctrine of implied acceptance applied — Whether defence a recent fabrication or afterthought — Defence put to prosecution witnesses at earliest opportunity during prima facie stage. EVIDENCE: Real evidence — Search list (Borang Bongkar, Exhibit P4) — Omission of seized vehicle and mobile phones from search list — Failure to take contemporaneous photographs of drugs inside cardboard box at scene of discovery (Exhibit P7) — Reasonable doubt cast on locus and genesis of seizure.",
+      "judge": "YA Dr John Lee Kien How @ Mohammad Johan Lee",
+      "coram": [],
+      "dateOfResult": "2026-07-29",
+      "dateOfFiling": "2026-09-06",
+      "docs": [
+        {
+          "documentId": "cc212db5-5e73-43d6-ae29-a232e4d79bb5",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=cc212db5-5e73-43d6-ae29-a232e4d79bb5&Inline=true"
+        }
+      ]
+    },
+    {
       "id": "1c7d1d81-5679-4804-a315-72b60104966e",
       "caseNo": "02(f)-50-11/2024(W)",
       "jurisdiction": "FC",
@@ -773,6 +776,41 @@
           "preparedBy": "YA Dato Rhodzariah binti Bujang",
           "category": "Minoriti/Dissenting",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=62e48ad9-3b10-4a77-983b-d5818692e45d&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "d1675781-dc67-4ee4-bfd3-ace89f2a4fdb",
+      "caseNo": "WA-29NCC-1010-05/2025",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "TAN SRI DATO' SERI KOH CHENG KEONG v YAP KIM HENG",
+      "parties": [
+        {
+          "label": "PEMIUTANG PENGHAKIMAN",
+          "names": [
+            "TAN SRI DATO' SERI KOH CHENG KEONG"
+          ]
+        },
+        {
+          "label": "PENGHUTANG PENGHAKIMAN",
+          "names": [
+            "YAP KIM HENG"
+          ]
+        }
+      ],
+      "catchwords": "Insolvency – Bankruptcy – Creditor’s Petition – Notice of intention to oppose – Rule 116 Insolvency Rules 2017 – Mandatory requirement – Failure to specify statements in petition intended to be denied or disputed – Whether notice fatally defective – Right to be heard – Natural justice – Whether summary dismissal of notice amounted to denial of right to be heard – Bankruptcy Order – Appeal dismissed",
+      "judge": "YA Puan Ku Hayati binti Ku Haron",
+      "coram": [],
+      "dateOfResult": "2026-07-20",
+      "dateOfFiling": "2026-09-07",
+      "docs": [
+        {
+          "documentId": "c68fe927-f844-4112-9011-64726ac7afef",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=c68fe927-f844-4112-9011-64726ac7afef&Inline=true"
         }
       ]
     },
@@ -1128,6 +1166,42 @@
       ]
     },
     {
+      "id": "2992fcca-ac1c-45b6-a7a4-75c9a5c14e61",
+      "caseNo": "DA-42JSKS-8-08/2025",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "MUHD QUSYAIRI BIN ABDULLAH v Pendakwa Raya & ors",
+      "parties": [
+        {
+          "label": "PERAYU",
+          "names": [
+            "MUHD QUSYAIRI BIN ABDULLAH"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "Pendakwa Raya",
+            "[Pendakwa Raya]"
+          ]
+        }
+      ],
+      "catchwords": "UNDANG-UNDANG JENAYAH: Akta Kesalahan-Kesalahan Seksual Terhadap Kanak-Kanak 2017 (Akta 792) – Seksyen 14(a) – Amang seksual fizikal – Rayuan terhadap sabitan dan hukuman – Mangsa kanak-kanak (SP1) – Sama ada sabitan selamat – Penilaian maksimum keterangan pendakwaan – Balachandran v Public Prosecutor [2005] 2 MLJ 301; [2005] 1 CLJ 85 (FC); Public Prosecutor v Mohd Radzi bin Abu Bakar [2006] 1 CLJ 457; [2005] 6 MLJ 393 (FC) diikuti. KETERANGAN: Saksi kanak-kanak – Kompetensi dan kredibiliti mangsa – Seksyen 133A Akta Keterangan 1950 (dibaca bersama pindaan berkuat kuasa 3 Mac 2025) – Sama ada keterangan sokongan masih diperlukan sebagai suatu kaedah undang-undang – Sidek bin Ludan v Public Prosecutor [1995] 3 MLJ 178 – Ujian &quot;unusually convincing&quot; – Public Prosecutor v Mardai [1950] 1 MLJ 33; Din v Public Prosecutor [1964] 1 MLJ 300; diperakui semula oleh Mahkamah Persekutuan dalam Dato&#039; Seri Anwar Ibrahim v Public Prosecutor and Another Appeal [2015] 2 CLJ 145 – Aduan segera di bawah Seksyen 157 Akta Keterangan 1950 – Public Prosecutor v Emran bin Nasir [1987] 1 MLJ 166. PROSEDUR JENAYAH: Pembelaan – Penafian kosong – Beban dan piawaian keraguan munasabah di peringkat pembelaan – Prinsip campur tangan mahkamah rayuan terhadap dapatan fakta hakim bicara yang mempunyai kelebihan melihat dan mendengar saksi – Gan Yook Chin &amp; Anor v Lee Ing Chin &amp; Anor [2005] 2 MLJ 1 (FC) – Hukuman – Sama ada nyata melampau – Muhammad Shahrani Muhammad Sani v Public Prosecutor [2021] 1 LNS 720; Ibrahim Mahd Nazri v Public Prosecutor [2024] 7 CLJ 709 (CA).",
+      "judge": "YA Tuan Haji Azhar Bin Mokhtar",
+      "coram": [],
+      "dateOfResult": "2026-07-12",
+      "dateOfFiling": "2026-09-06",
+      "docs": [
+        {
+          "documentId": "b4eab75b-8957-49ba-9373-9628269a6688",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=b4eab75b-8957-49ba-9373-9628269a6688&Inline=true"
+        }
+      ]
+    },
+    {
       "id": "fefe332b-3aba-49d8-8f79-56798527bc6d",
       "caseNo": "W-07-52-06/2026",
       "jurisdiction": "COA",
@@ -1214,41 +1288,6 @@
           "preparedBy": "YA Datuk Noorin binti Badaruddin",
           "category": "Sebulat Suara (Unanimous)",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=d59080af-308d-41a9-b2af-c8eb633ff9a5&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "aa666fee-e96f-4681-b30a-4e8c0b8dc218",
-      "caseNo": "WA-22NCvC-456-07/2025",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "MANIPAL HEALTH SYSTEMS MALAYSIA SDN BHD v GDM SPECIALIST CENTRE (MONT KIARA) SDN BHD",
-      "parties": [
-        {
-          "label": "PLAINTIF",
-          "names": [
-            "MANIPAL HEALTH SYSTEMS MALAYSIA SDN BHD"
-          ]
-        },
-        {
-          "label": "DEFENDAN",
-          "names": [
-            "GDM SPECIALIST CENTRE (MONT KIARA) SDN BHD"
-          ]
-        }
-      ],
-      "catchwords": "By way of Enclosure 7, the plaintiff sought summary judgment against the defendant for, amongst others, termination of the lease agreement, vacant possession of three properties, and outstanding rental in the amount of RM4,668,189.80. The court found that the defendant admitted their indebtedness arising from the outstanding rental arrears associated with the three properties. The court also found that the defendant had even paid a sum of RM200,000.00 to the plaintiff and that no genuine dispute of fact remains regarding the material arrears. Accordingly, the court granted summary judgment for termination, vacant possession, and recovery of the stipulated rental sums, subject only to any valid statutory relief available to the defendant.",
-      "judge": "YA Dato' Raja Ahmad Mohzanuddin Shah bin Raja Mohzan",
-      "coram": [],
-      "dateOfResult": "2026-07-05",
-      "dateOfFiling": "2026-09-03",
-      "docs": [
-        {
-          "documentId": "a3c719ab-9347-4fca-8ae6-53d179a8f8ba",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=a3c719ab-9347-4fca-8ae6-53d179a8f8ba&Inline=true"
         }
       ]
     },
@@ -1571,7 +1610,7 @@
       ]
     },
     {
-      "id": "347794db-ade9-47d6-8650-9373c87191a1",
+      "id": "1adfa714-244f-4705-ae07-3256b28c5146",
       "caseNo": "K-06A-16-12/2024",
       "jurisdiction": "COA",
       "court": "Court of Appeal",
@@ -1610,7 +1649,7 @@
       ]
     },
     {
-      "id": "1adfa714-244f-4705-ae07-3256b28c5146",
+      "id": "347794db-ade9-47d6-8650-9373c87191a1",
       "caseNo": "K-06A-16-12/2024",
       "jurisdiction": "COA",
       "court": "Court of Appeal",
@@ -2192,43 +2231,6 @@
           "preparedBy": "YAA Datuk Seri Hashim Bin Hamzah",
           "category": "Sebulat Suara (Unanimous)",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=283e77d7-d3f6-446e-8134-d5f4edd8ec76&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "d6a8a926-4a08-4740-8781-c6c77203ffd5",
-      "caseNo": "AA-22NCvC-4-01/2022",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "KNIGHT EAGLE ENGINEERING SDN BHD v SCREENING & CRUSHING SYSTEMS SDN BHD & ors",
-      "parties": [
-        {
-          "label": "PLAINTIF",
-          "names": [
-            "KNIGHT EAGLE ENGINEERING SDN BHD"
-          ]
-        },
-        {
-          "label": "DEFENDAN",
-          "names": [
-            "SCREENING & CRUSHING SYSTEMS SDN BHD",
-            "CHAN YU MING",
-            "LEE LEONG KEE"
-          ]
-        }
-      ],
-      "catchwords": "Tuntutan Plaintif kepada Defendan Pertama untuk kerja kontrak yang telah dilakukan - Defendan Kedua dan Ketiga adalah penjamin kepada Defendan Pertama - Defendan membangkitkan isu no case to answer - sama ada Defendan Kedua dan Ketiga jointly and separately - melalui guarantee and indemnity - isu estoppel dibangkitkan",
-      "judge": "YA Dato' Norsharidah Binti Awang",
-      "coram": [],
-      "dateOfResult": "2026-02-02",
-      "dateOfFiling": "2026-09-02",
-      "docs": [
-        {
-          "documentId": "7bca3064-04e5-4a9a-bcef-3ddba5541d3a",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=7bca3064-04e5-4a9a-bcef-3ddba5541d3a&Inline=true"
         }
       ]
     },
