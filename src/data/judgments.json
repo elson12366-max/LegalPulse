@@ -1,6 +1,6 @@
 {
   "source": "Malaysia E-Judgment Portal (ejudgment.kehakiman.gov.my)",
-  "updatedAt": "2026-09-13T01:15:57.920Z",
+  "updatedAt": "2026-09-14T01:18:38.338Z",
   "count": 60,
   "judgments": [
     {
@@ -217,6 +217,41 @@
       ]
     },
     {
+      "id": "0de9adf0-3492-43f1-a59a-1153215c0aac",
+      "caseNo": "TA-42ES-1-11/2025",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "AHMAD SUHAIMI BIN IBRAHIM v Pendakwa Raya",
+      "parties": [
+        {
+          "label": "PERAYU",
+          "names": [
+            "AHMAD SUHAIMI BIN IBRAHIM"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "Pendakwa Raya"
+          ]
+        }
+      ],
+      "catchwords": "Fisheries — Offences — Operating local fishing vessel without valid licence — Whether vessel possessed valid licence at time of seizure — Licence issued in name of deceased third party — Whether absence of licence in appellant&#039;s name established essential element of offence — Whether trial judge conflated distinct offences under ss 8(a), 11(3)(b) and 14(4)(b) Fisheries Act 1985 — Held, valid licence existed in respect of vessel — Essential element of &quot;without a valid licence&quot; not proved — Convictions on Charges 1 and 2 quashed Fisheries — Offences — Using licence issued to another person — Licence holder deceased — Appellant operating vessel under sale and purchase agreement — Whether offence of strict liability — Whether mens rea required — Whether implied consent of Fisheries Department established — Whether appellant&#039;s name recorded as tekong in Licence Book constituted lawful authority — Held, offence under s 14(4)(b) is strict liability — Conviction affirmed Fisheries — Forfeiture — Vessel — Mandatory forfeiture under s 52(1)(a) — Whether applicable where convictions under ss 8(a) and 11(3) set aside — Discretionary forfeiture under s 34 — Factors to consider — Proportionality — Good faith purchase — Vessel sole source of livelihood — Held, forfeiture disproportionate — Discretion exercised not to order forfeiture — Vessel to be returned Fisheries — Cancellation of licence — Section 33(1) Fisheries Act 1985 — Whether mandatory — Licence issued to deceased person — Appellant not licence holder — Licence expired before cancellation order — Whether cancellation order could be sustained — Held, cancellation order academic and purposeless — Licence holder deceased — No punitive effect on appellant — Cancellation order set aside Criminal Law — Appeal — Findings of fact by trial judge — Appellate intervention — Principles — Whether trial judge erred in law — Whether misdirection on essential elements of offences — Whether conviction unsafe — Held, appellate court may interfere where trial judge erred in law — Convictions on Charges 1 and 2 quashed Criminal Law — Strict liability — Fisheries offences — Section 14(4)(b) Fisheries Act 1985 — Whether mens rea essential element — Whether offence complete upon mere act of using licence issued to another — Held, offence of strict liability — Mens rea irrelevant to commission — Relevant only to sentence Statutory Interpretation — &quot;Shall&quot; — Whether mandatory or directory — Section 33(1) Fisheries Act 1985 — Context and purpose — Cancellation of licence belonging to deceased person — Whether serves deterrent or punitive purpose — Held, word &quot;shall&quot; not conclusive — Provision must be read in context of entire statutory scheme — Cancellation order set aside",
+      "judge": "YA Tuan Yusrin Faidz bin Yusoff",
+      "coram": [],
+      "dateOfResult": "2026-08-26",
+      "dateOfFiling": "2026-09-13",
+      "docs": [
+        {
+          "documentId": "c4fd53f5-d19b-47fb-8dd2-64fd26230d00",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=c4fd53f5-d19b-47fb-8dd2-64fd26230d00&Inline=true"
+        }
+      ]
+    },
+    {
       "id": "9fdc32d0-0737-47c7-ac7f-1af607c4e007",
       "caseNo": "JA-22NCvC-94-08/2023",
       "jurisdiction": "HC",
@@ -255,41 +290,6 @@
       ]
     },
     {
-      "id": "40fa5ce8-8c43-4ca9-8d63-caf5f62623ba",
-      "caseNo": "JA-22NCC-16-03/2026",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "SOUTHERN PERK SDN BHD v SABAH DEVELOPMENT BANK BERHAD",
-      "parties": [
-        {
-          "label": "PLAINTIF",
-          "names": [
-            "SOUTHERN PERK SDN BHD"
-          ]
-        },
-        {
-          "label": "DEFENDAN",
-          "names": [
-            "SABAH DEVELOPMENT BANK BERHAD"
-          ]
-        }
-      ],
-      "catchwords": "Civil Procedure — Striking out — O.18 r.19 ROC 2012 — Locus standi — Receiver’s consent — Director’s residual authority — Triable issues Banking — Financing facilities — Corporate guarantees — Securities — Economic duress — Undue influence — Misrepresentation — Validity of security documents Land Law — Charged land — Order for sale — Auction proceeds — Disputed residue — ss.257, 268 &amp; 268A National Land Code Limitation — Accrual of cause of action — Laches — Acquiescence — Res judicata — Issue estoppel — Abuse of process Summary Judgment — Counterclaim — O.14 r.5 ROC 2012 — Corporate guarantor — Quantum disputed — Limitation — Triable issues — Unconditional leave to defend — Applications dismissed — Costs in the cause",
-      "judge": "YA Dr Noradura Binti Hamzah",
-      "coram": [],
-      "dateOfResult": "2026-08-17",
-      "dateOfFiling": "2026-09-11",
-      "docs": [
-        {
-          "documentId": "3d99ec95-dd3c-42c6-9056-60f0353961b9",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=3d99ec95-dd3c-42c6-9056-60f0353961b9&Inline=true"
-        }
-      ]
-    },
-    {
       "id": "23796cc3-348d-4946-bc72-ea529629dbad",
       "caseNo": "JA-22NCC-16-03/2026",
       "jurisdiction": "HC",
@@ -321,6 +321,41 @@
           "preparedBy": "",
           "category": "",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=9ab15d37-3a20-47fc-995d-63a729f3f2b5&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "40fa5ce8-8c43-4ca9-8d63-caf5f62623ba",
+      "caseNo": "JA-22NCC-16-03/2026",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "SOUTHERN PERK SDN BHD v SABAH DEVELOPMENT BANK BERHAD",
+      "parties": [
+        {
+          "label": "PLAINTIF",
+          "names": [
+            "SOUTHERN PERK SDN BHD"
+          ]
+        },
+        {
+          "label": "DEFENDAN",
+          "names": [
+            "SABAH DEVELOPMENT BANK BERHAD"
+          ]
+        }
+      ],
+      "catchwords": "Civil Procedure — Striking out — O.18 r.19 ROC 2012 — Locus standi — Receiver’s consent — Director’s residual authority — Triable issues Banking — Financing facilities — Corporate guarantees — Securities — Economic duress — Undue influence — Misrepresentation — Validity of security documents Land Law — Charged land — Order for sale — Auction proceeds — Disputed residue — ss.257, 268 &amp; 268A National Land Code Limitation — Accrual of cause of action — Laches — Acquiescence — Res judicata — Issue estoppel — Abuse of process Summary Judgment — Counterclaim — O.14 r.5 ROC 2012 — Corporate guarantor — Quantum disputed — Limitation — Triable issues — Unconditional leave to defend — Applications dismissed — Costs in the cause",
+      "judge": "YA Dr Noradura Binti Hamzah",
+      "coram": [],
+      "dateOfResult": "2026-08-17",
+      "dateOfFiling": "2026-09-11",
+      "docs": [
+        {
+          "documentId": "3d99ec95-dd3c-42c6-9056-60f0353961b9",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=3d99ec95-dd3c-42c6-9056-60f0353961b9&Inline=true"
         }
       ]
     },
@@ -520,6 +555,41 @@
       ]
     },
     {
+      "id": "7824ddc8-b033-4bb4-9c01-a3f57e6fd6ce",
+      "caseNo": "CA-24NCvC-5-01/2026",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "TREEHEAD PROPERTIES SDN. BHD. v SUTRA BIRU SDN. BHD.",
+      "parties": [
+        {
+          "label": "PEMOHON",
+          "names": [
+            "TREEHEAD PROPERTIES SDN. BHD."
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "SUTRA BIRU SDN. BHD."
+          ]
+        }
+      ],
+      "catchwords": "Contract — Declarations-RM500,000 processing and commitment fee held by stakeholder — Failure to conclude substantive agreement within three-month period — No mutual written extension — Continued negotiations not amounting to extension, waiver or estoppel — Premature claim for declaratory relief — Originating summons dismissed.",
+      "judge": "YA Tuan Samry bin Masri",
+      "coram": [],
+      "dateOfResult": "2026-08-09",
+      "dateOfFiling": "2026-09-11",
+      "docs": [
+        {
+          "documentId": "9787b05f-de82-4b6c-aba4-7c1c5105c2de",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=9787b05f-de82-4b6c-aba4-7c1c5105c2de&Inline=true"
+        }
+      ]
+    },
+    {
       "id": "efaf0395-e6f3-403e-8164-de4bc13aae01",
       "caseNo": "A-05(H)-428-08/2025",
       "jurisdiction": "COA",
@@ -555,6 +625,48 @@
           "preparedBy": "YA Datuk Noorin binti Badaruddin",
           "category": "Sebulat Suara (Unanimous)",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=ba5be9e1-8371-4464-b11c-75d2ffad8c40&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "ea0eddcb-d0d8-4783-8ed8-5c8a98b595c4",
+      "caseNo": "JA-22NCvC-128-07/2026",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "MWP SDN BHD (dahulunya dikenali sebagai METRO WEALTH POLYMER SDN BHD) v KENNETH YAP CHEE ZHEN & ors",
+      "parties": [
+        {
+          "label": "PLAINTIF",
+          "names": [
+            "MWP SDN BHD (dahulunya dikenali sebagai METRO WEALTH POLYMER SDN BHD)"
+          ]
+        },
+        {
+          "label": "DEFENDAN",
+          "names": [
+            "KENNETH YAP CHEE ZHEN",
+            "RIVERWALK MARKETING SDN BHD",
+            "ANTIMICROBIAL ENGINEERING SDN BHD",
+            "KURNIA CEMERLANG SDN BHD",
+            "SILVER LINING CHEMICALS SDN BHD",
+            "KYCZ SDN BHD (dahulunya dikenali sebagai RESEARCH & ADVANCED TECHNOLOGIES SDN BHD)",
+            "HARACO SDN BHD",
+            "THREE SUMMIT PMF SDN BHD (dahulunya dikenali sebagai NANOSAFE PACK SDN BHD)"
+          ]
+        }
+      ],
+      "catchwords": "Civil Procedure — Injunction — Mareva injunction — Good arguable case — Assets within jurisdiction — Real risk of dissipation — Want of probity — Full and frank disclosure — Proportionality of freezing order — Ancillary disclosure of assets — Corporate defendants — Whether requirements established separately against each defendant — Aggregate ceiling on assets restrained — Undertaking as to damages — Application allowed in part",
+      "judge": "YA Dr Noradura Binti Hamzah",
+      "coram": [],
+      "dateOfResult": "2026-08-05",
+      "dateOfFiling": "2026-09-13",
+      "docs": [
+        {
+          "documentId": "2e223a1d-8406-4e90-a3ac-f172fffcaad3",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=2e223a1d-8406-4e90-a3ac-f172fffcaad3&Inline=true"
         }
       ]
     },
@@ -712,76 +824,6 @@
           "preparedBy": "YA Dato' Ong Chee Kwan",
           "category": "Sebulat Suara (Unanimous)",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=b346e16c-e376-4668-8daf-0058481e7aa9&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "6487b615-d3cf-43fd-a0ca-342924343e91",
-      "caseNo": "WA-22NCC-135-02/2026",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "V CAPITAL SDN BHD v ISMAIL @ FAROUK BIN ABDULLAH",
-      "parties": [
-        {
-          "label": "PLAINTIF",
-          "names": [
-            "V CAPITAL SDN BHD"
-          ]
-        },
-        {
-          "label": "DEFENDAN",
-          "names": [
-            "ISMAIL @ FAROUK BIN ABDULLAH"
-          ]
-        }
-      ],
-      "catchwords": "CIVIL PROCEDURE: Striking out application — Res judicata — Claim for repayment of advances — Earlier action for specific performance of share sale agreement — Whether claim for advances formed part of subject matter of earlier action and ought to have been raised by way of counterclaim — Whether subsequent action amounted to abuse of process — Whether advances had been accounted for in share purchase consideration — Application dismissed",
-      "judge": "YA Puan Elaine Yap Chin Gaik",
-      "coram": [],
-      "dateOfResult": "2026-08-03",
-      "dateOfFiling": "2026-09-11",
-      "docs": [
-        {
-          "documentId": "d72fdd7e-66c7-45b4-9704-f75ef70377bf",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=d72fdd7e-66c7-45b4-9704-f75ef70377bf&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "5b74fa2d-8938-4ba7-be86-6bee3453a2e1",
-      "caseNo": "WA-24NCvC-769-02/2026",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "NOOR AZHAN RIZALUDDIN BIN JAMIAN v FADHLINA BINTI ESA",
-      "parties": [
-        {
-          "label": "PEMOHON",
-          "names": [
-            "NOOR AZHAN RIZALUDDIN BIN JAMIAN"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "FADHLINA BINTI ESA"
-          ]
-        }
-      ],
-      "catchwords": "Permohonan untuk pentadbir bersama menandatangani resolusi syarikat harta pusaka - kepatuhan kepada Akta Syarikat 2016 - pemakaian Aturan 80 kaedah 2(3)(c) Kaedah-Kaedah Mahkamah 2012. Permohonan ditolak.",
-      "judge": "YA Tuan Roslan bin Mat Nor",
-      "coram": [],
-      "dateOfResult": "2026-07-29",
-      "dateOfFiling": "2026-09-11",
-      "docs": [
-        {
-          "documentId": "a91acd1e-70ab-4009-9dd4-14c3a4457c66",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=a91acd1e-70ab-4009-9dd4-14c3a4457c66&Inline=true"
         }
       ]
     },
@@ -1302,41 +1344,6 @@
           "preparedBy": "YA Datuk Noorin binti Badaruddin",
           "category": "Sebulat Suara (Unanimous)",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=fbf2e7eb-11d7-46af-b575-0c64a67b4267&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "a4f2116d-9cbf-49e0-a2f7-771c9410872d",
-      "caseNo": "WA-16A-139-11/2024",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "GOPALA KRISHNA A/L KANNIAPPAN v RHB Bank Berhad",
-      "parties": [
-        {
-          "label": "PERAYU",
-          "names": [
-            "GOPALA KRISHNA A/L KANNIAPPAN"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "RHB Bank Berhad"
-          ]
-        }
-      ],
-      "catchwords": "Appeal against the award of Industrial Court-dismissed on suspicion of having removed a Philips pressure cooker from storeroom-cctv recording showed Appellant leaving storeroom with a black garbage bag containing a box-Group Internal audit investigation-interview with HR-no satisfactory explanation given-Appellant said he carried a box out with personal belongings-on subsequent date, Philips cooker in a box anonymously sent to Respondent’s office-during Industrial Court hearing a reenactment of the incident seen on cctv was done-Appellant used box he claimed to have carried on that day and made a comparison with the box containing the returned cooker to compare sizes-counsel for Appellant applied for court transcript-claims re-enactment exercise missing-made scandalous allegations of biasness against the Chairman-whether ground for appeal-whether inquiry held by Respondent also tainted with biasness-whether failure to conduct domestic inquiry fatal",
-      "judge": "YA Puan Alice Loke Yee Ching",
-      "coram": [],
-      "dateOfResult": "2026-07-05",
-      "dateOfFiling": "2026-09-11",
-      "docs": [
-        {
-          "documentId": "d07540c0-8a76-48b8-b6d2-0ff0ca9d4aae",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=d07540c0-8a76-48b8-b6d2-0ff0ca9d4aae&Inline=true"
         }
       ]
     },
