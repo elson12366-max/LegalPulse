@@ -1,6 +1,6 @@
 {
   "source": "Malaysia E-Judgment Portal (ejudgment.kehakiman.gov.my)",
-  "updatedAt": "2026-09-19T01:21:02.045Z",
+  "updatedAt": "2026-09-20T01:20:49.183Z",
   "count": 60,
   "judgments": [
     {
@@ -330,47 +330,6 @@
           "preparedBy": "",
           "category": "",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=c727a720-10d5-4e4b-bdf7-87c4cddb91d4&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "48df382c-8dff-445f-a6bf-8eb99542cb69",
-      "caseNo": "WA-22NCvC-734-12/2025",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "IKRAM IKHLAS SDN BHD v PEMBANGUNAN KARARJAYA SDN BHD",
-      "parties": [
-        {
-          "label": "PLAINTIF",
-          "names": [
-            "IKRAM IKHLAS SDN BHD"
-          ]
-        },
-        {
-          "label": "DEFENDAN",
-          "names": [
-            "PEMBANGUNAN KARARJAYA SDN BHD"
-          ]
-        },
-        {
-          "label": "PIHAK KETIGA",
-          "names": [
-            "Tan Chong Choon"
-          ]
-        }
-      ],
-      "catchwords": "Enclosure 22 is dismissed. Costs are fixed at RM5,000 to the Plaintiff &amp; 3rd party (each), payable by PKSB.",
-      "judge": "YA Tuan Nixon Anak Kennedy Kumbong",
-      "coram": [],
-      "dateOfResult": "2026-08-27",
-      "dateOfFiling": "2026-09-18",
-      "docs": [
-        {
-          "documentId": "346933d7-a7e2-481f-8ac8-872251645ba7",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=346933d7-a7e2-481f-8ac8-872251645ba7&Inline=true"
         }
       ]
     },
@@ -864,6 +823,46 @@
       ]
     },
     {
+      "id": "70dd1dc3-c1ed-4cfe-865e-bc0c4169f164",
+      "caseNo": "WA-22NCC-93-02/2025",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "SYARIKAT MUHIBAH PERNIAGAAN DAN PEMBINAAN SDN BHD & ors v TURNPIKE SYNERGY SDN BHD & ors",
+      "parties": [
+        {
+          "label": "PLAINTIF",
+          "names": [
+            "SYARIKAT MUHIBAH PERNIAGAAN DAN PEMBINAAN SDN BHD",
+            "GABUNGAN STRATEGIK SDN BHD"
+          ]
+        },
+        {
+          "label": "DEFENDAN",
+          "names": [
+            "TURNPIKE SYNERGY SDN BHD",
+            "Dato' Mohammad Azlan Bin Abdullah",
+            "Ir. Rostam Shahrif Bin Tami",
+            "Zairulnizam Bin Rohan",
+            "SATUNAS TECHNOLOGIES SDN BHD"
+          ]
+        }
+      ],
+      "catchwords": "Arbitration &amp; Stay of Proceedings – Mandatory stay, Section 10(1) Arbitration Act 2005, Qualified stay / conditional stay, Section 10(2) Arbitration Act 2005, Inherent jurisdiction (Order 92 Rules of Court 2012), Case-management stay, Non-signatories / non-parties, Step in the proceedings – Arbitration Agreement Validity – Whether Clause 66.0 constitutes a valid and binding arbitration agreement between the First Plaintiff and the First Defendant, and whether it extends to non-signatories – Waiver / Step in the Proceedings – Whether the First Defendant took positive and unequivocal acts in the court proceedings (such as filing striking-out applications or responsive affidavits) that amounted to a waiver of its right to arbitrate under Section 10(1) of the Arbitration Act 2005. Conditional Stay and Case Sequencing (The Core Dispute) – Whether a mandatory stay under Section 10(1) can be granted subject to a condition under Section 10(2) delaying the arbitration until after a court trial, where the case involves non-signatories and overlapping allegations of fraud and conspiracy. Restraint of Arbitration &amp; Case Management – Whether the court should exercise its inherent jurisdiction under Order 92 of the Rules of Court 2012 to issue an interlocutory injunction restraining the ongoing AIAC arbitration pending the court trial to avoid parallel proceedings and inconsistent findings – Whether the doctrine of election (approbation and reprobation) bars the Plaintiffs from seeking a case-management stay of the arbitration – Non-Signatory Case-Management Stay – Whether the court proceedings against the non-signatory defendants (the officers and step-in contractor) should be stayed pending the outcome of the arbitration. Injunctions &amp; Restraint – Interlocutory injunction, Restraint of arbitration, Serious issue to be tried, Balance of convenience, Undertaking as to damages. Torts &amp; Civil Claims – Fraud, Unlawful and lawful means conspiracy, Economic duress, Unconscionable conduct, Step-in contractor mechanism – Whether the fraud, corruption, and conspiracy claims against the non-signatory defendants are &quot;primary and free-standing&quot; or merely &quot;parasitic&quot; to the main commercial contract. Civil Procedure – Striking out (Order 18 / Plain and obvious test), Doctrine of election (Approbation and reprobation), Solicitor&#039;s affidavit on contentious matters – Whether the Second Plaintiff’s action (as a subcontractor/claimed partner) against the First Defendant should be summarily struck out as being unsustainable or failing the &quot;plain and obvious&quot; test.",
+      "judge": "YA Tuan Mohamad Redzuan bin Idrus",
+      "coram": [],
+      "dateOfResult": "2026-07-29",
+      "dateOfFiling": "2026-09-18",
+      "docs": [
+        {
+          "documentId": "9f3aa36c-c666-4ee1-ab20-56f72a9fee59",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=9f3aa36c-c666-4ee1-ab20-56f72a9fee59&Inline=true"
+        }
+      ]
+    },
+    {
       "id": "a2c8d5b4-2bfd-45d8-86bc-8740d3c9a7a7",
       "caseNo": "WA-22NCC-93-02/2025",
       "jurisdiction": "HC",
@@ -980,46 +979,6 @@
           "preparedBy": "",
           "category": "",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=eecf3524-2a16-4f19-ae4d-3fec0e6cefbf&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "70dd1dc3-c1ed-4cfe-865e-bc0c4169f164",
-      "caseNo": "WA-22NCC-93-02/2025",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "SYARIKAT MUHIBAH PERNIAGAAN DAN PEMBINAAN SDN BHD & ors v TURNPIKE SYNERGY SDN BHD & ors",
-      "parties": [
-        {
-          "label": "PLAINTIF",
-          "names": [
-            "SYARIKAT MUHIBAH PERNIAGAAN DAN PEMBINAAN SDN BHD",
-            "GABUNGAN STRATEGIK SDN BHD"
-          ]
-        },
-        {
-          "label": "DEFENDAN",
-          "names": [
-            "TURNPIKE SYNERGY SDN BHD",
-            "Dato' Mohammad Azlan Bin Abdullah",
-            "Ir. Rostam Shahrif Bin Tami",
-            "Zairulnizam Bin Rohan",
-            "SATUNAS TECHNOLOGIES SDN BHD"
-          ]
-        }
-      ],
-      "catchwords": "Arbitration &amp; Stay of Proceedings – Mandatory stay, Section 10(1) Arbitration Act 2005, Qualified stay / conditional stay, Section 10(2) Arbitration Act 2005, Inherent jurisdiction (Order 92 Rules of Court 2012), Case-management stay, Non-signatories / non-parties, Step in the proceedings – Arbitration Agreement Validity – Whether Clause 66.0 constitutes a valid and binding arbitration agreement between the First Plaintiff and the First Defendant, and whether it extends to non-signatories – Waiver / Step in the Proceedings – Whether the First Defendant took positive and unequivocal acts in the court proceedings (such as filing striking-out applications or responsive affidavits) that amounted to a waiver of its right to arbitrate under Section 10(1) of the Arbitration Act 2005. Conditional Stay and Case Sequencing (The Core Dispute) – Whether a mandatory stay under Section 10(1) can be granted subject to a condition under Section 10(2) delaying the arbitration until after a court trial, where the case involves non-signatories and overlapping allegations of fraud and conspiracy. Restraint of Arbitration &amp; Case Management – Whether the court should exercise its inherent jurisdiction under Order 92 of the Rules of Court 2012 to issue an interlocutory injunction restraining the ongoing AIAC arbitration pending the court trial to avoid parallel proceedings and inconsistent findings – Whether the doctrine of election (approbation and reprobation) bars the Plaintiffs from seeking a case-management stay of the arbitration – Non-Signatory Case-Management Stay – Whether the court proceedings against the non-signatory defendants (the officers and step-in contractor) should be stayed pending the outcome of the arbitration. Injunctions &amp; Restraint – Interlocutory injunction, Restraint of arbitration, Serious issue to be tried, Balance of convenience, Undertaking as to damages. Torts &amp; Civil Claims – Fraud, Unlawful and lawful means conspiracy, Economic duress, Unconscionable conduct, Step-in contractor mechanism – Whether the fraud, corruption, and conspiracy claims against the non-signatory defendants are &quot;primary and free-standing&quot; or merely &quot;parasitic&quot; to the main commercial contract. Civil Procedure – Striking out (Order 18 / Plain and obvious test), Doctrine of election (Approbation and reprobation), Solicitor&#039;s affidavit on contentious matters – Whether the Second Plaintiff’s action (as a subcontractor/claimed partner) against the First Defendant should be summarily struck out as being unsustainable or failing the &quot;plain and obvious&quot; test.",
-      "judge": "YA Tuan Mohamad Redzuan bin Idrus",
-      "coram": [],
-      "dateOfResult": "2026-07-29",
-      "dateOfFiling": "2026-09-18",
-      "docs": [
-        {
-          "documentId": "9f3aa36c-c666-4ee1-ab20-56f72a9fee59",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=9f3aa36c-c666-4ee1-ab20-56f72a9fee59&Inline=true"
         }
       ]
     },
@@ -1688,6 +1647,42 @@
           "preparedBy": "YA Dato' Amarjeet Singh a/l Serjit Singh",
           "category": "Sebulat Suara (Unanimous)",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=f388a0ba-8896-4dfe-bcd6-d1bc0bb9860c&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "110f63aa-aa44-4bf2-a656-626e4f0540de",
+      "caseNo": "PA-23NCvC-10-08/2024",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "SHARIFAH BIBI BINTI ABDUL MAJID v DR. ANDREW LIM KEAT EU & ors",
+      "parties": [
+        {
+          "label": "PLAINTIF",
+          "names": [
+            "SHARIFAH BIBI BINTI ABDUL MAJID"
+          ]
+        },
+        {
+          "label": "DEFENDAN",
+          "names": [
+            "DR. ANDREW LIM KEAT EU",
+            "ISLAND HOSPITAL SDN. BHD. (juga dikenali sebagai Island Hospital)"
+          ]
+        }
+      ],
+      "catchwords": "As the Plaintiff was not ready on the trial date of 22.6.2026, the Court accordingly struck out the Plaintiff’s claim. The Plaintiff then filed an application for reinstatement in Enclosure 36 as well as an appeal to the Court of Appeal to set aside the striking-out Order.",
+      "judge": "YA Dr Suzana binti Muhamad Said",
+      "coram": [],
+      "dateOfResult": "2026-06-24",
+      "dateOfFiling": "2026-09-19",
+      "docs": [
+        {
+          "documentId": "444d9eb5-c3b6-43ea-b0e7-94a62b125e3a",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=444d9eb5-c3b6-43ea-b0e7-94a62b125e3a&Inline=true"
         }
       ]
     },
