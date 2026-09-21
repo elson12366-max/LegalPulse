@@ -1,6 +1,6 @@
 {
   "source": "Malaysia E-Judgment Portal (ejudgment.kehakiman.gov.my)",
-  "updatedAt": "2026-09-20T01:20:49.183Z",
+  "updatedAt": "2026-09-21T01:18:49.673Z",
   "count": 60,
   "judgments": [
     {
@@ -299,41 +299,6 @@
       ]
     },
     {
-      "id": "87f5bbc9-0e6b-43a4-88af-1ae4958dfd4f",
-      "caseNo": "WA-22NCvC-210-04/2026",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "PREMALA ERA COM CONSTRUCTION (M) SDN. BHD. v SHAPADU CR ASIA SDN BHD",
-      "parties": [
-        {
-          "label": "PLAINTIF",
-          "names": [
-            "PREMALA ERA COM CONSTRUCTION (M) SDN. BHD."
-          ]
-        },
-        {
-          "label": "DEFENDAN",
-          "names": [
-            "SHAPADU CR ASIA SDN BHD"
-          ]
-        }
-      ],
-      "catchwords": "Enclosure 5 is allowed. All proceedings in this suit are stayed pending arbitration at the AIAC pursuant to Clause 23.2 of the Service Agreement and Clause 25(b) of the PO GTC. Costs are awarded to the Defendant, fixed at RM5,000.",
-      "judge": "YA Tuan Nixon Anak Kennedy Kumbong",
-      "coram": [],
-      "dateOfResult": "2026-08-27",
-      "dateOfFiling": "2026-09-18",
-      "docs": [
-        {
-          "documentId": "c727a720-10d5-4e4b-bdf7-87c4cddb91d4",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=c727a720-10d5-4e4b-bdf7-87c4cddb91d4&Inline=true"
-        }
-      ]
-    },
-    {
       "id": "e78b3609-4129-41c6-8bfc-b84c252cf788",
       "caseNo": "A-04(IM)-75-02/2024",
       "jurisdiction": "COA",
@@ -373,38 +338,40 @@
       ]
     },
     {
-      "id": "953c51b1-6617-41bc-92cd-ff41b8bdd2c7",
-      "caseNo": "WA-22NCvC-208-04/2026",
+      "id": "3c2fffcb-bcef-434f-8c8d-b809a1b8aa92",
+      "caseNo": "TA-24NCvC-72-03/2026",
       "jurisdiction": "HC",
       "court": "High Court",
-      "title": "MONICA ANNE A/P P ANTHONYSAMY v SIVAKUMAR A/L K. GUNASEGARAN & ors",
+      "title": "NOORLIANA SUZANA BINTI ABD RAMAN & ors v Pentadbir Tanah Kuala Nerus",
       "parties": [
         {
-          "label": "PLAINTIF",
+          "label": "PEMOHON",
           "names": [
-            "MONICA ANNE A/P P ANTHONYSAMY"
+            "NOORLIANA SUZANA BINTI ABD RAMAN",
+            "NOOR MADIHAH BINTI ABD. RAMAN",
+            "MOHD AZIZOL BIN ABD RAMAN",
+            "NURUASMIDAH BINTI ABD RAMAN"
           ]
         },
         {
-          "label": "DEFENDAN",
+          "label": "RESPONDEN",
           "names": [
-            "SIVAKUMAR A/L K. GUNASEGARAN",
-            "NOBEL INTEGRASI TRADING"
+            "Pentadbir Tanah Kuala Nerus"
           ]
         }
       ],
-      "catchwords": "Conclusion Applying Bandar Builder (supra) and Jamal Md Yunos (supra), I find: • The Statement of Claim discloses a reasonable cause of action. • The claim is not frivolous, vexatious, or an abuse of process. • The issues raised require factual investigation and legal argument. • This is not a plain and obvious case for striking out. Order 1. The Defendants’ application in Enclosure 5 is dismissed. 2. The Defendants shall pay costs of RM3,500.00 to the Plaintiff. I hereby order so.",
-      "judge": "YA Tuan Nixon Anak Kennedy Kumbong",
+      "catchwords": "Land Law — Acquisition of land — Objection against acquisition — Application for extension of time to file Form N under s 38(4) of the Land Acquisition Act 1960 — Applicants present at inquiry and represented by private valuer — Land Administrator having expressly informed Applicants of six-week period and requirement to file Form N — Applicants failing to file Form N despite having two days remaining — Whether &quot;special circumstances&quot; established — Whether ignorance of law constitutes special circumstance — Whether Lau Cher Hian v Collector of Land Revenue, Muar [1971] 1 MLJ 96 distinguishable — Whether Singapore Para Rubber Estate Ltd v Pentadbir Tanah Daerah Rembau, Negeri Sembilan [2008] 6 MLJ 763 applicable — Whether discretion to extend time to be exercised sparingly Civil Procedure — Originating summons — Preliminary objection — Respondent&#039;s affidavits filed out of time — Non-compliance with court deadline — Whether irregularity curable under O 2 r 1 Rules of Court 2012 — Whether substantial miscarriage of justice or prejudice occasioned — Whether preliminary objection ought to be dismissed — Weakness of applicant&#039;s own explanation for default as relevant factor in exercise of discretion Civil Procedure — Affidavits — Late filing — Preliminary objection against affidavits in reply filed 13 days after deadline — Delay caused by public holiday and closure of e-filing system — No prejudice to opposing party — Whether court entitled to consider strength and credibility of explanations proffered by respective parties in exercising discretion to regularise Constitutional Law — Right to property — Compulsory acquisition — Article 13(2) Federal Constitution — Whether guarantee of adequate compensation overrides procedural requirements of Land Acquisition Act 1960 — Whether landowner may complain of violation of Article 13 where all provisions of Act complied with and due compensation offered.",
+      "judge": "YA Tuan Yusrin Faidz bin Yusoff",
       "coram": [],
-      "dateOfResult": "2026-08-25",
-      "dateOfFiling": "2026-09-18",
+      "dateOfResult": "2026-08-19",
+      "dateOfFiling": "2026-09-20",
       "docs": [
         {
-          "documentId": "d7471a1b-9137-4574-b2fb-7aa8893d970d",
+          "documentId": "7a370719-b990-45e6-82b4-c8a27acca588",
           "name": "Alasan Penghakiman",
           "preparedBy": "",
           "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=d7471a1b-9137-4574-b2fb-7aa8893d970d&Inline=true"
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=7a370719-b990-45e6-82b4-c8a27acca588&Inline=true"
         }
       ]
     },
@@ -487,41 +454,6 @@
       ]
     },
     {
-      "id": "1598b15e-8b03-4aef-a147-8e8052286b3f",
-      "caseNo": "WA-22NCvC-326-06/2023",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "YAP KUANG HUI v ALLIANZ GENERAL INSURANCE COMPANY (MALAYSIA) BERHAD",
-      "parties": [
-        {
-          "label": "PLAINTIF",
-          "names": [
-            "YAP KUANG HUI"
-          ]
-        },
-        {
-          "label": "DEFENDAN",
-          "names": [
-            "ALLIANZ GENERAL INSURANCE COMPANY (MALAYSIA) BERHAD"
-          ]
-        }
-      ],
-      "catchwords": "[1] This action concerns the Defendant’s refusal to indemnify the Plaintiff under a fire insurance policy following a fire at the insured premises. Although the occurrence of the fire is not disputed, the Defendant’s obligation to answer the resulting claim is contested on several interrelated grounds.",
-      "judge": "YA Puan Roz Mawar binti Rozain",
-      "coram": [],
-      "dateOfResult": "2026-08-18",
-      "dateOfFiling": "2026-09-18",
-      "docs": [
-        {
-          "documentId": "667041ba-358c-48fa-8170-dd66ae64871c",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=667041ba-358c-48fa-8170-dd66ae64871c&Inline=true"
-        }
-      ]
-    },
-    {
       "id": "756b5e17-b624-4fdb-8073-2e964640315a",
       "caseNo": "W-02(IM)-1520-08/2025",
       "jurisdiction": "COA",
@@ -557,45 +489,6 @@
           "preparedBy": "YA Dato' Ong Chee Kwan",
           "category": "Sebulat Suara (Unanimous)",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=b1712b97-136a-4259-9c06-ebb6bb0b43c8&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "d7878533-2d76-47e2-95e8-536919f03f83",
-      "caseNo": "W-02(IM)-1521-08/2025",
-      "jurisdiction": "COA",
-      "court": "Court of Appeal",
-      "title": "LOW HUEI YING v ANDREW GREGORY SEWELL",
-      "parties": [
-        {
-          "label": "PERAYU",
-          "names": [
-            "LOW HUEI YING"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "ANDREW GREGORY SEWELL"
-          ]
-        }
-      ],
-      "catchwords": "committal proceedings - The law on contempt by disobedience of a court order - Order 29 rule 2A of the ROC 2012 - No wilful and contumelious disregard of the Consent Order - Committal as a remedy of last resort - abuse of process.",
-      "judge": "YA Dato' Ong Chee Kwan",
-      "coram": [
-        "YA Dato' Dr Alwi Bin Abdul Wahab",
-        "YA Datuk Dr Shahnaz Binti Sulaiman",
-        "YA Dato' Ong Chee Kwan"
-      ],
-      "dateOfResult": "2026-08-13",
-      "dateOfFiling": "2026-09-08",
-      "docs": [
-        {
-          "documentId": "99b68208-9f91-4e49-a155-0e2f73fcd029",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "YA Dato' Ong Chee Kwan",
-          "category": "Sebulat Suara (Unanimous)",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=99b68208-9f91-4e49-a155-0e2f73fcd029&Inline=true"
         }
       ]
     },
@@ -666,6 +559,41 @@
           "preparedBy": "",
           "category": "",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=d53e0662-ef20-4954-bff6-6034d28d2525&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "80b190ff-8e9f-44e7-84e3-0bb5a561cfab",
+      "caseNo": "JA-22NCvC-66-04/2026",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "GOH GEK ENG (sebagai Wasi Tunggal dan Pemegang Amanah Harta Pusaka NG KHIAM TECK (No K/P Singapura S0163105E), Si Mati) v GELANG EMAS SDN BHD",
+      "parties": [
+        {
+          "label": "PLAINTIF",
+          "names": [
+            "GOH GEK ENG (sebagai Wasi Tunggal dan Pemegang Amanah Harta Pusaka NG KHIAM TECK (No K/P Singapura S0163105E), Si Mati)"
+          ]
+        },
+        {
+          "label": "DEFENDAN",
+          "names": [
+            "GELANG EMAS SDN BHD"
+          ]
+        }
+      ],
+      "catchwords": "Civil Procedure – Injunction – Interlocutory injunction – Beneficial interest in land – Registered proprietor – Indefeasibility of title – Resulting and constructive trust – Serious issue to be tried – Balance of convenience – Adequacy of damages – Private caveat as statutory remedy – No threatened dealing or extra-curial interference – Omnibus prayer too wide and uncertain – Delay – Order 29 Rules of Court 2012 – National Land Code, ss 322, 323 &amp; 340 – Application dismissed with costs",
+      "judge": "YA Dr Noradura Binti Hamzah",
+      "coram": [],
+      "dateOfResult": "2026-08-09",
+      "dateOfFiling": "2026-09-20",
+      "docs": [
+        {
+          "documentId": "efe77c39-3bc8-414c-975b-bd56386beb54",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=efe77c39-3bc8-414c-975b-bd56386beb54&Inline=true"
         }
       ]
     },
@@ -823,42 +751,37 @@
       ]
     },
     {
-      "id": "70dd1dc3-c1ed-4cfe-865e-bc0c4169f164",
-      "caseNo": "WA-22NCC-93-02/2025",
+      "id": "d4a43489-a3dc-4ee8-8ba4-81b59fb359ec",
+      "caseNo": "JA-24NCvC-915-05/2026",
       "jurisdiction": "HC",
       "court": "High Court",
-      "title": "SYARIKAT MUHIBAH PERNIAGAAN DAN PEMBINAAN SDN BHD & ors v TURNPIKE SYNERGY SDN BHD & ors",
+      "title": "V SURESH A/L N VELU NAIR v STOR TAWAKAL SDN. BHD.",
       "parties": [
         {
-          "label": "PLAINTIF",
+          "label": "PEMOHON",
           "names": [
-            "SYARIKAT MUHIBAH PERNIAGAAN DAN PEMBINAAN SDN BHD",
-            "GABUNGAN STRATEGIK SDN BHD"
+            "V SURESH A/L N VELU NAIR"
           ]
         },
         {
-          "label": "DEFENDAN",
+          "label": "RESPONDEN",
           "names": [
-            "TURNPIKE SYNERGY SDN BHD",
-            "Dato' Mohammad Azlan Bin Abdullah",
-            "Ir. Rostam Shahrif Bin Tami",
-            "Zairulnizam Bin Rohan",
-            "SATUNAS TECHNOLOGIES SDN BHD"
+            "STOR TAWAKAL SDN. BHD."
           ]
         }
       ],
-      "catchwords": "Arbitration &amp; Stay of Proceedings – Mandatory stay, Section 10(1) Arbitration Act 2005, Qualified stay / conditional stay, Section 10(2) Arbitration Act 2005, Inherent jurisdiction (Order 92 Rules of Court 2012), Case-management stay, Non-signatories / non-parties, Step in the proceedings – Arbitration Agreement Validity – Whether Clause 66.0 constitutes a valid and binding arbitration agreement between the First Plaintiff and the First Defendant, and whether it extends to non-signatories – Waiver / Step in the Proceedings – Whether the First Defendant took positive and unequivocal acts in the court proceedings (such as filing striking-out applications or responsive affidavits) that amounted to a waiver of its right to arbitrate under Section 10(1) of the Arbitration Act 2005. Conditional Stay and Case Sequencing (The Core Dispute) – Whether a mandatory stay under Section 10(1) can be granted subject to a condition under Section 10(2) delaying the arbitration until after a court trial, where the case involves non-signatories and overlapping allegations of fraud and conspiracy. Restraint of Arbitration &amp; Case Management – Whether the court should exercise its inherent jurisdiction under Order 92 of the Rules of Court 2012 to issue an interlocutory injunction restraining the ongoing AIAC arbitration pending the court trial to avoid parallel proceedings and inconsistent findings – Whether the doctrine of election (approbation and reprobation) bars the Plaintiffs from seeking a case-management stay of the arbitration – Non-Signatory Case-Management Stay – Whether the court proceedings against the non-signatory defendants (the officers and step-in contractor) should be stayed pending the outcome of the arbitration. Injunctions &amp; Restraint – Interlocutory injunction, Restraint of arbitration, Serious issue to be tried, Balance of convenience, Undertaking as to damages. Torts &amp; Civil Claims – Fraud, Unlawful and lawful means conspiracy, Economic duress, Unconscionable conduct, Step-in contractor mechanism – Whether the fraud, corruption, and conspiracy claims against the non-signatory defendants are &quot;primary and free-standing&quot; or merely &quot;parasitic&quot; to the main commercial contract. Civil Procedure – Striking out (Order 18 / Plain and obvious test), Doctrine of election (Approbation and reprobation), Solicitor&#039;s affidavit on contentious matters – Whether the Second Plaintiff’s action (as a subcontractor/claimed partner) against the First Defendant should be summarily struck out as being unsustainable or failing the &quot;plain and obvious&quot; test.",
-      "judge": "YA Tuan Mohamad Redzuan bin Idrus",
+      "catchwords": "Employment Law – Appeal – Extension of time – O.3 r.5 Rules of Court 2012 – Applicant followed written directions of Labour Office – Delay reasonably explained – Conflicting authorities on applicability of O.55 and O.55A – Mode of appeal not determined – No specific prejudice demonstrated by Respondent – Discretion exercised in Applicant’s favour – Time extended to commence appeal within 21 days – Applicant solely responsible for preparation and filing of appeal record – Costs RM8,000 to Respondent – Application allowed",
+      "judge": "YA Dr Noradura Binti Hamzah",
       "coram": [],
-      "dateOfResult": "2026-07-29",
-      "dateOfFiling": "2026-09-18",
+      "dateOfResult": "2026-08-02",
+      "dateOfFiling": "2026-09-20",
       "docs": [
         {
-          "documentId": "9f3aa36c-c666-4ee1-ab20-56f72a9fee59",
+          "documentId": "09127f6e-706a-470e-826c-345d35aeb83a",
           "name": "Alasan Penghakiman",
           "preparedBy": "",
           "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=9f3aa36c-c666-4ee1-ab20-56f72a9fee59&Inline=true"
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=09127f6e-706a-470e-826c-345d35aeb83a&Inline=true"
         }
       ]
     },
@@ -899,46 +822,6 @@
           "preparedBy": "",
           "category": "",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=c1fda9b9-9683-40dc-8254-e23356fabf64&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "37e50e0f-d054-494d-9091-83beb0a2ae93",
-      "caseNo": "WA-22NCC-93-02/2025",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "SYARIKAT MUHIBAH PERNIAGAAN DAN PEMBINAAN SDN BHD & ors v TURNPIKE SYNERGY SDN BHD & ors",
-      "parties": [
-        {
-          "label": "PLAINTIF",
-          "names": [
-            "SYARIKAT MUHIBAH PERNIAGAAN DAN PEMBINAAN SDN BHD",
-            "GABUNGAN STRATEGIK SDN BHD"
-          ]
-        },
-        {
-          "label": "DEFENDAN",
-          "names": [
-            "TURNPIKE SYNERGY SDN BHD",
-            "Dato' Mohammad Azlan Bin Abdullah",
-            "Ir. Rostam Shahrif Bin Tami",
-            "Zairulnizam Bin Rohan",
-            "SATUNAS TECHNOLOGIES SDN BHD"
-          ]
-        }
-      ],
-      "catchwords": "Arbitration &amp; Stay of Proceedings – Mandatory stay, Section 10(1) Arbitration Act 2005, Qualified stay / conditional stay, Section 10(2) Arbitration Act 2005, Inherent jurisdiction (Order 92 Rules of Court 2012), Case-management stay, Non-signatories / non-parties, Step in the proceedings – Arbitration Agreement Validity – Whether Clause 66.0 constitutes a valid and binding arbitration agreement between the First Plaintiff and the First Defendant, and whether it extends to non-signatories – Waiver / Step in the Proceedings – Whether the First Defendant took positive and unequivocal acts in the court proceedings (such as filing striking-out applications or responsive affidavits) that amounted to a waiver of its right to arbitrate under Section 10(1) of the Arbitration Act 2005. Conditional Stay and Case Sequencing (The Core Dispute) – Whether a mandatory stay under Section 10(1) can be granted subject to a condition under Section 10(2) delaying the arbitration until after a court trial, where the case involves non-signatories and overlapping allegations of fraud and conspiracy. Restraint of Arbitration &amp; Case Management – Whether the court should exercise its inherent jurisdiction under Order 92 of the Rules of Court 2012 to issue an interlocutory injunction restraining the ongoing AIAC arbitration pending the court trial to avoid parallel proceedings and inconsistent findings – Whether the doctrine of election (approbation and reprobation) bars the Plaintiffs from seeking a case-management stay of the arbitration – Non-Signatory Case-Management Stay – Whether the court proceedings against the non-signatory defendants (the officers and step-in contractor) should be stayed pending the outcome of the arbitration. Injunctions &amp; Restraint – Interlocutory injunction, Restraint of arbitration, Serious issue to be tried, Balance of convenience, Undertaking as to damages. Torts &amp; Civil Claims – Fraud, Unlawful and lawful means conspiracy, Economic duress, Unconscionable conduct, Step-in contractor mechanism – Whether the fraud, corruption, and conspiracy claims against the non-signatory defendants are &quot;primary and free-standing&quot; or merely &quot;parasitic&quot; to the main commercial contract. Civil Procedure – Striking out (Order 18 / Plain and obvious test), Doctrine of election (Approbation and reprobation), Solicitor&#039;s affidavit on contentious matters – Whether the Second Plaintiff’s action (as a subcontractor/claimed partner) against the First Defendant should be summarily struck out as being unsustainable or failing the &quot;plain and obvious&quot; test.",
-      "judge": "YA Tuan Mohamad Redzuan bin Idrus",
-      "coram": [],
-      "dateOfResult": "2026-07-29",
-      "dateOfFiling": "2026-09-18",
-      "docs": [
-        {
-          "documentId": "10c043e1-d6af-4fa1-99e7-39f08a6b2df3",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=10c043e1-d6af-4fa1-99e7-39f08a6b2df3&Inline=true"
         }
       ]
     },
@@ -1021,6 +904,50 @@
           "preparedBy": "YA Dato' Mohd Nazlan Bin Mohd Ghazali",
           "category": "Sebulat Suara (Unanimous)",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=fb7463c6-4513-403d-9106-9761fa62cea9&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "d346b6cb-4b3e-4fea-ae45-1740243bd8a6",
+      "caseNo": "W-04(NCvC)(W)-319-08/2023",
+      "jurisdiction": "COA",
+      "court": "Court of Appeal",
+      "title": "GOLDEN HARVEST PALMS SDN BHD v SERI JENJAROM PLANTATION SDN BERHAD (DALAM LIKUIDASI) & ors",
+      "parties": [
+        {
+          "label": "PERAYU",
+          "names": [
+            "GOLDEN HARVEST PALMS SDN BHD"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "SERI JENJAROM PLANTATION SDN BERHAD (DALAM LIKUIDASI)",
+            "Ong Kong Lim",
+            "Ong Kong Seong",
+            "Ong Kwong Yew",
+            "Ong Kong Beng",
+            "Ong Kong Seng"
+          ]
+        }
+      ],
+      "catchwords": "Sale of land — Breach of Contract — Obligation of the Vendor pending Vacant Possession — “As is where is” clause — Specific provision prevailing over general provision — Implied duty on the Vendor — Constructive trustee — Waiver — Payment of balance purchase price — Non-waiver clause — Acquiescence — Election to affirm contract — Third-party proceedings — Separate and independent proceedings — Order 16 r 7 Rules of Court 2012 — Damages — Assessment of damages",
+      "judge": "YA Datuk Ismail Bin Brahim",
+      "coram": [
+        "YA Datuk Supang Lian",
+        "YA Datuk Ismail Bin Brahim",
+        "YA Tuan Muniandy a/l Kannyappan"
+      ],
+      "dateOfResult": "2026-07-28",
+      "dateOfFiling": "2026-09-21",
+      "docs": [
+        {
+          "documentId": "145e8567-4311-4b2f-b598-da944d9daa06",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "YA Datuk Ismail Bin Brahim",
+          "category": "Sebulat Suara (Unanimous)",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=145e8567-4311-4b2f-b598-da944d9daa06&Inline=true"
         }
       ]
     },
@@ -1570,6 +1497,42 @@
       ]
     },
     {
+      "id": "552e920d-fee5-4b96-a103-26d22bd28688",
+      "caseNo": "KA-25-6-08/2025",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "JURUKUR TERAS (AS) SDN. BHD. v IRWAN KHUSHAINI BIN MOHD JAN & ors",
+      "parties": [
+        {
+          "label": "PEMOHON",
+          "names": [
+            "JURUKUR TERAS (AS) SDN. BHD."
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "IRWAN KHUSHAINI BIN MOHD JAN",
+            "JABATAN UKUR DAN PEMETAAN MALAYSIA (JUPEM) NEGERI KEDAH"
+          ]
+        }
+      ],
+      "catchwords": "Issue 1 : Whether the letter dated 15.07.2025 and the email dated 25.07.2025 constitute reviewable &quot;decisions&quot; amendable to judicial review under Order 53 of the Rules of Court 2012. Issue 2 : Whether the Respondents misconstrued Sub-paragraph 8A(1)(d)(iv) of the Strata Titles Act 1985 (Act 318) and thereby acted in excess of their statutory jurisdiction. Issue 3 : Whether the Applicant&#039;s conduct in relation to the Syit Pertanyaan, and the Respondents&#039; complaint that unpleaded issues were raised, affect the Applicant&#039;s entitlement to relief. Issue 4 : Whether the Respondents&#039; conduct discloses illegality, irrationality or procedural impropriety, including unreasonable delay in processing the application. Issue 5 : Whether the Applicant is entitled to the reliefs of certiorari, mandamus, and the declarations sought.",
+      "judge": "YA Dato' Mohd Aimi Zaini bin Mohd Azhar",
+      "coram": [],
+      "dateOfResult": "2026-06-29",
+      "dateOfFiling": "2026-09-21",
+      "docs": [
+        {
+          "documentId": "8a555eb2-b4b3-4386-b90a-3a4840f9dbee",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=8a555eb2-b4b3-4386-b90a-3a4840f9dbee&Inline=true"
+        }
+      ]
+    },
+    {
       "id": "c6d13ab6-3523-47a0-9223-afdadd8e5851",
       "caseNo": "01(f)-31-10/2024(W)",
       "jurisdiction": "FC",
@@ -1647,6 +1610,36 @@
           "preparedBy": "YA Dato' Amarjeet Singh a/l Serjit Singh",
           "category": "Sebulat Suara (Unanimous)",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=f388a0ba-8896-4dfe-bcd6-d1bc0bb9860c&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "16bebf66-c416-460e-9d8d-d0b84680439b",
+      "caseNo": "KA-31NCvC-36-05/2025",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "PEMOHON 1. ) SITI SALWA BINTI SAMSURI 2. ) ABDUL HAMID BIN SAMSURI",
+      "parties": [
+        {
+          "label": "PEMOHON",
+          "names": [
+            "SITI SALWA BINTI SAMSURI",
+            "ABDUL HAMID BIN SAMSURI"
+          ]
+        }
+      ],
+      "catchwords": "Issue 1 - Whether this Court has the jurisdiction and power to remove the Second Applicant as joint administrator under section 34 PAA read with Order 71 rule 36 and Order 92 rule 4 of the Rules of Court 2021. Issue 2 - Whether the Orders of 9 June 2025 were regularly obtained, and the legal consequence of the Second Applicant&#039;s failure to challenge them by proper application. Issue 3 - Whether &quot;sufficient cause&quot; under section 34 PAA has been established. Issue 4 - Whether an order for account should be made against the Second Applicant. Issue 5 - Whether the First Applicant should be appointed sole administrator, and the appropriate order as to costs.",
+      "judge": "YA Dato' Mohd Aimi Zaini bin Mohd Azhar",
+      "coram": [],
+      "dateOfResult": "2026-06-28",
+      "dateOfFiling": "2026-09-21",
+      "docs": [
+        {
+          "documentId": "0965bdcf-ce0c-4e3f-b875-45151c8a4939",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=0965bdcf-ce0c-4e3f-b875-45151c8a4939&Inline=true"
         }
       ]
     },
