@@ -1,6 +1,6 @@
 {
   "source": "Malaysia E-Judgment Portal (ejudgment.kehakiman.gov.my)",
-  "updatedAt": "2026-09-26T01:46:08.597Z",
+  "updatedAt": "2026-09-27T01:37:33.782Z",
   "count": 60,
   "judgments": [
     {
@@ -532,7 +532,7 @@
       ]
     },
     {
-      "id": "7b112992-d3a0-4314-8b2b-ce3b073ea526",
+      "id": "c0db0ec1-35e4-45b3-9514-6e32ddaad3aa",
       "caseNo": "MA-42JSKS-3-12/2025",
       "jurisdiction": "HC",
       "court": "High Court",
@@ -567,7 +567,7 @@
       ]
     },
     {
-      "id": "c0db0ec1-35e4-45b3-9514-6e32ddaad3aa",
+      "id": "7b112992-d3a0-4314-8b2b-ce3b073ea526",
       "caseNo": "MA-42JSKS-3-12/2025",
       "jurisdiction": "HC",
       "court": "High Court",
@@ -884,6 +884,80 @@
           "preparedBy": "YA Dato Rhodzariah binti Bujang",
           "category": "Minoriti/Dissenting",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=62e48ad9-3b10-4a77-983b-d5818692e45d&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "7fd1de38-bca4-4dd6-b083-017b8b47e4a1",
+      "caseNo": "KB-45-18-10/2023",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "Pendakwa Raya v LOW BOON CHEW & ors",
+      "parties": [
+        {
+          "label": "PENDAKWA RAYA",
+          "names": [
+            "Pendakwa Raya"
+          ]
+        },
+        {
+          "label": "TERTUDUH",
+          "names": [
+            "LOW BOON CHEW",
+            "MD ZAHID",
+            "ABDUR RAHMAN"
+          ]
+        }
+      ],
+      "catchwords": "Akta Dadah Berbahaya 1952 – pertuduhan terhadap tiga orang Tertuduh - satu pertuduhan di bawah s. 39B(1)(a) - dua pertuduhan di bawah s. 12(2) Akta yang sama - niat bersama di bawah s. 34 Kanun Keseksaan - maklumat pengedaran dadah – dadah dijumpai berdekatan tempat gear – sama ada elemen s. 39B ADB dipenuhi - sama ada pertuduhan adalah cacat kerana tidak menuruti s. 152 dan s. 153 KTJ – sama ada identiti dadah dirampas telah terjejas - sama ada niat bersama dibuktikan – sama ada berdekatan semata-mata dengan barang kes tidak membuktikan pemilikan dadah – sama ada ketiadaan bukti forensik seperti DNA dan cap jari OKT-OKT menjejaskan kes pendakwaan - sama ada kegagalan memanggil saksi material menimbulkan anggapan seksyen 114(g) Akta Keterangan – sama ada kelakuan OKT semasa cubaan tangkapan mewujudkan tanggapan pengetahuan - sama ada kes prima facie berjaya dibuktikan.",
+      "judge": "YA Tuan Darmafikri bin Abu Adam",
+      "coram": [],
+      "dateOfResult": "2026-07-20",
+      "dateOfFiling": "2026-09-26",
+      "docs": [
+        {
+          "documentId": "8b41cd48-73b2-4a1b-94d1-e138defa9857",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=8b41cd48-73b2-4a1b-94d1-e138defa9857&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "6fd3c367-e912-49b8-ba0e-0591b7adc923",
+      "caseNo": "KB-45A-32-08/2023",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "Pendakwa Raya v LOW BOON CHEW & ors",
+      "parties": [
+        {
+          "label": "PENDAKWA RAYA",
+          "names": [
+            "Pendakwa Raya"
+          ]
+        },
+        {
+          "label": "TERTUDUH",
+          "names": [
+            "LOW BOON CHEW",
+            "MD ZAHID",
+            "ABDUR RAHMAN"
+          ]
+        }
+      ],
+      "catchwords": "Akta Dadah Berbahaya 1952 – pertuduhan terhadap tiga orang Tertuduh - satu pertuduhan di bawah s. 39B(1)(a) - dua pertuduhan di bawah s. 12(2) Akta yang sama - niat bersama di bawah s. 34 Kanun Keseksaan - maklumat pengedaran dadah – dadah dijumpai berdekatan tempat gear – sama ada elemen s. 39B ADB dipenuhi - sama ada pertuduhan adalah cacat kerana tidak menuruti s. 152 dan s. 153 KTJ – sama ada identiti dadah dirampas telah terjejas - sama ada niat bersama dibuktikan – sama ada berdekatan semata-mata dengan barang kes tidak membuktikan pemilikan dadah – sama ada ketiadaan bukti forensik seperti DNA dan cap jari OKT-OKT menjejaskan kes pendakwaan - sama ada kegagalan memanggil saksi material menimbulkan anggapan seksyen 114(g) Akta Keterangan – sama ada kelakuan OKT semasa cubaan tangkapan mewujudkan tanggapan pengetahuan - sama ada kes prima facie berjaya dibuktikan.",
+      "judge": "YA Tuan Darmafikri bin Abu Adam",
+      "coram": [],
+      "dateOfResult": "2026-07-20",
+      "dateOfFiling": "2026-09-26",
+      "docs": [
+        {
+          "documentId": "c369023c-cc5f-4201-b94d-1826adafd93a",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=c369023c-cc5f-4201-b94d-1826adafd93a&Inline=true"
         }
       ]
     },
@@ -1274,7 +1348,7 @@
       ]
     },
     {
-      "id": "3ca01015-2875-4605-a1af-bf4b8e30469b",
+      "id": "cffb55df-03b7-449a-8aa5-4120afa5c45e",
       "caseNo": "BA-45A-37-05/2023",
       "jurisdiction": "HC",
       "court": "High Court",
@@ -1309,7 +1383,7 @@
       ]
     },
     {
-      "id": "cffb55df-03b7-449a-8aa5-4120afa5c45e",
+      "id": "3ca01015-2875-4605-a1af-bf4b8e30469b",
       "caseNo": "BA-45A-37-05/2023",
       "jurisdiction": "HC",
       "court": "High Court",
@@ -1507,42 +1581,6 @@
       ]
     },
     {
-      "id": "5d2ca3df-9ee5-4c6f-b178-1422d6f15b51",
-      "caseNo": "BL-12B-19-08/2024",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "Pengarah Jabatan Kerja Raya Negeri Selangor & ors v Kejendran A/l Supramaniam",
-      "parties": [
-        {
-          "label": "PERAYU",
-          "names": [
-            "Pengarah Jabatan Kerja Raya Negeri Selangor",
-            "Kerajaan Negeri Selangor"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "Kejendran A/l Supramaniam"
-          ]
-        }
-      ],
-      "catchwords": "Civil appeals - fundamental question arises: if there were no physical signs of an accident, no debris from the Plaintiff’s motorcycle at the site of the pipe stack, and no vehicular damage indicating a collision with the pipes, what objective evidence did the learned SCJ rely upon to link the pipes owned by Gas Malaysia Berhad to this accident? - the mere presence of the pipe stack at the location cannot, ipso facto, suffice to establish liability against Gas Malaysia Berhad.",
-      "judge": "YA Dato' Sri Shamsulbahri bin Haji Ibrahim",
-      "coram": [],
-      "dateOfResult": "2026-07-02",
-      "dateOfFiling": "2026-09-24",
-      "docs": [
-        {
-          "documentId": "cf6bf5c9-f53d-484e-b4e0-0e094fb93175",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=cf6bf5c9-f53d-484e-b4e0-0e094fb93175&Inline=true"
-        }
-      ]
-    },
-    {
       "id": "97431ffe-6a0b-499b-abf5-aca5c814d72d",
       "caseNo": "BL-12B-14-08/2024",
       "jurisdiction": "HC",
@@ -1700,41 +1738,6 @@
       ]
     },
     {
-      "id": "81c832d5-761b-4c29-b475-fa8ea5f7863b",
-      "caseNo": "BL-24NCvC-128-07/2025",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "Santhi A/P Ganga v JANAGI A/P J VALU",
-      "parties": [
-        {
-          "label": "PEMOHON",
-          "names": [
-            "Santhi A/P Ganga"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "JANAGI A/P J VALU"
-          ]
-        }
-      ],
-      "catchwords": "Originating Summons - to terminate the co-ownership of the subject immovable property, direct its sale, and divide the net proceeds between the Applicant and the Respondent. Termination of co-ownership - registration of title under the NLC confers merely prima facie legal title and does not automatically vest absolute beneficial ownership in equity - as one hundred percent (100%) of the beneficial ownership resided exclusively with the Deceased during his lifetime and has now devolved onto his estate, there is absolutely no legal or factual basis for the Applicant to seek the termination of the co-proprietorship or the sale of the Property under s. 145(1) &amp; (2)(c) of the NLC Registration of non-Muslim marriages - de facto cohabitation, regardless of longevity, does not translate into a lawful marriage, nor does it generate statutory rights over matrimonial assets. Indefeasibility of title – having been obtained through misrepresentation, the Applicant’s registered interest is rendered legally infirm, and she is barred from invoking the doctrine of indefeasibility Equitable relief - he who comes to equity must come with clean hands - such powers are not exercised arbitrarily, but require a threshold of credible and sufficient material to warrant judicial intervention",
-      "judge": "YA Dato' Sri Shamsulbahri bin Haji Ibrahim",
-      "coram": [],
-      "dateOfResult": "2026-06-21",
-      "dateOfFiling": "2026-09-24",
-      "docs": [
-        {
-          "documentId": "23994625-69c5-41eb-8fe8-58a421de33c0",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=23994625-69c5-41eb-8fe8-58a421de33c0&Inline=true"
-        }
-      ]
-    },
-    {
       "id": "118d8b83-da63-455e-8432-76e70a0dc51e",
       "caseNo": "K-05(H)-339-07/2025",
       "jurisdiction": "COA",
@@ -1775,7 +1778,7 @@
       ]
     },
     {
-      "id": "d9a18161-64f5-40e8-b7b2-803ec602eb91",
+      "id": "0775862f-1429-4feb-b4ad-c9f4ce8c3b09",
       "caseNo": "K-05(H)-341-07/2025",
       "jurisdiction": "COA",
       "court": "Court of Appeal",
@@ -1815,7 +1818,7 @@
       ]
     },
     {
-      "id": "0775862f-1429-4feb-b4ad-c9f4ce8c3b09",
+      "id": "d9a18161-64f5-40e8-b7b2-803ec602eb91",
       "caseNo": "K-05(H)-341-07/2025",
       "jurisdiction": "COA",
       "court": "Court of Appeal",
