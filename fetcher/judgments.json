@@ -1,6 +1,6 @@
 {
   "source": "Malaysia E-Judgment Portal (ejudgment.kehakiman.gov.my)",
-  "updatedAt": "2026-09-27T01:37:33.782Z",
+  "updatedAt": "2026-09-28T01:49:52.101Z",
   "count": 60,
   "judgments": [
     {
@@ -377,6 +377,46 @@
       ]
     },
     {
+      "id": "aaa06d6d-fc45-4a87-9fbf-da11dac15178",
+      "caseNo": "W-04(NCC)(W)-164-04/2024",
+      "jurisdiction": "COA",
+      "court": "Court of Appeal",
+      "title": "Tseu Fui Loong v OPTIMAX HEALTHCARE SERVICES SDN BHD & ors",
+      "parties": [
+        {
+          "label": "PERAYU",
+          "names": [
+            "Tseu Fui Loong"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "OPTIMAX HEALTHCARE SERVICES SDN BHD",
+            "TAN BOON HOCK"
+          ]
+        }
+      ],
+      "catchwords": "Claim for MYR500,000 by Plaintiff-Respondents against Appellant-Defendant – Whether HCJ erred in upholding the finding of SCJ that MYR500,000 was repayment of loan rather than debt pertaining to Investment Agreement – Whether investment was binding or merely an MOU. Claim for MYR500,000 by Plaintiff-Respondents against Appellant-Defendant – Whether HCJ erred in upholding reliance of SCJ on oral testimony in face of contemporaneous documentary evidence Claim for MYR500,000 by Plaintiff-Respondents against Appellant-Defendant – Whether HCJ erred in finding that timing of payment in 2013 was inconsistent with investment agreed in 2011 Claim for MYR500,000 by Plaintiff-Respondents against Appellant-Defendant – Whether HCJ erred in upholding finding of SCJ that WhatsApp message was an unequivocal admission of debt",
+      "judge": "YA Datin Paduka Evrol Mariette Peters",
+      "coram": [
+        "YA Datuk Wong Kian Kheong",
+        "YA Dato' Dr Alwi Bin Abdul Wahab",
+        "YA Datin Paduka Evrol Mariette Peters"
+      ],
+      "dateOfResult": "2026-09-08",
+      "dateOfFiling": "2026-09-28",
+      "docs": [
+        {
+          "documentId": "e33cee2a-cd14-4905-a178-cd409cdde3aa",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "YA Datin Paduka Evrol Mariette Peters",
+          "category": "Sebulat Suara (Unanimous)",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=e33cee2a-cd14-4905-a178-cd409cdde3aa&Inline=true"
+        }
+      ]
+    },
+    {
       "id": "4e85a7f7-88d2-4bb4-8856-13cf6600efa8",
       "caseNo": "S-01(A)-477-09/2023",
       "jurisdiction": "COA",
@@ -413,6 +453,42 @@
           "preparedBy": "YA Datuk Dr Shahnaz Binti Sulaiman",
           "category": "Sebulat Suara (Unanimous)",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=cf8a8f34-e949-4037-a38d-8f6106336f94&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "64460847-4223-44cf-9fe2-e9c4952f6638",
+      "caseNo": "WA-25-126-04/2026",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "Badan Pengurusan Bersama Aurora Place Jalil v KETUA PENGARAH KASTAM DAN EKSAIS JABATAN KASTAM DIRAJA MALAYSIA & ors",
+      "parties": [
+        {
+          "label": "PEMOHON",
+          "names": [
+            "Badan Pengurusan Bersama Aurora Place Jalil"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "KETUA PENGARAH KASTAM DAN EKSAIS JABATAN KASTAM DIRAJA MALAYSIA",
+            "MENTERI KEWANGAN MALAYSIA"
+          ]
+        }
+      ],
+      "catchwords": "Judicial review – Bill of Demand – Service Tax Act 2018 – Alternative Remedy – No Exceptional Circumstances – Failed to Exhaust Statutory Domestic Remedy",
+      "judge": "YA Dato' Azizan bin Md. Arshad",
+      "coram": [],
+      "dateOfResult": "2026-09-07",
+      "dateOfFiling": "2026-09-28",
+      "docs": [
+        {
+          "documentId": "a3f498e2-0b67-479c-ae0d-cad1d3a1086d",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=a3f498e2-0b67-479c-ae0d-cad1d3a1086d&Inline=true"
         }
       ]
     },
@@ -532,41 +608,6 @@
       ]
     },
     {
-      "id": "c0db0ec1-35e4-45b3-9514-6e32ddaad3aa",
-      "caseNo": "MA-42JSKS-3-12/2025",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "STEPHEN NYANAMUTHU A/L PELASIR v Pendakwa Raya",
-      "parties": [
-        {
-          "label": "PERAYU",
-          "names": [
-            "STEPHEN NYANAMUTHU A/L PELASIR"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "Pendakwa Raya"
-          ]
-        }
-      ],
-      "catchwords": "Rayuan Jenayah – Keputusan dari Mahkamah Sesyen - Rayuan terhadap hukuman – Kesalahan di bawah Seksyen 14(a) Akta Kesalahan-Kesalahan Seksual Terhadap Kanak-Kanak 2017 – Tertuduh dikenakan hukuman penjara 9 tahun dan 3 sebatan – Tertuduh juga diperintahkan agar menjalani kaunseling dan pengawasan polis - Tertuduh bekerja sebagai seorang pemandu van sekolah - Mangsa berumur 13 tahun dan masih kanak-kanak – Tertuduh mencium mulut mangsa dan menghisap kemaluan mangsa - Sama ada tempoh hukuman penjara itu jelas keterlaluan/“manifestly excessive” – Sama ada Hakim Mahkamah Sesyen telah mengikuti prinsip-prinsip jatuh hukum yang betul – Sama ada faktor kepentingan awam harus diimbangi bersama faktor kepentingan Tertuduh – Sama ada HMS mengambil kira faktor-faktor mitigasi Tertuduh - Tertuduh pesalah kali pertama tanpa rekod lampau - Trend hukuman bagi kesalahan amang seksual.",
-      "judge": "YA Datuk Suria Kumar a/l Durairaj Johnson Paul",
-      "coram": [],
-      "dateOfResult": "2026-09-03",
-      "dateOfFiling": "2026-09-25",
-      "docs": [
-        {
-          "documentId": "93ef005a-ef31-4287-970e-7de1668ed2c6",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=93ef005a-ef31-4287-970e-7de1668ed2c6&Inline=true"
-        }
-      ]
-    },
-    {
       "id": "7b112992-d3a0-4314-8b2b-ce3b073ea526",
       "caseNo": "MA-42JSKS-3-12/2025",
       "jurisdiction": "HC",
@@ -602,55 +643,16 @@
       ]
     },
     {
-      "id": "e78b3609-4129-41c6-8bfc-b84c252cf788",
-      "caseNo": "A-04(IM)-75-02/2024",
-      "jurisdiction": "COA",
-      "court": "Court of Appeal",
-      "title": "RHB BANK BERHAD v TEE BAN TIONG",
+      "id": "c0db0ec1-35e4-45b3-9514-6e32ddaad3aa",
+      "caseNo": "MA-42JSKS-3-12/2025",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "STEPHEN NYANAMUTHU A/L PELASIR v Pendakwa Raya",
       "parties": [
         {
           "label": "PERAYU",
           "names": [
-            "RHB BANK BERHAD"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "TEE BAN TIONG"
-          ]
-        }
-      ],
-      "catchwords": "Perayu merayu terhadap keputusan Mahkamah Tinggi yang mengekalkan perintah Mahkamah Sesyen supaya Perayu membayar ganti rugi sebanyak RM863,795.37 berserta faedah 5% setahun dan kos kepada Responden. Sama ada Mahkamah bawahan (HMT dan MS) telah menggunakan prinsip undang-undang yang betul dalam menaksir ganti rugi, dan sama ada kuantum RM863,795.37 disokong oleh keterangan yang mencukupi.",
-      "judge": "YA Datuk Hayatul Akmal binti Abdul Aziz",
-      "coram": [
-        "YA Dato' Paduka Azman Bin Abdullah",
-        "YA Datuk Mohamed Zaini Bin Mazlan",
-        "YA Datuk Hayatul Akmal binti Abdul Aziz"
-      ],
-      "dateOfResult": "2026-08-26",
-      "dateOfFiling": "2026-09-17",
-      "docs": [
-        {
-          "documentId": "e1bb4e70-4b67-4ca5-969c-ab9aec157f3c",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "YA Datuk Hayatul Akmal binti Abdul Aziz",
-          "category": "Sebulat Suara (Unanimous)",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=e1bb4e70-4b67-4ca5-969c-ab9aec157f3c&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "7720cbbc-17e5-44e0-8091-643dbe3106c1",
-      "caseNo": "B-05-102-03/2025",
-      "jurisdiction": "COA",
-      "court": "Court of Appeal",
-      "title": "AMMELTZ MARKETING SDN. BHD. v Pendakwa Raya",
-      "parties": [
-        {
-          "label": "PERAYU",
-          "names": [
-            "AMMELTZ MARKETING SDN. BHD."
+            "STEPHEN NYANAMUTHU A/L PELASIR"
           ]
         },
         {
@@ -660,22 +662,18 @@
           ]
         }
       ],
-      "catchwords": "Notice of Motion – Forfeiture proceedings – Application under section 56(1) of the Anti-Money Laundering, Anti-Terrorism Financing and Proceeds of Unlawful Activities Act 2001 – Whether the High Court erred in ordering forfeiture of RM4,084,729.92 – Standard of proof – Balance of probabilities – Whether the evidence, considered as a whole, established that the property seized from the Appellant’s account fell within the statutory description – The Predicate Offences and Money Trail - Whether commingling of funds defeats forfeiture – The disparity between the amount forfeited – Whether the learned Judge erred in rejecting the affidavit in reply of the Appellant’s Director – Whether the rejection was based upon an unsubstantiated allegation concerning his signatures – The effect of the rejection of the affidavit – The Appellant’s status as a bona fide purchaser for valuable consideration – Whether the High Court’s findings were plainly wrong.",
-      "judge": "YA Datuk Noorin binti Badaruddin",
-      "coram": [
-        "YA Datuk Noorin binti Badaruddin",
-        "YA Datuk Mohd Radzi Bin Abdul Hamid",
-        "YA Datuk Meor Hashimi bin Abdul Hamid"
-      ],
-      "dateOfResult": "2026-08-18",
-      "dateOfFiling": "2026-09-18",
+      "catchwords": "Rayuan Jenayah – Keputusan dari Mahkamah Sesyen - Rayuan terhadap hukuman – Kesalahan di bawah Seksyen 14(a) Akta Kesalahan-Kesalahan Seksual Terhadap Kanak-Kanak 2017 – Tertuduh dikenakan hukuman penjara 9 tahun dan 3 sebatan – Tertuduh juga diperintahkan agar menjalani kaunseling dan pengawasan polis - Tertuduh bekerja sebagai seorang pemandu van sekolah - Mangsa berumur 13 tahun dan masih kanak-kanak – Tertuduh mencium mulut mangsa dan menghisap kemaluan mangsa - Sama ada tempoh hukuman penjara itu jelas keterlaluan/“manifestly excessive” – Sama ada Hakim Mahkamah Sesyen telah mengikuti prinsip-prinsip jatuh hukum yang betul – Sama ada faktor kepentingan awam harus diimbangi bersama faktor kepentingan Tertuduh – Sama ada HMS mengambil kira faktor-faktor mitigasi Tertuduh - Tertuduh pesalah kali pertama tanpa rekod lampau - Trend hukuman bagi kesalahan amang seksual.",
+      "judge": "YA Datuk Suria Kumar a/l Durairaj Johnson Paul",
+      "coram": [],
+      "dateOfResult": "2026-09-03",
+      "dateOfFiling": "2026-09-25",
       "docs": [
         {
-          "documentId": "5946a38c-4f85-46c3-a4d3-59a8e8545613",
+          "documentId": "93ef005a-ef31-4287-970e-7de1668ed2c6",
           "name": "Alasan Penghakiman",
-          "preparedBy": "YA Datuk Noorin binti Badaruddin",
-          "category": "Sebulat Suara (Unanimous)",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=5946a38c-4f85-46c3-a4d3-59a8e8545613&Inline=true"
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=93ef005a-ef31-4287-970e-7de1668ed2c6&Inline=true"
         }
       ]
     },
@@ -837,6 +835,41 @@
           "preparedBy": "YA Datuk Ismail Bin Brahim",
           "category": "Sebulat Suara (Unanimous)",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=145e8567-4311-4b2f-b598-da944d9daa06&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "ad5b634c-ad61-4ab4-8c72-7efa8b123ac9",
+      "caseNo": "KA-45A-16-03/2023",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "Pendakwa Raya v MOHD IZZUDDIN BIN MD RANI",
+      "parties": [
+        {
+          "label": "PENDAKWA RAYA",
+          "names": [
+            "Pendakwa Raya"
+          ]
+        },
+        {
+          "label": "TERTUDUH",
+          "names": [
+            "MOHD IZZUDDIN BIN MD RANI"
+          ]
+        }
+      ],
+      "catchwords": "Tertuduh telah didakwa dengan satu pertuduhan dibawah perenggan 39B(1)(a) Akta Dadah Berbahaya 1952 yang boleh dihukum dibawah subseksyen 39B (2) Akta yang sama. Penilaian kes pendakwaan adalah berdasarkan: Elemen Pertama : Identiti, Jenis dan Berat Dadah Elemen Kedua : Milikan, Jagaan, Kawalan dan Pengetahuan Elemen Ketiga : Anggapan Pengedaran 37(da)(xvi) ADB1952 Setelah meneliti keterangan Pendakwaan secara penilaian maksimum, Mahkamah ini telah memutuskan bahawa wujud satu ke prima facie terhadap Tertuduh dan memerintahkan Tertuduh membela diri. Penilaian kes pembelaan mendapati pembelaan tertuduh hanyalah bersifat penafian dan rekaan semata-mata dan tidak boleh dipercayai atas faktor-faktor seperti berikut: a. Kegagalan memanggil saksi material; b. Ketiadaan aduan rasmi; c. Kegagalan memberikan maklumat awal kepada Pegawai Penyiasat; d. Tiada sokongan dokumentar; dan e. Ketidakkukuhan versi Tertuduh. Berkenaan kegagalan menyiasat CCTV, cap jari dan DNA, mahkamah berpandukan prinsip bahawa di bawah seksyen 134 Akta Keterangan 1950, tiada keperluan bagi bilangan saksi tertentu bagi membuktikan fakta, keterangan seorang saksi yang boleh dipercayai adalah mencukupi, dan keterangan langsung SP3 adalah bukti utama. Mahkamah mensabitkan Tertuduh atas kesalahan sepertimana pertuduhan dan menjatuhkan hukuman penjara 30 tahun dan 12 sebatan.",
+      "judge": "YA Dato' Mohd Aimi Zaini bin Mohd Azhar",
+      "coram": [],
+      "dateOfResult": "2026-07-25",
+      "dateOfFiling": "2026-09-27",
+      "docs": [
+        {
+          "documentId": "98539064-4f61-42af-bd6e-328a43bc73e2",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=98539064-4f61-42af-bd6e-328a43bc73e2&Inline=true"
         }
       ]
     },
@@ -1348,37 +1381,37 @@
       ]
     },
     {
-      "id": "cffb55df-03b7-449a-8aa5-4120afa5c45e",
-      "caseNo": "BA-45A-37-05/2023",
+      "id": "05272d49-5a30-473c-80da-8c6599c72ce8",
+      "caseNo": "DA-22C-1-10/2021",
       "jurisdiction": "HC",
       "court": "High Court",
-      "title": "Pendakwa Raya v SYARUL IZWAN BIN ROHAIMI",
+      "title": "Teguh Kualiti Sdn Bhd v Lifetime Power Sdn Bhd",
       "parties": [
         {
-          "label": "PENDAKWA RAYA",
+          "label": "PLAINTIF",
           "names": [
-            "Pendakwa Raya"
+            "Teguh Kualiti Sdn Bhd"
           ]
         },
         {
-          "label": "TERTUDUH",
+          "label": "DEFENDAN",
           "names": [
-            "SYARUL IZWAN BIN ROHAIMI"
+            "Lifetime Power Sdn Bhd"
           ]
         }
       ],
-      "catchwords": "Pertuduhan bawah s.39B (1) (a) Akta Dadah berbahaya 1952 - Pengedaran dadah jenis heroin dan monoacetylmorphine - Tertuduh disabitkan bersalah - saksi belot - s.154, s.155 Akta Keterangan 1950 - tindak tanduk tertuduh - s. 8 Akta Keterangan 1950 - pembuktian elemen milikan dan pengetahuan - anggapan pengedaran di bawah s.37 (da) ADB -",
-      "judge": "YA Puan Roszianayati Binti Ahmad",
+      "catchwords": "CIVIL PROCEDURE - Sama ada Plaintif berhak terhadap bayaran sebagaimana Perjanjian - Sama ada Perjanjian perlu dibaca bersama Perjanjian subkontrak - Sama ada terma persetujuan lisan yang bertentangan dengan terma Perjanjian boleh diterima menurut seksyen 92 Akta Keterangan 1950",
+      "judge": "YA Tuan Mohd Rosli bin Yusoff",
       "coram": [],
-      "dateOfResult": "2026-07-09",
-      "dateOfFiling": "2026-09-25",
+      "dateOfResult": "2026-07-11",
+      "dateOfFiling": "2026-09-27",
       "docs": [
         {
-          "documentId": "f8367168-7bd3-430c-a246-7e6d8b883321",
+          "documentId": "156ac417-84d2-41de-97ea-438e5f0e582d",
           "name": "Alasan Penghakiman",
           "preparedBy": "",
           "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=f8367168-7bd3-430c-a246-7e6d8b883321&Inline=true"
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=156ac417-84d2-41de-97ea-438e5f0e582d&Inline=true"
         }
       ]
     },
@@ -1414,6 +1447,81 @@
           "preparedBy": "",
           "category": "",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=f8367168-7bd3-430c-a246-7e6d8b883321&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "cffb55df-03b7-449a-8aa5-4120afa5c45e",
+      "caseNo": "BA-45A-37-05/2023",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "Pendakwa Raya v SYARUL IZWAN BIN ROHAIMI",
+      "parties": [
+        {
+          "label": "PENDAKWA RAYA",
+          "names": [
+            "Pendakwa Raya"
+          ]
+        },
+        {
+          "label": "TERTUDUH",
+          "names": [
+            "SYARUL IZWAN BIN ROHAIMI"
+          ]
+        }
+      ],
+      "catchwords": "Pertuduhan bawah s.39B (1) (a) Akta Dadah berbahaya 1952 - Pengedaran dadah jenis heroin dan monoacetylmorphine - Tertuduh disabitkan bersalah - saksi belot - s.154, s.155 Akta Keterangan 1950 - tindak tanduk tertuduh - s. 8 Akta Keterangan 1950 - pembuktian elemen milikan dan pengetahuan - anggapan pengedaran di bawah s.37 (da) ADB -",
+      "judge": "YA Puan Roszianayati Binti Ahmad",
+      "coram": [],
+      "dateOfResult": "2026-07-09",
+      "dateOfFiling": "2026-09-25",
+      "docs": [
+        {
+          "documentId": "f8367168-7bd3-430c-a246-7e6d8b883321",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=f8367168-7bd3-430c-a246-7e6d8b883321&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "3486eb1c-de0a-4a29-a3cb-caea94b8f2ed",
+      "caseNo": "W-02(IM)(NCC)-198-02/2024",
+      "jurisdiction": "COA",
+      "court": "Court of Appeal",
+      "title": "LUMBER VERTEX SDN BHD [ DIGULUNGKAN PADA 14.10.2024] & ors v KENANGA INVESTORS BERHAD",
+      "parties": [
+        {
+          "label": "PERAYU",
+          "names": [
+            "LUMBER VERTEX SDN BHD [ DIGULUNGKAN PADA 14.10.2024]",
+            "NG CHEE SIONG"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "KENANGA INVESTORS BERHAD"
+          ]
+        }
+      ],
+      "catchwords": "Civil procedure, Summary judgment, Triable issues, Contractual interpretation, Put option agreements, Validity and timing of notices, Conflicting documentary dates, Guarantee.",
+      "judge": "YA Dato' Faizah Binti Jamaludin",
+      "coram": [
+        "YA Datuk Ravinthran a/l Paramaguru",
+        "YA Dato' Faizah Binti Jamaludin",
+        "YA Dato' Ahmad Shahrir B. Mohd Salleh"
+      ],
+      "dateOfResult": "2026-07-07",
+      "dateOfFiling": "2026-09-28",
+      "docs": [
+        {
+          "documentId": "d920a43c-164c-47c9-a742-073d4f057280",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "YA Dato' Faizah Binti Jamaludin",
+          "category": "Sebulat Suara (Unanimous)",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=d920a43c-164c-47c9-a742-073d4f057280&Inline=true"
         }
       ]
     },
@@ -1540,79 +1648,6 @@
           "preparedBy": "YA Datuk Noorin binti Badaruddin",
           "category": "Sebulat Suara (Unanimous)",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=fe7808fa-301a-4de7-acef-132f862a6c01&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "a03e009e-9bdf-4644-80b8-aee589e8993f",
-      "caseNo": "BL-12B-17-08/2024",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "Kejendran A/l Supramania v JABATAN KERJA RAYA NEGERI SELANGOR & ors",
-      "parties": [
-        {
-          "label": "PERAYU",
-          "names": [
-            "Kejendran A/l Supramania"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "JABATAN KERJA RAYA NEGERI SELANGOR",
-            "Kerajaan Negeri Selangor",
-            "Pengarah Jabatan Kerja Raya Negeri Selangor"
-          ]
-        }
-      ],
-      "catchwords": "Civil appeals - fundamental question arises: if there were no physical signs of an accident, no debris from the Plaintiff’s motorcycle at the site of the pipe stack, and no vehicular damage indicating a collision with the pipes, what objective evidence did the learned SCJ rely upon to link the pipes owned by Gas Malaysia Berhad to this accident? - the mere presence of the pipe stack at the location cannot, ipso facto, suffice to establish liability against Gas Malaysia Berhad.",
-      "judge": "YA Dato' Sri Shamsulbahri bin Haji Ibrahim",
-      "coram": [],
-      "dateOfResult": "2026-07-02",
-      "dateOfFiling": "2026-09-24",
-      "docs": [
-        {
-          "documentId": "41a4afe5-13a5-442b-a5c7-1243b552792c",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=41a4afe5-13a5-442b-a5c7-1243b552792c&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "97431ffe-6a0b-499b-abf5-aca5c814d72d",
-      "caseNo": "BL-12B-14-08/2024",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "SARASWATHY A/P KARUPPAH & ors v MARLIYA BINTI ABD RAHIM",
-      "parties": [
-        {
-          "label": "PERAYU",
-          "names": [
-            "SARASWATHY A/P KARUPPAH",
-            "PAVITHERA A/P RAJIAH"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "MARLIYA BINTI ABD RAHIM"
-          ]
-        }
-      ],
-      "catchwords": "Civil appeal - appeal filed by the 2nd Appellant against the decision of the learned SCJ dismissing the claim for loss of future earnings - no cogent medical or expert evidence adduced at trial to demonstrate that the 2nd Appellant suffered from total incapacity or was rendered completely unemployable in the general labour market - no medical report or testimony from a rehabilitation specialist was produced to certify that the 2nd Appellant is incapable of undertaking any form of gainful employment in the future",
-      "judge": "YA Dato' Sri Shamsulbahri bin Haji Ibrahim",
-      "coram": [],
-      "dateOfResult": "2026-06-30",
-      "dateOfFiling": "2026-09-24",
-      "docs": [
-        {
-          "documentId": "5bb31347-ce32-4c6d-bfe8-499e2fba85e2",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=5bb31347-ce32-4c6d-bfe8-499e2fba85e2&Inline=true"
         }
       ]
     },
@@ -2025,115 +2060,94 @@
       ]
     },
     {
-      "id": "8f07c964-f44f-410a-a424-2f2f815df8f0",
-      "caseNo": "BA-43-5-03/2026",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "MOHAMAD SYAHFIQ AZAMAN v Pendakwa Raya",
-      "parties": [
-        {
-          "label": "PEMOHON",
-          "names": [
-            "MOHAMAD SYAHFIQ AZAMAN"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "Pendakwa Raya"
-          ]
-        }
-      ],
-      "catchwords": "Permohonan Semakan dari Mahkamah Majistret Shah Alam – Pemohon dituduh di bawah seksyen 39B Akta Dadah Berbahaya 1952 (ADB) – Laporan Kimia masih belum diperolehi selepas 8 kali pengurusan kes (CM) di Mahkamah Majistret – Special provisions relating to transmission of a case to, and trial by, the High Court - Peguam Pemohon memohon kes dipindahkan ke Mahkamah Tinggi – Mahkamah Majistret membuat suatu tindakan yang bertentangan dengan peruntukan undang-undang yang berkuat kuasa dan terjumlah kepada perlanggaran kepada fungsi kehakimannya- seksyen 41A(1) ADB – Transmisi kes 39B ke Mahkamah Tinggi – sama ada kes ‘practical’ untuk dipindahkan – tanpa izin mendakwa oleh Pendakwa Raya – seksyen 177A Kanun Tatacara Jenayah (KTJ) – seksyen 39B(3) ADB – sekseyn 417(1) KTJ - seksyen 399 KTJ – seksyen 45 Akta Keterangan –",
-      "judge": "YA Puan Suriyati Hasimah binti Mohd Hashim",
-      "coram": [],
-      "dateOfResult": "2026-04-28",
-      "dateOfFiling": "2026-09-24",
-      "docs": [
-        {
-          "documentId": "53a54afb-4c12-413e-a1c9-ddee1066d972",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=53a54afb-4c12-413e-a1c9-ddee1066d972&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "6c7f3e83-2682-4810-9184-473cc9c7060d",
-      "caseNo": "W-01(A)-716-11/2024",
+      "id": "dc0459c5-e6fb-404b-a595-4600f9fab16f",
+      "caseNo": "W-02(IM)(NCC)-655-04/2024",
       "jurisdiction": "COA",
       "court": "Court of Appeal",
-      "title": "PENGERUSI LEMBAGA TATATERTIB POLIS DIRAJA MALAYSIA KONTINJEN KUALA LUMPUR v MOHD ZULFAHMI BIN MOHD YASIN",
+      "title": "POP INVESTMENTS LIMITED v ICAPITAL.BIZ BERHAD",
       "parties": [
         {
           "label": "PERAYU",
           "names": [
-            "PENGERUSI LEMBAGA TATATERTIB POLIS DIRAJA MALAYSIA KONTINJEN KUALA LUMPUR"
+            "POP INVESTMENTS LIMITED"
           ]
         },
         {
           "label": "RESPONDEN",
           "names": [
-            "MOHD ZULFAHMI BIN MOHD YASIN"
+            "ICAPITAL.BIZ BERHAD"
           ]
         }
       ],
-      "catchwords": "Appeal against Order of Certiorari - reinstatement of Sergeant - breach of Regulation 25 of the Public Officers (Conduct and Discipline) Regulations 1993 - intermittent absenteeism not reported timeously to the Head of Department - condonation.",
-      "judge": "YA Datuk Dr Lim Hock Leng",
+      "catchwords": "Company law, statutory injunction, locus standi, beneficial owner, affected interests, company constitution, special resolution, voting rights, foreign shareholding, prescribed limit, closed-end fund, individual shareholding cap, aggregate foreign ownership, deeming provision, nominee shares.",
+      "judge": "YA Dato' Faizah Binti Jamaludin",
       "coram": [
-        "YA Dato' Lim Chong Fong",
-        "Dato' Dr. Choo Kah Sing",
-        "YA Datuk Dr Lim Hock Leng"
+        "YA Datuk Wong Kian Kheong",
+        "YA Dato' Faizah Binti Jamaludin",
+        "YA Dato' Hajah Aliza binti Sulaiman"
       ],
-      "dateOfResult": "2026-01-28",
-      "dateOfFiling": "2026-09-18",
+      "dateOfResult": "2026-02-26",
+      "dateOfFiling": "2026-09-28",
       "docs": [
         {
-          "documentId": "94066b06-d7dc-493b-a8f5-a617d403a92a",
+          "documentId": "49987343-98f5-4874-87ec-ff5c3e5bce14",
           "name": "Alasan Penghakiman",
-          "preparedBy": "YA Datuk Dr Lim Hock Leng",
+          "preparedBy": "YA Dato' Faizah Binti Jamaludin",
           "category": "Sebulat Suara (Unanimous)",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=94066b06-d7dc-493b-a8f5-a617d403a92a&Inline=true"
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=49987343-98f5-4874-87ec-ff5c3e5bce14&Inline=true"
+        },
+        {
+          "documentId": "bd35c4b8-f211-4087-a830-4b25cc909e61",
+          "name": "supporting judgment - pop investments v icapital.biz.pdf",
+          "preparedBy": "YA Datuk Wong Kian Kheong",
+          "category": "Sebulat Suara (Unanimous)",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=bd35c4b8-f211-4087-a830-4b25cc909e61&Inline=true"
         }
       ]
     },
     {
-      "id": "46305f12-4c68-42c6-8927-ea526e38b2e7",
-      "caseNo": "A-09-248-09/2024",
+      "id": "a1ec33df-a5ef-4681-ac7a-0bf75996f8f2",
+      "caseNo": "W-02(NCC)(A)-654-04/2024",
       "jurisdiction": "COA",
       "court": "Court of Appeal",
-      "title": "Pendakwa Raya v ZAHAR GERALD BIN MEJOH",
+      "title": "POP INVESTMENTS LIMITED v ICAPITAL.BIZ BERHAD",
       "parties": [
         {
           "label": "PERAYU",
           "names": [
-            "Pendakwa Raya"
+            "POP INVESTMENTS LIMITED"
           ]
         },
         {
           "label": "RESPONDEN",
           "names": [
-            "ZAHAR GERALD BIN MEJOH"
+            "ICAPITAL.BIZ BERHAD"
           ]
         }
       ],
-      "catchwords": "Undang-undang Perlembagaan - Perlembagaan Persekutuan - Keabsahan Seksyen 12 Akta Senjatapi (Penalti Lebih Berat) 1971 (“FIPA”) - Sama ada Parlimen mempunyai kuasa untuk menggubal undang-undang bagi menghalang Mahkamah daripada menjalankan budi bicara kehakiman untuk membenarkan ikat jamin - Doktrin pengasingan kuasa - Sama ada doktrin pengasingan kuasa merupakan sebahagian daripada asas Perlembagaan - Sama ada terdapat asas bagi menjalankan budi bicara kehakiman berhubung dengan ikat jamin bagi orang yang didakwa atas kesalahan berkaitan senjata api menurut Seksyen 12 FIPA - Hak kesamarataan di sisi undang-undang - Sama ada Seksyen 12 FIPA bertentangan dengan prinsip kesamarataan yang termaktub dalam Perkara 8 Perlembagaan Persekutuan - Maksim “generalia specialibus non derogant” - Sama ada peruntukan berhubung larangan ikat jamin di bawah Seksyen 12 FIPA dimaksudkan untuk mengatasi peruntukan ikat jamin yang bersifat lebih umum menurut Seksyen 388 Kanun Tatacara Jenayah.",
-      "judge": "YA Dato' Paduka Azman Bin Abdullah",
+      "catchwords": "Company law, statutory injunction, locus standi, beneficial owner, affected interests, company constitution, special resolution, voting rights, foreign shareholding, prescribed limit, closed-end fund, individual shareholding cap, aggregate foreign ownership, deeming provision, nominee shares.",
+      "judge": "YA Dato' Faizah Binti Jamaludin",
       "coram": [
-        "YA Dato' Paduka Azman Bin Abdullah",
-        "YA Dato' Azmi Bin Ariffin",
-        "YA Datuk Noorin binti Badaruddin"
+        "YA Datuk Wong Kian Kheong",
+        "YA Dato' Faizah Binti Jamaludin",
+        "YA Dato' Hajah Aliza binti Sulaiman"
       ],
-      "dateOfResult": "2025-08-26",
-      "dateOfFiling": "2026-09-16",
+      "dateOfResult": "2026-02-26",
+      "dateOfFiling": "2026-09-28",
       "docs": [
         {
-          "documentId": "fc73aaa1-ca1b-4e0d-8791-a0baa9143645",
+          "documentId": "4a64c3d1-e46e-4555-970f-cd8ca7dc6ad5",
           "name": "Alasan Penghakiman",
-          "preparedBy": "YA Dato' Paduka Azman Bin Abdullah",
+          "preparedBy": "YA Dato' Faizah Binti Jamaludin",
           "category": "Sebulat Suara (Unanimous)",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=fc73aaa1-ca1b-4e0d-8791-a0baa9143645&Inline=true"
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=4a64c3d1-e46e-4555-970f-cd8ca7dc6ad5&Inline=true"
+        },
+        {
+          "documentId": "b19e2766-fc20-4669-b96a-8fc3598fb1a6",
+          "name": "supporting judgment - pop investments v icapital.biz.pdf",
+          "preparedBy": "YA Datuk Wong Kian Kheong",
+          "category": "Sebulat Suara (Unanimous)",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=b19e2766-fc20-4669-b96a-8fc3598fb1a6&Inline=true"
         }
       ]
     },
