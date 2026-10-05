@@ -1,6 +1,6 @@
 {
   "source": "Malaysia E-Judgment Portal (ejudgment.kehakiman.gov.my)",
-  "updatedAt": "2026-10-04T02:48:00.596Z",
+  "updatedAt": "2026-10-05T02:11:31.221Z",
   "count": 60,
   "judgments": [
     {
@@ -419,142 +419,38 @@
       ]
     },
     {
-      "id": "143994ba-3050-4bb0-bc67-5a6a9f804143",
-      "caseNo": "CA-42JSKS(A)-1-12/2024",
+      "id": "45d0a932-91b8-40be-b99f-51845619d53d",
+      "caseNo": "PA-28PW-117-07/2026",
       "jurisdiction": "HC",
       "court": "High Court",
-      "title": "AHMAD HUSNI BIN BAHARUM v Pendakwa Raya",
+      "title": "CHRISTINE FOO YONG JIE v XINGHUA CITY JIANGRUN BUILDING MATERIAL MACHINERY CO. LTD. & ors",
       "parties": [
         {
-          "label": "PERAYU",
+          "label": "PEMOHON",
           "names": [
-            "AHMAD HUSNI BIN BAHARUM"
+            "CHRISTINE FOO YONG JIE"
           ]
         },
         {
-          "label": "RESPONDEN",
+          "label": "PIHAK TERKILAN",
           "names": [
-            "Pendakwa Raya"
+            "XINGHUA CITY JIANGRUN BUILDING MATERIAL MACHINERY CO. LTD.",
+            "Jabatan Insolvensi Malaysia"
           ]
         }
       ],
-      "catchwords": "Undang-undang jenayah — Kesalahan seksual terhadap kanak-kanak lelaki — Satu daripada sembilan rayuan melibatkan Perayu yang sama dan didengar bersama — Percampuran fakta dalam alasan penghakiman tidak menyebabkan kegagalan keadilan — Sabitan selamat — Tiga pertuduhan berpunca daripada satu kejadian — Hukuman penjara diperintahkan berjalan serentak dalam kes ini tetapi berturut-turut dengan hukuman dalam rayuan lain — Rayuan terhadap sabitan ditolak dan rayuan terhadap hukuman dibenarkan sebahagiannya.",
-      "judge": "YA Tuan Samry bin Masri",
+      "catchwords": "1. This is the Applicant’s application by Notice of Motion dated 10 July 2026 (“the Application”) arising from the Winding-Up Order made by this Court on 6 April 2026 (“the Winding-Up Order”) against FSK Marketing Sdn Bhd (“FSK”). 2. The Applicant is a contributory of FSK. The Petitioner in the winding-up proceedings is Xinghua City Jiangrun Building Material Machinery Co., Ltd. (“the Petitioner”). FSK is presently in liquidation. The Winding-Up Order was made on the basis of an alleged debt of USD160,000.00 said to be owing by FSK to the Petitioner. 3. The interim stay sought in the first prayer is no longer a live issue. The Applicant’s earlier application for an interim stay was heard and dismissed on 6 August 2026. The present Application is therefore concerned principally with the substantive relief sought by the Applicant, namely, an order terminating the winding up pursuant to section 493 of the Companies Act 2016 (“the Companies Act 2016”) or, alternatively, a permanent stay of the winding up pursuant to section 492 of the Companies Act 2016. 4. The Applicant’s case is founded principally on its contention that the Acknowledgment of Debt relied upon in obtaining the Winding-Up Order is a forgery and that the underlying debt was, in any event, bona fide disputed. The Applicant has also subsequently commenced a separate Declaratory Suit in which the validity of the Acknowledgment of Debt is challenged. The relief sought in the Notice of Motion is as set out in the cause papers.",
+      "judge": "YA Dr Choong Yeow Choy",
       "coram": [],
       "dateOfResult": "2026-09-24",
-      "dateOfFiling": "2026-10-01",
+      "dateOfFiling": "2026-10-05",
       "docs": [
         {
-          "documentId": "7ee41097-2ac7-402f-a902-2d12de82d98b",
+          "documentId": "b3f12c03-46ac-49e5-aa08-93cad5193e93",
           "name": "Alasan Penghakiman",
           "preparedBy": "",
           "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=7ee41097-2ac7-402f-a902-2d12de82d98b&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "1cf9fb08-4f59-4e2a-9855-ff206dd34aac",
-      "caseNo": "CA-42JSKS(A)-10-12/2024",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "AHMAD HUSNI BIN BAHARUM v Pendakwa Raya",
-      "parties": [
-        {
-          "label": "PERAYU",
-          "names": [
-            "AHMAD HUSNI BIN BAHARUM"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "Pendakwa Raya"
-          ]
-        }
-      ],
-      "catchwords": "Undang-undang jenayah — Kesalahan seksual terhadap kanak-kanak — Satu daripada sembilan rayuan melibatkan Perayu yang sama dan didengar bersama — Tiga pertuduhan amang seksual fizikal terhadap mangsa berumur 11 tahun — Keterangan mangsa membuktikan setiap pertuduhan melampaui keraguan munasabah — Kesilapan dalam alasan penghakiman tidak menyebabkan kegagalan keadilan — Pertuduhan pertama dan kedua merupakan satu transaksi manakala pertuduhan ketiga melibatkan kejadian berasingan — Hukuman penjara bagi dua pertuduhan pertama berjalan serentak dan pertuduhan ketiga secara berturut-turut — Hukuman efektif 24 tahun penjara dan sembilan sebatan — Rayuan terhadap sabitan ditolak dan rayuan terhadap hukuman dibenarkan sebahagiannya.",
-      "judge": "YA Tuan Samry bin Masri",
-      "coram": [],
-      "dateOfResult": "2026-09-24",
-      "dateOfFiling": "2026-10-01",
-      "docs": [
-        {
-          "documentId": "62d100e0-093c-438c-9893-1abab29e530e",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=62d100e0-093c-438c-9893-1abab29e530e&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "7dab21a8-4319-454f-9416-5a739cb07077",
-      "caseNo": "CA-42JSKS(A)-2-12/2024",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "AHMAD HUSNI BIN BAHARUM v Pendakwa Raya",
-      "parties": [
-        {
-          "label": "PERAYU",
-          "names": [
-            "AHMAD HUSNI BIN BAHARUM"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "Pendakwa Raya"
-          ]
-        }
-      ],
-      "catchwords": "Undang-undang jenayah — Kesalahan seksual terhadap kanak-kanak — Satu daripada sembilan rayuan melibatkan Perayu yang sama dan didengar bersama — Percampuran fakta dalam alasan penghakiman — Pertuduhan pertama dibuktikan melalui keterangan langsung yang konsisten — Pertuduhan kedua tidak selaras dengan keterangan mangsa — Perbezaan material tidak wajar diperbaiki melalui pindaan pada peringkat rayuan — Sabitan pertuduhan pertama dikekalkan — Sabitan pertuduhan kedua diketepikan — Hukuman kes ini berjalan berturut-turut dengan hukuman dalam rayuan lain.",
-      "judge": "YA Tuan Samry bin Masri",
-      "coram": [],
-      "dateOfResult": "2026-09-24",
-      "dateOfFiling": "2026-10-01",
-      "docs": [
-        {
-          "documentId": "4210ace2-c234-4418-979c-f42b63bdefe1",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=4210ace2-c234-4418-979c-f42b63bdefe1&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "ea4dbb73-84cc-48b8-90da-208fd7d6a5a3",
-      "caseNo": "CA-42JSKS(A)-3-12/2024",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "AHMAD HUSNI BIN BAHARUM v Pendakwa Raya",
-      "parties": [
-        {
-          "label": "PERAYU",
-          "names": [
-            "AHMAD HUSNI BIN BAHARUM"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "Pendakwa Raya"
-          ]
-        }
-      ],
-      "catchwords": "Undang-undang jenayah — Kesalahan seksual terhadap kanak-kanak — Satu daripada sembilan rayuan melibatkan Perayu yang sama dan didengar bersama — Amang seksual fizikal dan menyebabkan kanak-kanak menyaksikan perlakuan seksual — Percanggahan keterangan dan kekurangan dalam alasan penghakiman tidak menyebabkan kegagalan keadilan — Kedua-dua pertuduhan dibuktikan melampaui keraguan munasabah — Hukuman penjara berjalan serentak dalam kes ini tetapi berturut-turut dengan hukuman dalam rayuan lain — Rayuan terhadap sabitan dan hukuman ditolak.",
-      "judge": "YA Tuan Samry bin Masri",
-      "coram": [],
-      "dateOfResult": "2026-09-24",
-      "dateOfFiling": "2026-10-01",
-      "docs": [
-        {
-          "documentId": "05742bea-78a1-4bb7-831d-44ac77725f2d",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=05742bea-78a1-4bb7-831d-44ac77725f2d&Inline=true"
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=b3f12c03-46ac-49e5-aa08-93cad5193e93&Inline=true"
         }
       ]
     },
@@ -752,6 +648,93 @@
       ]
     },
     {
+      "id": "401f3416-322f-4faf-8911-227758da6b8a",
+      "caseNo": "TA-25-5-06/2026",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "BADAN PENGURUSAN BERSAMA GEO38 RESIDENCE & ors v TRIBUNAL PENGURUSAN STRATA & ors",
+      "parties": [
+        {
+          "label": "PEMOHON",
+          "names": [
+            "BADAN PENGURUSAN BERSAMA GEO38 RESIDENCE",
+            "CHEW CHIN THAI",
+            "ANG CHUI SOON",
+            "YUEN YEOW TEAM"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "TRIBUNAL PENGURUSAN STRATA",
+            "HOR TONG MING",
+            "TING JIN CHUAN",
+            "YEEP YEW LEONG",
+            "LEE CHIN KIANG"
+          ]
+        }
+      ],
+      "catchwords": "Administrative Law — Judicial review — Certiorari — Strata management — Joint Management Body — Election of Joint Management Committee — Whether corporate proprietor may nominate any individual — Whether nominee must be genuine representative — Interpretation of para 2(7)(b) and 2(8) of Second Schedule to Strata Management Act 2013 — Whether Tribunal erred in invalidating nominations — Whether Tribunal erred in consequential orders — Whether order for fresh AGM was appropriate — Courts of Judicature Act 1964 s 25(2), para 1 of Schedule — Rules of Court 2012 O 53 Strata Management — Joint Management Committee — Eligibility for election — Corporate nominee — Whether corporate proprietor entitled to nominate unrelated third party — Requirement of genuine connection with ownership — Defective nomination forms — Material misstatements of proprietorship — Whether corporate resolutions cured defects — Strata Management Act 2013 s 22(2), Second Schedule paras 2(4), 2(7)(a), 2(7)(b), 2(7)(c), 2(8), 2(9) Administrative Law — Remedies — Certiorari — Consequential relief — Power of High Court to make consequential orders after quashing impugned decision — Whether Court may recognise valid election result rather than remit to Tribunal — Whether Court may mould relief to meet justice of case",
+      "judge": "YA Tuan Yusrin Faidz bin Yusoff",
+      "coram": [],
+      "dateOfResult": "2026-09-13",
+      "dateOfFiling": "2026-10-04",
+      "docs": [
+        {
+          "documentId": "ccf57851-1510-41f7-9b89-2f423d604b4c",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=ccf57851-1510-41f7-9b89-2f423d604b4c&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "1307ce62-815c-4bba-9968-83269a129f7c",
+      "caseNo": "TA-25-6-06/2026",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "BADAN PENGURUSAN BERSAMA GEO38 RESIDENCE & ors v TRIBUNAL PENGURUSAN STRATA & ors",
+      "parties": [
+        {
+          "label": "PEMOHON",
+          "names": [
+            "BADAN PENGURUSAN BERSAMA GEO38 RESIDENCE",
+            "CHEW CHIN THAI",
+            "ANG CHUI SOON",
+            "YUEN YEOW TEAM"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "TRIBUNAL PENGURUSAN STRATA",
+            "HOR TONG MING",
+            "TING JIN CHUAN",
+            "YEEP YEW LEONG",
+            "LEE CHIN KIANG",
+            "PIC MARKETING SDN BHD",
+            "B & G ENTERPRISE SDN BHD",
+            "G-ORIENT HOLDINGS SDN BHD"
+          ]
+        }
+      ],
+      "catchwords": "Administrative Law — Judicial review — Certiorari — Strata management — Joint Management Body — Election of Joint Management Committee — Whether corporate proprietor may nominate any individual — Whether nominee must be genuine representative — Interpretation of para 2(7)(b) and 2(8) of Second Schedule to Strata Management Act 2013 — Whether Tribunal erred in invalidating nominations — Whether Tribunal erred in consequential orders — Whether order for fresh AGM was appropriate — Courts of Judicature Act 1964 s 25(2), para 1 of Schedule — Rules of Court 2012 O 53 Strata Management — Joint Management Committee — Eligibility for election — Corporate nominee — Whether corporate proprietor entitled to nominate unrelated third party — Requirement of genuine connection with ownership — Defective nomination forms — Material misstatements of proprietorship — Whether corporate resolutions cured defects — Strata Management Act 2013 s 22(2), Second Schedule paras 2(4), 2(7)(a), 2(7)(b), 2(7)(c), 2(8), 2(9) Administrative Law — Remedies — Certiorari — Consequential relief — Power of High Court to make consequential orders after quashing impugned decision — Whether Court may recognise valid election result rather than remit to Tribunal — Whether Court may mould relief to meet justice of case",
+      "judge": "YA Tuan Yusrin Faidz bin Yusoff",
+      "coram": [],
+      "dateOfResult": "2026-09-13",
+      "dateOfFiling": "2026-10-04",
+      "docs": [
+        {
+          "documentId": "47344052-50bb-42c9-9ae6-39bfe7224ff1",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=47344052-50bb-42c9-9ae6-39bfe7224ff1&Inline=true"
+        }
+      ]
+    },
+    {
       "id": "aaa06d6d-fc45-4a87-9fbf-da11dac15178",
       "caseNo": "W-04(NCC)(W)-164-04/2024",
       "jurisdiction": "COA",
@@ -823,41 +806,6 @@
           "preparedBy": "",
           "category": "",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=265644e7-f89b-493c-9a0b-19b689164524&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "b1ef8c58-36c8-4f48-8519-2ac01c15bf05",
-      "caseNo": "AD-42H-2-07/2026",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "JAYAGANTHAN A/L MORUGAN v Pendakwa Raya",
-      "parties": [
-        {
-          "label": "PERAYU",
-          "names": [
-            "JAYAGANTHAN A/L MORUGAN"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "Pendakwa Raya"
-          ]
-        }
-      ],
-      "catchwords": "Seksyen 395 Kanun Keseksaan, manifestly excessive, kesan mitigasi , victim impact statement, CAMPUR TANGAN RAYUAN, sentence according to law, Kerangka penilaian dan pertimbangan",
-      "judge": "YA Tuan Zaman bin Mohd Noor",
-      "coram": [],
-      "dateOfResult": "2026-09-06",
-      "dateOfFiling": "2026-10-01",
-      "docs": [
-        {
-          "documentId": "0fcfde41-820a-4a4d-bbe2-4e0b44882273",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=0fcfde41-820a-4a4d-bbe2-4e0b44882273&Inline=true"
         }
       ]
     },
@@ -1020,6 +968,41 @@
           "preparedBy": "",
           "category": "",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=f83a3042-2bef-484c-8988-2e7d35294041&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "ac05829e-94a1-4886-9000-d291ef5bd5b2",
+      "caseNo": "RA-12B-7-12/2025",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "CHEET A/L FOLOM v LEONG AH KIAU",
+      "parties": [
+        {
+          "label": "PERAYU",
+          "names": [
+            "CHEET A/L FOLOM"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "LEONG AH KIAU"
+          ]
+        }
+      ],
+      "catchwords": "&quot;Rayuan keputusan HMS - tort kemalangan - rayuan ke atas kuantum - penghakiman non speaking dan tugas mahkamah di peringkat rayuan - sama ada mahkamah di peringkat rayuan wajar menaikkan award pampasan dan mengenakan pampasan yang tidak diputuskan&quot;",
+      "judge": "YA Datuk Mohamad Abazafree bin Mohd Abbas",
+      "coram": [],
+      "dateOfResult": "2026-08-19",
+      "dateOfFiling": "2026-10-04",
+      "docs": [
+        {
+          "documentId": "975ef950-fdd5-4dc7-a1ef-96898cc91d64",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=975ef950-fdd5-4dc7-a1ef-96898cc91d64&Inline=true"
         }
       ]
     },
@@ -2437,6 +2420,43 @@
           "preparedBy": "YA Datuk Wong Kian Kheong",
           "category": "Sebulat Suara (Unanimous)",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=b19e2766-fc20-4669-b96a-8fc3598fb1a6&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "2ee6af28-26b6-4cf6-95c7-f249face6851",
+      "caseNo": "WA-22NCvC-585-10/2022",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "IJEON FOODSERVICE (M) SDN BHD & ors v BBRANDING & STRATEGY CONSULTANCY SDN BHD & ors",
+      "parties": [
+        {
+          "label": "PLAINTIF",
+          "names": [
+            "IJEON FOODSERVICE (M) SDN BHD",
+            "TODAY KITCHENS (M) SDN BHD"
+          ]
+        },
+        {
+          "label": "DEFENDAN",
+          "names": [
+            "BBRANDING & STRATEGY CONSULTANCY SDN BHD",
+            "CHOO CHEE KEONG"
+          ]
+        }
+      ],
+      "catchwords": "Contract — Breach — Branding and marketing consultancy — No time for performance specified — Performance within reasonable time — Implied term — Contracts Act 1950, s 47 — Fraudulent misrepresentation — Inducement and reliance — Standard of proof — Contracts Act 1950 ss 17 &amp; 18 – Company Law — Lifting corporate veil — Evasion principle — Director as alter ego — Joint and several liability – Damages — Wasted expenditure — Reliance loss instead of loss of profits — Remoteness — Contracts Act 1950, s 74 – Civil Procedure — Pleadings — Unpleaded defences — Duty to put case in cross-examination – Evidence — Contemporaneous WhatsApp messages preferred over oral testimony — Judicial notice",
+      "judge": "YA Tuan Gan Techiong",
+      "coram": [],
+      "dateOfResult": "2026-02-24",
+      "dateOfFiling": "2026-10-04",
+      "docs": [
+        {
+          "documentId": "df23bdc6-6dc7-4ee3-967d-c30f569e1399",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=df23bdc6-6dc7-4ee3-967d-c30f569e1399&Inline=true"
         }
       ]
     },
