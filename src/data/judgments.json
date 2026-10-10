@@ -1,43 +1,8 @@
 {
   "source": "Malaysia E-Judgment Portal (ejudgment.kehakiman.gov.my)",
-  "updatedAt": "2026-10-09T03:00:44.295Z",
+  "updatedAt": "2026-10-10T02:31:32.556Z",
   "count": 60,
   "judgments": [
-    {
-      "id": "23f85734-bc5a-4ca8-b956-328b7ca73494",
-      "caseNo": "MA-24NCvC-255-07/2026",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "Jabatan Insolvensi Malaysia v PERTUBUHAN MUSLIM AL-FATEH",
-      "parties": [
-        {
-          "label": "PEMOHON",
-          "names": [
-            "Jabatan Insolvensi Malaysia"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "PERTUBUHAN MUSLIM AL-FATEH"
-          ]
-        }
-      ],
-      "catchwords": "SOCIETIES — Cancellation of registration — Winding up of affairs — Property vesting in Director General of Insolvency upon cancellation — Cancellation distinguished from completion of administration — Proposed distribution outstanding and winding-up costs unexplained — Prayer for dissolution of affairs refused on present evidence — Availability of further relief under statutory winding-up provisions reserved — Societies Act 1966, ss 13(3), 17(1) and 41(1)(d) SOCIETIES — Surplus assets — Proposed donation of furniture to welfare society — Statutory priority of debts, liabilities and winding-up costs — Small asset value not dispensing with statutory requirements — No adequate evidence of provision for costs or assets available as surplus — Scheme approval refused without determination of merits of donation — Societies Act 1966, s 17(1)(b)(ii) SOCIETIES — Constitution and rules — Application of surplus assets — Relevant rules neither produced nor adequately explained — Meaning of “if there be no such rules” reserved — Physical production of constitution not invariably indispensable where position established by other adequate evidence — Registration not proving contents of dissolution provisions — Statutory basis for proposed scheme unestablished — Societies Act 1966, ss 7(3)(e) and 17(1)(b)(ii) and First Schedule, paras 1(d) and 1(i) SOCIETIES — Cancellation order — Inconsistent statutory grounds in order and affidavit — Dissolution distinguished from society having ceased to exist — Operative cancellation not challenged — Neither identified ground attracting payment of surplus into Consolidated Fund — Clarification required concerning dissolution resolution and governing rules — Societies Act 1966, ss 9(h), 13(1)(a), 13(1)(c)(v) and 17(1)(b) CIVIL PROCEDURE — Ex parte application — Statutory scheme approval — Duty to disclose material facts establishing basis for relief — Public officer not exempt — Potential interests of absent members — Chairman’s proposal not evidence of collective consent or governing-body resolution — Further evidence required concerning members, recipient society, inventory and statutory priorities SOCIETIES — Books and records — Proposed destruction within two years — Custody, inventory, continuing need and justification for timetable not established — Destruction refused on evidential grounds — No general determination that court lacks power to authorise disposal — Application of company winding-up provisions and relationship with statutory forfeiture route reserved — Societies Act 1966, ss 17(1)(e), 17(3), 17(4) and 59 — Companies Act 2016, s 518 CIVIL PROCEDURE — Originating summons — Multiple evidential deficiencies — Completion of winding up, surplus distribution and destruction of records unestablished — Dismissal as presently framed rather than adjournment — Liberty to apply afresh extending to each substantive prayer — Statutory conditions and merits of future application not prejudged — No order as to costs",
-      "judge": "YA Dato' Sri Raja Segaran A/L S.Krishnan",
-      "coram": [],
-      "dateOfResult": "2026-10-07",
-      "dateOfFiling": "2026-10-08",
-      "docs": [
-        {
-          "documentId": "be7bcecc-e695-4665-906e-98c86dad5624",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=be7bcecc-e695-4665-906e-98c86dad5624&Inline=true"
-        }
-      ]
-    },
     {
       "id": "61f4ec68-1702-4b64-845d-48f91d23ded5",
       "caseNo": "MA-15-3-07/2025",
@@ -449,41 +414,6 @@
       ]
     },
     {
-      "id": "f6baabcd-3f40-422c-8184-b317c2172729",
-      "caseNo": "TA-42S(A)-3-11/2025",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "NORAFIFI BINTI MUDA v Pendakwa Raya",
-      "parties": [
-        {
-          "label": "PERAYU",
-          "names": [
-            "NORAFIFI BINTI MUDA"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "Pendakwa Raya"
-          ]
-        }
-      ],
-      "catchwords": "Criminal Law — Offences — Child abuse — Caregiver at welfare home for disabled children — Appellant convicted on two charges under s 31(1)(a) Child Act 2001 for abusing 5-year-old disabled child — Whether prosecution proved all elements beyond reasonable doubt — Whether conviction safe — Whether sentence manifestly excessive Criminal Procedure — Appeal — Against conviction and sentence — Whether trial judge erred in evaluating eyewitness evidence — Whether excessive reliance placed on internal investigation report — Whether defence evidence improperly rejected — Whether demeanour of victim improperly considered — Whether absence of police report by accused used against her— Sentencing — Principles — Public interest — Vulnerable victim — Abuse of trust — Deterrent sentence — Whether 3 years&#039; imprisonment per charge appropriate — Whether concurrent sentences warranted— Stay of execution — Pending appeal to Court of Appeal — Section 311 Criminal Procedure Code — Whether stay granted — Whether bail conditions maintained Evidence — Witnesses — Credibility — Eyewitnesses — Child residents of welfare home — Whether witnesses credible — Whether delay in reporting undermined credibility — Whether motive to fabricate established — Corroboration — Child victim unable to give coherent testimony — Whether corroborative evidence from other witnesses sufficient — Whether medical evidence supported prosecution&#039;s case — Identification — Perpetrator — Whether evidence of injury/trauma sufficient to identify perpetrator — Whether demeanour of victim could substitute for proof of specific acts — Admissibility — Audio recordings — Recording made by defence witness of conversation with prosecution witness after latter had testified — Whether recordings reliable — Whether suggestive of witness tampering — Whether properly excluded",
-      "judge": "YA Tuan Yusrin Faidz bin Yusoff",
-      "coram": [],
-      "dateOfResult": "2026-09-29",
-      "dateOfFiling": "2026-10-08",
-      "docs": [
-        {
-          "documentId": "46f8037d-08e2-4ef6-9263-547b7a9a6d8f",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=46f8037d-08e2-4ef6-9263-547b7a9a6d8f&Inline=true"
-        }
-      ]
-    },
-    {
       "id": "826e9a3c-baa9-41d7-8aa7-fe3e029ef1c6",
       "caseNo": "A-02(NCC)(A)-1391-07/2025",
       "jurisdiction": "COA",
@@ -563,6 +493,41 @@
           "preparedBy": "",
           "category": "",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=63e1d29c-a908-4c24-9796-bcbfe579fec0&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "23a66b01-729c-4d06-a39d-377d661f7396",
+      "caseNo": "MA-22C-3-06/2022",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "PRESTIGE WAVES SDN BHD v FRIENDLYPACK SDN BHD",
+      "parties": [
+        {
+          "label": "PLAINTIF",
+          "names": [
+            "PRESTIGE WAVES SDN BHD"
+          ]
+        },
+        {
+          "label": "DEFENDAN",
+          "names": [
+            "FRIENDLYPACK SDN BHD"
+          ]
+        }
+      ],
+      "catchwords": "CONTRACT — Formation — Design and build contract — Manuscript handover date inserted into acceptance — Counter-proposal introducing materially different completion term — Contract concluded by performance despite continuing disagreement on time — Neither employer’s date nor contractor’s proposed period accepted — Obligation to complete within reasonable time — Delay established but not extinguishing accrued entitlement to payment for work done — Contracts Act 1950, ss 7(a) and 74(1). CONSTRUCTION LAW — Contract terms — Incorporation of standard conditions — Borang JKR 203 contemplated in correspondence — Prospective references and use of certificate formats insufficient to establish incorporation — Standard form and applicable clauses not produced — Administrative practice distinguished from contractual incorporation — Rights governed by agreed terms and general law. EVIDENCE — Without prejudice communications — Conditional offer in full and final settlement of existing construction dispute — No concluded settlement — Inclusion in bundle not establishing waiver — Letter inadmissible as admission of debt — Open correspondence acknowledging further payment for authorised works without admitting claimed quantum — Evidence Act 1950, ss 17, 21 and 23. CONSTRUCTION LAW — Payment — Certificates issued by contractor’s own consultants — No contractual provision making certification final and binding — Certificates cogent but not conclusive evidence — Employer’s valuation in statutory payment response constituting admission — Unexplained departure from admitted valuation rejected — Rectifiable defects addressed through counterclaim without double deduction — Evidence Act 1950, ss 17 and 21. CONSTRUCTION LAW — Variations — Proof of employer’s authorisation — Site supervisor’s authority expressly confined to verification and monitoring — Wider ostensible authority not established — Burden remaining on contractor to prove instructions — Variations admitted in employer’s payment response allowed — Balance unsupported by instructions or approvals disallowed — Alternative quantum meruit claim unpleaded and unsupported by independent evidence of reasonable value — Contracts Act 1950, s 71 — Evidence Act 1950, ss 101, 103 and 114(g). CONSTRUCTION LAW — Termination — Persistent non-payment of progress claims — Cessation of works at employer’s instance — Contractor’s refusal to resume while unpaid not repudiatory on facts — Employer’s subsequent termination unjustified — Prevention principle — Accrued payment rights preserved — Retention recoverable subject to set-off for proved defects — Contracts Act 1950, s 54. DAMAGES — Building contract — Delay, completion and rectification costs — Delay established but attributable loss not quantified — Nominal damages awarded — Gross completion expenditure not recoverable following employer’s wrongful prevention and termination — Excess over unpaid original contract price not proved — Separately established rectification costs and materials supplied allowed — Unsubstantiated claims for missing items, salvaged steel and storage charges dismissed — Contracts Act 1950, s 74(1). TORT — Negligence — Architect engaged by design and build contractor — Alleged over-certification — Duty of care to employer left undecided — Employer neither relied nor paid on impugned certificate — No causative loss or departure from professional standard proved — Authorisation of variations distinguished from architectural measurement — Claim against architect dismissed. CONSTRUCTION LAW — Adjudication — Final determination by court — Adjudication decision temporarily binding — Trial judgment determining parties’ substantive rights — Contractor’s recovery subject to counterclaim set-off — Payments under adjudication decision or enforcement order to be brought into account — Construction Industry Payment and Adjudication Act 2012, s 13.",
+      "judge": "YA Dato' Sri Raja Segaran A/L S.Krishnan",
+      "coram": [],
+      "dateOfResult": "2026-09-23",
+      "dateOfFiling": "2026-10-09",
+      "docs": [
+        {
+          "documentId": "e52b7bf8-9952-44ee-a9e6-48bef257428d",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=e52b7bf8-9952-44ee-a9e6-48bef257428d&Inline=true"
         }
       ]
     },
@@ -728,42 +693,6 @@
       ]
     },
     {
-      "id": "01f742b4-3f06-4d84-b864-3c3d4aa5c00d",
-      "caseNo": "WA-22NCvC-433-07/2025",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "LEONG SO SEH v DAVID CHOA DER HUEY & ors",
-      "parties": [
-        {
-          "label": "PLAINTIF",
-          "names": [
-            "LEONG SO SEH"
-          ]
-        },
-        {
-          "label": "DEFENDAN",
-          "names": [
-            "DAVID CHOA DER HUEY",
-            "DEBORAH DEB-BIE CHOA"
-          ]
-        }
-      ],
-      "catchwords": "Permohonan pemindahan prosiding dari Mahkamah Tinggi Malaya Kuala Lumpur ke Mahkamah Tinggi Malaya Kuala Lumpur Kuala Lumpur yang lain. Aturan 57 kaedah 1 Kaedah-Kaedah Mahkamah 2012 - Permohonan ditolak.",
-      "judge": "YA Tuan Roslan bin Mat Nor",
-      "coram": [],
-      "dateOfResult": "2026-09-07",
-      "dateOfFiling": "2026-10-07",
-      "docs": [
-        {
-          "documentId": "451da664-7f2c-431b-be05-a642f383250a",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=451da664-7f2c-431b-be05-a642f383250a&Inline=true"
-        }
-      ]
-    },
-    {
       "id": "d64c138f-9d74-453a-93a9-d06763207f9e",
       "caseNo": "WA-24NCvC-6155-12/2025",
       "jurisdiction": "HC",
@@ -877,37 +806,72 @@
       ]
     },
     {
-      "id": "a6d78b1f-f842-4cc9-969f-705d9ae63df1",
-      "caseNo": "TA-12B-10-03/2026",
+      "id": "5eaeaacc-27bf-4ca7-9d26-7e2eeead3c17",
+      "caseNo": "KA-45A-47-10/2023",
       "jurisdiction": "HC",
       "court": "High Court",
-      "title": "MUHAMMAD IQMAL HAFIZ BIN MOHD YUSRY v NORAZIAWATI BINTI AB.HALIM",
+      "title": "Pendakwa Raya v MUHAMMAD ALIFF EZZAT BIN MOHAMAD FAUZI",
       "parties": [
         {
-          "label": "PERAYU",
+          "label": "PENDAKWA RAYA",
           "names": [
-            "MUHAMMAD IQMAL HAFIZ BIN MOHD YUSRY"
+            "Pendakwa Raya"
           ]
         },
         {
-          "label": "RESPONDEN",
+          "label": "TERTUDUH",
           "names": [
-            "NORAZIAWATI BINTI AB.HALIM"
+            "MUHAMMAD ALIFF EZZAT BIN MOHAMAD FAUZI"
           ]
         }
       ],
-      "catchwords": "Civil Procedure — Appeal — Appeal against findings of fact — Appellate intervention — Whether trial judge plainly wrong — Whether failure of judicial appreciation of evidence — Principles governing appellate interference with findings of fact and quantum of damages Tort — Negligence — Road traffic accident — Motorcyclist crossing road — Collision with motorcar — Whether plaintiff 100% liable — Whether defendant contributed to negligence — Whether emergency doctrine applicable — Whether plaintiff failed to keep proper lookout Tort — Negligence — Contributory negligence — Crossing case — Duty of person crossing from side road or shoulder to give way to vehicles on main road — Whether primary duty lay with crossing party — Road Traffic Rules 1959, r 10 Damages — Personal injury — General damages — Severe head injury — Orthopaedic injury — Scarring — Assessment — Compendium of Personal Injury Awards — Whether awards manifestly low — Whether appellate court should interfere Damages — Personal injury — Special damages — Strict proof — Documents marked only as ID — Whether admissible as evidence — Whether claims proved by documentary evidence — One-third rule for future medical costs Evidence — CCTV footage — Admissibility — Whether properly admitted — Failure to object at trial — Whether can challenge admissibility on appeal — Visual observation of footage by appellate court — Weight to be given Evidence — Police reports — Two conflicting reports by plaintiff — Corrective report made one week later — Whether material contradiction affecting credibility — Whether explanation of brain injury supported by expert evidence",
-      "judge": "YA Tuan Yusrin Faidz bin Yusoff",
+      "catchwords": "CRIMINAL LAW: Dangerous Drugs Act 1952 — s 39B(1)(a) — Trafficking in dangerous drugs — 15.1g Heroin and Monoacetylmorphines and 209.2g Methamphetamine — Joint trial — Elements of offence — Actual physical possession — Direct evidence of arresting officer apprehending accused holding outer bag — Presumption of trafficking — s 37(da) — Whether presumption rebutted on balance of probabilities CRIMINAL PROCEDURE: Trial — Unsworn statement from dock — Probative weight — Accused electing to give unsworn statement without calling material witnesses — Weight to be attached compared to sworn evidence subjected to cross-examination — Duties of trial judge at close of defence case — s 182A Criminal Procedure Code — Evaluation of totality of evidence — Proof beyond reasonable doubt CRIMINAL PROCEDURE: Sentence — Drug trafficking — s 39B(2) Dangerous Drugs Act 1952 — Abolition of Mandatory Death Penalty Act 2023 (Act 847) — Judicial discretion — Life imprisonment — Concurrent custodial sentences — Corporal punishment — Caning — s 288(1) Criminal Procedure Code — Maximum aggregate limit of 24 strokes of whipping for multiple offences EVIDENCE: Burden of proof — Special knowledge — s 106 Evidence Act 1950 — Accused raising defence of being framed at third party’s residence (&#039;Fauzi&#039;s house&#039;) and presence of companion (&#039;Apit&#039;) — Failure to call material witnesses or lodge contemporaneous police report — Defence amounting to uncorroborated bare denial — Suggestions put during cross-examination denied by prosecution witnesses not amounting to substantive evidence EVIDENCE: Proof — Presumptions — Bar against double presumptions — s 37A Dangerous Drugs Act 1952 — Direct physical possession established on eyewitness evidence — Invocation of trafficking presumption under s 37(da) directly upon direct proof of possession — Compliance with statutory prohibition against double presumptions EVIDENCE: Witnesses — Credibility and discrepancies — Discrepancy between rough sketch plan (P12) and scene photographs (P11) — Administrative documentation error by Investigating Officer — Effect on core narrative of physical custody — Absence of latent fingerprints on inner drug packets — Corroborative nature of fingerprint evidence — Unbroken chain of custody",
+      "judge": "YA Dr John Lee Kien How @ Mohammad Johan Lee",
       "coram": [],
-      "dateOfResult": "2026-08-17",
-      "dateOfFiling": "2026-10-08",
+      "dateOfResult": "2026-08-11",
+      "dateOfFiling": "2026-10-09",
       "docs": [
         {
-          "documentId": "94da97f1-d174-4534-905c-034e302d68b8",
+          "documentId": "5c1fdb97-f0cd-44b3-a611-479df95813c6",
           "name": "Alasan Penghakiman",
           "preparedBy": "",
           "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=94da97f1-d174-4534-905c-034e302d68b8&Inline=true"
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=5c1fdb97-f0cd-44b3-a611-479df95813c6&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "119915d3-ae2a-420b-bae0-a68b4b4df3ca",
+      "caseNo": "KA-45A-48-10/2023",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "Pendakwa Raya v MUHAMMAD ALIFF EZZAT BIN MOHAMAD FAUZI",
+      "parties": [
+        {
+          "label": "PENDAKWA RAYA",
+          "names": [
+            "Pendakwa Raya"
+          ]
+        },
+        {
+          "label": "TERTUDUH",
+          "names": [
+            "MUHAMMAD ALIFF EZZAT BIN MOHAMAD FAUZI"
+          ]
+        }
+      ],
+      "catchwords": "CRIMINAL LAW: Dangerous Drugs Act 1952 — s 39B(1)(a) — Trafficking in dangerous drugs — 15.1g Heroin and Monoacetylmorphines and 209.2g Methamphetamine — Joint trial — Elements of offence — Actual physical possession — Direct evidence of arresting officer apprehending accused holding outer bag — Presumption of trafficking — s 37(da) — Whether presumption rebutted on balance of probabilities CRIMINAL PROCEDURE: Trial — Unsworn statement from dock — Probative weight — Accused electing to give unsworn statement without calling material witnesses — Weight to be attached compared to sworn evidence subjected to cross-examination — Duties of trial judge at close of defence case — s 182A Criminal Procedure Code — Evaluation of totality of evidence — Proof beyond reasonable doubt CRIMINAL PROCEDURE: Sentence — Drug trafficking — s 39B(2) Dangerous Drugs Act 1952 — Abolition of Mandatory Death Penalty Act 2023 (Act 847) — Judicial discretion — Life imprisonment — Concurrent custodial sentences — Corporal punishment — Caning — s 288(1) Criminal Procedure Code — Maximum aggregate limit of 24 strokes of whipping for multiple offences EVIDENCE: Burden of proof — Special knowledge — s 106 Evidence Act 1950 — Accused raising defence of being framed at third party’s residence (&#039;Fauzi&#039;s house&#039;) and presence of companion (&#039;Apit&#039;) — Failure to call material witnesses or lodge contemporaneous police report — Defence amounting to uncorroborated bare denial — Suggestions put during cross-examination denied by prosecution witnesses not amounting to substantive evidence EVIDENCE: Proof — Presumptions — Bar against double presumptions — s 37A Dangerous Drugs Act 1952 — Direct physical possession established on eyewitness evidence — Invocation of trafficking presumption under s 37(da) directly upon direct proof of possession — Compliance with statutory prohibition against double presumptions EVIDENCE: Witnesses — Credibility and discrepancies — Discrepancy between rough sketch plan (P12) and scene photographs (P11) — Administrative documentation error by Investigating Officer — Effect on core narrative of physical custody — Absence of latent fingerprints on inner drug packets — Corroborative nature of fingerprint evidence — Unbroken chain of custody",
+      "judge": "YA Dr John Lee Kien How @ Mohammad Johan Lee",
+      "coram": [],
+      "dateOfResult": "2026-08-11",
+      "dateOfFiling": "2026-10-09",
+      "docs": [
+        {
+          "documentId": "13300d94-b492-41d1-89cf-1257a80a9651",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=13300d94-b492-41d1-89cf-1257a80a9651&Inline=true"
         }
       ]
     },
@@ -947,48 +911,6 @@
           "preparedBy": "YA Datuk Wong Kian Kheong",
           "category": "Sebulat Suara (Unanimous)",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=2aa6f818-6043-40c5-bfd1-b8c201ed92bf&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "633c770d-1a4c-415e-bd5e-b71a1b8bc2ef",
-      "caseNo": "WA-22NCvC-811-12/2021",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "SITI FATHIHAH BINTI DIMAN & ors v DIMAN BIN HASSAN & ors",
-      "parties": [
-        {
-          "label": "PLAINTIF",
-          "names": [
-            "SITI FATHIHAH BINTI DIMAN",
-            "SITI FAIRUZ BINTI DIMAN",
-            "SITI FARHANAH BINTI DIMAN",
-            "DIMAN FARIS BIN DIMAN",
-            "NOREHAN BINTI OTHMAN sebagai Pentadbir kepada Harta Pusaka Noraini binti Janum"
-          ]
-        },
-        {
-          "label": "DEFENDAN",
-          "names": [
-            "DIMAN BIN HASSAN",
-            "SITI FATIMAH BINTI DIMAN",
-            "ZAINON MAHAT sebagai pemilik tunggal atas nama/gelaran Tetuan Zainon Mahat & Co",
-            "AMIRUL IMRAN MOHD ALI disaman sebagai Pesuruhjaya Sumpah"
-          ]
-        }
-      ],
-      "catchwords": "Keywords: Dispute involved contentious inheritance dispute between the Plaintiffs and the Defendants on the estate – The Deceased’s death was recorded as 14.10.2018 while abroad in Taiwan, died as a Muslim without a Will – The Deceased left behind immovable properties, various cash savings and deposits and holding in businesses and unincorporated enterprises – The 1st and 4th Plaintiffs are siblings and the beneficiaries to the Deceased’s estate – The 5th Plaintiff is the Deceased’s younger sister and also the administrator of the estate of Noraini binti Janum – Noraini binti Janum is the mother of the Deceased – The 1st Defendant, Diman bin Hassan is the husband of the Deceased and the father of the 1st – 4th Plaintiffs. The 1st Defendant is the current administrator of the Deceased’s estate – The 2nd Defendant, Siti Fatimah binti Diman, is the Deceased’s biological daughter and the eldest sister of the 1st – 4th Plaintiffs – The Plaintiffs, who are the Deceased’s children and siblings, alleged that the 1st Defendant, who is the husband of the Deceased, committed among others fraud and mismanagement to secure sole control of the assets of the Deceased – The 1st Defendant on the other hand averred that the assets were distributed equally among the children with their consent – The 1st Defendant stated that the filing of this suit by the Plaintiffs was based on the 1st Defendant’s intention to remarry – Agreed Issues – Fraud – Fraud for dissipation of assets – Forger – the crux of the Plaintiffs’ case rests on allegations of fraud, fabrication of documents, and forgery – The Defendant’s defence is that the renunciation documents of the Plaintiffs as administrators were done accordingly and are valid - Absence of Expert Evidence - Failure to Lodge a Police Report – Identification of Forger – it was the 1st – 4th Plaintiffs contention that they were induced to sign blank papers which were then used as documents – the Court finds it improbable that individuals of such academic standing could be induced into signing “blank signature pages” without understanding the legal significance of their actions – the Defendants provided evidence that the Plaintiffs initially conceded and agreed to the 1st Defendant’s (D1) appointment as sole administrator – their subsequent challenge, years after the grant was extracted, appears to be driven by a change of heart following D1’s decision to remarry, rather than a genuine lack of initial consent – Validity of the Distribution Arrangement (Takharruj) – the 1st Defendant contended that the distribution of the estate followed a family agreement consistent with the Islamic principle of takharruj – D1 testified that the distribution – which provided the children with equal shares of immovable properties while he retained the movable assets for business operations – was a mutually discussed arrangement intended for the long-term benefit of the family – the Court accepts D1’s explanation that the movable assets were used as working capital to maintain the family businesses – the Court finds that D1 followed established administrative procedures with the Companies Commission of Malaysia (Suruhanjaya Syarikat Malaysia (SSM)) – Compliance with Court Orders: The transfers were carried out pursuant to the Distribution Order granted by the High Court in 2019 – Hostility toward the Administrator: The relationship between D1 and the 1st to 4th Plaintiffs deteriorated following D1’s announcement of his intention to remarry – my findings are that the Grant of Letters of Administration and the Distribution Order were obtained regularly and were not tainted by the fraud or fabrication as alleged by the Plaintiffs – the Plaintiffs failed to prove their allegations of forgery to the required standard of balance of probabilities and are bound by their initial acquiescence to the family arrangement – the Plaintiffs’ claim is dismissed in its entirety with costs.",
-      "judge": "YA Datin Zalita binti Dato' Zaidan",
-      "coram": [],
-      "dateOfResult": "2026-08-10",
-      "dateOfFiling": "2026-10-08",
-      "docs": [
-        {
-          "documentId": "9017ab56-de60-4306-8737-beb2f1e1d84c",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=9017ab56-de60-4306-8737-beb2f1e1d84c&Inline=true"
         }
       ]
     },
@@ -1036,6 +958,104 @@
           "preparedBy": "YA Dato' Mohd Nazlan Bin Mohd Ghazali",
           "category": "Majoriti",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=c2207490-c1ce-47ea-9d66-0faffbd2eb94&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "f044c85c-0f6f-4dcf-92dd-549299ab5d5b",
+      "caseNo": "WA-24NCC(SOA)-9-05/2025",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "CONEFF CORPORATION SDN BHD v SIGMAL CONSTRUCTION SDN BHD & ors",
+      "parties": [
+        {
+          "label": "PEMOHON",
+          "names": [
+            "CONEFF CORPORATION SDN BHD"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "SIGMAL CONSTRUCTION SDN BHD",
+            "SKYPLUS ELETRICAL & ENGINEERING SDN BHD"
+          ]
+        },
+        {
+          "label": "PENCELAH",
+          "names": [
+            "ASIA INVESTMENT GROUP (SG) PTE. LTD.",
+            "FRONTEAM CONSTRUCTION SDN. BHD."
+          ]
+        },
+        {
+          "label": "PIHAK TERKILAN",
+          "names": [
+            "LHL PROJECTS SDN BHD"
+          ]
+        }
+      ],
+      "catchwords": "Company law – Scheme of arrangement – Sanction – Section 366 Companies Act 2016 – Statutory majority – Court’s supervisory jurisdiction – Whether statutory requirements complied with – Classification of creditors – Related-party creditor – Fair representation – Bona fides and absence of coercion – Commercial judgment of creditors – Duty of candour – Whether scheme unlawful or inoperable – Public interest – Scheme sanctioned.",
+      "judge": "YA Puan Ku Hayati binti Ku Haron",
+      "coram": [],
+      "dateOfResult": "2026-08-05",
+      "dateOfFiling": "2026-10-09",
+      "docs": [
+        {
+          "documentId": "5e960ef4-7eec-4336-8bfa-aa990a4896c1",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=5e960ef4-7eec-4336-8bfa-aa990a4896c1&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "a0d724c2-7d84-478e-a3e8-b409dd058bd9",
+      "caseNo": "WA-24NCC(SOA)-9-05/2025",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "CONEFF CORPORATION SDN BHD v SIGMAL CONSTRUCTION SDN BHD & ors",
+      "parties": [
+        {
+          "label": "PEMOHON",
+          "names": [
+            "CONEFF CORPORATION SDN BHD"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "SIGMAL CONSTRUCTION SDN BHD",
+            "SKYPLUS ELETRICAL & ENGINEERING SDN BHD"
+          ]
+        },
+        {
+          "label": "PENCELAH",
+          "names": [
+            "ASIA INVESTMENT GROUP (SG) PTE. LTD.",
+            "FRONTEAM CONSTRUCTION SDN. BHD."
+          ]
+        },
+        {
+          "label": "PIHAK TERKILAN",
+          "names": [
+            "LHL PROJECTS SDN BHD"
+          ]
+        }
+      ],
+      "catchwords": "Company law – Scheme of arrangement – Sanction – Section 366 Companies Act 2016 – Statutory majority – Court’s supervisory jurisdiction – Whether statutory requirements complied with – Classification of creditors – Related-party creditor – Fair representation – Bona fides and absence of coercion – Commercial judgment of creditors – Duty of candour – Whether scheme unlawful or inoperable – Public interest – Scheme sanctioned.",
+      "judge": "YA Puan Ku Hayati binti Ku Haron",
+      "coram": [],
+      "dateOfResult": "2026-08-05",
+      "dateOfFiling": "2026-10-09",
+      "docs": [
+        {
+          "documentId": "29fdf5b7-0969-4a15-b585-bfacff58c524",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=29fdf5b7-0969-4a15-b585-bfacff58c524&Inline=true"
         }
       ]
     },
@@ -1191,49 +1211,6 @@
       ]
     },
     {
-      "id": "4088ca9d-23f5-4d5a-a8c9-e85024294582",
-      "caseNo": "JA-25-9-03/2025",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "PROF. MADYA IR. DR. MALARVILI A/P BALA KRISHNAN v JAWATANKUASA TATATERTIB BAGI KUMPULAN PENGURUSAN DAN PROFESIONAL DENGAN TUJUAN BUANG KERJA ATAU TURUN PANGKAT UNIVERSITI TEKNOLOGI MALAYSIA (UTM) & ors",
-      "parties": [
-        {
-          "label": "PEMOHON",
-          "names": [
-            "PROF. MADYA IR. DR. MALARVILI A/P BALA KRISHNAN"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "JAWATANKUASA TATATERTIB BAGI KUMPULAN PENGURUSAN DAN PROFESIONAL DENGAN TUJUAN BUANG KERJA ATAU TURUN PANGKAT UNIVERSITI TEKNOLOGI MALAYSIA (UTM)",
-            "JAWATANKUASA RAYUAN TATATERTIB BAGI KUMPULAN PENGURUSAN DAN PROFESIONAL DENGAN TUJUAN BUANG KERJA ATAU TURUN PANGKAT UNIVERSITI TEKNOLOGI MALAYSIA (UTM)",
-            "UNIVERSITI TEKNOLOGI MALAYSIA (UTM)"
-          ]
-        },
-        {
-          "label": "PENCELAH",
-          "names": [
-            "Jabatan Peguam Negara"
-          ]
-        }
-      ],
-      "catchwords": "Judicial review—Disciplinary proceedings—University academic—Applicant dismissed after being found guilty of eight disciplinary charges—Appeal committee remitting matter for reconsideration—Disciplinary committee maintaining findings and dismissal—Whether reconsideration procedurally fair—Natural justice—Whether written representations sufficient— Whether oral hearing required— Non-disclosure of evidential material—Failure to investigate disputed factual matters— Adequacy of reasons— Relevance of institutional approval, acquiescence, condonation and mitigation—Proportionality of punishment—Scope of judicial review—Whether court may examine factual and legal foundation of administrative decision—Certiorari—Remittal",
-      "judge": "YA Tuan Budiman Lutfi bin Mohamed",
-      "coram": [],
-      "dateOfResult": "2026-07-26",
-      "dateOfFiling": "2026-10-08",
-      "docs": [
-        {
-          "documentId": "6195e3d9-1aad-4776-8bc9-15b171feea13",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=6195e3d9-1aad-4776-8bc9-15b171feea13&Inline=true"
-        }
-      ]
-    },
-    {
       "id": "e6582f8d-fa55-4551-80d8-dd6fbe0912fe",
       "caseNo": "JA-25-9-03/2025",
       "jurisdiction": "HC",
@@ -1262,6 +1239,49 @@
         }
       ],
       "catchwords": "Judicial review—Disciplinary proceedings—University academic—Applicant dismissed after being found guilty of eight disciplinary charges—Appeal committee remitting matter for reconsideration—Disciplinary committee maintaining findings and dismissal—Whether reconsideration procedurally fair—Natural justice—Whether written representations sufficient— Whether oral hearing required— Non-disclosure of evidential material—Failure to investigate disputed factual matters— Adequacy of reasons— Relevance of institutional approval, acquiescence, condonation and mitigation—Proportionality of punishment—Scope of judicial review—Whether court may examine factual and legal foundation of administrative decision — Certiorari — Remittal",
+      "judge": "YA Tuan Budiman Lutfi bin Mohamed",
+      "coram": [],
+      "dateOfResult": "2026-07-26",
+      "dateOfFiling": "2026-10-08",
+      "docs": [
+        {
+          "documentId": "6195e3d9-1aad-4776-8bc9-15b171feea13",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=6195e3d9-1aad-4776-8bc9-15b171feea13&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "4088ca9d-23f5-4d5a-a8c9-e85024294582",
+      "caseNo": "JA-25-9-03/2025",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "PROF. MADYA IR. DR. MALARVILI A/P BALA KRISHNAN v JAWATANKUASA TATATERTIB BAGI KUMPULAN PENGURUSAN DAN PROFESIONAL DENGAN TUJUAN BUANG KERJA ATAU TURUN PANGKAT UNIVERSITI TEKNOLOGI MALAYSIA (UTM) & ors",
+      "parties": [
+        {
+          "label": "PEMOHON",
+          "names": [
+            "PROF. MADYA IR. DR. MALARVILI A/P BALA KRISHNAN"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "JAWATANKUASA TATATERTIB BAGI KUMPULAN PENGURUSAN DAN PROFESIONAL DENGAN TUJUAN BUANG KERJA ATAU TURUN PANGKAT UNIVERSITI TEKNOLOGI MALAYSIA (UTM)",
+            "JAWATANKUASA RAYUAN TATATERTIB BAGI KUMPULAN PENGURUSAN DAN PROFESIONAL DENGAN TUJUAN BUANG KERJA ATAU TURUN PANGKAT UNIVERSITI TEKNOLOGI MALAYSIA (UTM)",
+            "UNIVERSITI TEKNOLOGI MALAYSIA (UTM)"
+          ]
+        },
+        {
+          "label": "PENCELAH",
+          "names": [
+            "Jabatan Peguam Negara"
+          ]
+        }
+      ],
+      "catchwords": "Judicial review—Disciplinary proceedings—University academic—Applicant dismissed after being found guilty of eight disciplinary charges—Appeal committee remitting matter for reconsideration—Disciplinary committee maintaining findings and dismissal—Whether reconsideration procedurally fair—Natural justice—Whether written representations sufficient— Whether oral hearing required— Non-disclosure of evidential material—Failure to investigate disputed factual matters— Adequacy of reasons— Relevance of institutional approval, acquiescence, condonation and mitigation—Proportionality of punishment—Scope of judicial review—Whether court may examine factual and legal foundation of administrative decision—Certiorari—Remittal",
       "judge": "YA Tuan Budiman Lutfi bin Mohamed",
       "coram": [],
       "dateOfResult": "2026-07-26",
@@ -1706,6 +1726,41 @@
           "preparedBy": "YAA Datuk Seri Abu Bakar Bin Jais",
           "category": "Minoriti/Dissenting",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=90bce96b-5b96-49f2-ad5b-d5ea3f8d8c96&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "66c042a2-b0eb-4901-8930-42be5a706640",
+      "caseNo": "BL-22NCC-26-12/2025",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "KUAN KEE HONG v KONG KWAI FEI",
+      "parties": [
+        {
+          "label": "PLAINTIF",
+          "names": [
+            "KUAN KEE HONG"
+          ]
+        },
+        {
+          "label": "DEFENDAN",
+          "names": [
+            "KONG KWAI FEI"
+          ]
+        }
+      ],
+      "catchwords": "Aturan 14 Kaedah-Kaedah Mahkamah 2012 (KKM) - penghakiman terus - jual beli saham - tiada isu bermerit untuk dibicarakan.",
+      "judge": "YA Puan Roszianayati Binti Ahmad",
+      "coram": [],
+      "dateOfResult": "2026-07-12",
+      "dateOfFiling": "2026-10-09",
+      "docs": [
+        {
+          "documentId": "dd480f86-1b35-4bb8-bec5-b6d17ed5100b",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=dd480f86-1b35-4bb8-bec5-b6d17ed5100b&Inline=true"
         }
       ]
     },
@@ -2523,41 +2578,6 @@
           "preparedBy": "YA Datuk Wong Kian Kheong",
           "category": "Sebulat Suara (Unanimous)",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=b19e2766-fc20-4669-b96a-8fc3598fb1a6&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "37d7f16e-e8f6-4747-a32e-0434747ede33",
-      "caseNo": "WA-11ANCC-17-11/2025",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "Peoplender Sdn. Bhd. v Tan Jian Ho",
-      "parties": [
-        {
-          "label": "PERAYU",
-          "names": [
-            "Peoplender Sdn. Bhd."
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "Tan Jian Ho"
-          ]
-        }
-      ],
-      "catchwords": "Civil Procedure &amp; Appealability of Interlocutory Orders – Summary judgment dismissal – Section 28(1)(b) Courts of Judicature Act 1964 – Interlocutory order – Substantive right exception – Irreversible prejudice – MT Ventures principle – Whether an appeal against a Magistrate&#039;s Court&#039;s dismissal of a summary judgment application is competent despite the general statutory restriction on interlocutory appeals under Section 28(1)(b) of the CJA 1964 – Whether refusing summary judgment effectively deprives a plaintiff of a contractually bargained-for &quot;conclusive evidence&quot; mechanism, thereby creating a final and irreversible prejudice that falls within the MT Ventures exception. Summary Judgment (Order 14) &amp; Evidentiary Burdens – Order 14 Rules of Court 2012 – Prima facie case – Bona fide triable issue – Shadowy defence – Bare denial – Certificate of Indebtedness – Conclusive evidence clause – Shifting burden of proof – Cempaka Finance principle – Whether a defendant&#039;s bare denial of an electronic signature, unsupported by a police report, digital forensics, or specific particulars of fraud, is sufficient to establish a bona fide triable issue under Order 14 – Whether a contractually agreed Certificate of Indebtedness successfully shifts the burden of proof to the defendant to demonstrate fraud, manifest error, or bad faith in an adjectival law context. Guarantee, Indemnity &amp; Corporate Liability – Letter of Guarantee and Indemnity – Personal liability – Continuing guarantee – Principal debtor obligation – Cessation of directorship – Independent contractual obligation – Whether a guarantor&#039;s personal, independent liability under a Letter of Guarantee and Indemnity is extinguished or diminished by their subsequent resignation or cessation as a director of the primary corporate debtor. Banking, Finance &amp; Regulatory Frameworks – Peer-to-Peer (P2P) financing platform – Securities Commission of Malaysia (SC) – Capital Markets and Services Act 2007 – Guidelines on Recognized Markets – Moneylenders Act 1951 – Illegal moneylending – Whether a financing transaction operated by an SC-licensed Peer-to-Peer (P2P) platform falls under the regulatory ambit of the Moneylenders Act 1951, or if it operates under a distinct, separate statutory framework. Administration of Justice &amp; Case Management Principles – Order 1A Rules of Court 2012 – Overriding objective – Expeditious and efficient resolution – Instrument of delay – Contrived defences – Whether sending a matter to full trial on highly delayed and legally meritless assertions violates the mandatory court obligation to handle cases justly, expeditiously, and efficiently under Order 1A.",
-      "judge": "YA Tuan Mohamad Redzuan bin Idrus",
-      "coram": [],
-      "dateOfResult": "2026-02-25",
-      "dateOfFiling": "2026-10-08",
-      "docs": [
-        {
-          "documentId": "4139eebc-50e1-4e29-906a-38f911d9afe7",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=4139eebc-50e1-4e29-906a-38f911d9afe7&Inline=true"
         }
       ]
     },
