@@ -1,6 +1,6 @@
 {
   "source": "Malaysia E-Judgment Portal (ejudgment.kehakiman.gov.my)",
-  "updatedAt": "2026-10-10T02:31:32.556Z",
+  "updatedAt": "2026-10-11T02:03:33.753Z",
   "count": 60,
   "judgments": [
     {
@@ -1211,49 +1211,6 @@
       ]
     },
     {
-      "id": "e6582f8d-fa55-4551-80d8-dd6fbe0912fe",
-      "caseNo": "JA-25-9-03/2025",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "PROF. MADYA IR. DR. MALARVILI A/P BALA KRISHNAN v JAWATANKUASA TATATERTIB BAGI KUMPULAN PENGURUSAN DAN PROFESIONAL DENGAN TUJUAN BUANG KERJA ATAU TURUN PANGKAT UNIVERSITI TEKNOLOGI MALAYSIA (UTM) & ors",
-      "parties": [
-        {
-          "label": "PEMOHON",
-          "names": [
-            "PROF. MADYA IR. DR. MALARVILI A/P BALA KRISHNAN"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "JAWATANKUASA TATATERTIB BAGI KUMPULAN PENGURUSAN DAN PROFESIONAL DENGAN TUJUAN BUANG KERJA ATAU TURUN PANGKAT UNIVERSITI TEKNOLOGI MALAYSIA (UTM)",
-            "JAWATANKUASA RAYUAN TATATERTIB BAGI KUMPULAN PENGURUSAN DAN PROFESIONAL DENGAN TUJUAN BUANG KERJA ATAU TURUN PANGKAT UNIVERSITI TEKNOLOGI MALAYSIA (UTM)",
-            "UNIVERSITI TEKNOLOGI MALAYSIA (UTM)"
-          ]
-        },
-        {
-          "label": "PENCELAH",
-          "names": [
-            "Jabatan Peguam Negara"
-          ]
-        }
-      ],
-      "catchwords": "Judicial review—Disciplinary proceedings—University academic—Applicant dismissed after being found guilty of eight disciplinary charges—Appeal committee remitting matter for reconsideration—Disciplinary committee maintaining findings and dismissal—Whether reconsideration procedurally fair—Natural justice—Whether written representations sufficient— Whether oral hearing required— Non-disclosure of evidential material—Failure to investigate disputed factual matters— Adequacy of reasons— Relevance of institutional approval, acquiescence, condonation and mitigation—Proportionality of punishment—Scope of judicial review—Whether court may examine factual and legal foundation of administrative decision — Certiorari — Remittal",
-      "judge": "YA Tuan Budiman Lutfi bin Mohamed",
-      "coram": [],
-      "dateOfResult": "2026-07-26",
-      "dateOfFiling": "2026-10-08",
-      "docs": [
-        {
-          "documentId": "6195e3d9-1aad-4776-8bc9-15b171feea13",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=6195e3d9-1aad-4776-8bc9-15b171feea13&Inline=true"
-        }
-      ]
-    },
-    {
       "id": "4088ca9d-23f5-4d5a-a8c9-e85024294582",
       "caseNo": "JA-25-9-03/2025",
       "jurisdiction": "HC",
@@ -1282,6 +1239,49 @@
         }
       ],
       "catchwords": "Judicial review—Disciplinary proceedings—University academic—Applicant dismissed after being found guilty of eight disciplinary charges—Appeal committee remitting matter for reconsideration—Disciplinary committee maintaining findings and dismissal—Whether reconsideration procedurally fair—Natural justice—Whether written representations sufficient— Whether oral hearing required— Non-disclosure of evidential material—Failure to investigate disputed factual matters— Adequacy of reasons— Relevance of institutional approval, acquiescence, condonation and mitigation—Proportionality of punishment—Scope of judicial review—Whether court may examine factual and legal foundation of administrative decision—Certiorari—Remittal",
+      "judge": "YA Tuan Budiman Lutfi bin Mohamed",
+      "coram": [],
+      "dateOfResult": "2026-07-26",
+      "dateOfFiling": "2026-10-08",
+      "docs": [
+        {
+          "documentId": "6195e3d9-1aad-4776-8bc9-15b171feea13",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=6195e3d9-1aad-4776-8bc9-15b171feea13&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "e6582f8d-fa55-4551-80d8-dd6fbe0912fe",
+      "caseNo": "JA-25-9-03/2025",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "PROF. MADYA IR. DR. MALARVILI A/P BALA KRISHNAN v JAWATANKUASA TATATERTIB BAGI KUMPULAN PENGURUSAN DAN PROFESIONAL DENGAN TUJUAN BUANG KERJA ATAU TURUN PANGKAT UNIVERSITI TEKNOLOGI MALAYSIA (UTM) & ors",
+      "parties": [
+        {
+          "label": "PEMOHON",
+          "names": [
+            "PROF. MADYA IR. DR. MALARVILI A/P BALA KRISHNAN"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "JAWATANKUASA TATATERTIB BAGI KUMPULAN PENGURUSAN DAN PROFESIONAL DENGAN TUJUAN BUANG KERJA ATAU TURUN PANGKAT UNIVERSITI TEKNOLOGI MALAYSIA (UTM)",
+            "JAWATANKUASA RAYUAN TATATERTIB BAGI KUMPULAN PENGURUSAN DAN PROFESIONAL DENGAN TUJUAN BUANG KERJA ATAU TURUN PANGKAT UNIVERSITI TEKNOLOGI MALAYSIA (UTM)",
+            "UNIVERSITI TEKNOLOGI MALAYSIA (UTM)"
+          ]
+        },
+        {
+          "label": "PENCELAH",
+          "names": [
+            "Jabatan Peguam Negara"
+          ]
+        }
+      ],
+      "catchwords": "Judicial review—Disciplinary proceedings—University academic—Applicant dismissed after being found guilty of eight disciplinary charges—Appeal committee remitting matter for reconsideration—Disciplinary committee maintaining findings and dismissal—Whether reconsideration procedurally fair—Natural justice—Whether written representations sufficient— Whether oral hearing required— Non-disclosure of evidential material—Failure to investigate disputed factual matters— Adequacy of reasons— Relevance of institutional approval, acquiescence, condonation and mitigation—Proportionality of punishment—Scope of judicial review—Whether court may examine factual and legal foundation of administrative decision — Certiorari — Remittal",
       "judge": "YA Tuan Budiman Lutfi bin Mohamed",
       "coram": [],
       "dateOfResult": "2026-07-26",
@@ -2045,7 +2045,7 @@
       ]
     },
     {
-      "id": "d9a18161-64f5-40e8-b7b2-803ec602eb91",
+      "id": "0775862f-1429-4feb-b4ad-c9f4ce8c3b09",
       "caseNo": "K-05(H)-341-07/2025",
       "jurisdiction": "COA",
       "court": "Court of Appeal",
@@ -2085,7 +2085,7 @@
       ]
     },
     {
-      "id": "0775862f-1429-4feb-b4ad-c9f4ce8c3b09",
+      "id": "d9a18161-64f5-40e8-b7b2-803ec602eb91",
       "caseNo": "K-05(H)-341-07/2025",
       "jurisdiction": "COA",
       "court": "Court of Appeal",
