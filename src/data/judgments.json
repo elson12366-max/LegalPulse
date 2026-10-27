@@ -1,8 +1,130 @@
 {
   "source": "Malaysia E-Judgment Portal (ejudgment.kehakiman.gov.my)",
-  "updatedAt": "2026-10-26T01:35:19.771Z",
+  "updatedAt": "2026-10-27T02:16:37.942Z",
   "count": 40,
   "judgments": [
+    {
+      "id": "ccdaeeeb-997e-4225-a423-3dee8d858a61",
+      "caseNo": "W-04(IM)(NCvC)-104-03/2025",
+      "jurisdiction": "COA",
+      "court": "Court of Appeal",
+      "title": "OOI CHOONG HAN v GLOMAC SEGAR SDN. BHD.",
+      "parties": [
+        {
+          "label": "PERAYU",
+          "names": [
+            "OOI CHOONG HAN"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "GLOMAC SEGAR SDN. BHD."
+          ]
+        }
+      ],
+      "catchwords": "Housing Development (Control and Licensing) Regulations 1989 - Housing Development (Control and Licensing) Act 1966 (&quot;the HDA&quot;). - vacant possession - whether the Deputy Controller may exercise the power inregulation 11(3) and, if so, whether it was validlyexercised here - whether the Appellant had to challenge the Deputy’s Letter by judicial review - whether the claim fails because the Ministry and the Deputy Controller were not joined - whether the point was raised in the Amended Memorandum of Appeal - whether Obata-Ambak and the second actor theory save the Respondent; and - whether the Appellant is bound by the 48-month term because she signed the SPA.",
+      "judge": "YA Dato' Ong Chee Kwan",
+      "coram": [
+        "YA Dato' Azizul Azmi Bin Adnan",
+        "YA Dato' Ong Chee Kwan",
+        "YA Dato' Nadzarin Bin Wok Nordin"
+      ],
+      "dateOfResult": "2026-10-21",
+      "dateOfFiling": "2026-10-26",
+      "docs": [
+        {
+          "documentId": "0cad27f1-19f0-43a9-83f7-d0c749bcb91e",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "YA Dato' Ong Chee Kwan",
+          "category": "Sebulat Suara (Unanimous)",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=0cad27f1-19f0-43a9-83f7-d0c749bcb91e&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "6bf8beb2-17ff-471a-a1de-c0a44e9655f5",
+      "caseNo": "W-05(SH)-383-09/2023",
+      "jurisdiction": "COA",
+      "court": "Court of Appeal",
+      "title": "VIMAL KUMAR A/L SUGUMARAN & ors v Pendakwa Raya & ors",
+      "parties": [
+        {
+          "label": "PERAYU",
+          "names": [
+            "VIMAL KUMAR A/L SUGUMARAN",
+            "NAVINRAH A/L K.RAJAH"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "Pendakwa Raya",
+            "[Timbalan Pendakwa Raya (TPR), Jabatan Peguam Negara]"
+          ]
+        }
+      ],
+      "catchwords": "Section 39B(1)(a) Dangerous Drugs Act 1952 - The two Appellants were arrested in a black Toyota Harrier motorcar, where the First Appellant was stepping out of the car, carrying a yellowish paper bag marked “Giordano” while the Second Appellant was the driver of the said car - Drugs were found in the yellowish paper bag - Whether the Prosecution’s failure to produce the yellowish paper bag at the trial had left a material gap in the Prosecution’s case - Whether the JC had committed a misdirection of law when she triggered the presumption of trafficking under section 37(da) of the DDA at the end of the Prosecution’s case but then made a finding at the end of the trial that the Appellants failed to raise a reasonable doubt in the Prosecution’s case without making a finding whether the Appellants had rebutted the presumption of trafficking under section 37(da) of the DDA - Whether the Appellants were subjected to two different burden of proofs .",
+      "judge": "YA Datuk Noorin binti Badaruddin",
+      "coram": [
+        "YA Datuk Noorin binti Badaruddin",
+        "YA Datuk Mohd Radzi Bin Abdul Hamid",
+        "YA Dato' Sri Latifah Binti Haji Mohd Tahar"
+      ],
+      "dateOfResult": "2026-10-20",
+      "dateOfFiling": "2026-10-27",
+      "docs": [
+        {
+          "documentId": "4e3d7e6c-628a-498e-848c-dcf9acec6533",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "YA Datuk Mohd Radzi Bin Abdul Hamid",
+          "category": "Sebulat Suara (Unanimous)",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=4e3d7e6c-628a-498e-848c-dcf9acec6533&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "b873e07e-d0b3-4638-8766-0dcc6343188d",
+      "caseNo": "A-02(NCvC)(A)-1833-10/2024",
+      "jurisdiction": "COA",
+      "court": "Court of Appeal",
+      "title": "LEE KUAH SHYAN v Lee Kuah Woon & ors",
+      "parties": [
+        {
+          "label": "PERAYU",
+          "names": [
+            "LEE KUAH SHYAN"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "Lee Kuah Woon",
+            "Lee Kuan Wu",
+            "Lee Moy Hian",
+            "Lee Siew Han"
+          ]
+        }
+      ],
+      "catchwords": "Originating Summons for declaratory relief as to the true construction of the Last Will and Testament - testator’s intention as expressed in the words of the will read as a whole, and not his unexpressed subjective wishes - Second, the court will, so far as the language permits, prefer a construction that gives every clause some operative effect over one that renders any clause meaningless - where two constructions are reasonably open, and one produces an intestacy, be it whole or partial, while the other avoids it, the court prefers the construction that avoids intestacy - the court is not entitled to make a fresh will for the testator merely because it suspects that he did not mean what he plainly said - the court may inform itself of the testator’s actual circumstances at the time he made the will, this includes his family, his property, and his business relationships, to understand what he meant by the words he used, before concluding that those words are ambiguous or deciding how any ambiguity is to be resolved. - company is a legal person distinct from its members, and that a shareholder, even one holding practically the whole of the issued capital, has no legal or equitable proprietary interest in the company’s assets.",
+      "judge": "YA Dato' Ong Chee Kwan",
+      "coram": [
+        "YA Datuk Azhahari Kamal bin Ramli",
+        "YA Dato' Ong Chee Kwan",
+        "YA Dato' Hajah Aliza binti Sulaiman"
+      ],
+      "dateOfResult": "2026-10-20",
+      "dateOfFiling": "2026-10-26",
+      "docs": [
+        {
+          "documentId": "9ccf4b34-bbb5-4d5a-89b5-190cf60d63f1",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "YA Dato' Ong Chee Kwan",
+          "category": "Sebulat Suara (Unanimous)",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=9ccf4b34-bbb5-4d5a-89b5-190cf60d63f1&Inline=true"
+        }
+      ]
+    },
     {
       "id": "dd3696e3-ceb8-4a3a-bf68-09d3017b59f4",
       "caseNo": "W-01(A)-392-08/2025",
@@ -90,176 +212,6 @@
           "preparedBy": "YA Dato' Ong Chee Kwan",
           "category": "Sebulat Suara (Unanimous)",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=4fe5c709-f7fb-4e65-8a27-b88a685f164c&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "c487d488-a0c9-43ea-8158-cdd498bb749e",
-      "caseNo": "P-02(NCC)(W)-1366-08/2024",
-      "jurisdiction": "COA",
-      "court": "Court of Appeal",
-      "title": "SYARIKAT V.K. KALYANASUNDRAM SDN BHD v KALYANI A/P BALASUBRAMANIAM & ors",
-      "parties": [
-        {
-          "label": "PERAYU",
-          "names": [
-            "SYARIKAT V.K. KALYANASUNDRAM SDN BHD"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "KALYANI A/P BALASUBRAMANIAM",
-            "BARANI KUMAR A/L BALASUBRAMANIAM",
-            "VIJAY ANAND A/L P HARIVASAGAN",
-            "JERAMAN @ JAYARAMAN A/L NARAINAN",
-            "BHOO PATHY A/L S. RAMAKRISHNAN",
-            "THULASINGAM A/L KALIAPPAN",
-            "COSMOS RESOURCES SDN BHD"
-          ]
-        }
-      ],
-      "catchwords": "Civil conspiracy, Unlawful means, Intention to injure, Fiduciary duties, Secret profits, Dishonest assistance, Unjust enrichment, Assessment of common loss, Joint and several liability, Post-judgment interest.",
-      "judge": "YA Dato' Faizah Binti Jamaludin",
-      "coram": [
-        "YA Datuk Mohamed Zaini Bin Mazlan",
-        "YA Dato' Faizah Binti Jamaludin",
-        "YA Dato' Hajah Aliza binti Sulaiman"
-      ],
-      "dateOfResult": "2026-10-12",
-      "dateOfFiling": "2026-10-16",
-      "docs": [
-        {
-          "documentId": "86d89987-6558-4e1d-8cce-83ed3714e7c6",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "YA Dato' Faizah Binti Jamaludin",
-          "category": "Sebulat Suara (Unanimous)",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=86d89987-6558-4e1d-8cce-83ed3714e7c6&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "ee1d392f-99b6-4ad5-9462-532749e15b25",
-      "caseNo": "P-02(NCC)(W)-1526-09/2024",
-      "jurisdiction": "COA",
-      "court": "Court of Appeal",
-      "title": "THULASINGAM A/L KALIAPPAN & ors v SYARIKAT V.K. KALYANASUNDRAM SDN BHD & ors",
-      "parties": [
-        {
-          "label": "PERAYU",
-          "names": [
-            "THULASINGAM A/L KALIAPPAN",
-            "COSMOS RESOURCES SDN BHD"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "SYARIKAT V.K. KALYANASUNDRAM SDN BHD",
-            "Kalyani A/p Balasubramaniam",
-            "Barani Kumar A/l Balasubramaniam",
-            "Vijay Anand A/l P Harivasagan",
-            "Jeraman @ Jayaraman A/l Narainan",
-            "Bhoo Pathy A/l S. Ramakrishnan"
-          ]
-        }
-      ],
-      "catchwords": "Civil conspiracy, Unlawful means, Intention to injure, Fiduciary duties, Secret profits, Dishonest assistance, Unjust enrichment, Assessment of common loss, Joint and several liability, Post-judgment interest.",
-      "judge": "YA Dato' Faizah Binti Jamaludin",
-      "coram": [
-        "YA Datuk Mohamed Zaini Bin Mazlan",
-        "YA Dato' Faizah Binti Jamaludin",
-        "YA Dato' Hajah Aliza binti Sulaiman"
-      ],
-      "dateOfResult": "2026-10-12",
-      "dateOfFiling": "2026-10-16",
-      "docs": [
-        {
-          "documentId": "f5e6f272-09df-4ee7-a514-7ab46caa3ae2",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "YA Dato' Faizah Binti Jamaludin",
-          "category": "Sebulat Suara (Unanimous)",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=f5e6f272-09df-4ee7-a514-7ab46caa3ae2&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "c4c53556-6506-4f0e-b147-e4fa095c4a68",
-      "caseNo": "P-02(NCC)(W)-1527-09/2024",
-      "jurisdiction": "COA",
-      "court": "Court of Appeal",
-      "title": "KALYANI A/P BALASUBRAMANIAM & ors v SYARIKAT V.K. KALYANASUNDRAM SDN BHD",
-      "parties": [
-        {
-          "label": "PERAYU",
-          "names": [
-            "KALYANI A/P BALASUBRAMANIAM",
-            "BARANI KUMAR A/L BALASUBRAMANIAM",
-            "VIJAY ANAND A/L P HARIVASAGAN"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "SYARIKAT V.K. KALYANASUNDRAM SDN BHD"
-          ]
-        }
-      ],
-      "catchwords": "Civil conspiracy, Unlawful means, Intention to injure, Fiduciary duties, Secret profits, Dishonest assistance, Unjust enrichment, Assessment of common loss, Joint and several liability, Post-judgment interest.",
-      "judge": "YA Dato' Faizah Binti Jamaludin",
-      "coram": [
-        "YA Datuk Mohamed Zaini Bin Mazlan",
-        "YA Dato' Faizah Binti Jamaludin",
-        "YA Dato' Hajah Aliza binti Sulaiman"
-      ],
-      "dateOfResult": "2026-10-12",
-      "dateOfFiling": "2026-10-16",
-      "docs": [
-        {
-          "documentId": "292f70a7-95dc-4a41-9b8d-0bad9a5896a6",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "YA Dato' Faizah Binti Jamaludin",
-          "category": "Sebulat Suara (Unanimous)",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=292f70a7-95dc-4a41-9b8d-0bad9a5896a6&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "91b87254-6b4c-472f-8c32-5d2ae45ad94f",
-      "caseNo": "W-02(NCC)(W)-846-05/2023",
-      "jurisdiction": "COA",
-      "court": "Court of Appeal",
-      "title": "LOW YEE MENG v LAU KOK LOON @ LAU SAY SIOK",
-      "parties": [
-        {
-          "label": "PERAYU",
-          "names": [
-            "LOW YEE MENG"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "LAU KOK LOON @ LAU SAY SIOK"
-          ]
-        }
-      ],
-      "catchwords": "Deed of Trust - Transfer of shares 25 ago between uncle and nephew - Whether resulting trust? Whether illegal as purpose to avoid creditors? - S. 66 Contracts Act.",
-      "judge": "YA Datuk Ravinthran a/l Paramaguru",
-      "coram": [
-        "YA Datuk Ravinthran a/l Paramaguru",
-        "YA Dato' Faizah Binti Jamaludin",
-        "YA Dato' Ahmad Shahrir B. Mohd Salleh"
-      ],
-      "dateOfResult": "2026-10-07",
-      "dateOfFiling": "2026-10-14",
-      "docs": [
-        {
-          "documentId": "ced7df31-03fc-44cb-b74a-4eea36f1c459",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "YA Datuk Ravinthran a/l Paramaguru",
-          "category": "Sebulat Suara (Unanimous)",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=ced7df31-03fc-44cb-b74a-4eea36f1c459&Inline=true"
         }
       ]
     },
@@ -724,6 +676,37 @@
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=a8ca7379-63d5-4ffe-94d9-62bddf2dd13e&Inline=true"
         }
       ]
+    },
+    {
+      "id": "203e2a6c-9802-4bea-928d-837179a0f290",
+      "caseNo": "P-05(SH)-574-11/2023",
+      "jurisdiction": "COA",
+      "court": "Court of Appeal",
+      "title": "MUHAMMAD IRWAN BUNMA BIN ABDULLAH v Pendakwa Raya",
+      "parties": [
+        {
+          "label": "PERAYU",
+          "names": [
+            "MUHAMMAD IRWAN BUNMA BIN ABDULLAH"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "Pendakwa Raya"
+          ]
+        }
+      ],
+      "catchwords": "Seksyen 39B(1)(a) Akta Dadah Berbahaya - Semasa serbuan ke atas sebuah unit pangsapuri, Perayu cuba mengelak dengan melompat daripada tingkap di tingkat 3 sehingga mencederakan kakinya - Selepas ditahan, Perayu dibawa naik semula ke unit itu - Dadah dijumpai di dalam beg pouch berzip yang dipakai oleh Perayu - Pemeriksaan di unit pangsapuri itu menjumpai barang-barang yang berkaitan dengan pengendalian dadah - Isu sama ada SP2, semasa memecahkan pintu rumah, telah membuat teriakan ‘polis’ bagi mengenalkan diri - Sama ada keterangan SP2 dan SP7 bahawa beg pouch dijumpai tersisip di pinggang Perayu adalah kredibel dan boleh dipercayai - Sama ada Perayu sebenarnya memakai tali pinggang atau tidak - Sama ada ia lebih munasabah untuk Perayu membuang barang dadah ke dalam jamban berbanding melompat keluar dari tingkat 3 bangunan pangsapuri - Sama ada terdapat ketidakcekapan yang melampau oleh peguam Perayu semasa perbicaraan di Mahkamah Tinggi sehingga memprejudiskan Perayu.",
+      "judge": "YA Datuk Wong Kian Kheong",
+      "coram": [
+        "YA Datuk Wong Kian Kheong",
+        "YA Datuk Mohd Radzi Bin Abdul Hamid",
+        "YA Dato' Nadzarin Bin Wok Nordin"
+      ],
+      "dateOfResult": "2026-07-15",
+      "dateOfFiling": "2026-10-27",
+      "docs": []
     },
     {
       "id": "f60df750-b794-4271-a0e5-c9c1136f762c",
@@ -1480,6 +1463,47 @@
       ]
     },
     {
+      "id": "16cf1b2b-16af-4475-93ae-27dac8c6ed41",
+      "caseNo": "S-05(SH)-161-04/2023",
+      "jurisdiction": "COA",
+      "court": "Court of Appeal",
+      "title": "Alex Bin Abdullah & ors v Pendakwa Raya & ors",
+      "parties": [
+        {
+          "label": "PERAYU",
+          "names": [
+            "Alex Bin Abdullah",
+            "Sofian Bin Abdullah"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "Pendakwa Raya",
+            "[Pendakwa Raya]"
+          ]
+        }
+      ],
+      "catchwords": "39B(1)(a) of the Dangerous Drugs Act 1952 (“DDA”) read together with section 34 of the Penal Code-the principles of appellate intervention-the governing principles on possession and the statutory presumptions-defence-the alleged evasion-the state of fear-the role of boatman and proximity to P19-consequence for possession and the presumption of trafficking-common intention-the finding of wilful blindness-concealment-disassociation and surrender-opportunity to dispose-inquiry-disclosure of the third party-opacity of the package-the unequal treatment of unchallenged evidence-consequence for the presumption of trafficking-possession under section 37(d) DDA-whether there was direct trafficking-sentence",
+      "judge": "YA Dato' Ahmad Shahrir B. Mohd Salleh",
+      "coram": [
+        "YA Datuk Dr Shahnaz Binti Sulaiman",
+        "YA Dato' Ahmad Shahrir B. Mohd Salleh",
+        "YA Datuk Dean Wayne Daly"
+      ],
+      "dateOfResult": "2026-06-21",
+      "dateOfFiling": "2026-10-26",
+      "docs": [
+        {
+          "documentId": "1a655090-91a6-4ce1-a2cb-c0c5ca1a4783",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "YA Dato' Ahmad Shahrir B. Mohd Salleh",
+          "category": "Sebulat Suara (Unanimous)",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=1a655090-91a6-4ce1-a2cb-c0c5ca1a4783&Inline=true"
+        }
+      ]
+    },
+    {
       "id": "a47195be-c4f0-44ba-b30b-54754e62fe21",
       "caseNo": "W-05(SH)-1-01/2023",
       "jurisdiction": "COA",
@@ -1604,46 +1628,6 @@
           "preparedBy": "YA Dato' Lee Swee Seng",
           "category": "Sebulat Suara (Unanimous)",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=6935d650-a25e-4cc1-be30-b6f244163e02&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "21734ee1-e3ae-41a0-82b4-2c0dcfa0427e",
-      "caseNo": "J-05(SH)-487-10/2023",
-      "jurisdiction": "COA",
-      "court": "Court of Appeal",
-      "title": "Intan Dzariana Binti Abdullah v Pendakwa Raya & ors",
-      "parties": [
-        {
-          "label": "PERAYU",
-          "names": [
-            "Intan Dzariana Binti Abdullah"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "Pendakwa Raya",
-            "[Pendakwa Raya]"
-          ]
-        }
-      ],
-      "catchwords": "niat bersama mengedar dadah Methamphetamine Heroin berat bersih seksyen 39B(1)(a) seksyen 39B (2) seksyen 12(2) seksyen 12(3) Dadah Berbahaya 1952 dihukum seksyen 34 Kanun Keseksaan memiliki hukuman pemenjaraan seumur hidup dan 12 sebatan rotan memfailkan rayuan ke Mahkamah Persekutuan kenderaan polis mengelak disedari pasukan serbuan rumah berkawal intipan ditendang membuang mangkuk tandas bilik memeriksa barang-barang peket plastik lutsinar berisi bahan disyaki syabu botol kaca diubah suai alat menghisap dadah pemeriksaan disembunyikan laci kedua almari pakaian mengesahkan hasil analisis dirampas kes pendakwaan prinsip undang-undang jagaan kawalan pengetahuan afirmatif pengedaran berjaya dibuktikan pemakaian anggapan pengedaran dadah seksyen 37(da) ADB 1952 melebihi berat minima 50 gram keterangan membela diri secara bersumpah penafian semata-mata berfikiran terkemudian terkhilaf salah laksana keadilan",
-      "judge": "YA Datuk Meor Hashimi bin Abdul Hamid",
-      "coram": [
-        "YA Dato' Paduka Azman Bin Abdullah",
-        "YA Datuk Hayatul Akmal binti Abdul Aziz",
-        "YA Datuk Meor Hashimi bin Abdul Hamid"
-      ],
-      "dateOfResult": "2026-03-10",
-      "dateOfFiling": "2026-10-12",
-      "docs": [
-        {
-          "documentId": "bcf6c2e7-55cf-476c-8dcd-3c3be2c993d0",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "YA Datuk Meor Hashimi bin Abdul Hamid",
-          "category": "Sebulat Suara (Unanimous)",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=bcf6c2e7-55cf-476c-8dcd-3c3be2c993d0&Inline=true"
         }
       ]
     },
