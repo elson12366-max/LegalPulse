@@ -1,6 +1,6 @@
 {
   "source": "Malaysia E-Judgment Portal (ejudgment.kehakiman.gov.my)",
-  "updatedAt": "2026-11-07T02:58:51.084Z",
+  "updatedAt": "2026-11-08T02:36:51.616Z",
   "count": 60,
   "judgments": [
     {
@@ -396,6 +396,51 @@
           "preparedBy": "YA Dato' Ong Chee Kwan",
           "category": "Sebulat Suara (Unanimous)",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=9ccf4b34-bbb5-4d5a-89b5-190cf60d63f1&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "bd4d06c9-550c-4455-815c-9c163c21aa88",
+      "caseNo": "JA-22NCvC-184-12/2024",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "LEE WEI SHOOI & ors v ENG CHAI SENG & ors",
+      "parties": [
+        {
+          "label": "PLAINTIF",
+          "names": [
+            "LEE WEI SHOOI",
+            "ONG KAR BEE"
+          ]
+        },
+        {
+          "label": "DEFENDAN",
+          "names": [
+            "ENG CHAI SENG",
+            "ENG GINNICE",
+            "TETUAN AHK ARKITEK HANAN",
+            "Majlis Bandaraya Johor Bahru"
+          ]
+        },
+        {
+          "label": "PIHAK KETIGA",
+          "names": [
+            "TAN CHENG NGAP"
+          ]
+        }
+      ],
+      "catchwords": "Civil Procedure – Stay of execution pending appeal – Application to restrain construction works – Discharge of interim injunction – Whether special circumstances established – Whether successful appeal would be rendered nugatory – Evidential weight of post-judgment engineering report – Balance of justice – Absence of undertaking as to damages – Whether fresh injunction pending appeal warranted – Courts of Judicature Act 1964, s 73 – Rules of Court 2012, O 45 r 11 and O 92 r 4 – Application dismissed with costs",
+      "judge": "YA Dr Noradura Binti Hamzah",
+      "coram": [],
+      "dateOfResult": "2026-10-19",
+      "dateOfFiling": "2026-11-07",
+      "docs": [
+        {
+          "documentId": "7fc9628b-6fa2-407a-9833-30eedf32de11",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=7fc9628b-6fa2-407a-9833-30eedf32de11&Inline=true"
         }
       ]
     },
@@ -970,42 +1015,6 @@
       ]
     },
     {
-      "id": "8d98fbee-3d6c-4705-9140-90d765f46403",
-      "caseNo": "JA-22NCvC-9-01/2025",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "LEE CHAN MENG (melalui LEE SHI YI sebagai Jawatankuasa dan estet kepada LEE CHAN MENG) v LEE PAK NANG TEE & ors",
-      "parties": [
-        {
-          "label": "PLAINTIF",
-          "names": [
-            "LEE CHAN MENG (melalui LEE SHI YI sebagai Jawatankuasa dan estet kepada LEE CHAN MENG)"
-          ]
-        },
-        {
-          "label": "DEFENDAN",
-          "names": [
-            "LEE PAK NANG TEE",
-            "LEE CHUAN GUAN STEEL SDN BHD"
-          ]
-        }
-      ],
-      "catchwords": "Civil Procedure — Stay of proceedings — Order 92 rule 4 Rules of Court 2012 — Related High Court proceedings — Challenge to retrospective declaration of mental incapacity — Whether special circumstances established — Risk of inconsistent findings and duplication — Whether one proceeding ought to await determination of a foundational issue in another proceeding. Civil Procedure — Consolidation and joint hearing — Order 4 rule 1 Rules of Court 2012 — Common questions of law and fact — Different legal capacities, causes of action and burdens of proof — Judicial economy — Whether formal consolidation appropriate — Coordinated case management and sequential determination of related actions",
-      "judge": "YA Tuan Budiman Lutfi bin Mohamed",
-      "coram": [],
-      "dateOfResult": "2026-08-19",
-      "dateOfFiling": "2026-11-06",
-      "docs": [
-        {
-          "documentId": "e2445233-932f-4495-ac87-c1736befb9c8",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=e2445233-932f-4495-ac87-c1736befb9c8&Inline=true"
-        }
-      ]
-    },
-    {
       "id": "320cad52-0975-44a0-a4b2-dd391a0dbfb0",
       "caseNo": "JA-22NCvC-9-01/2025",
       "jurisdiction": "HC",
@@ -1043,6 +1052,42 @@
     },
     {
       "id": "2e1798bc-0a77-4cd1-a597-3b3e8edb50d2",
+      "caseNo": "JA-22NCvC-9-01/2025",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "LEE CHAN MENG (melalui LEE SHI YI sebagai Jawatankuasa dan estet kepada LEE CHAN MENG) v LEE PAK NANG TEE & ors",
+      "parties": [
+        {
+          "label": "PLAINTIF",
+          "names": [
+            "LEE CHAN MENG (melalui LEE SHI YI sebagai Jawatankuasa dan estet kepada LEE CHAN MENG)"
+          ]
+        },
+        {
+          "label": "DEFENDAN",
+          "names": [
+            "LEE PAK NANG TEE",
+            "LEE CHUAN GUAN STEEL SDN BHD"
+          ]
+        }
+      ],
+      "catchwords": "Civil Procedure — Stay of proceedings — Order 92 rule 4 Rules of Court 2012 — Related High Court proceedings — Challenge to retrospective declaration of mental incapacity — Whether special circumstances established — Risk of inconsistent findings and duplication — Whether one proceeding ought to await determination of a foundational issue in another proceeding. Civil Procedure — Consolidation and joint hearing — Order 4 rule 1 Rules of Court 2012 — Common questions of law and fact — Different legal capacities, causes of action and burdens of proof — Judicial economy — Whether formal consolidation appropriate — Coordinated case management and sequential determination of related actions",
+      "judge": "YA Tuan Budiman Lutfi bin Mohamed",
+      "coram": [],
+      "dateOfResult": "2026-08-19",
+      "dateOfFiling": "2026-11-06",
+      "docs": [
+        {
+          "documentId": "e2445233-932f-4495-ac87-c1736befb9c8",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=e2445233-932f-4495-ac87-c1736befb9c8&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "8d98fbee-3d6c-4705-9140-90d765f46403",
       "caseNo": "JA-22NCvC-9-01/2025",
       "jurisdiction": "HC",
       "court": "High Court",
@@ -2301,42 +2346,6 @@
           "preparedBy": "YA Dato' Ahmad Fairuz bin Zainol Abidin",
           "category": "Sebulat Suara (Unanimous)",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=05fb7ab8-8dac-4d80-bbaa-6e659c5e968a&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "c5c318ef-8dae-4c4d-9bc0-a8b604a4e530",
-      "caseNo": "CB-42S-3-05/2025",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "MUHD JUNAIDI BIN KAMARUDIN v Pendakwa Raya & ors",
-      "parties": [
-        {
-          "label": "PERAYU",
-          "names": [
-            "MUHD JUNAIDI BIN KAMARUDIN"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "Pendakwa Raya",
-            "[Timbalan Pendakwa Raya (TPR), Jabatan Peguam Negara]"
-          ]
-        }
-      ],
-      "catchwords": "Seksyen 377C Kanun Keseksaan – Rayuan terhadap sabitan dan hukuman - Adakah seksyen 377C Kanun Keseksaan bercanggah dengan Perkara 8 dan 11 Perlembagaan Persekutuan - Adakah sabitan selamat - Hukuman 10 tahun penjara - Adakah terlalu berat.",
-      "judge": "YA Dato' Julia binti Ibrahim",
-      "coram": [],
-      "dateOfResult": "2026-01-19",
-      "dateOfFiling": "2026-11-05",
-      "docs": [
-        {
-          "documentId": "1af0cc4b-0fc6-4025-9353-e6f1220c8d22",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=1af0cc4b-0fc6-4025-9353-e6f1220c8d22&Inline=true"
         }
       ]
     },
