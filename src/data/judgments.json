@@ -1,6 +1,6 @@
 {
   "source": "Malaysia E-Judgment Portal (ejudgment.kehakiman.gov.my)",
-  "updatedAt": "2026-11-14T03:25:40.885Z",
+  "updatedAt": "2026-11-15T02:54:40.392Z",
   "count": 60,
   "judgments": [
     {
@@ -516,42 +516,6 @@
           "preparedBy": "",
           "category": "",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=e3f44b56-c4ca-46fe-9d7f-3138f3b6a846&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "bfe3bcdd-9838-4d81-9997-394f095f32b9",
-      "caseNo": "CA-12BC-4-10/2025",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "Nor Hayati Binti Mat Yusof v Norasmuna Aili Binti Ahmad & ors",
-      "parties": [
-        {
-          "label": "PERAYU",
-          "names": [
-            "Nor Hayati Binti Mat Yusof"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "Norasmuna Aili Binti Ahmad",
-            "Wan Izzah Iwana Nadjmin Binti Wan Ahmad Izuan"
-          ]
-        }
-      ],
-      "catchwords": "Tatacara sivil — Penggantungan pelaksanaan sementara menunggu rayuan — Relif hanya menyebut Perintah Mahkamah Tinggi dan tidak penghakiman wang substantif Mahkamah Sesyen — Sama ada keadaan khas dibuktikan — Pemfailan rayuan tidak dengan sendirinya mewajarkan penggantungan — Kontrak penyewaan kenderaan dengan institusi awam tidak membuktikan pelaksanaan akan menjejaskan operasi perniagaan atau menjadikan rayuan sia-sia — Risiko kebankrapan, kehilangan pekerjaan dan gangguan kepentingan awam bersifat andaian — Tiada risiko kegagalan restitusi atau perlindungan pembayaran ditawarkan — Tiada asas bagi penggantungan tanpa syarat atau bersyarat — Permohonan ditolak.",
-      "judge": "YA Tuan Samry bin Masri",
-      "coram": [],
-      "dateOfResult": "2026-10-21",
-      "dateOfFiling": "2026-11-12",
-      "docs": [
-        {
-          "documentId": "1418cc9b-a15b-4972-99b6-b6a8598c8b91",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=1418cc9b-a15b-4972-99b6-b6a8598c8b91&Inline=true"
         }
       ]
     },
@@ -1369,6 +1333,45 @@
       ]
     },
     {
+      "id": "fe579e17-9cb7-46a4-8c02-66e9d5bbe0bb",
+      "caseNo": "MA-25-8-03/2026",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "CHEW CHIN THAI & ors v TRIBUNAL PENGURUSAN STRATA & ors",
+      "parties": [
+        {
+          "label": "PEMOHON",
+          "names": [
+            "CHEW CHIN THAI",
+            "TEO GEOK KHUAN"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "TRIBUNAL PENGURUSAN STRATA",
+            "ALDRIAN CHUA THIAM HOCK",
+            "EUNICE CHUA AI LING",
+            "PERBADANAN PENGURUSAN KONDOMINIUM SELAT HORIZON"
+          ]
+        }
+      ],
+      "catchwords": "The Applicants seek judicial review pursuant to Order 53 of the Rules of Court 2012 in respect of a decision allegedly made by the Tribunal on 12 March 2026. The Applicants contend, inter alia, that the Tribunal President ought to have recused himself from hearing the matter and that the Tribunal acted improperly in proceeding with the claim.",
+      "judge": "YA Datuk Isa Aziz Ibrahim",
+      "coram": [],
+      "dateOfResult": "2026-08-20",
+      "dateOfFiling": "2026-11-14",
+      "docs": [
+        {
+          "documentId": "49cbb5b9-0d86-4ffe-b378-4c6ee4929366",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=49cbb5b9-0d86-4ffe-b378-4c6ee4929366&Inline=true"
+        }
+      ]
+    },
+    {
       "id": "e29ec9e8-90c6-455d-80e3-f3caad7b4c54",
       "caseNo": "BA-21NCvC-9-02/2026",
       "jurisdiction": "HC",
@@ -1556,6 +1559,43 @@
           "preparedBy": "YA Dato Rhodzariah binti Bujang",
           "category": "Minoriti/Dissenting",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=62e48ad9-3b10-4a77-983b-d5818692e45d&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "dec3054c-2417-4c5d-a4e6-ef0b7cbf00d6",
+      "caseNo": "RA-45A-10-04/2022",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "Pendakwa Raya v SHAMIL BIN SAADDIN & ors",
+      "parties": [
+        {
+          "label": "PENDAKWA RAYA",
+          "names": [
+            "Pendakwa Raya"
+          ]
+        },
+        {
+          "label": "TERTUDUH",
+          "names": [
+            "SHAMIL BIN SAADDIN",
+            "MUHAMAD SHAHRUL NIZAM BIN SHAFII",
+            "MARHAFIZ BIN MAIDINSHA"
+          ]
+        }
+      ],
+      "catchwords": "&quot;Seksyen 39B(1)(a) Akta 234 - OKT-OKT dilepas dan dibebaskan di akhir kes pendakwaan - sama ada SP8 adalah merupakan rakan sejenayah dan keterangannya boleh diterima - sama ada PR berjaya membuktikan bahawa dadah-dadah yang ditemui adalah dalam milikan bersama OKT-OKT&quot;",
+      "judge": "YA Datuk Mohamad Abazafree bin Mohd Abbas",
+      "coram": [],
+      "dateOfResult": "2026-07-23",
+      "dateOfFiling": "2026-11-15",
+      "docs": [
+        {
+          "documentId": "4006c893-9e2f-4aab-9bbf-8e39bb9ce0d0",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=4006c893-9e2f-4aab-9bbf-8e39bb9ce0d0&Inline=true"
         }
       ]
     },
@@ -2032,7 +2072,7 @@
       ]
     },
     {
-      "id": "ff849478-ee84-4ac5-8a31-2e3327d41edd",
+      "id": "54d8a11b-8e54-4415-8a47-97d9a663a5d5",
       "caseNo": "K-05(SH)-21-01/2025",
       "jurisdiction": "COA",
       "court": "Court of Appeal",
@@ -2072,7 +2112,7 @@
       ]
     },
     {
-      "id": "54d8a11b-8e54-4415-8a47-97d9a663a5d5",
+      "id": "ff849478-ee84-4ac5-8a31-2e3327d41edd",
       "caseNo": "K-05(SH)-21-01/2025",
       "jurisdiction": "COA",
       "court": "Court of Appeal",
@@ -2357,41 +2397,6 @@
           "preparedBy": "YA Dato' Paduka Azman Bin Abdullah",
           "category": "Sebulat Suara (Unanimous)",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=dccdce75-33ab-4555-a59b-37f79b88e097&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "405acd0e-98d1-4895-a44f-b67d34d18b4a",
-      "caseNo": "JA-12BNCvC-39-08/2025",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "CARWINS AUTOMOBILE (M) SDN. BHD. v MUHAMMAD FARUQ BIN BASURI",
-      "parties": [
-        {
-          "label": "PERAYU",
-          "names": [
-            "CARWINS AUTOMOBILE (M) SDN. BHD."
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "MUHAMMAD FARUQ BIN BASURI"
-          ]
-        }
-      ],
-      "catchwords": "Catchwords Rayuan sivil — Salah nyata — Salah nyata secara penipuan — Jual beli kenderaan terpakai — Manipulasi odometer — Percanggahan mileage — Surat bahagian servis Honda Malaysia — Keterangan saksi (SP2) — Laporan PUSPAKOM — Kaveat pemeriksaan terhad — Tanggungjawab penjual — Pergantungan (reliance) — Seksyen 17, 18, 19 dan 65 Akta Kontrak 1950 — Seksyen 114(g) Akta Keterangan 1950 — Campur tangan Mahkamah Rayuan — Dapatan fakta — Tidak “plainly wrong” — Rayuan ditolak dengan kos.",
-      "judge": "YA Puan Manira Binti Mohd Nor",
-      "coram": [],
-      "dateOfResult": "2026-04-28",
-      "dateOfFiling": "2026-11-12",
-      "docs": [
-        {
-          "documentId": "1d388b7d-67af-41c5-9beb-22761de739eb",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=1d388b7d-67af-41c5-9beb-22761de739eb&Inline=true"
         }
       ]
     },
