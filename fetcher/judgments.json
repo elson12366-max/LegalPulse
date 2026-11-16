@@ -1,47 +1,89 @@
 {
   "source": "Malaysia E-Judgment Portal (ejudgment.kehakiman.gov.my)",
-  "updatedAt": "2026-11-15T02:54:40.392Z",
+  "updatedAt": "2026-11-16T02:55:18.803Z",
   "count": 60,
   "judgments": [
     {
-      "id": "e9265fd0-6eb3-419a-a2ea-e38d3d881720",
-      "caseNo": "PA-33-340-10/2025",
+      "id": "82d55f65-f726-4f33-bb35-834b92620559",
+      "caseNo": "PA-23NCvC-17-10/2025",
       "jurisdiction": "HC",
       "court": "High Court",
-      "title": "NG YIN PIN v DEREK KWOK KEE YEUNG & ors",
+      "title": "Yogesuary a/p Durai Singam v MCAA Medicare Sdn Bhd & ors",
       "parties": [
         {
-          "label": "PEMPETISYEN",
+          "label": "PLAINTIF",
           "names": [
-            "NG YIN PIN"
+            "Yogesuary a/p Durai Singam"
           ]
         },
         {
-          "label": "RESPONDEN",
+          "label": "DEFENDAN",
           "names": [
-            "DEREK KWOK KEE YEUNG",
-            "OLGA, MARIANNE ROSTAQUI EP. PETITHOMME"
-          ]
-        },
-        {
-          "label": "PIHAK YANG DINAMAKAN",
-          "names": [
-            "Kang Cheow Sean"
+            "MCAA Medicare Sdn Bhd",
+            "Dr Yap Mun Chung",
+            "John Doe",
+            "Dr Cheah Li Lynn",
+            "Dr Leow Voon Chin",
+            "Mediworld Healthcare Sdn Bhd",
+            "Dr S. Mogan Naidu a/l Sannasy Naidu",
+            "Dr Rama a/l Doraisamy"
           ]
         }
       ],
-      "catchwords": "1 . This is a divorce proceeding commenced by Ng Yin Ping (&quot;the Petitioner Wife&quot;) against Derek Kwok Kee Yeung (&quot;the Respondent Husband&quot;). In the Petition, the Petitioner Wife seeks, inter alia, various reliefs arising from the breakdown of the marriage. The Petitioner Wife has also named Olga, Marianne Rostaqui ep. Petithomme (&quot;the Co-Respondent&quot;) as the Co-Respondent in respect of allegations concerning the Respondent Husband&#039;s alleged adultery with the Co-Respondent. 2. The Respondent Husband filed his Answer to the Petition and Cross-Petition dated 26 November 2025. In his Cross-Petition, the Respondent Husband named Kang Cheow Sean (&quot;the Party Cited&quot;) in respect of allegations that the Party Cited was involved in an adulterous relationship with the Petitioner Wife. The Respondent Husband further seeks, inter alia, an order that the Party Cited pay damages to him for adultery. 3. The present judgment concerns the Party Cited&#039;s application in Enclosure 19 to be struck out and/or removed as a party to the Respondent Husband&#039;s Answer and Cross-Petition. The application is made pursuant to Order 18 rule 19 and Order 92 rule 4 of the Rules of Court 2012, read with rule 103 of the Divorce and Matrimonial Proceedings Rules 1980. 4. The issue for determination is whether, in the circumstances of the present case, the Party Cited ought to be struck out and/or removed as a party to the Respondent Husband&#039;s Answer and Cross-Petition on the grounds that the pleadings disclose no reasonable cause of action against him and/or that his inclusion is scandalous, frivolous, vexatious or an abuse of the process of the Court.",
+      "catchwords": "1 . This is an action founded on medical negligence. Before a claim of this nature proceeds to trial, the parties may avail themselves of the interlocutory procedures provided by law to prepare their respective cases. These procedures are intended to ensure that relevant documents are properly identified and made available where appropriate, thereby enabling the parties to prepare for trial and assisting the Court in the fair and effective determination of the issues in dispute. 2. In Enclosure 30, the First to Fourth Defendants seek an order for discovery against the Plaintiff pursuant to Order 24 of the Rules of Court 2012. The application concerns eight categories of medical reports and records which the Defendants say are relevant to the Plaintiffs pleaded injuries, diagnosis and subsequent medical treatment. 3. The present application raises the question of whether the documents sought ought to be disclosed, having regard to the applicable legal principles governing discovery and the circumstances of the present case.",
       "judge": "YA Dr Choong Yeow Choy",
       "coram": [],
-      "dateOfResult": "2026-11-10",
-      "dateOfFiling": "2026-11-13",
+      "dateOfResult": "2026-11-12",
+      "dateOfFiling": "2026-11-16",
       "docs": [
         {
-          "documentId": "1cab9c63-1795-4f71-b262-d0e0b15a1fb5",
+          "documentId": "1004b1f3-f71d-4020-9567-bac1aa69f512",
           "name": "Alasan Penghakiman",
           "preparedBy": "",
           "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=1cab9c63-1795-4f71-b262-d0e0b15a1fb5&Inline=true"
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=1004b1f3-f71d-4020-9567-bac1aa69f512&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "662a336d-1c03-415c-8152-0fb4d71fc6e6",
+      "caseNo": "PA-23NCvC-17-10/2025",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "Yogesuary a/p Durai Singam v MCAA Medicare Sdn Bhd & ors",
+      "parties": [
+        {
+          "label": "PLAINTIF",
+          "names": [
+            "Yogesuary a/p Durai Singam"
+          ]
+        },
+        {
+          "label": "DEFENDAN",
+          "names": [
+            "MCAA Medicare Sdn Bhd",
+            "Dr Yap Mun Chung",
+            "John Doe",
+            "Dr Cheah Li Lynn",
+            "Dr Leow Voon Chin",
+            "Mediworld Healthcare Sdn Bhd",
+            "Dr S. Mogan Naidu a/l Sannasy Naidu",
+            "Dr Rama a/l Doraisamy"
+          ]
+        }
+      ],
+      "catchwords": "1 . Before a matter proceeds to trial, parties must have a proper understanding of each other&#039;s respective cases as pleaded. The law permits a party to seek further and better particulars where necessary to clarify the opposing party&#039;s pleaded case. 2. In the present action founded on medical negligence, the 1st to 4th Defendants have filed the application in Enclosure 32 seeking further and better particulars of the Plaintiffs case. The application falls to be determined in accordance with the established principles governing such applications. 3. The overriding issue is whether the particulars sought by the 1st to 4th Defendants are necessary to clarify the material facts underlying the Plaintiffs pleaded case, or whether they go beyond that purpose by seeking details of the evidence by which the Plaintiff intends to prove her case. 4. This requires the Court to consider the nature and scope of each request in Enclosure 32, having regard to the Plaintiffs pleadings and the purpose for which the particulars are sought.",
+      "judge": "YA Dr Choong Yeow Choy",
+      "coram": [],
+      "dateOfResult": "2026-11-12",
+      "dateOfFiling": "2026-11-16",
+      "docs": [
+        {
+          "documentId": "2b38d636-f7a6-4f11-9fde-43f28ce774ae",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=2b38d636-f7a6-4f11-9fde-43f28ce774ae&Inline=true"
         }
       ]
     },
@@ -160,6 +202,84 @@
           "preparedBy": "YA Datuk Wong Kian Kheong",
           "category": "Sebulat Suara (Unanimous)",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=b098ffc1-6abf-400c-874e-50b59cf55f48&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "130fe5e2-4840-49fa-95aa-619d0f5f9fa3",
+      "caseNo": "W-01(A)-133-02/2024",
+      "jurisdiction": "COA",
+      "court": "Court of Appeal",
+      "title": "ETIQA FAMILY TAKAFUL BERHAD v Ketua Pengarah Hasil Dalam Negeri",
+      "parties": [
+        {
+          "label": "PERAYU",
+          "names": [
+            "ETIQA FAMILY TAKAFUL BERHAD"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "Ketua Pengarah Hasil Dalam Negeri"
+          ]
+        }
+      ],
+      "catchwords": "Takaful Operator / Takaful Business - Three-Fund Structure - General Takaful Fund - Family Takaful Fund - Shareholders&#039; Fund - Syariah Contracts (Wakalah &amp; Mudharabah) – Qard - Tier 2 Subordinated Bond / Sukuk - Profit Payment / Return - Bank Negara Malaysia (BNM) &amp; Capital Adequacy Ratio - Section 33(1) - Section 60AA - Section 52",
+      "judge": "YA Dato' Ong Chee Kwan",
+      "coram": [
+        "YA Datuk Azhahari Kamal bin Ramli",
+        "YA Datuk Hayatul Akmal binti Abdul Aziz",
+        "YA Dato' Ong Chee Kwan"
+      ],
+      "dateOfResult": "2026-11-01",
+      "dateOfFiling": "2026-11-15",
+      "docs": [
+        {
+          "documentId": "dc26f9ca-f31d-412c-be85-bb95b902b8e2",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "YA Dato' Ong Chee Kwan",
+          "category": "Sebulat Suara (Unanimous)",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=dc26f9ca-f31d-412c-be85-bb95b902b8e2&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "0bad378b-1871-4583-95ec-885b2d9c97f0",
+      "caseNo": "W-01(A)-138-02/2024",
+      "jurisdiction": "COA",
+      "court": "Court of Appeal",
+      "title": "ETIQA GENERAL INSURANCE BERHAD v Ketua Pengarah Hasil Dalam Negeri",
+      "parties": [
+        {
+          "label": "PERAYU",
+          "names": [
+            "ETIQA GENERAL INSURANCE BERHAD"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "Ketua Pengarah Hasil Dalam Negeri"
+          ]
+        }
+      ],
+      "catchwords": "Takaful Operator / Takaful Business - Three-Fund Structure - General Takaful Fund - Family Takaful Fund - Shareholders&#039; Fund - Syariah Contracts (Wakalah &amp; Mudharabah) – Qard - Tier 2 Subordinated Bond / Sukuk - Profit Payment / Return - Bank Negara Malaysia (BNM) &amp; Capital Adequacy Ratio - Section 33(1) - Section 60AA - Section 52",
+      "judge": "YA Dato' Ong Chee Kwan",
+      "coram": [
+        "YA Datuk Azhahari Kamal bin Ramli",
+        "YA Datuk Hayatul Akmal binti Abdul Aziz",
+        "YA Dato' Ong Chee Kwan"
+      ],
+      "dateOfResult": "2026-11-01",
+      "dateOfFiling": "2026-11-15",
+      "docs": [
+        {
+          "documentId": "9daa57a4-bda4-46d8-b90c-eb1037242873",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "YA Dato' Ong Chee Kwan",
+          "category": "Sebulat Suara (Unanimous)",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=9daa57a4-bda4-46d8-b90c-eb1037242873&Inline=true"
         }
       ]
     },
@@ -485,41 +605,6 @@
       ]
     },
     {
-      "id": "27bf7f92-260a-4188-8668-acc4a5eae635",
-      "caseNo": "AD-42K-1-07/2026",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "Firdaus Rizal Bin Abdul Manan v Pendakwa Raya",
-      "parties": [
-        {
-          "label": "PERAYU",
-          "names": [
-            "Firdaus Rizal Bin Abdul Manan"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "Pendakwa Raya"
-          ]
-        }
-      ],
-      "catchwords": "criminal breach of trust , former advocate and solicitor , Section 409 of the Penal Code, real estate transactions, Section 103A(1)(b) of the Legal Profession Act 1976",
-      "judge": "YA Tuan Zaman bin Mohd Noor",
-      "coram": [],
-      "dateOfResult": "2026-10-25",
-      "dateOfFiling": "2026-11-12",
-      "docs": [
-        {
-          "documentId": "e3f44b56-c4ca-46fe-9d7f-3138f3b6a846",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=e3f44b56-c4ca-46fe-9d7f-3138f3b6a846&Inline=true"
-        }
-      ]
-    },
-    {
       "id": "5180e73e-4d32-4aea-bed4-204c16312c40",
       "caseNo": "W-01(NCvC)(W)-188-04/2025",
       "jurisdiction": "COA",
@@ -564,48 +649,6 @@
           "preparedBy": "Dato' Dr. Choo Kah Sing",
           "category": "Sebulat Suara (Unanimous)",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=6ecc22d0-3559-492d-b1b8-7dab025d02f1&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "ebc99069-03f3-433a-bbbc-fbfb9831aed7",
-      "caseNo": "WA-28NCC-234-02/2026",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "IMPIANA SDN. BHD. & ors v V CAPITAL SDN. BHD.",
-      "parties": [
-        {
-          "label": "PEMPETISYEN",
-          "names": [
-            "IMPIANA SDN. BHD.",
-            "DATO SERI ISMAIL FAROUK BIN ABDULLAH"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "V CAPITAL SDN. BHD."
-          ]
-        },
-        {
-          "label": "PENCELAH",
-          "names": [
-            "Woo Wai Mun"
-          ]
-        }
-      ],
-      "catchwords": "Company law – Winding-up – Creditor’s petition – Judgment debt – Sections 465(1)(e), 466(1)(a) and 469(1) Companies Act 2016 – Statutory demand – Failure to pay within 21 days – Whether judgment debt bona fide disputed – Pending appeal – Conditional stay of execution – Whether stay of execution barred winding-up proceedings – Statutory presumption of insolvency – Commercial insolvency – Failure to rebut presumption – RM15 million deposited into solicitors’ client account – Whether stakeholder deposit constituted payment or satisfaction of judgment debt – Court’s discretion to refuse or defer winding-up order – Stay application dismissed – Winding-up order granted.",
-      "judge": "YA Puan Ku Hayati binti Ku Haron",
-      "coram": [],
-      "dateOfResult": "2026-10-18",
-      "dateOfFiling": "2026-11-13",
-      "docs": [
-        {
-          "documentId": "5f333f1f-2112-4fde-8dbf-f997dee37972",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=5f333f1f-2112-4fde-8dbf-f997dee37972&Inline=true"
         }
       ]
     },
@@ -677,77 +720,6 @@
           "preparedBy": "",
           "category": "",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=f7c87c74-d9fb-4068-aa95-4c7c0c168f8e&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "2f3137bb-d037-4570-9e76-38087529c345",
-      "caseNo": "WA-24NCC-629-11/2023",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "Dato' Seri Timor Shah Rafiq v Nautilus Tug & Towage Sdn. Bhd.",
-      "parties": [
-        {
-          "label": "PEMOHON",
-          "names": [
-            "Dato' Seri Timor Shah Rafiq"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "Nautilus Tug & Towage Sdn. Bhd."
-          ]
-        }
-      ],
-      "catchwords": "COMPANY LAW: Statutory derivative action — Leave to commence derivative proceedings — Order granting leave perfected — Plaintiff’s office as director subsequently vacated — Defendant applying to set aside leave order — Whether Court functus officio — Whether subsequent loss of office retrospectively invalidated leave order — Whether recognised exceptions established — Application dismissed",
-      "judge": "YA Puan Elaine Yap Chin Gaik",
-      "coram": [],
-      "dateOfResult": "2026-10-12",
-      "dateOfFiling": "2026-11-13",
-      "docs": [
-        {
-          "documentId": "aa7745c6-e8a9-4ca7-ab80-3b556a25f7f5",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=aa7745c6-e8a9-4ca7-ab80-3b556a25f7f5&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "353defb3-590b-45b8-9d4e-8bead1b899ab",
-      "caseNo": "BA-22NCvC-205-05/2025",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "TAMIL CHILBI A/P SELLAPERUMAL v VIKNESWARAN A/L ARJUNAN & ors",
-      "parties": [
-        {
-          "label": "PLAINTIF",
-          "names": [
-            "TAMIL CHILBI A/P SELLAPERUMAL"
-          ]
-        },
-        {
-          "label": "DEFENDAN",
-          "names": [
-            "VIKNESWARAN A/L ARJUNAN",
-            "PENDAFTAR HAKMILIK NEGERI SELANGOR"
-          ]
-        }
-      ],
-      "catchwords": "Land Law – Contract Law – issue of the existence and terms of the sale and the identity of the person entitled to transfer-issue oh payment of the RM30,000 performance of the loan obligations, continued enforceability and the effect of MRTA- issue of the validity of the power of attorney- occupation, the caveat and entitlement to specific performance and damages and the appropriate consequential orders- Sections 17,21, 101–103 of the Evidence Act 1950; Sections 9,10,14,16-19,40,56 of the Contracts Act 1950; Section 206,323,340 of the National Land Code; section 21 of the Specific Relief Act 1950- Order 45 rule 8 and Order 59 of the Rules of Court 2012",
-      "judge": "YA Dato' Anita binti Harun",
-      "coram": [],
-      "dateOfResult": "2026-10-11",
-      "dateOfFiling": "2026-11-12",
-      "docs": [
-        {
-          "documentId": "1e08b2d5-7d4d-4cde-bd38-fb39e54019cc",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=1e08b2d5-7d4d-4cde-bd38-fb39e54019cc&Inline=true"
         }
       ]
     },
@@ -825,160 +797,6 @@
       ]
     },
     {
-      "id": "706f94b2-2e8a-44a8-96e2-dc9d9431904f",
-      "caseNo": "Q-01(NCvC)(W)-62-02/2021",
-      "jurisdiction": "COA",
-      "court": "Court of Appeal",
-      "title": "EDWARD GELLA BAUL & ors v SUPERINTENDENT OF LAND AND SURVEY & ors",
-      "parties": [
-        {
-          "label": "PERAYU",
-          "names": [
-            "EDWARD GELLA BAUL",
-            "DESMOND REYNOLD JEMENI",
-            "TATOL @ KATOL ANAK TUTOM",
-            "LENGKONG ANAK ABA [Suing on behalf of themselves and 20 other Claimants of Native Customary Right Land located in Sungai Geruyu / Sungai Ruyu, a tributary of Sungai Krian, Saratok, Sarawak]"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "SUPERINTENDENT OF LAND AND SURVEY",
-            "STATE GOVERNMENT OF SARAWAK",
-            "THP SARIBAS SDN. BHD.",
-            "GARAN ANAK CHUNGGUT",
-            "BETTY ANAK LOUIS",
-            "UNCHIE ANAK INSAM",
-            "ENSIN ANAK JUTI",
-            "GEORGES ANAK GARAN",
-            "MULOK ANAK SELIMAN",
-            "BARAU ANAK LAGAT",
-            "XXXX",
-            "DAWONG ANAK SIDOM",
-            "BANDAI ANAK RAMBEY",
-            "MAJID ANAK SALOK",
-            "RAMBEY ANAK IJOIE",
-            "SAGI ANAK APAU",
-            "AWAN ANAK KUPAT",
-            "LIANG ANAK GASAH",
-            "SANI @ SUNNY ANAK SALOK",
-            "IMAS ANAK BLANDA",
-            "SARA ANAK SALOK",
-            "DIANA ANAK EMPENI",
-            "ENTERI ANAK EMA",
-            "MUNJI ANAK LAMIT",
-            "REYMON MAJANG ANAK PANA",
-            "LAMIT ANAK TOW",
-            "AGNESS IMBAU ANAK LUNAI",
-            "JIMBAU ANAK GASAH",
-            "DEGET BIN MANTASIN",
-            "DAVID ANAK UGAT",
-            "SEDIN ANAK JUAN",
-            "KELEY ANAK EMPAGA",
-            "BAJING ANAK IMBING",
-            "NOEL TOM ANAK TUTOM",
-            "PETER ANAK BAJING"
-          ]
-        }
-      ],
-      "catchwords": "Land Law – Native customary rights – Whether Appellants had acquired native customary rights over land before 1 January 1958 – Whether HCJ had erred in declining jurisdiction – Whether disputes were between natives – Whether reliefs sought by Appellants could be obtained from native courts – Native Courts Ordinance 1992 section 5 Land Law – Native customary rights – Whether Appellants had acquired native customary rights over land before 1 January 1958 – Whether HCJ had erred in declining jurisdiction – Consents judgments previously obtained at Native Court – Whether Appellants bound by previous consents judgments – Whether res judicata applied Land Law – Native customary rights – Whether Appellants had acquired native customary rights over land before 1 January 1958 – Whether Appellants had proved their claims on a balance of probabilities – Whether maps adduced by Appellants were rightly rejected – Whether Third Respondent’s title was indefeasible – Whether Appellants’ oral evidence was rightly rejected",
-      "judge": "YA Datin Paduka Evrol Mariette Peters",
-      "coram": [
-        "YA Datuk Wong Kian Kheong",
-        "YA Dato' Dr Alwi Bin Abdul Wahab",
-        "YA Datin Paduka Evrol Mariette Peters"
-      ],
-      "dateOfResult": "2026-10-06",
-      "dateOfFiling": "2026-10-29",
-      "docs": [
-        {
-          "documentId": "45c32c57-77b1-493c-a1ea-d2d5896cf4cb",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "YA Datin Paduka Evrol Mariette Peters",
-          "category": "Sebulat Suara (Unanimous)",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=45c32c57-77b1-493c-a1ea-d2d5896cf4cb&Inline=true"
-        },
-        {
-          "documentId": "4a406f77-90d8-445c-863e-d2fd4eb43301",
-          "name": "edward gella v superintendent of land survey.pdf",
-          "preparedBy": "YA Datuk Wong Kian Kheong",
-          "category": "Sebulat Suara (Unanimous)",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=4a406f77-90d8-445c-863e-d2fd4eb43301&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "5348de8f-a2d8-4bb5-bb95-e3f78c14e881",
-      "caseNo": "BA-44-102-07/2026",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "KRISHNAMOORTHY A/L TANNIMALAY v Pendakwa Raya",
-      "parties": [
-        {
-          "label": "PEMOHON",
-          "names": [
-            "KRISHNAMOORTHY A/L TANNIMALAY"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "Pendakwa Raya"
-          ]
-        }
-      ],
-      "catchwords": "Criminal application – application for bail pending the final disposal of trial – whether the Applicant is a sick or infirm person pursuant to s. 13(2)(c) of the SOSMA - whether s. 13 of the SOSMA is unconstitutional, invalid, and of no legal effect under the Federal Constitution - whether the general discretionary bail provisions under s. 388 of the CPC apply to offences governed by the SOSMA",
-      "judge": "YA Dato' Sri Shamsulbahri bin Haji Ibrahim",
-      "coram": [],
-      "dateOfResult": "2026-10-06",
-      "dateOfFiling": "2026-11-12",
-      "docs": [
-        {
-          "documentId": "2fb625b7-9490-483a-8706-1420f4786f14",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=2fb625b7-9490-483a-8706-1420f4786f14&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "fa4733ed-c283-46f9-9c2b-292d83f9ffd4",
-      "caseNo": "WA-28PW-498-06/2026",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "AMD CONSTRUCTION SDN BHD v CHAI KIN LOONG & ors",
-      "parties": [
-        {
-          "label": "PEMOHON",
-          "names": [
-            "AMD CONSTRUCTION SDN BHD"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "CHAI KIN LOONG",
-            "KLC HOLDING SDN. BHD. (DALAM LIKUIDASI)"
-          ]
-        }
-      ],
-      "catchwords": "Company law – Winding-up – Company in liquidation – Contributory’s application for leave to commence proceedings on behalf of company – Section 486(2) Companies Act 2016 – Ex parte leave order – Application to set aside – Order 32 rule 6 Rules of Court 2012 – Locus standi of non-party to challenge leave order – Whether liquidator’s prior refusal to commence proceedings was a condition precedent – Whether refusal could be inferred from liquidator’s conduct – Official Receiver’s non-objection to leave application – Whether statutory precondition satisfied – Best interests of company and creditors – Recovery of assets for liquidation estate – Whether grant of leave caused prejudice – Collateral challenge to discretionary order – No jurisdictional defect or material non-disclosure – Application dismissed – Leave order upheld.",
-      "judge": "YA Puan Ku Hayati binti Ku Haron",
-      "coram": [],
-      "dateOfResult": "2026-10-04",
-      "dateOfFiling": "2026-11-13",
-      "docs": [
-        {
-          "documentId": "b135dc78-4b02-474f-91e9-945c84ffca54",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=b135dc78-4b02-474f-91e9-945c84ffca54&Inline=true"
-        }
-      ]
-    },
-    {
       "id": "640cc3a0-22bc-44e6-b3ef-9f78d45dfbba",
       "caseNo": "CB-22NCvC-10-05/2025",
       "jurisdiction": "HC",
@@ -1010,45 +828,6 @@
           "preparedBy": "",
           "category": "",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=24f96c0f-64db-438c-b89a-d80eaaaf6466&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "a4d1cbf7-d81a-4fd9-999a-1bbacce7ec5b",
-      "caseNo": "AD-24NCvC-34-07/2026",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "ETIQA GENERAL TAKAFUL BERHAD v LA VIE HOLISTIQUE SDN. BHD. & ors",
-      "parties": [
-        {
-          "label": "PEMOHON",
-          "names": [
-            "ETIQA GENERAL TAKAFUL BERHAD"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "LA VIE HOLISTIQUE SDN. BHD.",
-            "YEOW KONG CHENG",
-            "WONG CHING PING (didakwa atas kapasiti diri sendiri dan sebagai ibu dan wakil litigasi Woon Xin Rou dan Woon Xin Yuan)",
-            "WOON CHONG TECK",
-            "ONG TEW YIM"
-          ]
-        }
-      ],
-      "catchwords": "Section 91(1) and (3) of the Road Transport Act ; Section 41 of the Specific Relief Act 1950, Etiqa General Takaful Berhad , LA VIE HOLISTIQUE SDN. BHD, Commercial Vehicle Takaful Policy , Section 91(1)(b)(aa) of the Road Transport Act 1987 , Contra Proferentem Principle",
-      "judge": "YA Tuan Zaman bin Mohd Noor",
-      "coram": [],
-      "dateOfResult": "2026-09-22",
-      "dateOfFiling": "2026-11-12",
-      "docs": [
-        {
-          "documentId": "353ff16f-e0dd-42e9-8e64-316a9fdd64b4",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=353ff16f-e0dd-42e9-8e64-316a9fdd64b4&Inline=true"
         }
       ]
     },
@@ -1135,37 +914,73 @@
       ]
     },
     {
-      "id": "ea1fe953-9ceb-4124-b89f-304bc53278e5",
-      "caseNo": "AA-45A-1-01/2020",
+      "id": "2f857ca9-0fa8-40d6-99da-f9e37c2f1e7d",
+      "caseNo": "TA-42JSKLB(A)-1-08/2025",
       "jurisdiction": "HC",
       "court": "High Court",
-      "title": "Pendakwa Raya v MOHAMMED SAJAHAN BIN RAJA MOHAMMED",
+      "title": "Pendakwa Raya v ASRO BIN OTHMAN",
       "parties": [
         {
-          "label": "PENDAKWA RAYA",
+          "label": "PERAYU",
           "names": [
             "Pendakwa Raya"
           ]
         },
         {
-          "label": "TERTUDUH",
+          "label": "RESPONDEN",
           "names": [
-            "MOHAMMED SAJAHAN BIN RAJA MOHAMMED"
+            "ASRO BIN OTHMAN"
           ]
         }
       ],
-      "catchwords": "CRIMINAL LAW: Dangerous drugs – Trafficking and possession – Whether prosecution proved possession beyond reasonable doubt – Whether material contradictions in police witnesses&#039; evidence concerning the same operation raised reasonable doubt – Whether notes of evidence from a related criminal trial could be considered in assessing credibility – Whether failure to call material police witnesses justified an adverse inference under section 114(g) of the Evidence Act 1950 – Whether investigating officer&#039;s failure to read the Accused&#039;s cautioned statement and investigate his early denial affected the prosecution&#039;s case – Whether defence amounted to recent invention – Whether statutory presumptions concerning possession and trafficking could be invoked without proof of possession – Whether prosecution failed to prove both charges beyond reasonable doubt",
-      "judge": "YA Tuan Moses Susayan",
+      "catchwords": "Criminal Procedure - Appeal - Appeal against acquittal and discharge at close of prosecution&#039;s case - Charge under s 14(a) Sexual Offences Against Children Act 2017 read with s 16(1) - Whether prima facie case established - Whether Sessions Court Judge erred in finding victim&#039;s evidence lacking credibility - Material inconsistency as to date of first charge - Conflict of evidence between victim and accused&#039;s wife on second charge - Adverse inference under s 114(g) Evidence Act 1950 for failure to call forensic examiner and material witness - Whether appeal should be allowed. Criminal Law - Sexual offences - Sexual Offences Against Children Act 2017 - Section 14(a) - Physical sexual assault on child - Section 16(1) relationship of trust - Coach - Whether relationship of trust established - Whether consent an element of offence - Whether charge defective for using &#039;batang kemaluan&#039; where evidence referred to &#039;telur/testis&#039; - Criminal Procedure Code s 422 - Whether defect in particulars curable. Evidence - Witnesses - Failure to call - Adverse inference - Section 114(g) Evidence Act 1950 - Mobile phone seized from accused but no forensic examiner called - Whether adverse inference should be drawn - Whether failure to call forensic examiner undermined prosecution&#039;s case on alleged photographs - Whether corroboration required in sexual offence cases - Whether victim&#039;s evidence &#039;unusually convincing&#039;. Evidence - Credibility - Victim&#039;s evidence - Material inconsistency as to date of offence - Explanation for inconsistency unconvincing - Contradiction by objective evidence - Online class screenshots - Whether Sessions Court Judge justified in finding victim&#039;s evidence lacking credibility. Evidence - Conflict of evidence - Conflict between victim and accused&#039;s wife - Whether benefit of doubt should be given to accused - Whether wife&#039;s evidence automatically unreliable by reason of relationship - Whether demeanour and internal consistency supported credibility.",
+      "judge": "YA Tuan Yusrin Faidz bin Yusoff",
       "coram": [],
-      "dateOfResult": "2026-09-08",
-      "dateOfFiling": "2026-11-12",
+      "dateOfResult": "2026-09-12",
+      "dateOfFiling": "2026-11-15",
       "docs": [
         {
-          "documentId": "c8302bc5-98e9-4ce0-bac6-f28eed01dcc4",
+          "documentId": "548aa102-34a0-467d-8361-112357fe86c3",
           "name": "Alasan Penghakiman",
           "preparedBy": "",
           "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=c8302bc5-98e9-4ce0-bac6-f28eed01dcc4&Inline=true"
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=548aa102-34a0-467d-8361-112357fe86c3&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "01535833-19f5-4be4-a215-cc26dbb00f34",
+      "caseNo": "BA-45A-5-02/2021",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "Pendakwa Raya & ors v ZOWIE CHOONG KIM LIANG",
+      "parties": [
+        {
+          "label": "PENDAKWA RAYA",
+          "names": [
+            "Pendakwa Raya",
+            "[TIMBALAN PENDAKWA RAYA]"
+          ]
+        },
+        {
+          "label": "TERTUDUH",
+          "names": [
+            "ZOWIE CHOONG KIM LIANG"
+          ]
+        }
+      ],
+      "catchwords": "CRIMINAL PROCEDURE: Sentencing – Consideration of other outstanding offences – Procedures to be adopted – The one transaction and proportionality principles – section 171A Criminal Procedure Code",
+      "judge": "YA Puan Adlin Binti Abdul Majid",
+      "coram": [],
+      "dateOfResult": "2026-09-08",
+      "dateOfFiling": "2026-11-16",
+      "docs": [
+        {
+          "documentId": "8a2b4347-14ab-4d15-9fc5-e77aafdcdceb",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=8a2b4347-14ab-4d15-9fc5-e77aafdcdceb&Inline=true"
         }
       ]
     },
@@ -1298,41 +1113,6 @@
       ]
     },
     {
-      "id": "e38f30fb-f16d-4cd6-b0d7-52e4e42fbeef",
-      "caseNo": "WA-22C-3-01/2023",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "LINGKARAN MUHIBAH SDN BHD v MAJLIS AGAMA ISLAM WILAYAH PERSEKUTUAN",
-      "parties": [
-        {
-          "label": "PLAINTIF",
-          "names": [
-            "LINGKARAN MUHIBAH SDN BHD"
-          ]
-        },
-        {
-          "label": "DEFENDAN",
-          "names": [
-            "MAJLIS AGAMA ISLAM WILAYAH PERSEKUTUAN"
-          ]
-        }
-      ],
-      "catchwords": "CONSTRUCTION LAW -Building contract -Full trial - Whether the contractor was responsible for the poor ground conditions and damaged bore piles in Zone C- Whether the employer’s handling of the Zone C design and scope changes adversely affected the works-Whether the employer’s failure to respond to requests to lift the Stop Work Order constituted default under Clause 55.0-Whether the contractor validly terminated under Clause 55.0 before the 12-month suspension period under Clause 50.2 elapsed-Whether the contractor was liable for damage to neighbouring properties or obliged to indemnify the employer for sums paid under a consent judgment-Whether the contractor proved its claims for work done, variations, loss and expense, and loss of profit-Whether the employer could withhold payment, forfeit the performance security or recover additional completion costs.",
-      "judge": "YA Tuan Rajes Raghavji",
-      "coram": [],
-      "dateOfResult": "2026-08-25",
-      "dateOfFiling": "2026-11-13",
-      "docs": [
-        {
-          "documentId": "9d87c8ec-8abb-4657-9f22-c6a4873a3db7",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=9d87c8ec-8abb-4657-9f22-c6a4873a3db7&Inline=true"
-        }
-      ]
-    },
-    {
       "id": "fe579e17-9cb7-46a4-8c02-66e9d5bbe0bb",
       "caseNo": "MA-25-8-03/2026",
       "jurisdiction": "HC",
@@ -1368,61 +1148,6 @@
           "preparedBy": "",
           "category": "",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=49cbb5b9-0d86-4ffe-b378-4c6ee4929366&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "e29ec9e8-90c6-455d-80e3-f3caad7b4c54",
-      "caseNo": "BA-21NCvC-9-02/2026",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "SAIDIN BIN BUSU & ors v Pentadbir Tanah Daerah Hulu Selangor & ors",
-      "parties": [
-        {
-          "label": "PLAINTIF",
-          "names": [
-            "SAIDIN BIN BUSU",
-            "SA'AD BIN BUSU",
-            "RASIDI BIN MAT BARRY",
-            "SITTIVENAYAGA MOURTHY A/L RENGASAMY",
-            "MEOR SHAHROOL BIN MAT NOR",
-            "MOHD SHARIF BIN SAHAM",
-            "ROSLI BIN BUSU",
-            "BADRUL LAILY BIN HELMY",
-            "RAKMAWI BIN HAFID",
-            "HATTAB BIN MENFARI",
-            "HESTI BINTI HASAN",
-            "SAFAWID BIN MAILI",
-            "MOHAMAD GHAZALI BIN MOHD SALEH",
-            "NOR HISHAM BIN RAHMAT",
-            "NORAZIAH BINTI HANAFI",
-            "MAAROF BIN AB HAMID",
-            "LAILA BINTI ASHAARI",
-            "ABDUL HALIM BIN SAWAL"
-          ]
-        },
-        {
-          "label": "DEFENDAN",
-          "names": [
-            "Pentadbir Tanah Daerah Hulu Selangor",
-            "Kerajaan Negeri Selangor",
-            "MJD LAND SDN BHD",
-            "MURNA JAYA DEVELOPMENT BERHAD"
-          ]
-        }
-      ],
-      "catchwords": "Land Law - Alienation of State land - TOL holders - No enforceable right to alienation - National Land Code 1965. Administrative Law - Judicial review - Public law challenge disguised as writ action - Challenge to State Authority&#039;s land alienation decision - Order 53 Rules of Court 2012. Administrative Law - Legitimate expectation - Whether constituting private law cause of action - Ground for judicial review only. Civil Procedure - Striking out - Writ disclosing public law challenge - Abuse of process - Order 18 r 19(1) Rules of Court 2012. Civil Procedure - Abuse of process - Circumvention of judicial review procedure and timelines - Writ action commenced eight years after impugned decision. Injunction - Interlocutory injunction - Main action struck out - No serious issue to be tried - Delay - Balance of convenience. Government Proceedings - Injunction against Government - Statutory prohibition - Government Proceedings Act 1956, s 29.",
-      "judge": "YA Puan Shoba Rajah a/p Dorai Rajah",
-      "coram": [],
-      "dateOfResult": "2026-08-19",
-      "dateOfFiling": "2026-11-12",
-      "docs": [
-        {
-          "documentId": "5ece079b-ff13-4e0c-89db-1ef6e6d221d0",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=5ece079b-ff13-4e0c-89db-1ef6e6d221d0&Inline=true"
         }
       ]
     },
@@ -1596,47 +1321,6 @@
           "preparedBy": "",
           "category": "",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=4006c893-9e2f-4aab-9bbf-8e39bb9ce0d0&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "c0a9179d-86b0-4d5f-b6d5-2c74fb743160",
-      "caseNo": "W-01(A)-288-06/2025",
-      "jurisdiction": "COA",
-      "court": "Court of Appeal",
-      "title": "VELMURUGAN v KETUA PENGARAH JABATAN PENDAFTARAN NEGARA & ors",
-      "parties": [
-        {
-          "label": "PERAYU",
-          "names": [
-            "VELMURUGAN"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "KETUA PENGARAH JABATAN PENDAFTARAN NEGARA",
-            "Kementerian Dalam Negeri (KDN)",
-            "Kerajaan Malaysia"
-          ]
-        }
-      ],
-      "catchwords": "CITIZENSHIP: Citizenship by operation of law — Article 14(1)(b) read with s 1(e), Part II, Second Schedule of the Federal Constitution — Jus soli and jus sanguinis — Burden of proof — Citizenship status of biological mother undetermined — Legitimacy and tracing of lineage — Citizenship of maternal relatives and children — Whether sufficient to establish entitlement to Malaysian citizenship. CONSTITUTIONAL LAW: Citizenship — Legitimate expectation — No representation or undertaking by public authority — Whether citizenship may be inferred from citizenship of relatives or children. ADMINISTRATIVE LAW: Judicial review — Decision of Director General of National Registration dated 30 January 2024 — Illegality, irrationality, procedural impropriety and disproportionality — Whether decision amenable to judicial intervention.",
-      "judge": "YA Datuk Azhahari Kamal bin Ramli",
-      "coram": [
-        "YA Datuk Azhahari Kamal bin Ramli",
-        "YA Dato' Faizah Binti Jamaludin",
-        "YA Datuk Hayatul Akmal binti Abdul Aziz"
-      ],
-      "dateOfResult": "2026-07-21",
-      "dateOfFiling": "2026-10-29",
-      "docs": [
-        {
-          "documentId": "32d44883-4dba-40fe-9754-399475579130",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "YA Datuk Azhahari Kamal bin Ramli",
-          "category": "Sebulat Suara (Unanimous)",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=32d44883-4dba-40fe-9754-399475579130&Inline=true"
         }
       ]
     },
@@ -2072,7 +1756,7 @@
       ]
     },
     {
-      "id": "54d8a11b-8e54-4415-8a47-97d9a663a5d5",
+      "id": "ff849478-ee84-4ac5-8a31-2e3327d41edd",
       "caseNo": "K-05(SH)-21-01/2025",
       "jurisdiction": "COA",
       "court": "Court of Appeal",
@@ -2112,7 +1796,7 @@
       ]
     },
     {
-      "id": "ff849478-ee84-4ac5-8a31-2e3327d41edd",
+      "id": "54d8a11b-8e54-4415-8a47-97d9a663a5d5",
       "caseNo": "K-05(SH)-21-01/2025",
       "jurisdiction": "COA",
       "court": "Court of Appeal",
@@ -2401,6 +2085,216 @@
       ]
     },
     {
+      "id": "cb199257-d722-4b74-ac90-615ce5f712b0",
+      "caseNo": "WA-22C-13-02/2020",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "GENTING HIGHLANDS BERHAD & ors v GM AERO SUPPORT SDN. BHD. & ors",
+      "parties": [
+        {
+          "label": "PLAINTIF",
+          "names": [
+            "GENTING HIGHLANDS BERHAD",
+            "GENTING MALAYSIA BERHAD",
+            "FIRST WORLD HOTELS & RESORTS SDN. BHD."
+          ]
+        },
+        {
+          "label": "DEFENDAN",
+          "names": [
+            "GM AERO SUPPORT SDN. BHD.",
+            "SYCAL BERHAD",
+            "LAU YEE SUM (BERAMAL DI BAWAH NAMA DAN GAYA PERUNDING JUTERA)",
+            "PERUNDING REKACEKAP SDN BHD",
+            "LEE YONG CHIEW (BERAMAL DI BAWAH NAMA DAN GAYA YC LEE ARCHITECT)",
+            "ZAHIRUDDIN BIN ZAINAL ( BERAMAL DI BAWAH NAMA DAN GAYA ZAHIRUDDIN TOWN PLANNING SERVICES)"
+          ]
+        }
+      ],
+      "catchwords": "Tort — quia timet action by neighbouring landowners to restrain a proposed highland mixed development — claims in breach of statutory duty, private nuisance, trespass and negligence — safety and stability of shared Class III and Class IV slopes — whether excavation, piling and slope-cutting at the toe of the slopes threatened loss of natural lateral and vertical support to adjoining land, occupied hotel complex and access road — expert evidence, court-appointed expert, weight and independence of party experts — planning law — whether a valid and subsisting planning permission and development order existed under Part IV of the Town and Country Planning Act 1976 — lapse of planning permission under s 24 for failure to commence development in the specified manner within twelve months — whether demolition, site clearance, notices or subdivision constituted lawful commencement — earthworks and building plan approvals under the Street, Drainage and Building Act 1974 and the Uniform Building (Pahang) By-Laws 1996 — contravention of the Guidelines on Development Planning in Hills and Highlands and the National Physical Plan — Special Management Area exemption — private road — possession, control and regulation of access — natural right of support under s 44(1)(b) of the National Land Code — collateral challenge and second actor principle — remedies — declarations, prohibitory and mandatory injunctions, restoration of the toe of the slopes, general damages — aggravated and exemplary damages refused — counterclaim for losses, delay, idleness and reputational harm dismissed — costs on a party and party basis.",
+      "judge": "YA Dato' Hajah Aliza binti Sulaiman",
+      "coram": [],
+      "dateOfResult": "2026-04-29",
+      "dateOfFiling": "2026-11-16",
+      "docs": [
+        {
+          "documentId": "a42b850b-3117-460a-9dac-ce54af778c4b",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=a42b850b-3117-460a-9dac-ce54af778c4b&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "732b7dd7-dccc-4f0b-979a-1b62b029e9d9",
+      "caseNo": "WA-22C-13-02/2020",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "GENTING HIGHLANDS BERHAD & ors v GM AERO SUPPORT SDN. BHD. & ors",
+      "parties": [
+        {
+          "label": "PLAINTIF",
+          "names": [
+            "GENTING HIGHLANDS BERHAD",
+            "GENTING MALAYSIA BERHAD",
+            "FIRST WORLD HOTELS & RESORTS SDN. BHD."
+          ]
+        },
+        {
+          "label": "DEFENDAN",
+          "names": [
+            "GM AERO SUPPORT SDN. BHD.",
+            "SYCAL BERHAD",
+            "LAU YEE SUM (BERAMAL DI BAWAH NAMA DAN GAYA PERUNDING JUTERA)",
+            "PERUNDING REKACEKAP SDN BHD",
+            "LEE YONG CHIEW (BERAMAL DI BAWAH NAMA DAN GAYA YC LEE ARCHITECT)",
+            "ZAHIRUDDIN BIN ZAINAL ( BERAMAL DI BAWAH NAMA DAN GAYA ZAHIRUDDIN TOWN PLANNING SERVICES)"
+          ]
+        }
+      ],
+      "catchwords": "Tort — quia timet action by neighbouring landowners to restrain a proposed highland mixed development — claims in breach of statutory duty, private nuisance, trespass and negligence — safety and stability of shared Class III and Class IV slopes — whether excavation, piling and slope-cutting at the toe of the slopes threatened loss of natural lateral and vertical support to adjoining land, occupied hotel complex and access road — expert evidence, court-appointed expert, weight and independence of party experts — planning law — whether a valid and subsisting planning permission and development order existed under Part IV of the Town and Country Planning Act 1976 — lapse of planning permission under s 24 for failure to commence development in the specified manner within twelve months — whether demolition, site clearance, notices or subdivision constituted lawful commencement — earthworks and building plan approvals under the Street, Drainage and Building Act 1974 and the Uniform Building (Pahang) By-Laws 1996 — contravention of the Guidelines on Development Planning in Hills and Highlands and the National Physical Plan — Special Management Area exemption — private road — possession, control and regulation of access — natural right of support under s 44(1)(b) of the National Land Code — collateral challenge and second actor principle — remedies — declarations, prohibitory and mandatory injunctions, restoration of the toe of the slopes, general damages — aggravated and exemplary damages refused — counterclaim for losses, delay, idleness and reputational harm dismissed — costs on a party and party basis.",
+      "judge": "YA Dato' Hajah Aliza binti Sulaiman",
+      "coram": [],
+      "dateOfResult": "2026-04-29",
+      "dateOfFiling": "2026-11-16",
+      "docs": [
+        {
+          "documentId": "a42b850b-3117-460a-9dac-ce54af778c4b",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=a42b850b-3117-460a-9dac-ce54af778c4b&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "1deb4c60-cda0-43df-b350-739c94691d94",
+      "caseNo": "WA-22C-13-02/2020",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "GENTING HIGHLANDS BERHAD & ors v GM AERO SUPPORT SDN. BHD. & ors",
+      "parties": [
+        {
+          "label": "PLAINTIF",
+          "names": [
+            "GENTING HIGHLANDS BERHAD",
+            "GENTING MALAYSIA BERHAD",
+            "FIRST WORLD HOTELS & RESORTS SDN. BHD."
+          ]
+        },
+        {
+          "label": "DEFENDAN",
+          "names": [
+            "GM AERO SUPPORT SDN. BHD.",
+            "SYCAL BERHAD",
+            "LAU YEE SUM (BERAMAL DI BAWAH NAMA DAN GAYA PERUNDING JUTERA)",
+            "PERUNDING REKACEKAP SDN BHD",
+            "LEE YONG CHIEW (BERAMAL DI BAWAH NAMA DAN GAYA YC LEE ARCHITECT)",
+            "ZAHIRUDDIN BIN ZAINAL ( BERAMAL DI BAWAH NAMA DAN GAYA ZAHIRUDDIN TOWN PLANNING SERVICES)"
+          ]
+        }
+      ],
+      "catchwords": "Tort — quia timet action by neighbouring landowners to restrain a proposed highland mixed development — claims in breach of statutory duty, private nuisance, trespass and negligence — safety and stability of shared Class III and Class IV slopes — whether excavation, piling and slope-cutting at the toe of the slopes threatened loss of natural lateral and vertical support to adjoining land, occupied hotel complex and access road — expert evidence, court-appointed expert, weight and independence of party experts — planning law — whether a valid and subsisting planning permission and development order existed under Part IV of the Town and Country Planning Act 1976 — lapse of planning permission under s 24 for failure to commence development in the specified manner within twelve months — whether demolition, site clearance, notices or subdivision constituted lawful commencement — earthworks and building plan approvals under the Street, Drainage and Building Act 1974 and the Uniform Building (Pahang) By-Laws 1996 — contravention of the Guidelines on Development Planning in Hills and Highlands and the National Physical Plan — Special Management Area exemption — private road — possession, control and regulation of access — natural right of support under s 44(1)(b) of the National Land Code — collateral challenge and second actor principle — remedies — declarations, prohibitory and mandatory injunctions, restoration of the toe of the slopes, general damages — aggravated and exemplary damages refused — counterclaim for losses, delay, idleness and reputational harm dismissed — costs on a party and party basis.",
+      "judge": "YA Dato' Hajah Aliza binti Sulaiman",
+      "coram": [],
+      "dateOfResult": "2026-04-29",
+      "dateOfFiling": "2026-11-16",
+      "docs": [
+        {
+          "documentId": "a42b850b-3117-460a-9dac-ce54af778c4b",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=a42b850b-3117-460a-9dac-ce54af778c4b&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "c1b29dd3-cabb-4fe4-8d84-d91468acc19c",
+      "caseNo": "WA-22C-13-02/2020",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "GENTING HIGHLANDS BERHAD & ors v GM AERO SUPPORT SDN. BHD. & ors",
+      "parties": [
+        {
+          "label": "PLAINTIF",
+          "names": [
+            "GENTING HIGHLANDS BERHAD",
+            "GENTING MALAYSIA BERHAD",
+            "FIRST WORLD HOTELS & RESORTS SDN. BHD."
+          ]
+        },
+        {
+          "label": "DEFENDAN",
+          "names": [
+            "GM AERO SUPPORT SDN. BHD.",
+            "SYCAL BERHAD",
+            "LAU YEE SUM (BERAMAL DI BAWAH NAMA DAN GAYA PERUNDING JUTERA)",
+            "PERUNDING REKACEKAP SDN BHD",
+            "LEE YONG CHIEW (BERAMAL DI BAWAH NAMA DAN GAYA YC LEE ARCHITECT)",
+            "ZAHIRUDDIN BIN ZAINAL ( BERAMAL DI BAWAH NAMA DAN GAYA ZAHIRUDDIN TOWN PLANNING SERVICES)"
+          ]
+        }
+      ],
+      "catchwords": "Tort — quia timet action by neighbouring landowners to restrain a proposed highland mixed development — claims in breach of statutory duty, private nuisance, trespass and negligence — safety and stability of shared Class III and Class IV slopes — whether excavation, piling and slope-cutting at the toe of the slopes threatened loss of natural lateral and vertical support to adjoining land, occupied hotel complex and access road — expert evidence, court-appointed expert, weight and independence of party experts — planning law — whether a valid and subsisting planning permission and development order existed under Part IV of the Town and Country Planning Act 1976 — lapse of planning permission under s 24 for failure to commence development in the specified manner within twelve months — whether demolition, site clearance, notices or subdivision constituted lawful commencement — earthworks and building plan approvals under the Street, Drainage and Building Act 1974 and the Uniform Building (Pahang) By-Laws 1996 — contravention of the Guidelines on Development Planning in Hills and Highlands and the National Physical Plan — Special Management Area exemption — private road — possession, control and regulation of access — natural right of support under s 44(1)(b) of the National Land Code — collateral challenge and second actor principle — remedies — declarations, prohibitory and mandatory injunctions, restoration of the toe of the slopes, general damages — aggravated and exemplary damages refused — counterclaim for losses, delay, idleness and reputational harm dismissed — costs on a party and party basis.",
+      "judge": "YA Dato' Hajah Aliza binti Sulaiman",
+      "coram": [],
+      "dateOfResult": "2026-04-29",
+      "dateOfFiling": "2026-11-16",
+      "docs": [
+        {
+          "documentId": "a42b850b-3117-460a-9dac-ce54af778c4b",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=a42b850b-3117-460a-9dac-ce54af778c4b&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "bf1862f0-5fbb-4cfc-a847-0c754b20f554",
+      "caseNo": "WA-22C-13-02/2020",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "GENTING HIGHLANDS BERHAD & ors v GM AERO SUPPORT SDN. BHD. & ors",
+      "parties": [
+        {
+          "label": "PLAINTIF",
+          "names": [
+            "GENTING HIGHLANDS BERHAD",
+            "GENTING MALAYSIA BERHAD",
+            "FIRST WORLD HOTELS & RESORTS SDN. BHD."
+          ]
+        },
+        {
+          "label": "DEFENDAN",
+          "names": [
+            "GM AERO SUPPORT SDN. BHD.",
+            "SYCAL BERHAD",
+            "LAU YEE SUM (BERAMAL DI BAWAH NAMA DAN GAYA PERUNDING JUTERA)",
+            "PERUNDING REKACEKAP SDN BHD",
+            "LEE YONG CHIEW (BERAMAL DI BAWAH NAMA DAN GAYA YC LEE ARCHITECT)",
+            "ZAHIRUDDIN BIN ZAINAL ( BERAMAL DI BAWAH NAMA DAN GAYA ZAHIRUDDIN TOWN PLANNING SERVICES)"
+          ]
+        }
+      ],
+      "catchwords": "Tort — quia timet action by neighbouring landowners to restrain a proposed highland mixed development — claims in breach of statutory duty, private nuisance, trespass and negligence — safety and stability of shared Class III and Class IV slopes — whether excavation, piling and slope-cutting at the toe of the slopes threatened loss of natural lateral and vertical support to adjoining land, occupied hotel complex and access road — expert evidence, court-appointed expert, weight and independence of party experts — planning law — whether a valid and subsisting planning permission and development order existed under Part IV of the Town and Country Planning Act 1976 — lapse of planning permission under s 24 for failure to commence development in the specified manner within twelve months — whether demolition, site clearance, notices or subdivision constituted lawful commencement — earthworks and building plan approvals under the Street, Drainage and Building Act 1974 and the Uniform Building (Pahang) By-Laws 1996 — contravention of the Guidelines on Development Planning in Hills and Highlands and the National Physical Plan — Special Management Area exemption — private road — possession, control and regulation of access — natural right of support under s 44(1)(b) of the National Land Code — collateral challenge and second actor principle — remedies — declarations, prohibitory and mandatory injunctions, restoration of the toe of the slopes, general damages — aggravated and exemplary damages refused — counterclaim for losses, delay, idleness and reputational harm dismissed — costs on a party and party basis.",
+      "judge": "YA Dato' Hajah Aliza binti Sulaiman",
+      "coram": [],
+      "dateOfResult": "2026-04-29",
+      "dateOfFiling": "2026-11-16",
+      "docs": [
+        {
+          "documentId": "a42b850b-3117-460a-9dac-ce54af778c4b",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=a42b850b-3117-460a-9dac-ce54af778c4b&Inline=true"
+        }
+      ]
+    },
+    {
       "id": "013e1593-efb4-4194-b896-635763d6efb2",
       "caseNo": "W-02(C)(A)-2036-11/2024",
       "jurisdiction": "COA",
@@ -2436,6 +2330,90 @@
           "preparedBy": "YA Dato' Amarjeet Singh a/l Serjit Singh",
           "category": "Sebulat Suara (Unanimous)",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=1433a134-03d1-40c0-a5a3-e9ec7419c3ca&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "a0541a67-203b-4695-b0d3-586220305625",
+      "caseNo": "WA-22C-13-02/2020",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "GENTING HIGHLANDS BERHAD & ors v GM AERO SUPPORT SDN. BHD. & ors",
+      "parties": [
+        {
+          "label": "PLAINTIF",
+          "names": [
+            "GENTING HIGHLANDS BERHAD",
+            "GENTING MALAYSIA BERHAD",
+            "FIRST WORLD HOTELS & RESORTS SDN. BHD."
+          ]
+        },
+        {
+          "label": "DEFENDAN",
+          "names": [
+            "GM AERO SUPPORT SDN. BHD.",
+            "SYCAL BERHAD",
+            "LAU YEE SUM (BERAMAL DI BAWAH NAMA DAN GAYA PERUNDING JUTERA)",
+            "PERUNDING REKACEKAP SDN BHD",
+            "LEE YONG CHIEW (BERAMAL DI BAWAH NAMA DAN GAYA YC LEE ARCHITECT)",
+            "ZAHIRUDDIN BIN ZAINAL ( BERAMAL DI BAWAH NAMA DAN GAYA ZAHIRUDDIN TOWN PLANNING SERVICES)"
+          ]
+        }
+      ],
+      "catchwords": "The Plaintiff’s application for leave to apply to pursue committal orders against GM Aero Support Sdn Bhd and Khoh Siew Kim (encl. 1211) - The Plaintiff’s application for leave to use the documents as set out in prayer (1) of encl. 1264 -",
+      "judge": "YA Dato' Hajah Aliza binti Sulaiman",
+      "coram": [],
+      "dateOfResult": "2024-08-22",
+      "dateOfFiling": "2026-11-16",
+      "docs": [
+        {
+          "documentId": "a42b850b-3117-460a-9dac-ce54af778c4b",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=a42b850b-3117-460a-9dac-ce54af778c4b&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "a9804303-01d6-4e64-a79a-376827668a87",
+      "caseNo": "WA-22C-13-02/2020",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "GENTING HIGHLANDS BERHAD & ors v GM AERO SUPPORT SDN. BHD. & ors",
+      "parties": [
+        {
+          "label": "PLAINTIF",
+          "names": [
+            "GENTING HIGHLANDS BERHAD",
+            "GENTING MALAYSIA BERHAD",
+            "FIRST WORLD HOTELS & RESORTS SDN. BHD."
+          ]
+        },
+        {
+          "label": "DEFENDAN",
+          "names": [
+            "GM AERO SUPPORT SDN. BHD.",
+            "SYCAL BERHAD",
+            "LAU YEE SUM (BERAMAL DI BAWAH NAMA DAN GAYA PERUNDING JUTERA)",
+            "PERUNDING REKACEKAP SDN BHD",
+            "LEE YONG CHIEW (BERAMAL DI BAWAH NAMA DAN GAYA YC LEE ARCHITECT)",
+            "ZAHIRUDDIN BIN ZAINAL ( BERAMAL DI BAWAH NAMA DAN GAYA ZAHIRUDDIN TOWN PLANNING SERVICES)"
+          ]
+        }
+      ],
+      "catchwords": "The Plaintiff’s application for leave to apply to pursue committal orders against GM Aero Support Sdn Bhd and Khoh Siew Kim (encl. 1211) - The Plaintiff’s application for leave to use the documents as set out in prayer (1) of encl. 1264",
+      "judge": "YA Dato' Hajah Aliza binti Sulaiman",
+      "coram": [],
+      "dateOfResult": "2024-08-22",
+      "dateOfFiling": "2026-11-16",
+      "docs": [
+        {
+          "documentId": "a42b850b-3117-460a-9dac-ce54af778c4b",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=a42b850b-3117-460a-9dac-ce54af778c4b&Inline=true"
         }
       ]
     }
