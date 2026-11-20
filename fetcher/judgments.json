@@ -1,6 +1,6 @@
 {
   "source": "Malaysia E-Judgment Portal (ejudgment.kehakiman.gov.my)",
-  "updatedAt": "2026-11-19T04:19:32.730Z",
+  "updatedAt": "2026-11-20T04:10:55.457Z",
   "count": 60,
   "judgments": [
     {
@@ -541,6 +541,42 @@
       ]
     },
     {
+      "id": "b1af51db-50c6-455e-8a88-43aefbfb9447",
+      "caseNo": "PA-22NCC-17-03/2026",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "HILLMANLEO SDN.BHD v A.RAHIS SDN.BHD & ors",
+      "parties": [
+        {
+          "label": "PLAINTIF",
+          "names": [
+            "HILLMANLEO SDN.BHD"
+          ]
+        },
+        {
+          "label": "DEFENDAN",
+          "names": [
+            "A.RAHIS SDN.BHD",
+            "UDA LAND(NORTH) SDN.BHD."
+          ]
+        }
+      ],
+      "catchwords": "1. This is the Plaintiffs application in Enclosure 5 for an injunction directing the 2nd Defendant to pay directly to the Plaintiff, into the client account of the Plaintiffs solicitors, the sum of RM939,690.21. The application arises in the context of the Plaintiffs substantive claim against the Defendants in this action. 2. In essence, the Plaintiffs case is that it carried out works for the benefit of the 2nd Defendant at the behest of the 1st Defendant. The 1st Defendant is the main contractor for the relevant project. The Plaintiff contends that monies payable by the 2nd Defendant to the 1st Defendant include monies attributable to the work carried out by the Plaintiff and that those monies ought therefore to be channeled directly to the Plaintiff rather than paid to the 1 Defendant. 3. The Plaintiff characterizes the application as one concerning the manner of payment rather than the determination of its substantive entitlement. Its concern is that the 1st Defendant may receive monies from the 2nd Defendant without thereafter forwarding to the Plaintiff the amount attributable to the work it claims to have carried out. 4. The 1st Defendant opposes the application. Its fundamental position is that the Plaintiffs entitlement to RM939,690.21 is itself disputed and has not been adjudicated upon. The 1st Defendant further relies upon its pleaded case that the Plaintiff had agreed to accept RM333, 146.95 as full and final settlement of its claims relating to the works and expenses up to 19 December 2025. 5. The 2nd Defendant also opposes the application. Its position is that the contractual arrangements are between the 1st and 2nd Defendants and that it has no contractual obligation to pay the Plaintiff directly. It disputes the Plaintiffs asserted entitlement to payment from it.",
+      "judge": "YA Dr Choong Yeow Choy",
+      "coram": [],
+      "dateOfResult": "2026-11-02",
+      "dateOfFiling": "2026-11-20",
+      "docs": [
+        {
+          "documentId": "2bbfb241-95a7-4ea2-922f-9f7f94cc94c3",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=2bbfb241-95a7-4ea2-922f-9f7f94cc94c3&Inline=true"
+        }
+      ]
+    },
+    {
       "id": "130fe5e2-4840-49fa-95aa-619d0f5f9fa3",
       "caseNo": "W-01(A)-133-02/2024",
       "jurisdiction": "COA",
@@ -849,7 +885,7 @@
       ]
     },
     {
-      "id": "f5147578-ef18-441d-bab2-7e41ffc417cf",
+      "id": "fd6f6881-3ab6-43b5-b662-9ea3f0a4f784",
       "caseNo": "CA-45A-5-03/2024",
       "jurisdiction": "HC",
       "court": "High Court",
@@ -872,14 +908,92 @@
       "judge": "YA Tuan Kumar a/l Thangaraju",
       "coram": [],
       "dateOfResult": "2026-10-20",
-      "dateOfFiling": "2026-11-18",
+      "dateOfFiling": "2026-11-19",
       "docs": [
         {
-          "documentId": "d3b225ee-b300-43ed-98b6-ca15cfb0f259",
+          "documentId": "3531a197-cf1e-44c5-8604-1a20a3bc2372",
           "name": "Alasan Penghakiman",
           "preparedBy": "",
           "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=d3b225ee-b300-43ed-98b6-ca15cfb0f259&Inline=true"
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=3531a197-cf1e-44c5-8604-1a20a3bc2372&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "c68034bc-ca7d-4a98-bae0-930a811f8a47",
+      "caseNo": "DA-42JSKS-10-09/2025",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "MOHD ADLI BIN JUSOH v Pendakwa Raya & ors",
+      "parties": [
+        {
+          "label": "PERAYU",
+          "names": [
+            "MOHD ADLI BIN JUSOH"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "Pendakwa Raya",
+            "[TIMBALAN PENDAKWA RAYA]"
+          ]
+        }
+      ],
+      "catchwords": "RAYUAN JENAYAH : Seksyen 14(d) Akta Kesalahan-Kesalahan Seksual Terhadap Kanak-Kanak 2017 - Perbicaraan Penuh - Perayu bersalah dan disabitkan - Seksyen 14(d) Pemenjaraan selama tempoh tidak melebihi dua puluh tahun dan boleh juga dihukum dengan hukuman sebat - rayuan terhadap keseluruhan keputusan HMS - samada HMS terkhilaf dari segi undang-undang apabila telah memutuskan terdapat prima facie bagi kes - samada HMS terkhilaf dari segi faktar dan undang-undang apabila menjatuhkan hukuman tanpa mengira faktor-faktor mitigasi secara sepenuhnya.",
+      "judge": "YA Tuan Mohd Rosli bin Yusoff",
+      "coram": [],
+      "dateOfResult": "2026-10-20",
+      "dateOfFiling": "2026-11-19",
+      "docs": [
+        {
+          "documentId": "e9d185eb-0053-41d9-8639-2db334d8eb48",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=e9d185eb-0053-41d9-8639-2db334d8eb48&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "a8e4955f-167d-47d2-bed2-1862b8ba790d",
+      "caseNo": "JA-25-28-09/2025",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "SOUTH MALAYSIA INDUSTRIES BERHAD v Suruhanjaya Sekuriti Malaysia",
+      "parties": [
+        {
+          "label": "PEMOHON",
+          "names": [
+            "SOUTH MALAYSIA INDUSTRIES BERHAD"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "Suruhanjaya Sekuriti Malaysia"
+          ]
+        },
+        {
+          "label": "PENCELAH",
+          "names": [
+            "Jabatan Peguam Negara",
+            "Mah Sau Cheong"
+          ]
+        }
+      ],
+      "catchwords": "Administrative Law – Judicial review – Securities Commission Malaysia – Consent for appointment of offeror’s nominees to offeree’s board – Substantive locus standi – Scope of regulatory discretion under paragraph 15.01 of Rules on Take-Overs, Mergers and Compulsory Acquisitions – Failure to consider relevant considerations – Control of offeree’s board before dispatch of offer document – Error of law – Certiorari granted – Decisions quashed – Matter remitted for fresh determination – Intervention application dismissed – Order 53 Rules of Court 2012 – Section 364 Capital Markets and Services Act 2007",
+      "judge": "YA Dr Noradura Binti Hamzah",
+      "coram": [],
+      "dateOfResult": "2026-10-18",
+      "dateOfFiling": "2026-11-19",
+      "docs": [
+        {
+          "documentId": "21627dcf-d573-469c-86d2-365dec0d9ed6",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=21627dcf-d573-469c-86d2-365dec0d9ed6&Inline=true"
         }
       ]
     },
@@ -1180,41 +1294,6 @@
       ]
     },
     {
-      "id": "f30a24d6-6986-474a-acc4-60538af01c6a",
-      "caseNo": "WA-23NCvC-1-01/2022",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "LEE LAI FATT v Kolej Universiti Tunku Abdul Rahman",
-      "parties": [
-        {
-          "label": "PLAINTIF",
-          "names": [
-            "LEE LAI FATT"
-          ]
-        },
-        {
-          "label": "DEFENDAN",
-          "names": [
-            "Kolej Universiti Tunku Abdul Rahman"
-          ]
-        }
-      ],
-      "catchwords": "Catchwords: An appeal against my decision in dismissing the Plaintiff’s suit after full trial – The Plaintiff is a former academic lecturer at the Defendant’s Johor Branch Campus, having been employed from 6 May 2003 until his dismissal on 23 November 2016, covering a total service period of 13 years and 7 months – The Plaintiff’s employment was terminated by the Defendant on 23 November 2016 – Following his dismissal, the Plaintiff made representations under section 20(1) of the Industrial Relations Act 1967 – Minister of Human Resource to the Industrial Court in Johor Bahru on 19 June 2017 – Full trial proceedings were scheduled before the Industrial Court on 30 and 31 May 2018. On 31 May 2018 the Plaintiff elected to withdraw his suit – Consequently, the Industrial Court handed down Award No. 1234/2018 on 31 May 2018, recording the withdrawal of the reference with no liberty – refile in the Industrial Court. A subsequent application by the Plaintiff in November 2020 to amend or correct Award No. 1234/2018 was refused – On 6 January 2022 nearly 5.5 years after his dismissal and almost four years after Award No. 1234/2018, the Plaintiff commenced this Civil suit in the Kuala Lumpur High Court, claiming total monetary relief of RM1,095,412.50 – the employment dismissal disputes fall within the exclusive statutory jurisdiction of the Industrial Relations Act 1967 (IRA 1967) – Reason being the Plaintiff had previously filed and unconditionally withdrawn his Section 20 reference in the Industrial Court (resulting in Industrial Court Award No. 1234/2018 without liberty to refile), re-litigating the dismissal in a civil writ action is barred by res judicata and constitutes an abuse of court process – grounds for the Plaintiff’s dismissal centered on five (5) distinct charges of misconduct evaluated during the Domestic Inquiry – Charge 1 (Insubordination &amp; Intimidation) – Charge 2 (Civil Litigation Against Co-Worker) – Charge 3 (Non-Compliance Trade Union Action) – Charge 4 (Public Disturbance &amp; Unbecoming Conduct) – Charge 5 (Breach of Implied Trust &amp; Confidence) – the Plaintiff sought the following heads of monetary relief in his Statement of Claim – General Damages for Defamation – Compensation in Lieu of Reinstatement – Retirement Gratuity Benefits – Aggravated Damages – Interest and Costs – and other reliefs this Court deems fit – Defendant denied all liability that the Plaintiff’s dismissal was based on a domestic inquiry – The Plaintiff raised a preliminary objection – regarding the presence of certain members of the Defendant’s legal team/witnesses in my court just before the trial – Earlier, the Plaintiff requested for an Advocate &amp; Solicitor whom is not the counsel for the present suit to be seated next to him – No notice or any form of communication were served nor filed for this Court’s leave to allow an Advocate &amp; Solicitor who is not appointed to handle all legal activities of the Plaintiff – The Defendant’s counsel objected to the Plaintiff’s request – This Court finds the Plaintiff’s objection on the presence of the Defendant’s legal team and/or witnesses wholly without merit – Furthermore, the extracted Notes of Proceedings submitted by the Plaintiff’s was selectively extracted without the full content of the Court’s pre-trial rulings – Following my ruling in dismissing the Plaintiff’s preliminary objection, the Plaintiff proceeded with the trial without submitting any objection. – To now submitting that I was unfair in my ruling coupled with untruth facts, is clearly encroaching into the boundary of contempt – The statutory remedy of “compensation in lieu of reinstatement” is statutory creation under Section 20 of the IRA 1967 – The High Court cannot usurp this exclusive statutory jurisdiction – the Plaintiff’s claims under paragraph 16(b) of the Statement of Claim for compensation in lieu of reinstatement (RM48,250.00) and retirement gratuity benefits (RM31,362.50) are misconceived",
-      "judge": "YA Datin Zalita binti Dato' Zaidan",
-      "coram": [],
-      "dateOfResult": "2026-09-17",
-      "dateOfFiling": "2026-11-18",
-      "docs": [
-        {
-          "documentId": "6cbda08c-5531-49fc-96aa-3d921f755ce3",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=6cbda08c-5531-49fc-96aa-3d921f755ce3&Inline=true"
-        }
-      ]
-    },
-    {
       "id": "12499cd3-8d46-4ca3-a3e5-1e3748ceac6e",
       "caseNo": "BA-22NCC-21-02/2025",
       "jurisdiction": "HC",
@@ -1282,43 +1361,6 @@
           "preparedBy": "",
           "category": "",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=efc0d404-c52f-48a3-866f-6a89c8ca9c8a&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "1f445e73-2d52-4ab2-8aa4-a86a93f5f3e1",
-      "caseNo": "WA-12BNCvC-90-08/2025",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "NORHAIDA BINTI RAMLI v MAJLIS AGAMA ISLAM WILAYAH PERSEKUTUAN & ors",
-      "parties": [
-        {
-          "label": "PERAYU",
-          "names": [
-            "NORHAIDA BINTI RAMLI"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "MAJLIS AGAMA ISLAM WILAYAH PERSEKUTUAN",
-            "MUHAMMAD ISHAK BIN ZULKIFLY",
-            "MOHD SAIFUL HAFIZ VIJIA BIN ABDULLAH"
-          ]
-        }
-      ],
-      "catchwords": "Whistleblower Protection Act 2010 (Act 711) WPA – Appeal against the decision of the Session Court wherein the learned Session Court dismissed the Plaintiff’s whistleblower claims Whether the Plaintiff is a whistleblower eligible for protection under the Whistleblower Protection Act – S2 of WPA, “whistleblower” and “improper conduct” – S6 of WPA, Disclosure of improper conduct Whether the 1st Defendant is an enforcement agency under Whistleblower Protection Act - S2 of WPA “enforcement agency” - S3 of WPA, General powers of enforcement agency – Administration of Islamic Law (Federal Territories) Act 1993 (Act 505) Whether the Defendants, individually or jointly, breached the provisions of WPA by failing to take reasonable steps to protect the identity of the Plaintiff as a whistleblower - S6 (3) of WPA, Disclosure of improper conduct - S8 of WPA, Protection of confidential information Whether the Plaintiff has proven the damages claimed – Section 15 and 16 of the WPA",
-      "judge": "YA Tuan Kan Weng Hin",
-      "coram": [],
-      "dateOfResult": "2026-09-09",
-      "dateOfFiling": "2026-11-18",
-      "docs": [
-        {
-          "documentId": "9c5461c2-8c69-4224-9507-9bbb9fc5aeb0",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=9c5461c2-8c69-4224-9507-9bbb9fc5aeb0&Inline=true"
         }
       ]
     },
@@ -2304,40 +2346,6 @@
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=6935d650-a25e-4cc1-be30-b6f244163e02&Inline=true"
         }
       ]
-    },
-    {
-      "id": "732b7dd7-dccc-4f0b-979a-1b62b029e9d9",
-      "caseNo": "WA-22C-13-02/2020",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "GENTING HIGHLANDS BERHAD & ors v GM AERO SUPPORT SDN. BHD. & ors",
-      "parties": [
-        {
-          "label": "PLAINTIF",
-          "names": [
-            "GENTING HIGHLANDS BERHAD",
-            "GENTING MALAYSIA BERHAD",
-            "FIRST WORLD HOTELS & RESORTS SDN. BHD."
-          ]
-        },
-        {
-          "label": "DEFENDAN",
-          "names": [
-            "GM AERO SUPPORT SDN. BHD.",
-            "SYCAL BERHAD",
-            "LAU YEE SUM (BERAMAL DI BAWAH NAMA DAN GAYA PERUNDING JUTERA)",
-            "PERUNDING REKACEKAP SDN BHD",
-            "LEE YONG CHIEW (BERAMAL DI BAWAH NAMA DAN GAYA YC LEE ARCHITECT)",
-            "ZAHIRUDDIN BIN ZAINAL ( BERAMAL DI BAWAH NAMA DAN GAYA ZAHIRUDDIN TOWN PLANNING SERVICES)"
-          ]
-        }
-      ],
-      "catchwords": "Tort — quia timet action by neighbouring landowners to restrain a proposed highland mixed development — claims in breach of statutory duty, private nuisance, trespass and negligence — safety and stability of shared Class III and Class IV slopes — whether excavation, piling and slope-cutting at the toe of the slopes threatened loss of natural lateral and vertical support to adjoining land, occupied hotel complex and access road — expert evidence, court-appointed expert, weight and independence of party experts — planning law — whether a valid and subsisting planning permission and development order existed under Part IV of the Town and Country Planning Act 1976 — lapse of planning permission under s 24 for failure to commence development in the specified manner within twelve months — whether demolition, site clearance, notices or subdivision constituted lawful commencement — earthworks and building plan approvals under the Street, Drainage and Building Act 1974 and the Uniform Building (Pahang) By-Laws 1996 — contravention of the Guidelines on Development Planning in Hills and Highlands and the National Physical Plan — Special Management Area exemption — private road — possession, control and regulation of access — natural right of support under s 44(1)(b) of the National Land Code — collateral challenge and second actor principle — remedies — declarations, prohibitory and mandatory injunctions, restoration of the toe of the slopes, general damages — aggravated and exemplary damages refused — counterclaim for losses, delay, idleness and reputational harm dismissed — costs on a party and party basis.",
-      "judge": "YA Dato' Hajah Aliza binti Sulaiman",
-      "coram": [],
-      "dateOfResult": "2026-04-29",
-      "dateOfFiling": "2026-11-18",
-      "docs": []
     }
   ]
 }
