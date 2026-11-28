@@ -1,6 +1,6 @@
 {
   "source": "Malaysia E-Judgment Portal (ejudgment.kehakiman.gov.my)",
-  "updatedAt": "2026-11-27T05:14:29.458Z",
+  "updatedAt": "2026-11-28T04:49:17.241Z",
   "count": 60,
   "judgments": [
     {
@@ -121,6 +121,41 @@
           "preparedBy": "YA Dato' Ong Chee Kwan",
           "category": "Sebulat Suara (Unanimous)",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=9531b996-2584-4f60-bf1e-271c8a3c3813&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "28cc98a9-05d6-4790-ba1b-6b49a25cec46",
+      "caseNo": "CB-24NCvC-113-05/2026",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "KUMARESN A/L SOOKUMARAN v AMBIGA A/P SOOKUMARAN",
+      "parties": [
+        {
+          "label": "PEMOHON",
+          "names": [
+            "KUMARESN A/L SOOKUMARAN"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "AMBIGA A/P SOOKUMARAN"
+          ]
+        }
+      ],
+      "catchwords": "CIVIL PROCEDURE - originating summons – Plaintiff apply for removal and cancellation of private caveat – Section 327 (1) of National Land Code 1965. LAND LAW – whether Defendant has established a caveatable interest to maintain private caveat – whether serious question to be tried exists – whether the caveator satisfy the first hurdle to maintain caveat - section 323 (1) of National Land Code 1965. LAND LAW – whether Defendant gave express consent to renounce entitlement during small estate distribution proceedings – whether issuance of distribution order (Form T) means any prior rights or equitable claims are extinguished. EVIDENCE – whether there was constructive trust – whether supporting documents needed to establish this – whether statutory declaration by former administrator negates the Defendant’s claim. LAND LAW – whether private caveat can serve as security for a personal monetary claim (in personam) – statutory function is to preserve the status quo and protect title or equitable interest – whether private caveat lodged for bona fide preservation of a proprietary interest in the land. LAND LAW - whether balance of convenience favours maintenance or removal of caveat – plaintiff has executed a binding sale and purchase agreement with a third party - caveat prevents registration of transfer, exposing the Plaintiff to breach of contract, claims for damages, termination of the S&amp;P or specific performance litigation. CIVIL PROCEDURE – originating summons allowed – private caveat removed and cancelled – costs of RM 5,000 subject to allocatur.",
+      "judge": "YA Tuan Ariff Azami bin Hussein",
+      "coram": [],
+      "dateOfResult": "2026-11-15",
+      "dateOfFiling": "2026-11-27",
+      "docs": [
+        {
+          "documentId": "06d8b86a-4c55-4068-a99a-626e4db4b87f",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=06d8b86a-4c55-4068-a99a-626e4db4b87f&Inline=true"
         }
       ]
     },
@@ -641,6 +676,43 @@
       ]
     },
     {
+      "id": "1b05a483-61ca-4b62-bc3c-8702a67db8a0",
+      "caseNo": "MA-12B-4-03/2026",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "FASIHAH BINTI ZAMRAN & ors v SYARIKAT AIR MELAKA BERHAD",
+      "parties": [
+        {
+          "label": "PERAYU",
+          "names": [
+            "FASIHAH BINTI ZAMRAN",
+            "XXXX",
+            "SURIANI BINTI ABD RAHMAN"
+          ]
+        },
+        {
+          "label": "RESPONDEN",
+          "names": [
+            "SYARIKAT AIR MELAKA BERHAD"
+          ]
+        }
+      ],
+      "catchwords": "TORT — Negligence — Road obstruction — Motorcyclist colliding with unlit signboard on dark bend — Ownership and responsibility inferred from utility’s label and absence of explanation — Child pillion’s direct evidence supported by physical and contemporaneous evidence — Photographs of disturbed scene not establishing original position of board — Suggested pothole cause remaining speculative — Duty to place, maintain and remove signboard safely breached — Liability upheld. TORT — Contributory negligence — Burden on defendant — Pillion’s sighting of obstruction not establishing rider’s opportunity to avoid it — No evidence of speed, visibility distance, reaction time, braking distance or room to swerve — Inference of want of care based on hindsight — Helmet allegation unsupported — Finding of 10% contributory negligence set aside — Defendant wholly liable — Civil Law Act 1956, s 12(1). DAMAGES — Personal injuries — Severe traumatic brain injury — Permanent total dependency — Bedridden patient retaining awareness distinguished from persistent vegetative state — Global award covering neurological sequelae — RM400,000 within applicable Compendium range — Less disabling injuries unsuitable comparators — No basis for appellate reduction. DAMAGES — Special damages — Family’s travelling expenses during hospitalisation — Daily visits and reasonable journey cost established by uncontradicted oral evidence — Absence of receipts not fatal — Strict proof assessed according to nature of expenditure and available evidence — Award of RM2,200 upheld. DAMAGES — Loss of future earnings — Cash-paid worker at family food stall — Related witnesses’ evidence requiring assessment rather than rejection merely for relationship — Employment corroborated by medical histories and unchallenged testimony — Absence of wage records or statutory contributions not defeating claim — Statutory sixteen-year multiplier applied without further contingency deduction — RM215,040 awarded — Civil Law Act 1956, s 28A(2). DAMAGES — Future care — Full-time helper required on both parties’ expert evidence — Gratuitous care by mother not relieving tortfeasor of liability — Discretionary welfare payment not deductible — Recurring recruitment costs assessed over successive two-year contracts — Award reassessed at RM819,472. DAMAGES — Future medical expenses — Competing expert costings — Later assessment reflecting stabilised condition preferred — Supplier’s quotation proving price rather than required quantity — Nutrition, consumables and replacement equipment distinguished from free public hospital treatment — Possibility of government assistance not proof of assured provision — RM356,970 awarded. DAMAGES — Future care and medical expenses — Deduction for contingencies and accelerated receipt — Non-statutory multipliers distinguished from statutory earnings multiplier — Injury-specific survival tables already accounting for reduced life expectancy — Further mortality discount constituting double deduction — Accelerated receipt considered alongside absence of allowance for rising costs — Unreasoned one-third deductions set aside. CIVIL PROCEDURE — Appeal — Findings based on inference and assessment of expert evidence — Unsupported contributory negligence finding and rejection of earnings evidence on relationship alone — Unexplained choice of care costings — Appellate reassessment without remittal — Utility’s appeal dismissed and plaintiffs’ appeal allowed — Total damages varied to RM1,818,202.",
+      "judge": "YA Dato' Sri Raja Segaran A/L S.Krishnan",
+      "coram": [],
+      "dateOfResult": "2026-10-28",
+      "dateOfFiling": "2026-11-27",
+      "docs": [
+        {
+          "documentId": "8dae85e5-7cdc-4867-b044-816658e5e82e",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=8dae85e5-7cdc-4867-b044-816658e5e82e&Inline=true"
+        }
+      ]
+    },
+    {
       "id": "d2a9322e-e6d4-4b35-bd2d-b30ac9ea930a",
       "caseNo": "PA-16A-5-03/2026",
       "jurisdiction": "HC",
@@ -672,118 +744,6 @@
           "preparedBy": "",
           "category": "",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=66663e44-2ca6-482f-af99-d4da7dc1125b&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "978fda91-6456-4a64-a31b-5501852a667e",
-      "caseNo": "WA-22NCvC-83-02/2026",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "DR. FUZIAH BINTI SALLEH v BARU BIAN & ors",
-      "parties": [
-        {
-          "label": "PLAINTIF",
-          "names": [
-            "DR. FUZIAH BINTI SALLEH"
-          ]
-        },
-        {
-          "label": "DEFENDAN",
-          "names": [
-            "BARU BIAN",
-            "KAMARUDIN BIN JAFFAR",
-            "MANSOR BIN OTHMAN",
-            "MOHD RASHID BIN HASNON",
-            "SAIFUDDIN BIN ABDULLAH",
-            "SANTHARA KUMAR A/L RAMANAIDU"
-          ]
-        }
-      ],
-      "catchwords": "Permohonan untuk mengenepikan Writ Saman di bawah Aturan 12 kaedah 10. Defendan Pertama menyatakan kausa tindakan adalah di Sarawak. Mahkamah Tinggi Malaya tiada bidang kuasa - seksyen 23 Akta Mahkamah Kehakiman 1964, ketidakhadiran fizikal tidak menyahkan bidang kuasa Mahkamah. Permohonan ditolak dengan kos.",
-      "judge": "YA Tuan Roslan bin Mat Nor",
-      "coram": [],
-      "dateOfResult": "2026-10-27",
-      "dateOfFiling": "2026-11-26",
-      "docs": [
-        {
-          "documentId": "141f75f2-f27d-4345-8327-1e7031743463",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=141f75f2-f27d-4345-8327-1e7031743463&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "0ce3c566-af02-4d4d-a662-05ac5a1ddd40",
-      "caseNo": "WA-24-64-06/2024",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "LQ RETAIL SDN BHD v DATUK BANDAR KUALA LUMPUR",
-      "parties": [
-        {
-          "label": "PEMOHON",
-          "names": [
-            "LQ RETAIL SDN BHD"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "DATUK BANDAR KUALA LUMPUR"
-          ]
-        }
-      ],
-      "catchwords": "Local Government Act 1976 — Section 145 — Appeal against decision of the Mayor of Kuala Lumpur — Assessment rates — Annual value of property — The Exchange TRX — Valuation List — Sections 137, 142 and 145 of the LGA — Whether the valuation was supported by a contemporaneous valuation basis — Whether the local authority failed to comply with statutory requirements for periodic revaluation — Valuation methodology — Direct comparison method — Comparable commercial properties — Rental benchmarks — Adjustments for location and maturity — Lett able and non-lettable areas — Car-park valuation — Common Estate Agreement — Relevance to determination of annual value — Expert valuation report — Report prepared after commencement of proceedings — Evidential weight — Absence of oral evidence from maker of valuation report — Burden of proof — Alleged outdated valuation — Alleged discriminatory rebates and capping of assessment rates — Distinction between annual value and assessment tax payable — Whether the Appellant established any material error or illegality warranting appellate intervention — Appeal dismissed — Respondent’s decision affirmed — Costs.",
-      "judge": "YA Dato' Azizan bin Md. Arshad",
-      "coram": [],
-      "dateOfResult": "2026-10-25",
-      "dateOfFiling": "2026-11-26",
-      "docs": [
-        {
-          "documentId": "20c4b202-9f34-47d7-9d8b-dd1bbe324763",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=20c4b202-9f34-47d7-9d8b-dd1bbe324763&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "12048e2f-db79-4ff4-bcd6-369abf691ab4",
-      "caseNo": "WA-25-296-07/2024",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "BRAINLAB LIMITED v KETUA PENGARAH PERHUBUNGAN PERUSAHAAN & ors",
-      "parties": [
-        {
-          "label": "PEMOHON",
-          "names": [
-            "BRAINLAB LIMITED"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "KETUA PENGARAH PERHUBUNGAN PERUSAHAAN",
-            "MAHKAMAH PERUSAHAAN MALAYSIA",
-            "JAYAVEERAN A/L SHUNMUGANATHAN"
-          ]
-        }
-      ],
-      "catchwords": "Judicial Review – Certiorari and Prohibition – Section 20(3) of the Industrial Relations Act 1967- Industrial Relations (Amendment) Act 2020 – Reference to Industrial Court – Mandatory duty of Director General of Industrial Relations – Removal of Minister’s discretionary power – Jurisdiction of Industrial Court – Foreign employer – Extraterritorial jurisdiction – Threshold jurisdiction and substantive jurisdiction – Jurisdictional objection – Premature judicial review – Illegality and irrationality – Dismissal of application",
-      "judge": "YA Dato' Azizan bin Md. Arshad",
-      "coram": [],
-      "dateOfResult": "2026-10-25",
-      "dateOfFiling": "2026-11-26",
-      "docs": [
-        {
-          "documentId": "9041e148-fc16-4d93-88a9-e26017a645ac",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=9041e148-fc16-4d93-88a9-e26017a645ac&Inline=true"
         }
       ]
     },
@@ -861,6 +821,285 @@
           "preparedBy": "",
           "category": "",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=3e46d985-e6b2-42df-9254-5a895070852b&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "b21bb065-410b-4ec4-91a3-7e4fcc02217c",
+      "caseNo": "BA-22NCvC-241-06/2022",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "SITI AISYAH BINTI ABDULLAH & ors v KETUA PENGARAH AGENSI PENGURUSAN BENCANA NEGARA & ors",
+      "parties": [
+        {
+          "label": "PLAINTIF",
+          "names": [
+            "SITI AISYAH BINTI ABDULLAH",
+            "Ali Amal A/p Munusamy",
+            "Krishnan A/l Kanan",
+            "Thadchayini A/p Kumaran",
+            "Sarvanan A/l Munisamy",
+            "Viyasyen A/l Tanjan",
+            "Yesesan A/l Ravee",
+            "Sekaran A/p Marissanan",
+            "Ramasamy A/l Munisamy",
+            "Thiyagarajah A/l Sivarajah",
+            "Gunalan Veerasani",
+            "Kiran Ganesh A/l Chandrasekaran",
+            "Chandrasekaran A/l Rajamanikam",
+            "Perumal A/l Saminathan",
+            "How Hoon Lian",
+            "Tamil Selve A/p Mr Ramou",
+            "Bathmanathan A/l Letchimal",
+            "Rajo Kumar A/l Shanmugam",
+            "M. Ganais",
+            "Shum Lai Koon",
+            "S. Kalaimani",
+            "Pannirselvam A/l S.mahalingam",
+            "Baskaran A/l Subramaniam",
+            "Velasamy A/l Karappiah",
+            "Meena A/p Y.cellapan",
+            "Sheila Rani A/p Chandrasekaran",
+            "Thinash Kumar Nair",
+            "Murali A/l Subramaniam",
+            "Jayakumar A/l Varathan",
+            "Sivakumar A/l Shanmugam",
+            "Rajasegaran Seman",
+            "Nor Hasanah Bte Abdullah",
+            "Prabageran A/l Maghdeman",
+            "Vincent Anthony A/l E.p.anthony",
+            "Suseiladevi A/p Ramasamy",
+            "Suganderan A/l Ramasamy",
+            "Muniandy A/l Krishnan",
+            "Sredren A/l A. Krishnan Nair",
+            "Perumal Duraisamy",
+            "Thevagi A/p Govindan",
+            "Thulasi A/p Rajagopal",
+            "Sri Gokilavani A/p Velasamy",
+            "Kaliamah A/p Subramaniam",
+            "Ratnakaran A/l Chinnappan",
+            "Kanagarajah A/l Gopalakrishnan",
+            "Mataven A/l Raman",
+            "Rajeswary A/p Karpaya",
+            "Manoj Kumar A/l Pursothman",
+            "Sukumaran A/l Perumal",
+            "Umah Balan A/l Muniandy"
+          ]
+        },
+        {
+          "label": "DEFENDAN",
+          "names": [
+            "KETUA PENGARAH AGENSI PENGURUSAN BENCANA NEGARA",
+            "MENTERI, JABATAN PERDANA MENTERI MALAYSIA",
+            "KETUA PENGARAH JABATAN METEOROLOGI MALAYSIA",
+            "MENTERI ALAM SEKITAR DAN AIR",
+            "KETUA PENGARAH, JABATAN PEGAIRAN DAN SALIRAN NEGERI SELANGOR",
+            "Majlis Bandaraya Shah Alam (MBSA)",
+            "KDEB WASTE MNAGEMENT SDN BHD",
+            "Tenaga Nasional Berhad (TNB)",
+            "Kerajaan Negeri Selangor",
+            "Kerajaan Malaysia"
+          ]
+        }
+      ],
+      "catchwords": "Negligence – Public authorities – Flood disaster management – Duty of care – Whether National Disaster Management Agency (NADMA), Malaysian Meteorological Department (MET Malaysia), Department of Irrigation and Drainage (JPS) and local authority owed duty of care to residents of flood-prone township – Caparo test – Assumption of responsibility – Operational functions undertaken by public authorities – Distinction between policy decisions and operational acts – Whether claim barred as pure omission – Government Proceedings Act 1956, ss 5, 6 and 7. Negligence – Flooding – Taman Sri Muda flood, December 2021 – Failure to provide timely warnings – Failure to escalate disaster response – Failure to maintain and operate flood-mitigation assets – Inadequate backup pumping capacity – non-functioning warning siren – Delayed operation of tidal gates – Failure to maintain municipal drainage system – Whether breaches materially contributed to plaintiffs’ losses Negligence – Public authorities – Act of God defence – Extraordinary rainfall – Whether rainfall sole effective cause of flood – Human failures materially contributing to flooding and duration of inundation – Whether defence established. Government Liability – Liability of Federal and State authorities – Disaster management – Weather forecasting and warnings – Flood mitigation infrastructure – Whether public authorities liable in negligence for careless performance of functions voluntarily undertaken. Local Government – Street, Drainage and Building Act 1974 – Statutory duty to maintain and cleanse drains – Non-delegable duties – Reliance on contractors – Whether local authority discharged burden of proving adequate drainage maintenance – Adverse inference drawn from non-production of records and witnesses – ss 53(1), 54(1) and 95(2). Evidence – Expert evidence – Hydrology expert – Weight and admissibility – Government expert witness – Reliability of expert data – Defective and unreconciled datasets – Whether expert conclusions entitled to weight – Rules of Court 2012 O 40A. Evidence – Adverse inference – Failure to produce operational records, maintenance logs, deployment orders, post-incident reports and material witnesses – Whether adverse inference justified under s 114(g) Evidence Act 1950. Causation – Concurrent causes – Material contribution test – Integrated flood-management system – Whether failures in warning, disaster response, pumping operations, tidal-gate management and drainage maintenance materially contributed to single indivisible loss – Joint and several liability. Damages – Flood damage – Physical damage to homes and property – Liability trial bifurcated from assessment of damages – Assessment reserved. Practice and Procedure – Pleadings – Reliance on unpleaded defences and alternative causes – Whether parties bound by pleadings – Sewage pond theory – Blame attributed to third parties – Contentions raised only in submissions rejected.",
+      "judge": "YA Puan Shoba Rajah a/p Dorai Rajah",
+      "coram": [],
+      "dateOfResult": "2026-09-28",
+      "dateOfFiling": "2026-11-27",
+      "docs": [
+        {
+          "documentId": "45d74e70-eb38-4096-9cd6-150e6722aa62",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=45d74e70-eb38-4096-9cd6-150e6722aa62&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "ff26fc2b-90d3-4117-b413-e159b81bab4a",
+      "caseNo": "BA-22NCvC-241-06/2022",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "SITI AISYAH BINTI ABDULLAH & ors v KETUA PENGARAH AGENSI PENGURUSAN BENCANA NEGARA & ors",
+      "parties": [
+        {
+          "label": "PLAINTIF",
+          "names": [
+            "SITI AISYAH BINTI ABDULLAH",
+            "Ali Amal A/p Munusamy",
+            "Krishnan A/l Kanan",
+            "Thadchayini A/p Kumaran",
+            "Sarvanan A/l Munisamy",
+            "Viyasyen A/l Tanjan",
+            "Yesesan A/l Ravee",
+            "Sekaran A/p Marissanan",
+            "Ramasamy A/l Munisamy",
+            "Thiyagarajah A/l Sivarajah",
+            "Gunalan Veerasani",
+            "Kiran Ganesh A/l Chandrasekaran",
+            "Chandrasekaran A/l Rajamanikam",
+            "Perumal A/l Saminathan",
+            "How Hoon Lian",
+            "Tamil Selve A/p Mr Ramou",
+            "Bathmanathan A/l Letchimal",
+            "Rajo Kumar A/l Shanmugam",
+            "M. Ganais",
+            "Shum Lai Koon",
+            "S. Kalaimani",
+            "Pannirselvam A/l S.mahalingam",
+            "Baskaran A/l Subramaniam",
+            "Velasamy A/l Karappiah",
+            "Meena A/p Y.cellapan",
+            "Sheila Rani A/p Chandrasekaran",
+            "Thinash Kumar Nair",
+            "Murali A/l Subramaniam",
+            "Jayakumar A/l Varathan",
+            "Sivakumar A/l Shanmugam",
+            "Rajasegaran Seman",
+            "Nor Hasanah Bte Abdullah",
+            "Prabageran A/l Maghdeman",
+            "Vincent Anthony A/l E.p.anthony",
+            "Suseiladevi A/p Ramasamy",
+            "Suganderan A/l Ramasamy",
+            "Muniandy A/l Krishnan",
+            "Sredren A/l A. Krishnan Nair",
+            "Perumal Duraisamy",
+            "Thevagi A/p Govindan",
+            "Thulasi A/p Rajagopal",
+            "Sri Gokilavani A/p Velasamy",
+            "Kaliamah A/p Subramaniam",
+            "Ratnakaran A/l Chinnappan",
+            "Kanagarajah A/l Gopalakrishnan",
+            "Mataven A/l Raman",
+            "Rajeswary A/p Karpaya",
+            "Manoj Kumar A/l Pursothman",
+            "Sukumaran A/l Perumal",
+            "Umah Balan A/l Muniandy"
+          ]
+        },
+        {
+          "label": "DEFENDAN",
+          "names": [
+            "KETUA PENGARAH AGENSI PENGURUSAN BENCANA NEGARA",
+            "MENTERI, JABATAN PERDANA MENTERI MALAYSIA",
+            "KETUA PENGARAH JABATAN METEOROLOGI MALAYSIA",
+            "MENTERI ALAM SEKITAR DAN AIR",
+            "KETUA PENGARAH, JABATAN PEGAIRAN DAN SALIRAN NEGERI SELANGOR",
+            "Majlis Bandaraya Shah Alam (MBSA)",
+            "KDEB WASTE MNAGEMENT SDN BHD",
+            "Tenaga Nasional Berhad (TNB)",
+            "Kerajaan Negeri Selangor",
+            "Kerajaan Malaysia"
+          ]
+        }
+      ],
+      "catchwords": "Negligence – Public authorities – Flood disaster management – Duty of care – Whether National Disaster Management Agency (NADMA), Malaysian Meteorological Department (MET Malaysia), Department of Irrigation and Drainage (JPS) and local authority owed duty of care to residents of flood-prone township – Caparo test – Assumption of responsibility – Operational functions undertaken by public authorities – Distinction between policy decisions and operational acts – Whether claim barred as pure omission – Government Proceedings Act 1956, ss 5, 6 and 7. Negligence – Flooding – Taman Sri Muda flood, December 2021 – Failure to provide timely warnings – Failure to escalate disaster response – Failure to maintain and operate flood-mitigation assets – Inadequate backup pumping capacity – non-functioning warning siren – Delayed operation of tidal gates – Failure to maintain municipal drainage system – Whether breaches materially contributed to plaintiffs’ losses Negligence – Public authorities – Act of God defence – Extraordinary rainfall – Whether rainfall sole effective cause of flood – Human failures materially contributing to flooding and duration of inundation – Whether defence established. Government Liability – Liability of Federal and State authorities – Disaster management – Weather forecasting and warnings – Flood mitigation infrastructure – Whether public authorities liable in negligence for careless performance of functions voluntarily undertaken. Local Government – Street, Drainage and Building Act 1974 – Statutory duty to maintain and cleanse drains – Non-delegable duties – Reliance on contractors – Whether local authority discharged burden of proving adequate drainage maintenance – Adverse inference drawn from non-production of records and witnesses – ss 53(1), 54(1) and 95(2). Evidence – Expert evidence – Hydrology expert – Weight and admissibility – Government expert witness – Reliability of expert data – Defective and unreconciled datasets – Whether expert conclusions entitled to weight – Rules of Court 2012 O 40A. Evidence – Adverse inference – Failure to produce operational records, maintenance logs, deployment orders, post-incident reports and material witnesses – Whether adverse inference justified under s 114(g) Evidence Act 1950. Causation – Concurrent causes – Material contribution test – Integrated flood-management system – Whether failures in warning, disaster response, pumping operations, tidal-gate management and drainage maintenance materially contributed to single indivisible loss – Joint and several liability. Damages – Flood damage – Physical damage to homes and property – Liability trial bifurcated from assessment of damages – Assessment reserved. Practice and Procedure – Pleadings – Reliance on unpleaded defences and alternative causes – Whether parties bound by pleadings – Sewage pond theory – Blame attributed to third parties – Contentions raised only in submissions rejected.",
+      "judge": "YA Puan Shoba Rajah a/p Dorai Rajah",
+      "coram": [],
+      "dateOfResult": "2026-09-28",
+      "dateOfFiling": "2026-11-27",
+      "docs": [
+        {
+          "documentId": "45d74e70-eb38-4096-9cd6-150e6722aa62",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=45d74e70-eb38-4096-9cd6-150e6722aa62&Inline=true"
+        }
+      ]
+    },
+    {
+      "id": "36d4262b-6884-4d78-bd8c-c32ef307cebb",
+      "caseNo": "BA-22NCvC-241-06/2022",
+      "jurisdiction": "HC",
+      "court": "High Court",
+      "title": "SITI AISYAH BINTI ABDULLAH & ors v KETUA PENGARAH AGENSI PENGURUSAN BENCANA NEGARA & ors",
+      "parties": [
+        {
+          "label": "PLAINTIF",
+          "names": [
+            "SITI AISYAH BINTI ABDULLAH",
+            "Ali Amal A/p Munusamy",
+            "Krishnan A/l Kanan",
+            "Thadchayini A/p Kumaran",
+            "Sarvanan A/l Munisamy",
+            "Viyasyen A/l Tanjan",
+            "Yesesan A/l Ravee",
+            "Sekaran A/p Marissanan",
+            "Ramasamy A/l Munisamy",
+            "Thiyagarajah A/l Sivarajah",
+            "Gunalan Veerasani",
+            "Kiran Ganesh A/l Chandrasekaran",
+            "Chandrasekaran A/l Rajamanikam",
+            "Perumal A/l Saminathan",
+            "How Hoon Lian",
+            "Tamil Selve A/p Mr Ramou",
+            "Bathmanathan A/l Letchimal",
+            "Rajo Kumar A/l Shanmugam",
+            "M. Ganais",
+            "Shum Lai Koon",
+            "S. Kalaimani",
+            "Pannirselvam A/l S.mahalingam",
+            "Baskaran A/l Subramaniam",
+            "Velasamy A/l Karappiah",
+            "Meena A/p Y.cellapan",
+            "Sheila Rani A/p Chandrasekaran",
+            "Thinash Kumar Nair",
+            "Murali A/l Subramaniam",
+            "Jayakumar A/l Varathan",
+            "Sivakumar A/l Shanmugam",
+            "Rajasegaran Seman",
+            "Nor Hasanah Bte Abdullah",
+            "Prabageran A/l Maghdeman",
+            "Vincent Anthony A/l E.p.anthony",
+            "Suseiladevi A/p Ramasamy",
+            "Suganderan A/l Ramasamy",
+            "Muniandy A/l Krishnan",
+            "Sredren A/l A. Krishnan Nair",
+            "Perumal Duraisamy",
+            "Thevagi A/p Govindan",
+            "Thulasi A/p Rajagopal",
+            "Sri Gokilavani A/p Velasamy",
+            "Kaliamah A/p Subramaniam",
+            "Ratnakaran A/l Chinnappan",
+            "Kanagarajah A/l Gopalakrishnan",
+            "Mataven A/l Raman",
+            "Rajeswary A/p Karpaya",
+            "Manoj Kumar A/l Pursothman",
+            "Sukumaran A/l Perumal",
+            "Umah Balan A/l Muniandy"
+          ]
+        },
+        {
+          "label": "DEFENDAN",
+          "names": [
+            "KETUA PENGARAH AGENSI PENGURUSAN BENCANA NEGARA",
+            "MENTERI, JABATAN PERDANA MENTERI MALAYSIA",
+            "KETUA PENGARAH JABATAN METEOROLOGI MALAYSIA",
+            "MENTERI ALAM SEKITAR DAN AIR",
+            "KETUA PENGARAH, JABATAN PEGAIRAN DAN SALIRAN NEGERI SELANGOR",
+            "Majlis Bandaraya Shah Alam (MBSA)",
+            "KDEB WASTE MNAGEMENT SDN BHD",
+            "Tenaga Nasional Berhad (TNB)",
+            "Kerajaan Negeri Selangor",
+            "Kerajaan Malaysia"
+          ]
+        }
+      ],
+      "catchwords": "Negligence – Public authorities – Flood disaster management – Duty of care – Whether National Disaster Management Agency (NADMA), Malaysian Meteorological Department (MET Malaysia), Department of Irrigation and Drainage (JPS) and local authority owed duty of care to residents of flood-prone township – Caparo test – Assumption of responsibility – Operational functions undertaken by public authorities – Distinction between policy decisions and operational acts – Whether claim barred as pure omission – Government Proceedings Act 1956, ss 5, 6 and 7. Negligence – Flooding – Taman Sri Muda flood, December 2021 – Failure to provide timely warnings – Failure to escalate disaster response – Failure to maintain and operate flood-mitigation assets – Inadequate backup pumping capacity – non-functioning warning siren – Delayed operation of tidal gates – Failure to maintain municipal drainage system – Whether breaches materially contributed to plaintiffs’ losses Negligence – Public authorities – Act of God defence – Extraordinary rainfall – Whether rainfall sole effective cause of flood – Human failures materially contributing to flooding and duration of inundation – Whether defence established. Government Liability – Liability of Federal and State authorities – Disaster management – Weather forecasting and warnings – Flood mitigation infrastructure – Whether public authorities liable in negligence for careless performance of functions voluntarily undertaken. Local Government – Street, Drainage and Building Act 1974 – Statutory duty to maintain and cleanse drains – Non-delegable duties – Reliance on contractors – Whether local authority discharged burden of proving adequate drainage maintenance – Adverse inference drawn from non-production of records and witnesses – ss 53(1), 54(1) and 95(2). Evidence – Expert evidence – Hydrology expert – Weight and admissibility – Government expert witness – Reliability of expert data – Defective and unreconciled datasets – Whether expert conclusions entitled to weight – Rules of Court 2012 O 40A. Evidence – Adverse inference – Failure to produce operational records, maintenance logs, deployment orders, post-incident reports and material witnesses – Whether adverse inference justified under s 114(g) Evidence Act 1950. Causation – Concurrent causes – Material contribution test – Integrated flood-management system – Whether failures in warning, disaster response, pumping operations, tidal-gate management and drainage maintenance materially contributed to single indivisible loss – Joint and several liability. Damages – Flood damage – Physical damage to homes and property – Liability trial bifurcated from assessment of damages – Assessment reserved. Practice and Procedure – Pleadings – Reliance on unpleaded defences and alternative causes – Whether parties bound by pleadings – Sewage pond theory – Blame attributed to third parties – Contentions raised only in submissions rejected.",
+      "judge": "YA Puan Shoba Rajah a/p Dorai Rajah",
+      "coram": [],
+      "dateOfResult": "2026-09-28",
+      "dateOfFiling": "2026-11-27",
+      "docs": [
+        {
+          "documentId": "45d74e70-eb38-4096-9cd6-150e6722aa62",
+          "name": "Alasan Penghakiman",
+          "preparedBy": "",
+          "category": "",
+          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=45d74e70-eb38-4096-9cd6-150e6722aa62&Inline=true"
         }
       ]
     },
@@ -978,101 +1217,6 @@
           "preparedBy": "YAA Tun Wan Ahmad Farid Bin Wan Salleh",
           "category": "Sebulat Suara (Unanimous)",
           "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=2aa6c9e8-92b6-42c6-971f-961c2f55b06f&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "e4ac02d4-9637-43d8-80f4-e3e4cfafc41a",
-      "caseNo": "WA-44-146-12/2024",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "Pendakwa Raya v FTSE Russell Ventures & ors",
-      "parties": [
-        {
-          "label": "PEMOHON",
-          "names": [
-            "Pendakwa Raya"
-          ]
-        },
-        {
-          "label": "RESPONDEN",
-          "names": [
-            "FTSE Russell Ventures",
-            "FTSE Russell Trading",
-            "Kohlberg Kravis Enterprise",
-            "FTSE Russell Advance Ventures",
-            "Aurora Gain Builder Sdn Bhd",
-            "FTSE VIP Empire",
-            "Dazzling Grace Sdn Bhd",
-            "WCH Renovation Trading Sdn Bhd",
-            "Sweet Home Furniture Enteprise",
-            "Eat At Nanyang Sdn Bhd",
-            "Kean Solutions",
-            "Food Business Management Sdn Bhd",
-            "TZY Hype Fashion Sdn Bhd",
-            "Perniagaan JRB (M) Sdn Bhd",
-            "Haqeem Resources",
-            "DL Compumart Sdn Bhd",
-            "Sharon Ling Enterprise",
-            "Ultraspeed Motors Supply Sdn Bhd",
-            "Silver Hard Rock Sdn Bhd",
-            "NASA Cosmetics Sdn Bhd",
-            "Syarikat Maju Tony",
-            "Evolution World Sdn Bhd",
-            "Double D Fiber Solution",
-            "ITJK Net Sdn Bhd",
-            "Best Infinity Marketing Sdn Bhd",
-            "Worldwide Infinite Trading Sdn Bhd"
-          ]
-        }
-      ],
-      "catchwords": "Criminal Procedure - Anti-Money Laundering, Anti-Terrorism Financing and Proceeds of Unlawful Activities Act 2001 - Application under s.56(1) of Act 613 for an order to forfeit to the Government of Malaysia a sum of money in 20th Respondent bank account - Whether a predicate offence had been proved although no prosecution of any of the respondents - Whether the movable properties seized constituted the proceeds of unlawful activity - Money trail conducted by the AMLA Investigating Officer revealed that the proceeds from the said unlawful activity were transferred into the account belonging to R7 and subsequently into the account belonging to R20 - Alleged director of R7 denied ever opening the said company R7 and the bank account - Whether R20 was bona fide purchaser for value - Court found that R20&#039;s explanation less probable on a balance of probabilities - R20 not a bona fide purchaser for value - Application allowed",
-      "judge": "YA Puan Noor Ruwena binti Md Nurdin",
-      "coram": [],
-      "dateOfResult": "2026-09-17",
-      "dateOfFiling": "2026-11-26",
-      "docs": [
-        {
-          "documentId": "28cb9edc-0204-420d-8ce2-2d5a39fe2c76",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=28cb9edc-0204-420d-8ce2-2d5a39fe2c76&Inline=true"
-        }
-      ]
-    },
-    {
-      "id": "35d1c151-4c79-467e-b79b-be0adfcc5e7c",
-      "caseNo": "WA-23NCvC-30-04/2026",
-      "jurisdiction": "HC",
-      "court": "High Court",
-      "title": "AMINUL ISLAM BIN ABDUL NOR v CHIN BOON LONG",
-      "parties": [
-        {
-          "label": "PLAINTIF",
-          "names": [
-            "AMINUL ISLAM BIN ABDUL NOR"
-          ]
-        },
-        {
-          "label": "DEFENDAN",
-          "names": [
-            "CHIN BOON LONG"
-          ]
-        }
-      ],
-      "catchwords": "Catchwords: This is an appeal on my ruling dated 9 September 2026 to transfer the Plaintiff’s suit from the High Court to the Session’s Court following this Court’s motion under Order 57 rule 1A of the Rules of Court 2012 – the transfer was carried out pursuant to the Court’s exercise of its discretion suo motu under Order 57 rule 1A of ROC 2012 – there were 8 Impugned Defamatory Statements – this is a case of defamation where Defendant have published statements which are allegedly defamatory to the Plaintiff – the merits or otherwise of both party’s claims and counterclaims have not been adjudicated in Court – it must be emphasized that before a Court can transfer the proceedings to Session Court on its own motion under O57 r1A ROC 2012 satisfied that doing so is just an appropriate – this determination should be made in the interest of the parties involved while taking into accounts both the subject matter and overall value of the claim – damages including (i) General damages for defamation in the sum of RM100,000,000.00; (ii) Aggravated damages (iii) Exemplary damages – the general damages were quantified which is against Order 18 rule 12 1A of the ROC 2012 – as set out above, the quantum of the claims for reliefs sought by the Plaintiff exceeded RM1,000,000.00 – given that the dispute involves alleged defamation, the Court can take judicial note that, should liability be established, the quantum of damages typically awarded in such cases would not exceed RM1,000,000.00 – this is an appeal on my ruling and not my decision nor judgment as defined under section 3 of the Courts of Judicature Act – it is trite the High Court is bound by the principle of stare decisis, the damages to be awarded, if parties succeed, will not exceed RM1,000,000.00 – even though the Court possesses the requisite jurisdiction to hear the proceedings, the issue is whether it is more suitable to transfer the proceedings to the Session Court – After all, a Session Court is vested with jurisdiction when the amount in dispute or value of the subject matter does not exceed RM1,000,000.00 as prescribed by Section 65 of the Subordinate Courts Act – it is evident that an experienced counsel in a defamation suit would anticipate that should they succeed, the damages awarded by the Court are unlikely to exceed the jurisdictional limit of the Sessions Court – it is in the interest of the parties to proceed there for time efficiency and cost-effectiveness – furthermore, the parties’ interest will not be prejudiced as they retain the right of appeal to the High Court – I ordered the present suit to be transferred to the Sessions Court with no order as to costs.",
-      "judge": "YA Datin Zalita binti Dato' Zaidan",
-      "coram": [],
-      "dateOfResult": "2026-09-08",
-      "dateOfFiling": "2026-11-26",
-      "docs": [
-        {
-          "documentId": "625dc07b-2575-4d72-b15d-7790b9d12758",
-          "name": "Alasan Penghakiman",
-          "preparedBy": "",
-          "category": "",
-          "pdfUrl": "https://efs.kehakiman.gov.my/EFSWeb/DocDownloader.aspx?DocumentID=625dc07b-2575-4d72-b15d-7790b9d12758&Inline=true"
         }
       ]
     },
